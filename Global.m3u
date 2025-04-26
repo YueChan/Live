@@ -1,0 +1,301 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="BBC.America.-.East.us" tvg-logo="https://ghp.ci/raw.githubusercontent.com/suxuang/myIPTV/main/tvlog/BBCNEWS.png" group-title="国际",BBC
+https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
+#EXTINF:-1 tvg-id="CNN.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s58646_dark_360w_270h.png" group-title="国际",CNN
+https://v15.thetvapp.to/hls/CNN/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://iptv-pro.github.io/logo/CNA.png" group-title="国际",CNA
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+#EXTINF:-1 tvg-name="CGTN" tvg-logo="https://epg.112114.xyz/logo/CGTN.png" group-title="国际",CGTN
+https://english-livebkws.cgtn.com/live/encgtn.m3u8
+#EXTINF:-1 tvg-name="CGTN纪录" tvg-logo="https://live.fanmingming.com/tv/CGTN纪录.png" group-title="国际",CGTN Documentary
+https://english-livebkali.cgtn.com/live/doccgtn.m3u8
+#EXTINF:-1 tvg-id="ABCNewsLive.us" tvg-name="ABC News Live" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/ABC_News_Live_logo_2021.svg/512px-ABC_News_Live_logo_2021.svg.png" group-title="国际",ABC News Live
+https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
+#EXTINF:-1 tvg-logo="https://echolin73.github.io/logo/tvg-logo/gbnews.png" group-title="国际",GB News
+https://live-gbnews.simplestreamcdn.com/live5/gbnews/bitrate1.isml/manifest.m3u8
+#EXTINF:-1 tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/AlJazeera.png" group-title="国际",Al Jazerra
+https://live-hls-web-aje.getaj.net/AJE/01.m3u8
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/CBNNEWS.png" group-title="国际",CBN News
+https://bcovlive-a.akamaihd.net/re8d9f611ee4a490a9bb59e52db91414d/us-east-1/734546207001/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://logo.ottcst.info/WIONNEWS.png" group-title="国际",Wion News
+https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
+#EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/RTNews.png" group-title="国际",RT News
+https://rt-glb.rttv.com/dvr/rtnews/playlist_4500Kb.m3u8
+#EXTINF:-1 tvg-id="ComedyDynamics.us" tvg-name="Comedy Dynamics" tvg-logo="https://i.imgur.com/1lEvUOa.png" group-title="国际",Comedy Dynamics
+https://aegis-cloudfront-1.tubi.video/427cd05d-a47b-4b16-a2fe-5e739da93966/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://cdn.tvpassport.com/image/station/240x135/oan-news.png" group-title="国际",One American News
+http://oneamericanews-roku-us.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/faguoshishang.png" group-title="国际",Fashion TV
+http://91.247.68.229:8000/play/Fashion/index.m3u8
+#EXTINF:-1 tvg-logo="https://rubbyguntara.github.io/src/img/kidstv.png" group-title="国际",Kids TV
+https://jansonmedia-kidstv-1-us.xiaomi.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/suxuang/myIPTV/main/tvlog/RTDoc.png" group-title="国际",RT Documentary
+https://rt-rtd.rttv.com/live/rtdoc/playlist_4500Kb.m3u8
+#EXTINF:-1 group-title="国际",Taiwan Plus
+https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap-northeast-1/6282251407001/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/MYTIMEMOVIE.png" group-title="国际",Mytime
+https://appletree-mytimeau-samsung.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="国际",ION Plus
+https://dbrb49pjoymg4.cloudfront.net/10001/9999614/hls/playlist.m3u8?ads.xumo_channelId=9999614
+#EXTINF:-1 group-title="国际",LoveStories
+https://lovestoriestv-lovestoriestv-1-eu.xiaomi.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/RW1986/IPTV/main/logos/TravelXP.png" group-title="国际",Travel XP
+https://travelxp-travelxp-1-eu.xiaomi.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/HTLo1GG" group-title="国际",Food
+https://food-eu.xiaomi.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/TastemadeTravel.webp" group-title="国际",Tastemade
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00047-tastemade-tmintlaus-samsungnz/playlist.m3u8?checkedby:alliptvlinks.com
+#EXTINF:-1 tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/rakutenviki.png" group-title="国际",Rakuten VIKI
+https://dce1408e0efa4bc4b6ca1366c56911fb.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Plex_RakutenViki/playlist.m3u8?ads.wurl_channel=843&ads.wurl_name=RakutenViki&ads.coppa=0&ads.us_privacy=1---&ads.psid=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.targetopt=0&ads.plex_token=tzFRBf5UEBHD_vbznsUx&ads.plex_id=60d4edd8b2fdec002c14112f&ads.ua=okhttp/4.9.0&ads.app_bundle=com.plexapp.android&ads.app_store_url=https://play.google.com/store/apps/details?id=com.plexapp.android&ads.gdpr=0&ads.consent=0&ads.device_type=handset&ads.device_id_type=&checkedby:alliptvlinks.com
+#EXTINF:-1 tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/skySportPlus.webp" group-title="国际",Sky Sports F1
+http://cord-cutter.net:8080/25464931/30585186/35244?checkedby:alliptvlinks.com
+#EXTINF:-1 tvg-id="AMC.us" tvg-name="AMC" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10021_dark_360w_270h.png" group-title="国际",AMC
+http://fl5.moveonjoy.com/AMC_NETWORK/index.m3u8
+#EXTINF:-1 tvg-id="CookingChannel.us" tvg-name="COOKING" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s30156_dark_360w_270h.png" group-title="国际",Cooking Channel
+http://fl3.moveonjoy.com/COOKING_CHANNEL/index.m3u8
+#EXTINF:-1 tvg-logo="https://lovenature.com/wp-content/uploads/2020/08/love-nature-logo_peacock.png" group-title="国际",Love Nature
+https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
+#EXTINF:-1 group-title="国际",California Music Channel
+https://cmc-ono.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/Xplore.png" group-title="国际",Xplore TV
+https://aegis-cloudfront-1.tubi.video/8d2bf7b1-0e93-405f-8c15-ac0756d05f66/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6401d85a49839300087b116c/colorLogoPNG.png" group-title="国际",MovieSphere
+https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="A.and.E.US.-.Eastern.Feed.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/a-and-e-us.png" group-title="国际",A&E
+https://v5.thetvapp.to/hls/AEEast/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="AMC.-.Eastern.Feed.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10021_dark_360w_270h.png" group-title="国际",AMC - Eastern Feed
+https://v16.thetvapp.to/hls/AMCEast/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="Altitude.Sports.-.Denver.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/altitude-sports-us.png?raw=true" group-title="国际",Altitude Sports Denver
+https://v2.thetvapp.to/hls/altitude-sports-denver/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="American.Heroes.Channel.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18284_dark_360w_270h.png" group-title="国际",American Heroes Channel
+https://v1.thetvapp.to/hls/AmericanHeroesChannel/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="Animal.Planet.US.-.East.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/animal-planet-us.png" group-title="国际",Animal Planet US - East
+https://v4.thetvapp.to/hls/AnimalPlanetEast/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="BBC.World.News.North.America.(BBCWN).us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/bbc-news-uk.png" group-title="国际",BBC News - North America HD
+https://v14.thetvapp.to/hls/BBCWorldNewsNorthAmerica/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="Big.Ten.Network.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/big-ten-network-us.png?raw=true" group-title="国际",Big Ten Network
+https://v14.thetvapp.to/hls/BTN/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="Bravo.USA.-.Eastern.Feed.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10057_dark_360w_270h.png" group-title="国际",BRAVO USA - Eastern Feed
+https://v4.thetvapp.to/hls/BravoEast/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="C-SPAN.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10161_dark_360w_270h.png" group-title="国际",C-SPAN
+https://v14.thetvapp.to/hls/CSPAN/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="CSPAN2.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/c-span-2-us.png" group-title="国际",C-SPAN 2
+https://v13.thetvapp.to/hls/CSPAN2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="CBS.(KCBS).Los.Angeles,.CA.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/us-local/cbs-2-kcbs-us.png" group-title="国际",CBSLA (KCBS) Los Angeles
+https://v18.thetvapp.to/hls/cbs-kcbs-los-angeles-ca/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="CBS.(WCBS).New.York,.NY.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/us-local/cbs-2-wcbs-us.png" group-title="国际",CBSNY (WCBS) New York
+https://v3.thetvapp.to/hls/WCBSDT1/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="CMT.US.-.Eastern.Feed.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10138_dark_360w_270h.png" group-title="国际",CMT US - Eastern Feed
+https://v3.thetvapp.to/hls/CMTEast/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="CNBC.USA.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10139_dark_360w_270h.png" group-title="国际",CNBC USA
+https://v16.thetvapp.to/hls/CNBC/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="CW.(WDCW).District.of.Columbia.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cw-us.png" group-title="国际",CW (WDCW) District of Columbia
+https://v4.thetvapp.to/hls/cw-wdcw-district-of-columbia/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="Cartoon.Network.USA.-.Eastern.Feed.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12131_dark_360w_270h.png" group-title="国际",CARTOON NETWORK USA - Eastern Feed
+https://v5.thetvapp.to/hls/CartoonNetworkEast/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="Chicago.Sports.Network.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/68/Chicago_Sports_Network_Logo.png" group-title="国际",Chicago Sports Network
+https://v2.thetvapp.to/hls/chicago-sports-network/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="Cinemax.-.Eastern.Feed.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cinemax-us.png" group-title="国际",CINEMAX - Eastern Feed
+https://v14.thetvapp.to/hls/CinemaxEast/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="Comedy.Central.(US).-.Eastern.Feed.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10149_dark_360w_270h.png" group-title="国际",COMEDY CENTRAL (US) - Eastern Feed
+https://v14.thetvapp.to/hls/ComedyCentralEast/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="Crime.and.Investigation.Network.USA.HD.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/crime-and-investigation-us.png?raw=true" group-title="国际",Crime + Investigation USA HD
+https://v5.thetvapp.to/hls/CrimePlusInvestigation/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="Destination.America.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/destination-america-us.png?raw=true" group-title="国际",Destination America
+https://v1.thetvapp.to/hls/DestinationAmerica/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="Discovery.Family.Channel.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16618_dark_360w_270h.png" group-title="国际",DISCOVERY FAMILY CHANNEL
+https://v13.thetvapp.to/hls/DiscoveryFamily/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="Disney.-.Eastern.Feed.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10171_dark_360w_270h.png" group-title="国际",DISNEY CHANNEL - Eastern Feed
+https://v15.thetvapp.to/hls/DisneyChannelEast/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="Disney.Junior.USA.-.East.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/635e715cb2f2c6d28e9691861d3d331dd040285b/countries/united-states/disney-junior-us.png" group-title="国际",Disney JR USA - East
+https://v14.thetvapp.to/hls/DisneyJuniorEast/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="Disney.XD.USA.-.Eastern.Feed.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/disney-xd-us.png" group-title="国际",Disney XD USA - Eastern Feed
+https://v3.thetvapp.to/hls/DisneyXDEast/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="E!.Entertainment.USA.-.Eastern.Feed.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/635e715cb2f2c6d28e9691861d3d331dd040285b/countries/united-states/e-entertainment-us.png" group-title="国际",E! Entertainment Television USA - Eastern Feed
+https://v13.thetvapp.to/hls/EEast/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="ESPN.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/espn-us.png" group-title="国际",ESPN
+https://v3.thetvapp.to/hls/ESPN/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="FOX.(KTTV).Los.Angeles,.CA.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/us-local/fox-11-kttv-us.png" group-title="国际",FOX (KTTV) Los Angeles
+https://v13.thetvapp.to/hls/fox-kttv-los-angeles-ca/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="FOX.(WNYW).New.York,.NY.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fox-us.png" group-title="国际",FOXNY
+https://v3.thetvapp.to/hls/WNYWDT1/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="FX.Movie.Channel.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fxm-movie-channel-us.png" group-title="国际",FX Movie Channel
+https://v15.thetvapp.to/hls/FXMovieChannel/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="FX.Networks.East.Coast.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s14321_dark_360w_270h.png" group-title="国际",FX Networks East Coast
+https://v12.thetvapp.to/hls/FXEast/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="FXX.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fxx-us.png" group-title="国际",FXX USA - Eastern
+https://v15.thetvapp.to/hls/FXXEast/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="FXX.USA.-.Eastern.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fyi-us.png" group-title="国际",FYI USA - Eastern
+https://v15.thetvapp.to/hls/FYIEast/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="FanDuel.Sports.Indiana.us" tvg-logo="https://i.imgur.com/HUgEVWQ.png" group-title="国际",FanDuel SN Indiana
+https://v8.thetvapp.to/hls/fanduel-sports-indiana/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="FanDuel.Sports.Network.Detroit.HD.us" tvg-logo="https://i.imgur.com/1MDxLZf.png" group-title="国际",FanDuel SN Detroit
+https://v18.thetvapp.to/hls/fanduel-sports-network-detroit-hd/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="FanDuel.Sports.Network.Florida.us" tvg-logo="https://i.imgur.com/fuCM2ei.png" group-title="国际",FanDuel SN Florida
+https://v5.thetvapp.to/hls/fanduel-sports-network-florida/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="FanDuel.Sports.Network.Great.Lakes.us" tvg-logo="https://i.imgur.com/mPpaZCR.png" group-title="国际",FanDuel SN Great Lakes
+https://v5.thetvapp.to/hls/fanduel-sports-network-great-lakes/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="FanDuel.Sports.Network.North.us" tvg-logo="https://i.imgur.com/qfu8djF.png" group-title="国际",FanDuel SN North
+https://v17.thetvapp.to/hls/fanduel-sports-network-north/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="FanDuel.Sports.Network.Ohio.-.Cleveland.us" tvg-logo="https://i.imgur.com/U4kf3x6.png" group-title="国际",FanDuel SN Ohio
+https://v13.thetvapp.to/hls/fanduel-sports-network-ohio-cleveland/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="FanDuel.Sports.Network.Oklahoma.us" tvg-logo="https://i.imgur.com/mx7lyh5.png" group-title="国际",FanDuel SN Oklahoma
+https://v5.thetvapp.to/hls/fanduel-sports-network-oklahoma/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="FanDuel.Sports.Network.SoCal.us" tvg-logo="https://i.imgur.com/yywNI3M.png" group-title="国际",FanDuel SN SoCal
+https://v3.thetvapp.to/hls/fanduel-sports-network-socal/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="FanDuelSportsNetwork(South).us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/fanduel-tv-us.png" group-title="国际",Fanduel Sports Network South Carolinas
+https://v14.thetvapp.to/hls/fanduel-sports-network-south-carolinas/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="FanDuel.Sports.Network.South-.Tennessee.(USA).us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/fanduel-tv-us.png" group-title="国际",Fanduel Sports Network South Tennessee
+https://v13.thetvapp.to/hls/fanduel-sports-network-south-tennessee-usa/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="FanDuel.Sports.Network.West.us" tvg-logo="https://i.imgur.com/cv546ko.png" group-title="国际",FanDuel SN West
+https://v14.thetvapp.to/hls/fanduel-sports-network-west/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="FanDuel.Sports.Network.Wisconsin.us" tvg-logo="https://i.imgur.com/Ku0ibaF.png" group-title="国际",FanDuel SN Wisconsin
+https://v12.thetvapp.to/hls/fanduel-sports-network-wisconsin/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="FanDuel.Sports.Southeast.-.North.Carolina.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/fanduel-tv-us.png" group-title="国际",Fanduel Sports Southeast North Carolina
+https://v8.thetvapp.to/hls/fanduel-sports-southeast-north-carolina/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="FanDuel.Sports.Southeast.-.South.Carolina.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/fanduel-tv-us.png" group-title="国际",Fanduel Sports Southeast South Carolina
+https://v17.thetvapp.to/hls/fanduel-sports-southeast-south-carolina/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="FanDuel.Sports.Southeast.-.Tennessee.Nashville.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/fanduel-tv-us.png" group-title="国际",Fanduel Sports Southeast Tennessee Nashville
+https://v17.thetvapp.to/hls/fanduel-sports-southeast-tennessee-nashville/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="Fanduel.Sports.Sun.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/fanduel-tv-us.png" group-title="国际",Fanduel Sports Sun
+https://v1.thetvapp.to/hls/fanduel-sports-sun/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="FanDuel.Sports..-.Tennessee.East.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/fanduel-tv-us.png" group-title="国际",Fanduel Sports Tennessee East
+https://v3.thetvapp.to/hls/fanduel-sports-tennessee-east/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="Food.Network.USA.-.Eastern.Feed.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12574_dark_360w_270h.png" group-title="国际",FOOD NETWORK USA - Eastern Feed
+https://v14.thetvapp.to/hls/FoodNetworkEast/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="Fox.Business.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fox-business-us.png" group-title="国际",Fox Business
+https://v1.thetvapp.to/hls/FoxBusiness/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="Fox.Sports.2.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fox-sports-2-us.png" group-title="国际",Fox Sports 2
+https://v3.thetvapp.to/hls/FoxSports2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="Game.Show.Network.-.East.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/game-show-network-hz-us.png?raw=true" group-title="国际",GAME SHOW NETWORK East
+https://v3.thetvapp.to/hls/game-show-network-east/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="HBO.-.Eastern.Feed.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/hbo-us.png" group-title="国际",HBO - Eastern Feed
+https://v18.thetvapp.to/hls/HBOEast/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="HBO.2.-.Eastern.Feed.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s68140_dark_360w_270h.png" group-title="国际",HBO 2 - Eastern Feed
+https://v16.thetvapp.to/hls/HBO2East/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="HBO.Comedy.HD.-.East.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18429_dark_360w_270h.png" group-title="国际",HBO Comedy HD - East
+https://v1.thetvapp.to/hls/HBOComedyEast/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="HBO.Family.-.Eastern.Feed.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16585_dark_360w_270h.png" group-title="国际",HBO Family - Eastern Feed
+https://v13.thetvapp.to/hls/HBOFamilyEast/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="HBO.Signature.(HBO.3).-.Eastern.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/hbo-signature-us.png" group-title="国际",HBO Signature (HBO 3) - Eastern
+https://v15.thetvapp.to/hls/HBOSignatureEast/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="HBO.Zone.HD.-.East.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18431_dark_360w_270h.png" group-title="国际",HBO Zone HD - East
+https://v4.thetvapp.to/hls/HBOZoneEast/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="HGTV.USA.-.Eastern.Feed.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s14902_dark_360w_270h.png" group-title="国际",HGTV USA - Eastern Feed
+https://v14.thetvapp.to/hls/HGTVEast/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="HLN.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10145_dark_360w_270h.png" group-title="国际",HLN
+https://v3.thetvapp.to/hls/HLN/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="Hallmark.-.Eastern.Feed.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/hallmark-channel-us.png" group-title="国际",Hallmark Channel - Eastern Feed
+https://v1.thetvapp.to/hls/HallmarkChannelEast/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="Hallmark.Drama.HDTV.(HALDRHD).us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/hallmark-family-us.png?raw=true" group-title="国际",Hallmark Family HD
+https://v5.thetvapp.to/hls/HallmarkDrama/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="Hallmark.Mystery.Eastern.-.HD.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/hallmark-mystery-us.png?raw=true" group-title="国际",Hallmark Mystery - HD
+https://v14.thetvapp.to/hls/HallmarkMoviesMysteriesEast/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="ION..-.Eastern.Feed.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/ion-television-us.png?raw=true" group-title="国际",ION - Eastern Feed
+https://v8.thetvapp.to/hls/IONTVEast/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="IFC.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/ifc-us.png" group-title="国际",IFC Independent Film Channel US
+https://v14.thetvapp.to/hls/IFCEast/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="Investigation.Discovery.USA.-.Eastern.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16615_dark_360w_270h.png" group-title="国际",ID (Investigation Discovery) USA - Eastern
+https://v1.thetvapp.to/hls/InvestigationDiscoveryEast/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="LOGO.-.East.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/logo-us.png" group-title="国际",LOGO - East
+https://v8.thetvapp.to/hls/LogoEast/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="Lifetime.Movies.-.East.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18480_dark_360w_270h.png" group-title="国际",Lifetime Movies Network - East
+https://v12.thetvapp.to/hls/LifetimeMoviesEast/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="Lifetime.Network.US.-.Eastern.Feed.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/lifetime-us.png" group-title="国际",Lifetime Network US - Eastern Feed
+https://v3.thetvapp.to/hls/LifetimeEast/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="MLB.Network.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s62081_dark_360w_270h.png" group-title="国际",MLB Network
+https://v14.thetvapp.to/hls/MLBNetwork/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="MSG.(Madison.Square.Gardens).us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/msg-us.png" group-title="国际",MSG Madison Square Gardens
+https://v16.thetvapp.to/hls/msg-madison-square-gardens/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="MSNBC.USA.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16300_dark_360w_270h.png" group-title="国际",MSNBC USA
+https://v1.thetvapp.to/hls/MSNBC/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="MTV.2.-.East.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/mtv-2-us.png?raw=true" group-title="国际",MTV 2 East
+https://v14.thetvapp.to/hls/MTVEast/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="Marquee.Sports.Network.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/marquee-sports-network-us.png" group-title="国际",Marquee Sports Network
+https://v8.thetvapp.to/hls/marquee-sports-network/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="MeTV.Toons.(WJLP2).NJ.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/me-tv-toons-us.png" group-title="国际",MeTV Toons (WJLP2) New Jersey
+https://v2.thetvapp.to/hls/metv-toons/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="Mid-Atlantic.Sports.Network.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e5/MASN-Logo.png" group-title="国际",Midatlantic Sports Network
+https://v13.thetvapp.to/hls/midatlantic-sports-network/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="Monumental.Sports.Network.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/monumental-sports-network-us.png" group-title="国际",Monumental Sports Network
+https://v5.thetvapp.to/hls/monumental-sports-network/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="MoreMax..Eastern.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cinemax-moremax-us.png?raw=true" group-title="国际",CINEMAX MOREMAX Eastern
+https://v18.thetvapp.to/hls/MoreMaxEast/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="Motor.Trend.HD.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/motor-trend-us.png" group-title="国际",Motor Trend HD
+https://v3.thetvapp.to/hls/Motortrend/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="MovieMax.(Max.6).-.East.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/cinemax-moviemax-us.png" group-title="国际",MovieMax (Max 6) - East
+https://v16.thetvapp.to/hls/MovieMaxEast/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="NBA.TV.USA.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nba-tv-us.png?raw=true" group-title="国际",NBA TV USA
+https://v3.thetvapp.to/hls/NBATV/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="NBC.(KNBC).Los.Angeles,.CA.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/us-local/nbc-4-knbc-us.png" group-title="国际",NBC (KNBC) Los Angeles
+https://v13.thetvapp.to/hls/nbc-knbc-los-angeles-ca/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="NBC.(WNBC).New.York,.NY.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nbc-logo-flat-us.png?raw=true" group-title="国际",NY
+https://v12.thetvapp.to/hls/WNBCDT1/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="NBC.Sports.Bay.Area.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nbc-sports-us.png?raw=true" group-title="国际",NBC Sports Bay Area
+https://v13.thetvapp.to/hls/nbc-sports-bay-area/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="NBC.Sports.Boston.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nbc-sports-us.png?raw=true" group-title="国际",NBC Sports Boston
+https://v12.thetvapp.to/hls/nbc-sports-boston/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="NBC.Sports.California.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nbcsn-california-us.png?raw=true" group-title="国际",NBC Sports California
+https://v16.thetvapp.to/hls/nbc-sports-california/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="NBC.Sports.Philadelphia.HDTV.(NBCSPAHD).us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nbcsn-philadelphia-us.png?raw=true" group-title="国际",NBC Sports Philadelphia
+https://v3.thetvapp.to/hls/nbc-sports-philadelphia/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="NFL.RedZone.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nfl-red-zone-hz-us.png?raw=true" group-title="国际",NFL RedZone
+https://v13.thetvapp.to/hls/NFLRedZone/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="NHL.Network.USA.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/nhl-network-us.png" group-title="国际",NHL Network USA
+https://v17.thetvapp.to/hls/NHLNetwork/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="National.Geographic.US.-.Eastern.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s49438_dark_360w_270h.png" group-title="国际",National Geographic US - Eastern
+https://v14.thetvapp.to/hls/NationalGeographicEast/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="National.Geographic.Wild.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s66804_dark_360w_270h.png" group-title="国际",National Geographic Wild
+https://v5.thetvapp.to/hls/NationalGeographicWildEast/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="New.England.Sports.Network.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/nesn-us.png" group-title="国际",New England Sports Network
+https://v8.thetvapp.to/hls/new-england-sports-network/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="NewsMax.TV.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/635e715cb2f2c6d28e9691861d3d331dd040285b/countries/united-states/newsmax-tv-us.png" group-title="国际",Newsmax TV
+https://v8.thetvapp.to/hls/NewsmaxTV/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="Nick.Jr..-.East.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/nick-jr-us.png" group-title="国际",NICK JR. - East
+https://v4.thetvapp.to/hls/NickJrEast/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="Nickelodeon.USA.-.East.Feed.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11006_dark_360w_270h.png" group-title="国际",Nickelodeon USA - East Feed
+https://v15.thetvapp.to/hls/NickelodeonEast/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="Outdoor.Channel.US.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s14776_dark_360w_270h.png" group-title="国际",Outdoor Channel US
+https://v3.thetvapp.to/hls/OutdoorChannel/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="Oxygen.-.Eastern.Feed.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/oxygen-us.png?raw=true" group-title="国际",Oxygen - Eastern Feed
+https://v3.thetvapp.to/hls/OxygenEast/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="Science.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/discovery-science-us.png?raw=true" group-title="国际",Discovery Science
+https://v1.thetvapp.to/hls/Science/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="Paramount+.with.Showtime.-.Eastern.Feed.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/showtime-us.png?raw=true" group-title="国际",Showtime - Eastern Feed
+https://v3.thetvapp.to/hls/ShowtimeEast/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="Showtime.2.-.Eastern.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/showtime-2-us.png?raw=true" group-title="国际",Showtime 2 - Eastern
+https://v5.thetvapp.to/hls/Showtime2East/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="Sportsnet.(West).-.Satellite/Digital.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/sportsnet-west-ca.png" group-title="国际",Sportsnet West
+https://v1.thetvapp.to/hls/sportsnet-west/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="Starz.-.Eastern.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/starz-us.png?raw=true" group-title="国际",Starz - Eastern
+https://v8.thetvapp.to/hls/StarzEast/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="Syfy.-.Eastern.Feed.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/syfy-us.png?raw=true" group-title="国际",SYFY - Eastern Feed
+https://v14.thetvapp.to/hls/SyfyEast/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="TBS.-.East.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11867_dark_360w_270h.png" group-title="国际",TBS - East
+https://v13.thetvapp.to/hls/TBSEast/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="TLC.USA.-.Eastern.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11158_dark_360w_270h.png" group-title="国际",TLC USA - Eastern
+https://v16.thetvapp.to/hls/TLCEast/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="TSN1.ca" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/tsn-1-ca.png?raw=true" group-title="国际",TSN 1
+https://v1.thetvapp.to/hls/tsn1/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="TSN2.ca" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/tsn-2-ca.png?raw=true" group-title="国际",TSN 2
+https://v4.thetvapp.to/hls/tsn2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="TSN3.ca" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/tsn-3-ca.png?raw=true" group-title="国际",TSN 3
+https://v3.thetvapp.to/hls/tsn3/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="TSN4.ca" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/tsn-4-ca.png?raw=true" group-title="国际",TSN 4
+https://v2.thetvapp.to/hls/tsn4/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="TSN5.ca" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/tsn-5-ca.png?raw=true" group-title="国际",TSN 5
+https://v14.thetvapp.to/hls/tsn5/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="TV.Land.-.Eastern.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/tv-land-us.png" group-title="国际",TV Land Eastern
+https://v1.thetvapp.to/hls/tv-land-eastern/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="The.Cooking.Channel.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s30156_dark_360w_270h.png" group-title="国际",The Cooking Channel
+https://v18.thetvapp.to/hls/CookingChannel/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="USA.Network.-.East.Feed.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/usa-us.png?raw=true" group-title="国际",USA Network - East Feed
+https://v3.thetvapp.to/hls/USANetworkEast/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="VH1.-.Eastern.Feed.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11218_dark_360w_270h.png" group-title="国际",VH1 - Eastern Feed
+https://v17.thetvapp.to/hls/VH1East/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="VICE.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18822_dark_360w_270h.png" group-title="国际",VICE
+https://v12.thetvapp.to/hls/VICETV/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="YES.Network.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/yes-network-us.png?raw=true" group-title="国际",YES Network
+https://v18.thetvapp.to/hls/yes-network/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="WEtv.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/we-tv-us.png?raw=true" group-title="国际",WETV (Women's Entertainment) - Eastern
+https://v14.thetvapp.to/hls/WeTVEast/tracks-v1a1/mono.m3u8
