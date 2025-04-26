@@ -1,1 +1,2 @@
-![WePayIt](https://github.com/user-attachments/assets/80e0c2b9-812a-42c5-998d-234d9071a7cc)
+
+![Pay](https://github.com/user-attachments/assets/aa1c2de6-80da-443e-a4ba-e18baac17614)
