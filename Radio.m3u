@@ -37,6 +37,7 @@ https://radio.0472.org/?id=689
 #EXTINF:-1 tvg-name="南海之声" tvg-logo="https://radio.0472.org/?id=664&logo" group-title="综合广播",南海之声
 https://radio.0472.org/?id=664
 #EXTINF:-1 tvg-name="英语资讯广播 CGTN Radio" tvg-logo="https://radio.0472.org/?id=734&logo" group-title="综合广播",CGTN Radio
+https://radio.0472.org/?id=734
 #EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/BJJTGB.png" group-title="综合广播",北京交通广播
 http://ls.qingting.fm/live/336.m3u8
 #EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/BJXWGB.png" group-title="综合广播",北京新闻广播
