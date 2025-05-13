@@ -65,8 +65,6 @@ http://sk.cri.cn/am846.m3u8
 http://ngcdn001.cnr.cn/live/zgzs/index.m3u8
 #EXTINF:-1 tvg-logo="http://live.cooltv.top/logo/jjzs.png" group-title="综合广播",CNR经济之声
 http://ngcdn002.cnr.cn/live/jjzs/index.m3u8
-#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/TZGBDT.png" group-title="综合广播",台中广播电台
-http://211.20.119.101:8081
 #EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/HNLYGB.png" group-title="综合广播",湖南旅游广播
 https://satellitepull.cnr.cn/live/wx32hunlygb/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/HNWYGB.png" group-title="综合广播",湖南文艺广播
@@ -79,8 +77,8 @@ http://satellitepull.cnr.cn/live/wxscwygb/playlist.m3u8
 http://radiolive.sxrtv.com/live/wenyi/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/JSWYGB.png" group-title="综合广播",江苏文艺广播
 http://satellitepull.cnr.cn/live/wx32jswygb/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://live.cooltv.top/logo/jsyygb.png" group-title="音乐广播",江苏音乐广播
-http://live.cooltv.top/tv/ytradio.php?id=415
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/JSGSGB.png" group-title="综合广播",江苏故事广播
+http://satellitepull.cnr.cn/live/wx32jsgsgb/playlist.m3u8
 #EXTINF:-1 tvg-name="湖南金鹰955" tvg-logo="https://radio.0472.org/?id=523&logo" group-title="音乐广播",湖南金鹰之声
 https://radio.0472.org/?id=523
 #EXTINF:-1 tvg-name="芒果时空音乐台" tvg-logo="https://radio.0472.org/?id=524&logo" group-title="音乐广播",芒果时空音乐
@@ -99,8 +97,8 @@ https://radio.0472.org/?id=1060
 https://radio.0472.org/?id=1061
 #EXTINF:-1 tvg-name="长沙音乐广播" tvg-logo="https://radio.0472.org/?id=1531&logo" group-title="音乐广播",长沙音乐广播
 https://radio.0472.org/?id=1531
-#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/JSGSGB.png" group-title="综合广播",江苏故事广播
-http://satellitepull.cnr.cn/live/wx32jsgsgb/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://live.cooltv.top/logo/jsyygb.png" group-title="音乐广播",江苏音乐广播
+http://live.cooltv.top/tv/ytradio.php?id=415
 #EXTINF:-1 tvg-logo="http://live.cooltv.top/logo/gdyy.png" group-title="音乐广播",广东音乐之声
 http://live.cooltv.top/tv/ytradio.php?id=489
 #EXTINF:-1 tvg-logo="https://radio.0472.org/?id=498&logo" group-title="音乐广播",深圳音乐频率
