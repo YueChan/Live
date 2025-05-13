@@ -1,4 +1,4 @@
-#EXTM3U
+#EXTM3U x-tvg-url="https://live.fanmingming.cn/e.xml"
 #EXTINF:-1 tvg-name="中国之声" tvg-logo="https://radio.0472.org/?id=639&logo" group-title="综合广播",中国之声
 https://radio.0472.org/?id=639
 #EXTINF:-1 tvg-name="经济之声" tvg-logo="https://radio.0472.org/?id=640&logo" group-title="综合广播",经济之声
