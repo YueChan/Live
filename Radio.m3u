@@ -82,8 +82,24 @@ http://radiolive.sxrtv.com/live/wenyi/playlist.m3u8
 http://satellitepull.cnr.cn/live/wx32jswygb/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://live.cooltv.top/logo/jsyygb.png" group-title="音乐广播",江苏音乐广播
 http://live.cooltv.top/tv/ytradio.php?id=415
-#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/HNYYZS.png" group-title="音乐广播",湖南音乐之声
-http://a.live.hnradio.com/yypd/radio120k_yypd.m3u8?auth_key=1588751172-0-0-d97b858279c1c86650172b9913ea4af2
+#EXTINF:-1 tvg-name="湖南金鹰955" tvg-logo="https://radio.0472.org/?id=523&logo" group-title="音乐广播",湖南金鹰之声
+https://radio.0472.org/?id=523
+#EXTINF:-1 tvg-name="芒果时空音乐台" tvg-logo="https://radio.0472.org/?id=524&logo" group-title="音乐广播",芒果时空音乐
+https://radio.0472.org/?id=524
+#EXTINF:-1 tvg-name="湖南新闻频道" tvg-logo="https://radio.0472.org/?id=525&logo" group-title="音乐广播",湖南新闻频道
+https://radio.0472.org/?id=525
+#EXTINF:-1 tvg-name="湖南电台潇湘之声" tvg-logo="https://radio.0472.org/?id=526&logo" group-title="音乐广播",湖南潇湘之声
+https://radio.0472.org/?id=526
+#EXTINF:-1 tvg-name="湖南经济广播" tvg-logo="https://radio.0472.org/?id=1056&logo" group-title="音乐广播",湖南经济广播
+https://radio.0472.org/?id=1056
+#EXTINF:-1 tvg-name="湖南交通广播" tvg-logo="https://radio.0472.org/?id=1059&logo" group-title="音乐广播",湖南交通广播
+https://radio.0472.org/?id=1059
+#EXTINF:-1 tvg-name="湖南音乐之声" tvg-logo="https://radio.0472.org/?id=1060&logo" group-title="音乐广播",湖南音乐之声
+https://radio.0472.org/?id=1060
+#EXTINF:-1 tvg-name="长沙交通广播" tvg-logo="https://radio.0472.org/?id=1061&logo" group-title="音乐广播",长沙交通广播
+https://radio.0472.org/?id=1061
+#EXTINF:-1 tvg-name="长沙音乐广播" tvg-logo="https://radio.0472.org/?id=1531&logo" group-title="音乐广播",长沙音乐广播
+https://radio.0472.org/?id=1531
 #EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/JSGSGB.png" group-title="综合广播",江苏故事广播
 http://satellitepull.cnr.cn/live/wx32jsgsgb/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://live.cooltv.top/logo/gdyy.png" group-title="音乐广播",广东音乐之声
@@ -106,6 +122,8 @@ https://stream.rcs.revma.com/7x3gv2y4bshvv
 https://radio.0472.org/?id=1133
 #EXTINF:-1 tvg-logo="http://live.cooltv.top/logo/jd947.png" group-title="音乐广播",上海音乐广播
 http://live.cooltv.top/tv/news1296.php?id=8
+#EXTINF:-1 tvg-name="上海戏曲广播" tvg-logo="https://radio.0472.org/?id=1314&logo" group-title="音乐广播",上海戏曲广播
+https://radio.0472.org/?id=1314
 #EXTINF:-1 tvg-logo="http://live.cooltv.top/logo/kfm.png" group-title="音乐广播",上海音乐电台
 http://live.cooltv.top/tv/news1296.php?id=9
 #EXTINF:-1 tvg-logo="http://live.cooltv.top/logo/loveradio.png" group-title="音乐广播",Love Radio
