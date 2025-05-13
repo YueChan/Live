@@ -1,5 +1,4 @@
 #EXTM3U
-
 #EXTINF:-1 tvg-name="中国之声" tvg-logo="https://radio.0472.org/?id=639&logo" group-title="综合广播",中国之声
 https://radio.0472.org/?id=639
 #EXTINF:-1 tvg-name="经济之声" tvg-logo="https://radio.0472.org/?id=640&logo" group-title="综合广播",经济之声
@@ -104,6 +103,8 @@ https://radio.0472.org/?id=1531
 http://satellitepull.cnr.cn/live/wx32jsgsgb/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://live.cooltv.top/logo/gdyy.png" group-title="音乐广播",广东音乐之声
 http://live.cooltv.top/tv/ytradio.php?id=489
+#EXTINF:-1 tvg-logo="https://radio.0472.org/?id=498&logo" group-title="音乐广播",深圳音乐频率
+https://radio.0472.org/?id=498
 #EXTINF:-1 tvg-logo="http://live.cooltv.top/logo/hitfm.png" group-title="音乐广播",Hit FM劲曲
 http://satellitepull.cnr.cn/live/wxhitfm/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://live.cooltv.top/logo/njyygb.png" group-title="音乐广播",南京音乐广播
@@ -132,8 +133,10 @@ http://live.cooltv.top/tv/news1296.php?id=7
 http://live.cooltv.top/tv/news1296.php?id=4
 #EXTINF:-1 tvg-logo="http://live.cooltv.top/logo/njcoolradio.png" group-title="音乐广播",Cool Radio
 http://hls.njgb.com/live_hls/8/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/HBWYGB.png" group-title="综合广播",河北文艺广播
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/HBWYGB.png" group-title="音乐广播",河北文艺广播
 http://satellitepull.cnr.cn/live/wxhebwygb/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://radio.0472.org/?id=381&logo" group-title="音乐广播",河北音乐广播
+https://radio.0472.org/?id=381
 #EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s138074/images/logog.png?t=158317" group-title="网络广播",中文流行
 http://cpop.bigbradio.net/s
 #EXTINF:-1 tvg-logo="https://live.fanmingming.com/radio/全国广播.png" group-title="网络广播",全国广播
