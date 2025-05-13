@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://live.fanmingming.cn/e.xml"
+#EXTM3U
 #EXTINF:-1 tvg-name="中国之声" tvg-logo="https://radio.0472.org/?id=639&logo" group-title="综合广播",中国之声
 https://radio.0472.org/?id=639
 #EXTINF:-1 tvg-name="经济之声" tvg-logo="https://radio.0472.org/?id=640&logo" group-title="综合广播",经济之声
@@ -169,6 +169,8 @@ https://listen-gbnews.sharp-stream.com/gbnews.mp3
 https://icecast.thisisdax.com/LBCNewsUKMP3
 #EXTINF:-1 group-title="境外广播",BBC News
 https://ice.audionow.com/485BBCWorld.mp3
+#EXTINF:-1 group-title="境外广播",Hao FM
+https://playerservices.streamtheworld.com/api/livestream-redirect/HAO_963.mp3 
 #EXTINF:-1 group-title="境外广播",FM 988
 https://playerservices.streamtheworld.com/api/livestream-redirect/988_FMAAC
 #EXTINF:-1 group-title="境外广播",Gold FM
