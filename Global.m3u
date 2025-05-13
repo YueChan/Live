@@ -75,7 +75,7 @@ https://v4.thetvapp.to/hls/AnimalPlanetEast/tracks-v1a1/mono.m3u8
 https://v14.thetvapp.to/hls/BBCWorldNewsNorthAmerica/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Big.Ten.Network.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/big-ten-network-us.png?raw=true" group-title="国际",Big Ten Network
 https://v14.thetvapp.to/hls/BTN/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="Bravo.USA.-.Eastern.Feed.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10057_dark_360w_270h.png" group-title="国际",BRAVO USA 
+#EXTINF:-1 tvg-id="Bravo.USA.-.Eastern.Feed.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10057_dark_360w_270h.png" group-title="国际",BRAVO USA
 https://v4.thetvapp.to/hls/BravoEast/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="C-SPAN.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10161_dark_360w_270h.png" group-title="国际",C-SPAN
 https://v14.thetvapp.to/hls/CSPAN/tracks-v1a1/mono.m3u8
@@ -125,46 +125,14 @@ https://v12.thetvapp.to/hls/FXEast/tracks-v1a1/mono.m3u8
 https://v15.thetvapp.to/hls/FXXEast/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="FXX.USA.-.Eastern.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fyi-us.png" group-title="国际",FYI USA - Eastern
 https://v15.thetvapp.to/hls/FYIEast/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="FanDuel.Sports.Indiana.us" tvg-logo="https://i.imgur.com/HUgEVWQ.png" group-title="国际",FanDuel SN Indiana
-https://v8.thetvapp.to/hls/fanduel-sports-indiana/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="FanDuel.Sports.Network.Detroit.HD.us" tvg-logo="https://i.imgur.com/1MDxLZf.png" group-title="国际",FanDuel SN Detroit
-https://v18.thetvapp.to/hls/fanduel-sports-network-detroit-hd/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="FanDuel.Sports.Network.Florida.us" tvg-logo="https://i.imgur.com/fuCM2ei.png" group-title="国际",FanDuel SN Florida
-https://v5.thetvapp.to/hls/fanduel-sports-network-florida/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="FanDuel.Sports.Network.Great.Lakes.us" tvg-logo="https://i.imgur.com/mPpaZCR.png" group-title="国际",FanDuel SN Great Lakes
-https://v5.thetvapp.to/hls/fanduel-sports-network-great-lakes/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="FanDuel.Sports.Network.North.us" tvg-logo="https://i.imgur.com/qfu8djF.png" group-title="国际",FanDuel SN North
-https://v17.thetvapp.to/hls/fanduel-sports-network-north/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="FanDuel.Sports.Network.Ohio.-.Cleveland.us" tvg-logo="https://i.imgur.com/U4kf3x6.png" group-title="国际",FanDuel SN Ohio
-https://v13.thetvapp.to/hls/fanduel-sports-network-ohio-cleveland/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="FanDuel.Sports.Network.Oklahoma.us" tvg-logo="https://i.imgur.com/mx7lyh5.png" group-title="国际",FanDuel SN Oklahoma
 https://v5.thetvapp.to/hls/fanduel-sports-network-oklahoma/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="FanDuel.Sports.Network.SoCal.us" tvg-logo="https://i.imgur.com/yywNI3M.png" group-title="国际",FanDuel SN SoCal
-https://v3.thetvapp.to/hls/fanduel-sports-network-socal/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="FanDuelSportsNetwork(South).us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/fanduel-tv-us.png" group-title="国际",Fanduel Sports Network South Carolinas
-https://v14.thetvapp.to/hls/fanduel-sports-network-south-carolinas/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="FanDuel.Sports.Network.South-.Tennessee.(USA).us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/fanduel-tv-us.png" group-title="国际",Fanduel Sports Network South Tennessee
-https://v13.thetvapp.to/hls/fanduel-sports-network-south-tennessee-usa/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="FanDuel.Sports.Network.West.us" tvg-logo="https://i.imgur.com/cv546ko.png" group-title="国际",FanDuel SN West
-https://v14.thetvapp.to/hls/fanduel-sports-network-west/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="FoxBusinessNetwork.us" tvg-name="Fox Business Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Fox_Business.svg/512px-Fox_Business.svg.png" group-title="business",Fox Business Network
 https://v1.thetvapp.to/hls/FoxBusiness/index.m3u8
-#EXTINF:-1 tvg-id="FanDuel.Sports.Network.Wisconsin.us" tvg-logo="https://i.imgur.com/Ku0ibaF.png" group-title="国际",FanDuel SN Wisconsin
-https://v12.thetvapp.to/hls/fanduel-sports-network-wisconsin/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="FanDuel.Sports.Southeast.-.North.Carolina.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/fanduel-tv-us.png" group-title="国际",Fanduel Sports Southeast North Carolina
-https://v8.thetvapp.to/hls/fanduel-sports-southeast-north-carolina/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="FanDuel.Sports.Southeast.-.South.Carolina.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/fanduel-tv-us.png" group-title="国际",Fanduel Sports Southeast South Carolina
-https://v17.thetvapp.to/hls/fanduel-sports-southeast-south-carolina/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="FanDuel.Sports.Southeast.-.Tennessee.Nashville.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/fanduel-tv-us.png" group-title="国际",Fanduel Sports Southeast Tennessee Nashville
-https://v17.thetvapp.to/hls/fanduel-sports-southeast-tennessee-nashville/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="FanDuel.Sports..-.Tennessee.East.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/fanduel-tv-us.png" group-title="国际",Fanduel Sports Tennessee East
-https://v3.thetvapp.to/hls/fanduel-sports-tennessee-east/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Food.Network.USA.-.Eastern.Feed.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12574_dark_360w_270h.png" group-title="国际",FOOD NETWORK USA - Eastern Feed
 https://v14.thetvapp.to/hls/FoodNetworkEast/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Fox.Sports.2.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fox-sports-2-us.png" group-title="国际",Fox Sports 2
 https://v3.thetvapp.to/hls/FoxSports2/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="Game.Show.Network.-.East.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/game-show-network-hz-us.png?raw=true" group-title="国际",GAME SHOW NETWORK East
-https://v3.thetvapp.to/hls/game-show-network-east/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="HBO.-.Eastern.Feed.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/hbo-us.png" group-title="国际",HBO - Eastern Feed
 https://v18.thetvapp.to/hls/HBOEast/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="HBO.2.-.Eastern.Feed.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s68140_dark_360w_270h.png" group-title="国际",HBO 2 - Eastern Feed
