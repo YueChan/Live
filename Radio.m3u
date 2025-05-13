@@ -111,8 +111,40 @@ http://satellitepull.cnr.cn/live/wxhitfm/playlist.m3u8
 http://hls.njgb.com/live_hls/4/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://live.cooltv.top/logo/hbqcyyt.png" group-title="音乐广播",河北汽车音乐
 https://radio.pull.hebtv.com/live/hebqcyy.m3u8
-#EXTINF:-1 tvg-logo="http://live.cooltv.top/logo/sx988.png" group-title="音乐广播",陕西音乐广播
-http://satellitepull.cnr.cn/live/wxsxxyygb/playlist.m3u8
+#EXTINF:-1 tvg-name="重庆音乐广播" tvg-logo="https://radio.0472.org/?id=372&logo" group-title="音乐广播",重庆音乐广播
+https://radio.0472.org/?id=372
+#EXTINF:-1 tvg-name="黑龙江音乐广播" tvg-logo="https://radio.0472.org/?id=552&logo" group-title="音乐广播",黑龙江音乐广播
+https://radio.0472.org/?id=552
+#EXTINF:-1 tvg-name="内蒙古音乐之声" tvg-logo="https://radio.0472.org/?id=572&logo" group-title="音乐广播",内蒙古音乐之声
+https://radio.0472.org/?id=572
+#EXTINF:-1 tvg-name="宁夏音乐广播" tvg-logo="https://radio.0472.org/?id=1701&logo" group-title="音乐广播",宁夏音乐广播
+https://radio.0472.org/?id=1701
+#EXTINF:-1 tvg-name="陕西音乐广播" tvg-logo="https://radio.0472.org/?id=561&logo" group-title="音乐广播",陕西音乐广播
+https://radio.0472.org/?id=561
+#EXTINF:-1 tvg-name="青海交通音乐广播" tvg-logo="https://radio.0472.org/?id=616&logo" group-title="音乐广播",青海交通音乐广播
+https://radio.0472.org/?id=616
+#EXTINF:-1 tvg-name="山西音乐广播" tvg-logo="https://radio.0472.org/?id=637&logo" group-title="音乐广播",山西音乐广播
+https://radio.0472.org/?id=637
+#EXTINF:-1 tvg-name="山东音乐广播" tvg-logo="https://radio.0472.org/?id=702&logo" group-title="音乐广播",山东音乐广播
+https://radio.0472.org/?id=702
+#EXTINF:-1 tvg-name="安徽音乐广播" tvg-logo="https://radio.0472.org/?id=601&logo" group-title="音乐广播",安徽音乐广播
+https://radio.0472.org/?id=601
+#EXTINF:-1 tvg-name="楚天音乐广播" tvg-logo="https://radio.0472.org/?id=533&logo" group-title="音乐广播",楚天音乐广播
+https://radio.0472.org/?id=533
+#EXTINF:-1 tvg-name="浙江音乐调频" tvg-logo="https://radio.0472.org/?id=928&logo" group-title="音乐广播",浙江音乐调频
+https://radio.0472.org/?id=928
+#EXTINF:-1 tvg-name="厦门音乐广播" tvg-logo="https://radio.0472.org/?id=1897&logo" group-title="音乐广播",厦门音乐广播
+https://radio.0472.org/?id=1897
+#EXTINF:-1 tvg-name="云南音乐广播" tvg-logo="https://radio.0472.org/?id=592&logo" group-title="音乐广播",云南音乐广播
+https://radio.0472.org/?id=592
+#EXTINF:-1 tvg-name="广西音乐台" tvg-logo="https://radio.0472.org/?id=590&logo" group-title="音乐广播",广西音乐台
+https://radio.0472.org/?id=590
+#EXTINF:-1 tvg-name="贵州音乐广播" tvg-logo="https://radio.0472.org/?id=435&logo" group-title="音乐广播",贵州音乐广播
+https://radio.0472.org/?id=435
+#EXTINF:-1 tvg-name="新疆音乐广播" tvg-logo="https://radio.0472.org/?id=1158&logo" group-title="音乐广播",新疆音乐广播
+https://radio.0472.org/?id=1158
+#EXTINF:-1 tvg-name="海南音乐广播" tvg-logo="https://radio.0472.org/?id=543&logo" group-title="音乐广播",海南音乐广播
+https://radio.0472.org/?id=543
 #EXTINF:-1 tvg-id="广州汽车音乐电台" tvg-name="广州汽车音乐电台" tvg-logo="https://img-ossimg-qn.ajmide.com/program/29715-1GGmaZ_550x550.jpg" group-title="音乐广播",广州汽车音乐
 https://rscdn-qn-i.ajmide.com/r_1088/1088.m3u8
 #EXTINF:-1 tvg-id="深圳音乐广播" tvg-name="深圳音乐广播" tvg-logo="https://img-ossimg-qn.ajmide.com/program/1EGoGw.png" group-title="音乐广播",深圳音乐广播
