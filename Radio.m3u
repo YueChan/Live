@@ -1,39 +1,39 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="中国之声" tvg-logo="https://radio.0472.org/?id=639&logo" group-title="综合广播",中国之声
+#EXTINF:-1 tvg-name="中国之声" tvg-logo="https://radio.0472.org/?id=639&logo" group-title="综合广播",CNR中国之声
 https://radio.0472.org/?id=639
-#EXTINF:-1 tvg-name="经济之声" tvg-logo="https://radio.0472.org/?id=640&logo" group-title="综合广播",经济之声
+#EXTINF:-1 tvg-name="经济之声" tvg-logo="https://radio.0472.org/?id=640&logo" group-title="综合广播",CNR经济之声
 https://radio.0472.org/?id=640
-#EXTINF:-1 tvg-name="环球资讯广播" tvg-logo="https://radio.0472.org/?id=692&logo" group-title="综合广播",环球资讯
+#EXTINF:-1 tvg-name="环球资讯广播" tvg-logo="https://radio.0472.org/?id=692&logo" group-title="综合广播",CNR环球资讯
 https://radio.0472.org/?id=692
-#EXTINF:-1 tvg-name="音乐之声" tvg-logo="https://radio.0472.org/?id=641&logo" group-title="综合广播",音乐之声
+#EXTINF:-1 tvg-name="音乐之声" tvg-logo="https://radio.0472.org/?id=641&logo" group-title="综合广播",CNR音乐之声
 https://radio.0472.org/?id=641
-#EXTINF:-1 tvg-name="中国交通广播" tvg-logo="https://radio.0472.org/?id=653&logo" group-title="综合广播",交通广播
+#EXTINF:-1 tvg-name="中国交通广播" tvg-logo="https://radio.0472.org/?id=653&logo" group-title="综合广播",CNR交通广播
 https://radio.0472.org/?id=653
-#EXTINF:-1 tvg-name="文艺之声" tvg-logo="https://radio.0472.org/?id=648&logo" group-title="综合广播",文艺之声
+#EXTINF:-1 tvg-name="文艺之声" tvg-logo="https://radio.0472.org/?id=648&logo" group-title="综合广播",CNR文艺之声
 https://radio.0472.org/?id=648
-#EXTINF:-1 tvg-name="大湾区之声" tvg-logo="https://radio.0472.org/?id=645&logo" group-title="综合广播",湾区之声
+#EXTINF:-1 tvg-name="大湾区之声" tvg-logo="https://radio.0472.org/?id=645&logo" group-title="综合广播",CNR湾区之声
 https://radio.0472.org/?id=645
-#EXTINF:-1 tvg-name="经典音乐广播" tvg-logo="https://radio.0472.org/?id=642&logo" group-title="综合广播",经典音乐
+#EXTINF:-1 tvg-name="经典音乐广播" tvg-logo="https://radio.0472.org/?id=642&logo" group-title="综合广播",CNR经典音乐
 https://radio.0472.org/?id=642
-#EXTINF:-1 tvg-name="台海之声" tvg-logo="https://radio.0472.org/?id=643&logo" group-title="综合广播",台海之声
+#EXTINF:-1 tvg-name="台海之声" tvg-logo="https://radio.0472.org/?id=643&logo" group-title="综合广播",CNR台海之声
 https://radio.0472.org/?id=643
-#EXTINF:-1 tvg-name="神州之声" tvg-logo="https://radio.0472.org/?id=644&logo" group-title="综合广播",神州之声
+#EXTINF:-1 tvg-name="神州之声" tvg-logo="https://radio.0472.org/?id=644&logo" group-title="综合广播",CNR神州之声
 https://radio.0472.org/?id=644
-#EXTINF:-1 tvg-name="香港之声" tvg-logo="https://radio.0472.org/?id=646&logo" group-title="综合广播",香港之声
+#EXTINF:-1 tvg-name="香港之声" tvg-logo="https://radio.0472.org/?id=646&logo" group-title="综合广播",CNR香港之声
 https://radio.0472.org/?id=646
-#EXTINF:-1 tvg-name="民族之声" tvg-logo="https://radio.0472.org/?id=647&logo" group-title="综合广播",民族之声
+#EXTINF:-1 tvg-name="民族之声" tvg-logo="https://radio.0472.org/?id=647&logo" group-title="综合广播",CNR民族之声
 https://radio.0472.org/?id=647
-#EXTINF:-1 tvg-name="老年之声" tvg-logo="https://radio.0472.org/?id=649&logo" group-title="综合广播",老年之声
+#EXTINF:-1 tvg-name="老年之声" tvg-logo="https://radio.0472.org/?id=649&logo" group-title="综合广播",CNR老年之声
 https://radio.0472.org/?id=649
-#EXTINF:-1 tvg-name="阅读之声" tvg-logo="https://radio.0472.org/?id=652&logo" group-title="综合广播",阅读之声
+#EXTINF:-1 tvg-name="阅读之声" tvg-logo="https://radio.0472.org/?id=652&logo" group-title="综合广播",CNR阅读之声
 https://radio.0472.org/?id=652
-#EXTINF:-1 tvg-name="中国乡村之声" tvg-logo="https://radio.0472.org/?id=654&logo" group-title="综合广播",乡村之声
+#EXTINF:-1 tvg-name="中国乡村之声" tvg-logo="https://radio.0472.org/?id=654&logo" group-title="综合广播",CNR乡村之声
 https://radio.0472.org/?id=654
-#EXTINF:-1 tvg-name="HITFM劲曲调频" tvg-logo="https://radio.0472.org/?id=662&logo" group-title="综合广播",劲曲调频
+#EXTINF:-1 tvg-name="HITFM劲曲调频" tvg-logo="https://radio.0472.org/?id=662&logo" group-title="综合广播",CNR劲曲调频
 https://radio.0472.org/?id=662
-#EXTINF:-1 tvg-name="轻松调频" tvg-logo="https://radio.0472.org/?id=689&logo" group-title="综合广播",轻松调频
+#EXTINF:-1 tvg-name="轻松调频" tvg-logo="https://radio.0472.org/?id=689&logo" group-title="综合广播",CNR轻松调频
 https://radio.0472.org/?id=689
-#EXTINF:-1 tvg-name="南海之声" tvg-logo="https://radio.0472.org/?id=664&logo" group-title="综合广播",南海之声
+#EXTINF:-1 tvg-name="南海之声" tvg-logo="https://radio.0472.org/?id=664&logo" group-title="综合广播",CNR南海之声
 https://radio.0472.org/?id=664
 #EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/BJJTGB.png" group-title="综合广播",北京交通广播
 http://ls.qingting.fm/live/336.m3u8
