@@ -137,32 +137,6 @@ http://hls.njgb.com/live_hls/8/playlist.m3u8
 http://satellitepull.cnr.cn/live/wxhebwygb/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://radio.0472.org/?id=381&logo" group-title="音乐广播",河北音乐广播
 https://radio.0472.org/?id=381
-#EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s138074/images/logog.png?t=158317" group-title="网络广播",中文流行
-http://cpop.bigbradio.net/s
-#EXTINF:-1 tvg-logo="https://live.fanmingming.com/radio/全国广播.png" group-title="网络广播",全国广播
-http://stream.rcs.revma.com/044q61ha7a0uv/hls.m3u8
-#EXTINF:-1 tvg-logo="https://cmsres.dianzhenkeji.com/files/images/2017/12/14/1513241848889285.png" group-title="网络广播",天籁古典
-http://stream3.hndt.com/now/MdOpB4zP/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://cmsres.dianzhenkeji.com/anonymous/2021/12/9/d3f12c8e93c7506d60198c3484dbeb93.png" group-title="网络广播",天籁国风
-http://play-radio-stream3.hndt.com/now/UzPxbRaT/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://cmsres.dianzhenkeji.com/anonymous/2021/12/9/f7f89647d1f6fa0507044cd47c19bc9c.png" group-title="网络广播",天籁之音 Hi-Fi
-http://play-radio-stream3.hndt.com/now/JxkyN5mR/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://cmsres.dianzhenkeji.com/files/images/2017/12/14/1513241881377763.png" group-title="网络广播",摇滚天空
-http://stream3.hndt.com/now/SXJtR4M4/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://cmsres.dianzhenkeji.com/files/images/2017/06/23/1498187765828570.png" group-title="网络广播",国乐悠扬
-http://stream3.hndt.com/now/8bplFuwp/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://cnvod.cnr.cn/audio2017/ondemand/img/1100/20190321/1553157038145.jpg" group-title="网络广播",安全百科
-http://stream3.hndt.com/now/4pcovD2L/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://cmsres.dianzhenkeji.com//files/images/2017/12/14/1513241956312964.png" group-title="网络广播",潮流音悦台
-http://play-radio-stream3.hndt.com/now/Or5au0KN/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://cmsres.dianzhenkeji.com//files/images/2017/12/14/1513241973460940.png" group-title="网络广播",80后音悦台
-http://stream3.hndt.com/now/SFZeH2cb/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://cmsres.dianzhenkeji.com//files/images/2017/12/14/1513241941253315.png" group-title="网络广播",经典FM
-http://stream3.hndt.com/now/C5NvUpwy/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://cmsres.dianzhenkeji.com/anonymous/2021/12/9/4b072cf36c1f334220c6926eff4fbe51.png" group-title="网络广播",民谣蓝调
-http://play-radio-stream3.hndt.com/now/XWfN89gh/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://cmsres.dianzhenkeji.com//files/images/2017/12/14/1513241902428118.png" group-title="网络广播",民谣音乐台
-http://stream3.hndt.com/now/DTK5qc83/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/itszairi/FreeviewMY/main/channel-logos/radio/local/988fm.png" group-title="境外广播",FM 988
 https://playerservices.streamtheworld.com/api/livestream-redirect/988_FMAAC
 #EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/GOLDFM.png" group-title="境外广播",Gold FM
