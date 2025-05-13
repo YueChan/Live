@@ -177,8 +177,6 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/KISS_92AAC.aac
 https://14033.live.streamtheworld.com/LOVE972FM_PREM.aac
 #EXTINF:-1 tvg-logo="http://live.cooltv.top/logo/capital958.png" group-title="境外广播",Capital FM
 https://19183.live.streamtheworld.com/CAPITAL958FM_PREM.aac
-#EXTINF:-1 tvg-logo="https://live.fanmingming.com/radio/自由亚洲电台.png" group-title="境外广播",RFA
-https://rfa-ingest.akamaized.net/hls/live/2040699/RFA_AUDIO_LIVE1/master.m3u8
 #EXTINF:-1 tvg-logo="http://live.cooltv.top/logo/npr.png" group-title="境外广播",NPR News
 https://nprdmcoitunes.akamaized.net/hls/live/2034276/itls/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/POWERFM.png" group-title="境外广播",Power FM
