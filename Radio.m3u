@@ -65,6 +65,12 @@ http://ngcdn001.cnr.cn/live/zgzs/index.m3u8
 http://ngcdn002.cnr.cn/live/jjzs/index.m3u8
 #EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/HNLYGB.png" group-title="综合广播",湖南旅游广播
 https://satellitepull.cnr.cn/live/wx32hunlygb/playlist.m3u8
+#EXTINF:-1 tvg-name="湖南经济广播" tvg-logo="https://radio.0472.org/?id=1056&logo" group-title="综合广播",湖南经济广播
+https://radio.0472.org/?id=1056
+#EXTINF:-1 tvg-name="湖南新闻频道" tvg-logo="https://radio.0472.org/?id=525&logo" group-title="综合广播",湖南新闻频道
+https://radio.0472.org/?id=525
+#EXTINF:-1 tvg-name="湖南电台潇湘之声" tvg-logo="https://radio.0472.org/?id=526&logo" group-title="综合广播",湖南潇湘之声
+https://radio.0472.org/?id=526
 #EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/HNWYGB.png" group-title="综合广播",湖南文艺广播
 https://satellitepull.cnr.cn/live/wx32hunwygb/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://live.cooltv.top/logo/shgsgb.png" group-title="综合广播",上海故事广播
@@ -85,12 +91,6 @@ https://radio.0472.org/?id=1133
 https://radio.0472.org/?id=523
 #EXTINF:-1 tvg-name="芒果时空音乐台" tvg-logo="https://radio.0472.org/?id=524&logo" group-title="音乐广播",芒果时空音乐
 https://radio.0472.org/?id=524
-#EXTINF:-1 tvg-name="湖南新闻频道" tvg-logo="https://radio.0472.org/?id=525&logo" group-title="音乐广播",湖南新闻频道
-https://radio.0472.org/?id=525
-#EXTINF:-1 tvg-name="湖南电台潇湘之声" tvg-logo="https://radio.0472.org/?id=526&logo" group-title="音乐广播",湖南潇湘之声
-https://radio.0472.org/?id=526
-#EXTINF:-1 tvg-name="湖南经济广播" tvg-logo="https://radio.0472.org/?id=1056&logo" group-title="音乐广播",湖南经济广播
-https://radio.0472.org/?id=1056
 #EXTINF:-1 tvg-name="湖南交通广播" tvg-logo="https://radio.0472.org/?id=1059&logo" group-title="音乐广播",湖南交通广播
 https://radio.0472.org/?id=1059
 #EXTINF:-1 tvg-name="湖南音乐之声" tvg-logo="https://radio.0472.org/?id=1060&logo" group-title="音乐广播",湖南音乐之声
