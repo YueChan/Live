@@ -163,39 +163,39 @@ http://live.cooltv.top/tv/news1296.php?id=4
 http://hls.njgb.com/live_hls/8/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/HBWYGB.png" group-title="音乐广播",河北文艺广播
 http://satellitepull.cnr.cn/live/wxhebwygb/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/itszairi/FreeviewMY/main/channel-logos/radio/local/988fm.png" group-title="境外广播",FM 988
-https://playerservices.streamtheworld.com/api/livestream-redirect/988_FMAAC
-#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/GOLDFM.png" group-title="境外广播",Gold FM
-http://22903.live.streamtheworld.com:3690/GOLD905_PREM.aac
-#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/MONEYFM.png" group-title="境外广播",Money FM
-https://playerservices.streamtheworld.com/api/livestream-redirect/MONEY_893AAC.aac
-#EXTINF:-1 tvg-logo="http://live.cooltv.top/logo/yes933.png" group-title="境外广播",Yes FM
-https://22393.live.streamtheworld.com/YES933_PREM.aac
-#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/KISSFM.png" group-title="境外广播",Kiss FM
-https://playerservices.streamtheworld.com/api/livestream-redirect/KISS_92AAC.aac
-#EXTINF:-1 tvg-logo="http://live.cooltv.top/logo/love972.png" group-title="境外广播",Love FM
-https://14033.live.streamtheworld.com/LOVE972FM_PREM.aac
-#EXTINF:-1 tvg-logo="http://live.cooltv.top/logo/capital958.png" group-title="境外广播",Capital FM
-https://19183.live.streamtheworld.com/CAPITAL958FM_PREM.aac
-#EXTINF:-1 tvg-logo="http://live.cooltv.top/logo/npr.png" group-title="境外广播",NPR News
-https://nprdmcoitunes.akamaized.net/hls/live/2034276/itls/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/POWERFM.png" group-title="境外广播",Power FM
-https://crystalout.surfernetwork.com:8001/KVSP_MP3
-#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/RTI.png" group-title="境外广播",RTI中央广播
-https://streamak0138.akamaized.net/live0138lh-mbm9/_definst_/rti3/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/CNA938.png" group-title="境外广播",CNA938
-http://playerservices.streamtheworld.com/api/livestream-redirect/938NOW_PREM.m3u8
-#EXTINF:-1 tvg-logo="https://www.melisten.sg/api/blob/10711300/3600973250882fa11b0b01b71a9d6e5d/cna938-logoImage.png" group-title="境外广播",CNA亚洲新闻
-https://14033.live.streamtheworld.com/938NOW_PREM.aac
-#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/TIMESRADIO.png" group-title="境外广播",Times Radio
-http://timesradio.wireless.radio/stream
-#EXTINF:-1 group-title="境外广播",Talk Radio
-https://radio.talkradio.co.uk/stream
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/RFI_logo_2013.svg/1200px-RFI_logo_2013.svg.png" group-title="境外广播",RFI
-https://rfienchinois64k.ice.infomaniak.ch/rfienchinois-64.mp3
 #EXTINF:-1 group-title="境外广播",GB News
 https://listen-gbnews.sharp-stream.com/gbnews.mp3
 #EXTINF:-1 group-title="境外广播",LBC News
 https://icecast.thisisdax.com/LBCNewsUKMP3
 #EXTINF:-1 group-title="境外广播",BBC News
 https://ice.audionow.com/485BBCWorld.mp3
+#EXTINF:-1 group-title="境外广播",FM 988
+https://playerservices.streamtheworld.com/api/livestream-redirect/988_FMAAC
+#EXTINF:-1 group-title="境外广播",Gold FM
+http://22903.live.streamtheworld.com:3690/GOLD905_PREM.aac
+#EXTINF:-1 group-title="境外广播",Money FM
+https://playerservices.streamtheworld.com/api/livestream-redirect/MONEY_893AAC.aac
+#EXTINF:-1 group-title="境外广播",Yes FM
+https://22393.live.streamtheworld.com/YES933_PREM.aac
+#EXTINF:-1 group-title="境外广播",Kiss FM
+https://playerservices.streamtheworld.com/api/livestream-redirect/KISS_92AAC.aac
+#EXTINF:-1 group-title="境外广播",Love FM
+https://14033.live.streamtheworld.com/LOVE972FM_PREM.aac
+#EXTINF:-1 group-title="境外广播",Capital FM
+https://19183.live.streamtheworld.com/CAPITAL958FM_PREM.aac
+#EXTINF:-1 group-title="境外广播",NPR News
+https://nprdmcoitunes.akamaized.net/hls/live/2034276/itls/playlist.m3u8
+#EXTINF:-1 group-title="境外广播",Power FM
+https://crystalout.surfernetwork.com:8001/KVSP_MP3
+#EXTINF:-1 group-title="境外广播",RTI中央广播
+https://streamak0138.akamaized.net/live0138lh-mbm9/_definst_/rti3/playlist.m3u8
+#EXTINF:-1 group-title="境外广播",CNA938
+http://playerservices.streamtheworld.com/api/livestream-redirect/938NOW_PREM.m3u8
+#EXTINF:-1 group-title="境外广播",CNA亚洲新闻
+https://14033.live.streamtheworld.com/938NOW_PREM.aac
+#EXTINF:-1 group-title="境外广播",Times Radio
+http://timesradio.wireless.radio/stream
+#EXTINF:-1 group-title="境外广播",Talk Radio
+https://radio.talkradio.co.uk/stream
+#EXTINF:-1 group-title="境外广播",RFI
+https://rfienchinois64k.ice.infomaniak.ch/rfienchinois-64.mp3
