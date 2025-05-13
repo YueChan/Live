@@ -127,7 +127,7 @@ https://v15.thetvapp.to/hls/FXXEast/tracks-v1a1/mono.m3u8
 https://v15.thetvapp.to/hls/FYIEast/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="FanDuel.Sports.Network.Oklahoma.us" tvg-logo="https://i.imgur.com/mx7lyh5.png" group-title="国际",FanDuel SN Oklahoma
 https://v5.thetvapp.to/hls/fanduel-sports-network-oklahoma/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="FoxBusinessNetwork.us" tvg-name="Fox Business Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Fox_Business.svg/512px-Fox_Business.svg.png" group-title="business",Fox Business Network
+#EXTINF:-1 tvg-id="FoxBusinessNetwork.us" tvg-name="Fox Business Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Fox_Business.svg/512px-Fox_Business.svg.png" group-title="国际",Fox Business Network
 https://v1.thetvapp.to/hls/FoxBusiness/index.m3u8
 #EXTINF:-1 tvg-id="Food.Network.USA.-.Eastern.Feed.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12574_dark_360w_270h.png" group-title="国际",FOOD NETWORK USA - Eastern Feed
 https://v14.thetvapp.to/hls/FoodNetworkEast/tracks-v1a1/mono.m3u8
