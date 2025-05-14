@@ -93,7 +93,7 @@ http://fl3.moveonjoy.com/MSG/index.m3u8
 http://fl5.moveonjoy.com/NBA_TV/index.m3u8
 #EXTINF:-1 group-title="国际",Sony Movie
 http://fl3.moveonjoy.com/Sony_Movie_Channel/index.m3u8
-#EXTINF:-1 group-title="Entertainment",WeTV
+#EXTINF:-1 group-title="国际",WeTV
 http://fl1.moveonjoy.com/WE_TV/index.m3u8
 #EXTINF:-1 group-title="国际",Sky Sports Mix
 https://x4new.newkso.ru/x4/skymix/mono.m3u8
