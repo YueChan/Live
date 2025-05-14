@@ -109,9 +109,13 @@ http://fl3.moveonjoy.com/ION_Plus/index.m3u8
 http://fl1.moveonjoy.com/LOVE_NATURE/index.m3u8
 #EXTINF:-1 tvg-id="MSG.(Madison.Square.Gardens).us" tvg-name="MSG" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/msg-us.png" group-title="Entertainment",MSG
 http://fl3.moveonjoy.com/MSG/index.m3u8
-#EXTINF:-1 tvg-id="NBA.TV.USA.us" tvg-name="NBA TV" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nba-tv-us.png?raw=true" group-title="Sports",NBA TV (Stream 2)
+#EXTINF:-1 tvg-id="NBA.TV.USA.us" tvg-name="NBA TV" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nba-tv-us.png?raw=true" group-title="Sports",NBA TV 
 http://fl5.moveonjoy.com/NBA_TV/index.m3u8
-#EXTINF:-1 tvg-id="Sony.Movies.us" tvg-name="Sony Movie Channel" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/sony-movie-channel-hz-us.png?raw=true" group-title="Movies",Sony Movie Channel
+#EXTINF:-1 tvg-id="Sony.Movies.us" tvg-name="Sony Movie Channel" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/sony-movie-channel-hz-us.png?raw=true" group-title="Movies",Sony Movie  
 http://fl3.moveonjoy.com/Sony_Movie_Channel/index.m3u8
 #EXTINF:-1 tvg-id="WE.(Women&apos;s.Entertainment).-.Eastern.us" tvg-name="WeTV" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/we-tv-us.png?raw=true" group-title="Entertainment",WeTV
 http://fl1.moveonjoy.com/WE_TV/index.m3u8
+#EXTINF:-1 group-title="UK",Sky Sports Mix
+https://x4new.newkso.ru/x4/skymix/mono.m3u8
+#EXTINF:-1 group-title="USA",HBO 
+https://x4new.newkso.ru/x4/ustvhbo/mono.m3u8
