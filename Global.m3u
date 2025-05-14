@@ -29,8 +29,8 @@ https://travelxp-travelxp-1-eu.xiaomi.wurl.tv/playlist.m3u8
 https://food-eu.xiaomi.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="国际",Tastemade
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00047-tastemade-tmintlaus-samsungnz/playlist.m3u8?checkedby:alliptvlinks.com
-#EXTINF:-1 group-title="国际",Rakuten VIKI
-https://dce1408e0efa4bc4b6ca1366c56911fb.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Plex_RakutenViki/playlist.m3u8?ads.wurl_channel=843&ads.wurl_name=RakutenViki&ads.coppa=0&ads.us_privacy=1---&ads.psid=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.targetopt=0&ads.plex_token=tzFRBf5UEBHD_vbznsUx&ads.plex_id=60d4edd8b2fdec002c14112f&ads.ua=okhttp/4.9.0&ads.app_bundle=com.plexapp.android&ads.app_store_url=https://play.google.com/store/apps/details?id=com.plexapp.android&ads.gdpr=0&ads.consent=0&ads.device_type=handset&ads.device_id_type=&checkedby:alliptvlinks.com
+#EXTINF:-1 group-title="国际",TNT
+http://fl5.moveonjoy.com/NBA_1/index.m3u8
 #EXTINF:-1 group-title="国际",Sky Sports F1
 http://cord-cutter.net:8080/25464931/30585186/35244?checkedby:alliptvlinks.com
 #EXTINF:-1 group-title="国际",AMC
