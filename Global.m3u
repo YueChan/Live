@@ -5,6 +5,10 @@ https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_ch
 https://d3696l48vwq25d.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-0g2918mubifjw/index.m3u8
 #EXTINF:-1 group-title="国际",CNA
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+#EXTINF:-1 group-title="国际",ABC7
+http://fl1.moveonjoy.com/ABC_EAST/index.m3u8
+#EXTINF:-1 group-title="国际",ABC News Live
+https://livetv-fa.tubi.video/abc-news/index.m3u8
 #EXTINF:-1 group-title="国际",CGTN
 https://english-livebkws.cgtn.com/live/encgtn.m3u8
 #EXTINF:-1 group-title="国际",CGTN Documentary
@@ -19,8 +23,6 @@ https://rt-glb.rttv.com/dvr/rtnews/playlist_4500Kb.m3u8
 http://91.247.68.229:8000/play/Fashion/index.m3u8
 #EXTINF:-1 group-title="国际",RT Documentary
 https://rt-rtd.rttv.com/live/rtdoc/playlist_4500Kb.m3u8
-#EXTINF:-1 group-title="国际",Taiwan Plus
-https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap-northeast-1/6282251407001/playlist.m3u8
 #EXTINF:-1 group-title="国际",LoveStories
 https://lovestoriestv-lovestoriestv-1-eu.xiaomi.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="国际",Travel XP
@@ -45,8 +47,6 @@ https://cmc-ono.amagi.tv/playlist.m3u8
 https://aegis-cloudfront-1.tubi.video/8d2bf7b1-0e93-405f-8c15-ac0756d05f66/playlist.m3u8
 #EXTINF:-1 group-title="国际",MovieSphere
 https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="国际",ABC (WABC)
-http://fl1.moveonjoy.com/ABC_EAST/index.m3u8
 #EXTINF:-1 group-title="国际",AMC
 http://fl5.moveonjoy.com/AMC_NETWORK/index.m3u8
 #EXTINF:-1 group-title="国际",American Heroes Channel
@@ -65,15 +65,15 @@ http://fl3.moveonjoy.com/Cleo_TV/index.m3u8
 http://fl3.moveonjoy.com/CMT/index.m3u8
 #EXTINF:-1 group-title="国际",CNBC FHD
 http://fl5.moveonjoy.com/CNBC/index.m3u8
-#EXTINF:-1 group-title="国际",COMEDY CENTRAL
+#EXTINF:-1 group-title="国际",Comedy Central
 http://fl3.moveonjoy.com/Comedy_Central/index.m3u8
 #EXTINF:-1 group-title="国际",COMET
 http://fl3.moveonjoy.com/COMET/index.m3u8
-#EXTINF:-1 group-title="国际",COOKING
+#EXTINF:-1 group-title="国际",Cooking
 http://fl3.moveonjoy.com/COOKING_CHANNEL/index.m3u8
 #EXTINF:-1 group-title="国际",COZI TV
 http://fl3.moveonjoy.com/COZI_TV/index.m3u8
-#EXTINF:-1 group-title="国际",Crime + Investigation
+#EXTINF:-1 group-title="国际",Crime Investigation
 http://fl3.moveonjoy.com/Crime_and_Investigation_Network/index.m3u8
 #EXTINF:-1 group-title="国际",Destination America
 http://fl3.moveonjoy.com/Destination_America/index.m3u8
@@ -83,7 +83,7 @@ http://fl3.moveonjoy.com/Discovery_Channel/index.m3u8
 http://fl3.moveonjoy.com/Discovery_Science/index.m3u8
 #EXTINF:-1 group-title="国际",FOX (WNYW)
 http://fl1.moveonjoy.com/FOX_EAST/index.m3u8
-#EXTINF:-1 group-title="国际",FOX SOUL
+#EXTINF:-1 group-title="国际",FOX Soul
 http://fl1.moveonjoy.com/FOX_SOUL/index.m3u8
 #EXTINF:-1 group-title="国际",ION Plus
 http://fl3.moveonjoy.com/ION_Plus/index.m3u8
