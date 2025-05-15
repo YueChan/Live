@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/epgs/moveonjoy-epg.xml"
+#EXTM3U
 #EXTINF:-1 group-title="国际",BBC
 https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
 #EXTINF:-1 group-title="国际",CNN
@@ -8,7 +8,7 @@ https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m
 #EXTINF:-1 group-title="国际",ABC7
 http://fl1.moveonjoy.com/ABC_EAST/index.m3u8
 #EXTINF:-1 group-title="国际",ABC News Live
-https://livetv-fa.tubi.video/abc-news/index.m3u8
+https://wikinew.newkso.ru/wiki/ustvabcnews/mono.m3u8
 #EXTINF:-1 group-title="国际",CBS News
 http://fl3.moveonjoy.com/CBS_News/index.m3u8
 #EXTINF:-1 group-title="国际",CGTN
@@ -81,8 +81,14 @@ http://fl3.moveonjoy.com/COZI_TV/index.m3u8
 http://fl3.moveonjoy.com/ION_Plus/index.m3u8
 #EXTINF:-1 group-title="国际",MSG
 http://fl3.moveonjoy.com/MSG/index.m3u8
+#EXTINF:-1 group-title="国际",TLC
+https://wikinew.newkso.ru/wiki/ustvtlc/mono.m3u8
+#EXTINF:-1 group-title="国际",YES
+https://wikinew.newkso.ru/wiki/yesnet/mono.m3u8
 #EXTINF:-1 group-title="国际",NBA TV
 http://fl5.moveonjoy.com/NBA_TV/index.m3u8
+#EXTINF:-1 group-title="国际",TNT Sports
+https://azonew.newkso.ru/azo/eplayerdigitvbt1/mono.m3u8
 #EXTINF:-1 group-title="国际",Sky Sports Mix
 https://x4new.newkso.ru/x4/skymix/mono.m3u8
 #EXTINF:-1 group-title="国际",Destination America
@@ -91,10 +97,14 @@ http://fl3.moveonjoy.com/Destination_America/index.m3u8
 http://fl3.moveonjoy.com/Discovery_Channel/index.m3u8
 #EXTINF:-1 group-title="国际",Discovery Science
 http://fl3.moveonjoy.com/Discovery_Science/index.m3u8
+#EXTINF:-1 group-title="国际",Lifetime
+https://wikinew.newkso.ru/wiki/ustvlifetime/mono.m3u8
 #EXTINF:-1 group-title="国际",Sony Movie
 http://fl3.moveonjoy.com/Sony_Movie_Channel/index.m3u8
 #EXTINF:-1 group-title="国际",LoveStories
 https://lovestoriestv-lovestoriestv-1-eu.xiaomi.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="国际",Hallmark
+https://wikinew.newkso.ru/wiki/ustvhallmarkmoviesmisteries/mono.m3u8
 #EXTINF:-1 group-title="国际",Crime Investigation
 http://fl3.moveonjoy.com/Crime_and_Investigation_Network/index.m3u8
 #EXTINF:-1 group-title="国际",American Heroes Channel
