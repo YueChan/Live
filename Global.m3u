@@ -37,8 +37,6 @@ http://fl1.moveonjoy.com/WE_TV/index.m3u8
 http://fl3.moveonjoy.com/Start_Tv/index.m3u8
 #EXTINF:-1 group-title="国际",UP TV
 http://fl3.moveonjoy.com/Up_Tv/index.m3u8
-#EXTINF:-1 group-title="国际",HBO
-https://x4new.newkso.ru/x4/ustvhbo/mono.m3u8
 #EXTINF:-1 group-title="国际",TBS
 http://fl5.moveonjoy.com/NHL_8/index.m3u8
 #EXTINF:-1 group-title="国际",TCM
