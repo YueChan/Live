@@ -1,4 +1,4 @@
-#EXTM3U
+#EXTM3U url-tvg="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/epgs/moveonjoy-epg.xml"
 #EXTINF:-1 group-title="国际",BBC
 https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
 #EXTINF:-1 group-title="国际",CNN
@@ -17,6 +17,10 @@ https://english-livebkws.cgtn.com/live/encgtn.m3u8
 https://live-hls-web-aje.getaj.net/AJE/01.m3u8
 #EXTINF:-1 group-title="国际",CNBC
 http://fl5.moveonjoy.com/CNBC/index.m3u8
+#EXTINF:-1 group-title="国际",FOX5
+http://fl1.moveonjoy.com/FOX_EAST/index.m3u8
+#EXTINF:-1 group-title="国际",FOX Soul
+http://fl1.moveonjoy.com/FOX_SOUL/index.m3u8
 #EXTINF:-1 group-title="国际",Wion News
 https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
 #EXTINF:-1 group-title="国际",RT News
@@ -77,10 +81,6 @@ http://fl3.moveonjoy.com/COMET/index.m3u8
 http://fl3.moveonjoy.com/COOKING_CHANNEL/index.m3u8
 #EXTINF:-1 group-title="国际",COZI TV
 http://fl3.moveonjoy.com/COZI_TV/index.m3u8
-#EXTINF:-1 group-title="国际",FOX
-http://fl1.moveonjoy.com/FOX_EAST/index.m3u8
-#EXTINF:-1 group-title="国际",FOX Soul
-http://fl1.moveonjoy.com/FOX_SOUL/index.m3u8
 #EXTINF:-1 group-title="国际",ION Plus
 http://fl3.moveonjoy.com/ION_Plus/index.m3u8
 #EXTINF:-1 group-title="国际",MSG
