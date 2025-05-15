@@ -144,7 +144,7 @@ http://[2409:8087:1a01:df::7005]/PLTV/88888888/224/3221225713/main.m3u8
 #EXTINF:-1 group-title="数字频道",求索生活
 http://[2409:8087:1a01:df::7005]/PLTV/88888888/224/3221225715/main.m3u8
 #EXTINF:-1 group-title="数字频道",求索科学
-http://[2409:8087:1a01:df::7005]:80/000000001000/6000000002000032344/index.m3u8?channel-id=wasusyt&Contentid=6000000002000032344
+http://[2409:8087:1a01:df::7005]/PLTV/88888888/224/3221225728/main.m3u8
 #EXTINF:-1 group-title="数字频道",求索动物
 http://[2409:8087:1a01:df::7005]/PLTV/88888888/224/3221225730/main.m3u8
 #EXTINF:-1 tvg-name="超级电影" group-title="数字频道",超级电影
