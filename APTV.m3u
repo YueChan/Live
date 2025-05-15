@@ -1,28 +1,34 @@
 #EXTM3U url-tvg="https://live.fanmingming.cn/e.xml"
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://live.fanmingming.cn/tv/CCTV1.png" group-title="央视频道",CCTV1
-http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
+http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226559/index.m3u8
 #EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://live.fanmingming.cn/tv/CCTV2.png" group-title="央视频道",CCTV2
-http://iptv.huuc.edu.cn/hls/cctv2hd.m3u8
+http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226540/index.m3u8
 #EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://live.fanmingming.cn/tv/CCTV3.png" group-title="央视频道",CCTV3
 http://iptv.huuc.edu.cn/hls/cctv3hd.m3u8
 #EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://live.fanmingming.cn/tv/CCTV4.png" group-title="央视频道",CCTV4
-http://iptv.huuc.edu.cn/hls/cctv4hd.m3u8
+http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226428/index.m3u8
 #EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://live.fanmingming.cn/tv/CCTV5.png" group-title="央视频道",CCTV5
 http://iptv.huuc.edu.cn/hls/cctv5hd.m3u8
 #EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://live.fanmingming.cn/tv/CCTV6.png" group-title="央视频道",CCTV6
 http://iptv.huuc.edu.cn/hls/cctv6hd.m3u8
 #EXTINF:-1 tvg-name="CCTV7" tvg-logo="https://live.fanmingming.cn/tv/CCTV7.png" group-title="央视频道",CCTV7
-http://iptv.huuc.edu.cn/hls/cctv7hd.m3u8
+http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225733/index.m3u8
 #EXTINF:-1 tvg-name="CCTV8" tvg-logo="https://live.fanmingming.cn/tv/CCTV8.png" group-title="央视频道",CCTV8
 http://iptv.huuc.edu.cn/hls/cctv8hd.m3u8
 #EXTINF:-1 tvg-name="CCTV10" tvg-logo="https://live.fanmingming.cn/tv/CCTV10.png" group-title="央视频道",CCTV10
 http://iptv.huuc.edu.cn/hls/cctv10hd.m3u8
+#EXTINF:-1 tvg-name="CCTV-11 戏曲" group-title="央视频道",CCTV11
+http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226565/index.m3u8
 #EXTINF:-1 tvg-name="CCTV12" tvg-logo="https://live.fanmingming.cn/tv/CCTV12.png" group-title="央视频道",CCTV12
 http://iptv.huuc.edu.cn/hls/cctv12hd.m3u8
-#EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://live.fanmingming.cn/tv/CCTV13.png" group-title="央视频道",CCTV13
-http://iptv.huuc.edu.cn/hls/cctv13hd.m3u8
+#EXTINF:-1 tvg-name="CCTV-13 新闻" group-title="央视频道",CCTV13
+http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226537/index.m3u8
 #EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://live.fanmingming.cn/tv/CCTV14.png" group-title="央视频道",CCTV14
 http://iptv.huuc.edu.cn/hls/cctv14hd.m3u8
+#EXTINF:-1 tvg-name="CCTV-15 音乐" group-title="央视频道",CCTV15
+http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226476/index.m3u8
+#EXTINF:-1 tvg-name="CCTV-17 农业农村" group-title="央视频道",CCTV17
+http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
 #EXTINF:-1 tvg-name="CGTN" tvg-logo="https://live.fanmingming.cn/tv/CGTN.png" group-title="央视频道",CGTN英语
 https://english-livebkws.cgtn.com/live/encgtn.m3u8
 #EXTINF:-1 tvg-name="CGTN纪录" tvg-logo="https://live.fanmingming.cn/tv/CGTN纪录.png" group-title="央视频道",CGTN纪录
