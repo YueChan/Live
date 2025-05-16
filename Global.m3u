@@ -91,8 +91,6 @@ http://fl5.moveonjoy.com/NBA_TV/index.m3u8
 https://azonew.newkso.ru/azo/eplayerdigitvbt1/mono.m3u8
 #EXTINF:-1 group-title="国际",Sky Sports Mix
 https://x4new.newkso.ru/x4/skymix/mono.m3u8
-#EXTINF:-1 group-title="国际",Destination America
-http://fl3.moveonjoy.com/Destination_America/index.m3u8
 #EXTINF:-1 group-title="国际",Discovery Channel
 http://fl3.moveonjoy.com/Discovery_Channel/index.m3u8
 #EXTINF:-1 group-title="国际",Discovery Science
@@ -105,7 +103,5 @@ http://fl3.moveonjoy.com/Sony_Movie_Channel/index.m3u8
 https://lovestoriestv-lovestoriestv-1-eu.xiaomi.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="国际",Hallmark
 https://wikinew.newkso.ru/wiki/ustvhallmarkmoviesmisteries/mono.m3u8
-#EXTINF:-1 group-title="国际",Crime Investigation
-http://fl3.moveonjoy.com/Crime_and_Investigation_Network/index.m3u8
 #EXTINF:-1 group-title="国际",American Heroes Channel
 http://fl3.moveonjoy.com/American_Heroes_Channel/index.m3u8
