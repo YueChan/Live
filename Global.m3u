@@ -19,6 +19,14 @@ https://live-hls-web-aje.getaj.net/AJE/01.m3u8
 http://fl5.moveonjoy.com/CNBC/index.m3u8
 #EXTINF:-1 group-title="国际",FOX5
 http://fl1.moveonjoy.com/FOX_EAST/index.m3u8
+#EXTINF:-1 group-title="国际",ESP News
+http://fl3.moveonjoy.com/ESPN_news/index.m3u8
+#EXTINF:-1 group-title="国际",NewsNation 
+http://fl3.moveonjoy.com/国际_NATION/index.m3u8
+#EXTINF:-1 group-title="国际",LiveNow from Fox 
+https://livetv-fa.tubi.video/fox-live-now/index.m3u8
+#EXTINF:-1 tvg-id="CBS.us" tvg-name="CBS" group-title="国际",CBS
+http://fl3.moveonjoy.com/CBS_国际/index.m3u8
 #EXTINF:-1 group-title="国际",FOX Soul
 http://fl1.moveonjoy.com/FOX_SOUL/index.m3u8
 #EXTINF:-1 group-title="国际",Wion News
@@ -105,3 +113,33 @@ https://lovestoriestv-lovestoriestv-1-eu.xiaomi.wurl.tv/playlist.m3u8
 https://wikinew.newkso.ru/wiki/ustvhallmarkmoviesmisteries/mono.m3u8
 #EXTINF:-1 group-title="国际",American Heroes Channel
 http://fl3.moveonjoy.com/American_Heroes_Channel/index.m3u8
+#EXTINF:-1 group-title="国际",Sundance TV
+http://fl3.moveonjoy.com/SUNDANCE/index.m3u8
+#EXTINF:-1 group-title="series;国际",Paramount Network
+http://fl3.moveonjoy.com/PARAMOUNT_NETWORK/index.m3u8
+#EXTINF:-1 group-title="国际",MTV Live
+https://fl5.moveonjoy.com/MTV_LIVE/index.m3u8
+#EXTINF:-1 group-title="国际",VH1
+http://fl3.moveonjoy.com/VH1/index.m3u8
+#EXTINF:-1 group-title="国际",GoUSA TV
+https://brandusa-gousa-1-nl.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="国际",Journy
+https://linear-291.frequency.stream/dist/ovationtv/291/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="国际",Showtime
+http://fl3.moveonjoy.com/SHOWTIME_WEST/index.m3u8
+#EXTINF:-1 group-title="国际",Bravo
+http://fl3.moveonjoy.com/BRAVO/index.m3u8
+#EXTINF:-1 group-title="国际",BET
+http://fl3.moveonjoy.com/BET_EAST/index.m3u8
+#EXTINF:-1 group-title="国际",TV One
+http://fl3.moveonjoy.com/TV_ONE/index.m3u8
+#EXTINF:-1 group-title="国际",Up TV
+http://fl3.moveonjoy.com/Up_Tv/index.m3u8
+#EXTINF:-1 group-title="国际",CMTV
+https://cdn3.wowza.com/5/UWpORHhLSEs5SkJs/costamesa/G0075_002/playlist.m3u8
+#EXTINF:-1 group-title="国际",Tennis Channel
+http://fl3.moveonjoy.com/TENNIS_CHANNEL/index.m3u8
+#EXTINF:-1 group-title="国际",NHL Network
+http://fl3.moveonjoy.com/NHL_NETWORK/index.m3u8
+#EXTINF:-1 group-title="国际",Smithsonian Channel
+http://fl3.moveonjoy.com/SMITHSONIAN_CHANNEL/index.m3u8
