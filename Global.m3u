@@ -12,7 +12,7 @@ https://wikinew.newkso.ru/wiki/ustvabcnews/mono.m3u8
 #EXTINF:-1 group-title="国际",CBS News
 http://fl3.moveonjoy.com/CBS_News/index.m3u8
 #EXTINF:-1 group-title="国际",CGTN
-https://english-livebkws.cgtn.com/live/encgtn.m3u8
+https://english-livebkali.cgtn.com/live/encgtn_0.m3u8
 #EXTINF:-1 group-title="国际",Al Jazerra
 https://live-hls-web-aje.getaj.net/AJE/01.m3u8
 #EXTINF:-1 group-title="国际",CNBC
@@ -22,11 +22,11 @@ http://fl1.moveonjoy.com/FOX_EAST/index.m3u8
 #EXTINF:-1 group-title="国际",ESP News
 http://fl3.moveonjoy.com/ESPN_news/index.m3u8
 #EXTINF:-1 group-title="国际",NewsNation
-http://fl3.moveonjoy.com/%E5%9B%BD%E9%99%85_NATION/index.m3u8
+http://fl3.moveonjoy.com/News_NATION/index.m3u8
 #EXTINF:-1 group-title="国际",LiveNow from Fox
 https://livetv-fa.tubi.video/fox-live-now/index.m3u8
 #EXTINF:-1 tvg-id="CBS.us" tvg-name="CBS" group-title="国际",CBS
-http://fl3.moveonjoy.com/CBS_%E5%9B%BD%E9%99%85/index.m3u8
+http://fl3.moveonjoy.com/CBS_News/index.m3u8
 #EXTINF:-1 group-title="国际",FOX Soul
 http://fl1.moveonjoy.com/FOX_SOUL/index.m3u8
 #EXTINF:-1 group-title="国际",Wion News
@@ -38,7 +38,7 @@ http://91.247.68.229:8000/play/Fashion/index.m3u8
 #EXTINF:-1 group-title="国际",RT Documentary
 https://rt-rtd.rttv.com/live/rtdoc/playlist_4500Kb.m3u8
 #EXTINF:-1 group-title="国际",CGTN Documentary
-https://english-livebkali.cgtn.com/live/doccgtn.m3u8
+https://english-livebkali.cgtn.com/live/doccgtn_0.m3u8
 #EXTINF:-1 group-title="国际",WeTV
 http://fl1.moveonjoy.com/WE_TV/index.m3u8
 #EXTINF:-1 group-title="国际",Start TV
