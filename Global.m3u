@@ -19,8 +19,8 @@ https://live-hls-web-aje.getaj.net/AJE/01.m3u8
 http://fl5.moveonjoy.com/CNBC/index.m3u8
 #EXTINF:-1 group-title="国际",FOX5
 http://fl1.moveonjoy.com/FOX_EAST/index.m3u8
-#EXTINF:-1 group-title="国际",ESP News
-http://fl3.moveonjoy.com/ESPN_news/index.m3u8
+#EXTINF:-1 group-title="国际",ESPN News
+http://fl3.moveonjoy.com/ESPN_NEWS/index.m3u8
 #EXTINF:-1 group-title="国际",NewsNation
 http://fl3.moveonjoy.com/News_NATION/index.m3u8
 #EXTINF:-1 group-title="国际",LiveNow from Fox
