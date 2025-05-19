@@ -22,7 +22,7 @@ http://fl1.moveonjoy.com/FOX_EAST/index.m3u8
 #EXTINF:-1 group-title="国际",ESPN News
 http://fl3.moveonjoy.com/ESPN_NEWS/index.m3u8
 #EXTINF:-1 group-title="国际",NewsNation
-http://fl3.moveonjoy.com/News_NATION/index.m3u8
+http://fl3.moveonjoy.com/NEWS_NATION/index.m3u8
 #EXTINF:-1 group-title="国际",LiveNow from Fox
 https://livetv-fa.tubi.video/fox-live-now/index.m3u8
 #EXTINF:-1 tvg-id="CBS.us" tvg-name="CBS" group-title="国际",CBS
