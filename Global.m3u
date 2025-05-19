@@ -23,8 +23,6 @@ http://fl1.moveonjoy.com/FOX_EAST/index.m3u8
 http://fl3.moveonjoy.com/ESPN_NEWS/index.m3u8
 #EXTINF:-1 group-title="国际",LiveNow from Fox
 https://livetv-fa.tubi.video/fox-live-now/index.m3u8
-#EXTINF:-1 tvg-id="CBS.us" tvg-name="CBS" group-title="国际",CBS
-http://fl3.moveonjoy.com/CBS_News/index.m3u8
 #EXTINF:-1 group-title="国际",FOX Soul
 http://fl1.moveonjoy.com/FOX_SOUL/index.m3u8
 #EXTINF:-1 group-title="国际",Wion News
@@ -159,3 +157,5 @@ http://fl3.moveonjoy.com/EPIX/index.m3u8
 http://fl3.moveonjoy.com/FX_MOVIE/index.m3u8
 #EXTINF:-1 group-title="国际",Outdoor Channel
 http://fl3.moveonjoy.com/OUTDOOR_CHANNEL/index.m3u8
+#EXTINF:-1 group-title="国际",Starz
+http://fl3.moveonjoy.com/STARZ/index.m3u8
