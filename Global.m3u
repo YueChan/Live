@@ -21,8 +21,6 @@ http://fl5.moveonjoy.com/CNBC/index.m3u8
 http://fl1.moveonjoy.com/FOX_EAST/index.m3u8
 #EXTINF:-1 group-title="国际",ESPN News
 http://fl3.moveonjoy.com/ESPN_NEWS/index.m3u8
-#EXTINF:-1 group-title="国际",NewsNation
-http://fl3.moveonjoy.com/NEWS_NATION/index.m3u8
 #EXTINF:-1 group-title="国际",LiveNow from Fox
 https://livetv-fa.tubi.video/fox-live-now/index.m3u8
 #EXTINF:-1 tvg-id="CBS.us" tvg-name="CBS" group-title="国际",CBS
@@ -53,6 +51,8 @@ http://fl1.moveonjoy.com/TCM/index.m3u8
 https://food-eu.xiaomi.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="国际",TNT
 http://fl5.moveonjoy.com/NBA_1/index.m3u8
+#EXTINF:-1 group-title="国际",FYI
+http://fl3.moveonjoy.com/FYI/index.m3u8
 #EXTINF:-1 group-title="国际",Travel XP
 https://travelxp-travelxp-1-eu.xiaomi.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="国际",Cooking Channel
