@@ -11,8 +11,6 @@ http://fl1.moveonjoy.com/ABC_EAST/index.m3u8
 https://wikinew.newkso.ru/wiki/ustvabcnews/mono.m3u8
 #EXTINF:-1 group-title="国际",CBS News
 http://fl3.moveonjoy.com/CBS_News/index.m3u8
-#EXTINF:-1 group-title="国际",CGTN
-https://english-livebkali.cgtn.com/live/encgtn_0.m3u8
 #EXTINF:-1 group-title="国际",Al Jazerra
 https://live-hls-web-aje.getaj.net/AJE/01.m3u8
 #EXTINF:-1 group-title="国际",CNBC
@@ -33,8 +31,6 @@ https://rt-glb.rttv.com/dvr/rtnews/playlist_4500Kb.m3u8
 http://91.247.68.229:8000/play/Fashion/index.m3u8
 #EXTINF:-1 group-title="国际",RT Documentary
 https://rt-rtd.rttv.com/live/rtdoc/playlist_4500Kb.m3u8
-#EXTINF:-1 group-title="国际",CGTN Documentary
-https://english-livebkali.cgtn.com/live/doccgtn_0.m3u8
 #EXTINF:-1 group-title="国际",WeTV
 http://fl1.moveonjoy.com/WE_TV/index.m3u8
 #EXTINF:-1 group-title="国际",Start TV
@@ -159,3 +155,7 @@ http://fl3.moveonjoy.com/FX_MOVIE/index.m3u8
 http://fl3.moveonjoy.com/OUTDOOR_CHANNEL/index.m3u8
 #EXTINF:-1 group-title="国际",Starz
 http://fl3.moveonjoy.com/STARZ/index.m3u8
+#EXTINF:-1 group-title="国际",FXX
+http://fl3.moveonjoy.com/FXX/index.m3u8
+#EXTINF:-1 group-title="国际",SYFY
+http://fl3.moveonjoy.com/SYFY/index.m3u8
