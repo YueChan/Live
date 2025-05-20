@@ -21,6 +21,10 @@ http://fl1.moveonjoy.com/FOX_EAST/index.m3u8
 http://fl3.moveonjoy.com/ESPN_NEWS/index.m3u8
 #EXTINF:-1 group-title="国际",LiveNow from Fox
 https://livetv-fa.tubi.video/fox-live-now/index.m3u8
+#EXTINF:-1 group-title="国际",NHK World
+https://nhkworld-tv.akamaized.net/hls/live/2115640/nhkworld-tv/index_1M.m3u8
+#EXTINF:-1 group-title="国际",Taiwan Plus
+https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap-northeast-1/6282251407001/playlist.m3u8
 #EXTINF:-1 group-title="国际",FOX Soul
 http://fl1.moveonjoy.com/FOX_SOUL/index.m3u8
 #EXTINF:-1 group-title="国际",Wion News
@@ -111,6 +115,8 @@ http://fl3.moveonjoy.com/SUNDANCE/index.m3u8
 http://fl3.moveonjoy.com/PARAMOUNT_NETWORK/index.m3u8
 #EXTINF:-1 group-title="国际",MTV Live
 https://fl5.moveonjoy.com/MTV_LIVE/index.m3u8
+#EXTINF:-1 group-title="国际",MTV East
+http://fl3.moveonjoy.com/MTV/index.m3u8
 #EXTINF:-1 group-title="国际",VH1
 http://fl3.moveonjoy.com/VH1/index.m3u8
 #EXTINF:-1 group-title="国际",GoUSA TV
@@ -159,3 +165,31 @@ http://fl3.moveonjoy.com/STARZ/index.m3u8
 http://fl3.moveonjoy.com/FXX/index.m3u8
 #EXTINF:-1 group-title="国际",SYFY
 http://fl3.moveonjoy.com/SYFY/index.m3u8
+#EXTINF:-1 group-title="国际",CBS Sports  
+http://fl3.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8
+#EXTINF:-1 group-title="国际",Chef Champion 
+https://bozztv.com/gusa/gusa-chefchampion/index.m3u8
+#EXTINF:-1 group-title="国际",Smithsonian  
+http://fl3.moveonjoy.com/SMITHSONIAN_CHANNEL/index.m3u8
+#EXTINF:-1 group-title="国际",Trace Urban
+https://amg01131-tracetv-traceurban-glewed-g705j.amagi.tv/playlist1080p.m3u8
+#EXTINF:-1 group-title="国际",Disney XD 
+http://fl3.moveonjoy.com/DISNEY_XD/index.m3u8
+#EXTINF:-1 group-title="国际",Much 
+http://fl1.moveonjoy.com/MUCH/index.m3u8
+#EXTINF:-1 group-title="国际",Bridezillas
+https://run-br-uk.otteravision.com/run/br_uk/br_uk_720.m3u8
+#EXTINF:-1 group-title="国际",ION TV East
+http://fl3.moveonjoy.com/ION_TV/index.m3u8
+#EXTINF:-1 group-title="国际",Oxygen East
+http://fl3.moveonjoy.com/OXYGEN/index.m3u8
+#EXTINF:-1 group-title="国际",ACCN  
+http://fl3.moveonjoy.com/ACC_NETWORK/index.m3u8
+#EXTINF:-1 group-title="国际",MLB Network
+http://fl3.moveonjoy.com/MLB_NETWORK/index.m3u8
+#EXTINF:-1 group-title="国际",Sportsman Channel
+http://fl3.moveonjoy.com/SPORTSMAN_CHANNEL/index.m3u8
+#EXTINF:-1 group-title="国际",ESPN U 
+http://fl3.moveonjoy.com/ESPN_U/index.m3u8
+#EXTINF:-1 group-title="国际",SportsNet  
+http://fl3.moveonjoy.com/SNY/index.m3u8
