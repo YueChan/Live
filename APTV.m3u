@@ -133,13 +133,13 @@ https://livestream-bt.nmtv.cn/nmtv/2319general.m3u8?txSecret=c7b5c515d2bb6df4424
 https://livestream-bt.nmtv.cn/nmtv/2320general.m3u8?txSecret=4d368a175afa19737a9f5be10af24fe2&txTime=771E8800
 #EXTINF:-1 tvg-id="重温经典" tvg-name="重温经典" group-title="数字频道",重温经典
 http://ali.hlspull.yximgs.com/live/awei_cwjd.flv
-#EXTINF:-1 group-title="数字频道",求索纪录
+#EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/求索纪录.png" group-title="数字频道",求索纪录
 http://[2409:8087:1a01:df::7005]/PLTV/88888888/224/3221225713/main.m3u8
-#EXTINF:-1 group-title="数字频道",求索生活
+#EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/求索生活.png" group-title="数字频道",求索生活
 http://[2409:8087:1a01:df::7005]/PLTV/88888888/224/3221225715/main.m3u8
-#EXTINF:-1 group-title="数字频道",求索科学
+#EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/求索科学.png" group-title="数字频道",求索科学
 http://[2409:8087:1a01:df::7005]/PLTV/88888888/224/3221225728/main.m3u8
-#EXTINF:-1 group-title="数字频道",求索动物
+#EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/求索动物.png" group-title="数字频道",求索动物
 http://[2409:8087:1a01:df::7005]/PLTV/88888888/224/3221225730/main.m3u8
 #EXTINF:-1 group-title="数字频道",黑莓电影
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/index.m3u8
