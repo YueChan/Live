@@ -85,6 +85,8 @@ https://pac12-samsungus.amagi.tv/playlist.m3u8
 http://fl3.moveonjoy.com/COZI_TV/index.m3u8
 #EXTINF:-1 group-title="国际",ION Plus
 https://fl3.moveonjoy.com/ION_Plus/index.m3u8
+#EXTINF:-1 group-title="国际",ION TV  
+http://fl3.moveonjoy.com/ION_TV/index.m3u8
 #EXTINF:-1 group-title="国际",MSG
 http://fl3.moveonjoy.com/MSG/index.m3u8
 #EXTINF:-1 group-title="国际",TLC
@@ -177,8 +179,6 @@ http://fl3.moveonjoy.com/DISNEY_XD/index.m3u8
 http://fl1.moveonjoy.com/MUCH/index.m3u8
 #EXTINF:-1 group-title="国际",Bridezillas
 https://run-br-uk.otteravision.com/run/br_uk/br_uk_720.m3u8
-#EXTINF:-1 group-title="国际",ION TV East
-http://fl3.moveonjoy.com/ION_TV/index.m3u8
 #EXTINF:-1 group-title="国际",Oxygen East
 http://fl3.moveonjoy.com/OXYGEN/index.m3u8
 #EXTINF:-1 group-title="国际",ACCN  
@@ -193,9 +193,5 @@ http://fl3.moveonjoy.com/ESPN_U/index.m3u8
 http://fl3.moveonjoy.com/SNY/index.m3u8
 #EXTINF:-1 group-title="国际",Tastemade
 https://tastemade-xumo.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="国际",ION TV
-https://d1mumb5jst6zw0.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-rqzc6u2smk8dg/ion.m3u8
-#EXTINF:-1 group-title="国际",Humor Mill
-https://damkf751d85s1.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/HumorMill-DistroTV/152.m3u8
 #EXTINF:-1 group-title="国际",Pop Up
 https://live-pop-ssai.simplestreamcdn.com/v1/master/774d979dd66704abea7c5b62cb34c6815fda0d35/narrative-popup-live-frequency/playlist.m3u8
