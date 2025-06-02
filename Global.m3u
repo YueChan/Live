@@ -197,3 +197,5 @@ https://tastemade-xumo.amagi.tv/playlist.m3u8
 https://live-pop-ssai.simplestreamcdn.com/v1/master/774d979dd66704abea7c5b62cb34c6815fda0d35/narrative-popup-live-frequency/playlist.m3u8
 #EXTINF:-1 group-title="国际",World Poker Tour
 https://dth07jsr8atug.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/WPT-Plex/171.m3u8
+#EXTINF:-1 group-title="国际",SportsGrid
+https://amg00315-sportsgrid-firetv.amagi.tv/playlist.m3u8
