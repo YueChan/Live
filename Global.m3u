@@ -79,8 +79,8 @@ http://fl3.moveonjoy.com/CMT/index.m3u8
 http://fl3.moveonjoy.com/Comedy_Central/index.m3u8
 #EXTINF:-1 group-title="国际",COMET
 http://fl3.moveonjoy.com/COMET/index.m3u8
-#EXTINF:-1 group-title="国际",Cooking
-http://fl3.moveonjoy.com/COOKING_CHANNEL/index.m3u8
+#EXTINF:-1 group-title="国际",Pac-12 Insider
+https://pac12-samsungus.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="国际",COZI TV
 http://fl3.moveonjoy.com/COZI_TV/index.m3u8
 #EXTINF:-1 group-title="国际",ION Plus
