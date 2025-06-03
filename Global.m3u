@@ -5,8 +5,6 @@ https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_ch
 https://d3696l48vwq25d.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-0g2918mubifjw/index.m3u8
 #EXTINF:-1 group-title="国际",CNA
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
-#EXTINF:-1 group-title="国际",ABC7
-http://fl1.moveonjoy.com/ABC_EAST/index.m3u8
 #EXTINF:-1 group-title="国际",ABC News Live
 https://wikinew.newkso.ru/wiki/ustvabcnews/mono.m3u8
 #EXTINF:-1 group-title="国际",CBS News
@@ -21,6 +19,8 @@ http://fl1.moveonjoy.com/FOX_EAST/index.m3u8
 http://fl3.moveonjoy.com/ESPN_NEWS/index.m3u8
 #EXTINF:-1 group-title="国际",LiveNow from Fox
 https://livetv-fa.tubi.video/fox-live-now/index.m3u8
+#EXTINF:-1 group-title="国际",ABC Australia
+https://abc-news-dmd-streams-1.akamaized.net/out/v1/701126012d044971b3fa89406a440133/index.m3u8
 #EXTINF:-1 group-title="国际",NHK World
 https://nhkworld-tv.akamaized.net/hls/live/2115640/nhkworld-tv/index_1M.m3u8
 #EXTINF:-1 group-title="国际",Newsmax 2
@@ -37,8 +37,6 @@ https://rt-glb.rttv.com/dvr/rtnews/playlist_4500Kb.m3u8
 http://91.247.68.229:8000/play/Fashion/index.m3u8
 #EXTINF:-1 group-title="国际",RT Documentary
 https://rt-rtd.rttv.com/live/rtdoc/playlist_4500Kb.m3u8
-#EXTINF:-1 group-title="国际",WeTV
-http://fl1.moveonjoy.com/WE_TV/index.m3u8
 #EXTINF:-1 group-title="国际",Start TV
 http://fl3.moveonjoy.com/Start_Tv/index.m3u8
 #EXTINF:-1 group-title="国际",UP TV
@@ -53,8 +51,6 @@ http://fl5.moveonjoy.com/NBA_1/index.m3u8
 http://fl3.moveonjoy.com/FYI/index.m3u8
 #EXTINF:-1 group-title="国际",Travel XP
 https://travelxp-travelxp-1-eu.xiaomi.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="国际",Cooking Channel
-http://fl3.moveonjoy.com/COOKING_CHANNEL/index.m3u8
 #EXTINF:-1 group-title="国际",Love Nature
 https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 #EXTINF:-1 group-title="国际",California Music Channel
@@ -85,7 +81,7 @@ https://pac12-samsungus.amagi.tv/playlist.m3u8
 http://fl3.moveonjoy.com/COZI_TV/index.m3u8
 #EXTINF:-1 group-title="国际",ION Plus
 https://fl3.moveonjoy.com/ION_Plus/index.m3u8
-#EXTINF:-1 group-title="国际",ION TV  
+#EXTINF:-1 group-title="国际",ION TV
 http://fl3.moveonjoy.com/ION_TV/index.m3u8
 #EXTINF:-1 group-title="国际",MSG
 http://fl3.moveonjoy.com/MSG/index.m3u8
@@ -109,10 +105,6 @@ https://wikinew.newkso.ru/wiki/ustvlifetime/mono.m3u8
 http://fl3.moveonjoy.com/Sony_Movie_Channel/index.m3u8
 #EXTINF:-1 group-title="国际",LoveStories
 https://lovestoriestv-lovestoriestv-1-eu.xiaomi.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="国际",Sundance TV
-http://fl3.moveonjoy.com/SUNDANCE/index.m3u8
-#EXTINF:-1 group-title="国际",Paramount Network
-http://fl3.moveonjoy.com/PARAMOUNT_NETWORK/index.m3u8
 #EXTINF:-1 group-title="国际",MTV Live
 https://fl5.moveonjoy.com/MTV_LIVE/index.m3u8
 #EXTINF:-1 group-title="国际",MTV East
@@ -139,8 +131,6 @@ https://cdn3.wowza.com/5/UWpORHhLSEs5SkJs/costamesa/G0075_002/playlist.m3u8
 http://fl3.moveonjoy.com/TENNIS_CHANNEL/index.m3u8
 #EXTINF:-1 group-title="国际",Loupe 4K
 https://d2dw21aq0j0l5c.cloudfront.net/playlist.m3u8
-#EXTINF:-1 group-title="国际",National Geographic
-http://fl3.moveonjoy.com/National_Geographic/index.m3u8
 #EXTINF:-1 group-title="国际",National Geographic Wild
 http://fl3.moveonjoy.com/Nat_Geo_Wild/index.m3u8
 #EXTINF:-1 group-title="国际",BBC America
@@ -165,31 +155,29 @@ http://fl3.moveonjoy.com/STARZ/index.m3u8
 http://fl3.moveonjoy.com/FXX/index.m3u8
 #EXTINF:-1 group-title="国际",SYFY
 http://fl3.moveonjoy.com/SYFY/index.m3u8
-#EXTINF:-1 group-title="国际",CBS Sports  
+#EXTINF:-1 group-title="国际",CBS Sports
 http://fl3.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8
-#EXTINF:-1 group-title="国际",Chef Champion 
+#EXTINF:-1 group-title="国际",Chef Champion
 https://bozztv.com/gusa/gusa-chefchampion/index.m3u8
-#EXTINF:-1 group-title="国际",Smithsonian  
+#EXTINF:-1 group-title="国际",Smithsonian
 http://fl3.moveonjoy.com/SMITHSONIAN_CHANNEL/index.m3u8
 #EXTINF:-1 group-title="国际",Trace Urban
 https://amg01131-tracetv-traceurban-glewed-g705j.amagi.tv/playlist1080p.m3u8
-#EXTINF:-1 group-title="国际",Disney XD 
-http://fl3.moveonjoy.com/DISNEY_XD/index.m3u8
-#EXTINF:-1 group-title="国际",Much 
+#EXTINF:-1 group-title="国际",Much
 http://fl1.moveonjoy.com/MUCH/index.m3u8
 #EXTINF:-1 group-title="国际",Bridezillas
 https://run-br-uk.otteravision.com/run/br_uk/br_uk_720.m3u8
 #EXTINF:-1 group-title="国际",Oxygen East
 http://fl3.moveonjoy.com/OXYGEN/index.m3u8
-#EXTINF:-1 group-title="国际",ACCN  
+#EXTINF:-1 group-title="国际",ACCN
 http://fl3.moveonjoy.com/ACC_NETWORK/index.m3u8
 #EXTINF:-1 group-title="国际",MLB Network
 http://fl3.moveonjoy.com/MLB_NETWORK/index.m3u8
 #EXTINF:-1 group-title="国际",Sportsman Channel
 http://fl3.moveonjoy.com/SPORTSMAN_CHANNEL/index.m3u8
-#EXTINF:-1 group-title="国际",ESPN U 
+#EXTINF:-1 group-title="国际",ESPN U
 http://fl3.moveonjoy.com/ESPN_U/index.m3u8
-#EXTINF:-1 group-title="国际",SportsNet  
+#EXTINF:-1 group-title="国际",SportsNet
 http://fl3.moveonjoy.com/SNY/index.m3u8
 #EXTINF:-1 group-title="国际",Tastemade
 https://tastemade-xumo.amagi.tv/playlist.m3u8
@@ -197,5 +185,17 @@ https://tastemade-xumo.amagi.tv/playlist.m3u8
 https://live-pop-ssai.simplestreamcdn.com/v1/master/774d979dd66704abea7c5b62cb34c6815fda0d35/narrative-popup-live-frequency/playlist.m3u8
 #EXTINF:-1 group-title="国际",World Poker Tour
 https://dth07jsr8atug.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/WPT-Plex/171.m3u8
-#EXTINF:-1 group-title="国际",SportsGrid
-https://amg00315-sportsgrid-firetv.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="国际",INTV  
+http://tv1.intv.mk:1935/live/intv/index.m3u8
+#EXTINF:-1 group-title="国际",Folk Klub  
+http://tv1.intv.mk:1935/live2/folkklub/index.m3u8
+#EXTINF:-1 group-title="国际",MSG
+http://fl3.moveonjoy.com/MSG/index.m3u8
+#EXTINF:-1 group-title="国际",Wild TV
+https://dfhsahpa45kk2.cloudfront.net/scheduler/scheduleMaster/476.m3u8
+#EXTINF:-1 group-title="国际",Nickelodeon
+http://23.237.104.106:8080/USA_NICKELODEON/index.m3u8
+#EXTINF:-1 group-title="国际",History
+http://23.237.104.106:8080/USA_HISTORY/index.m3u8
+#EXTINF:-1 group-title="国际",MLB Network
+https://fl3.moveonjoy.com/MLB_NETWORK/index.m3u8
