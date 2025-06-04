@@ -62,7 +62,7 @@ https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="国际",AMC
 http://fl5.moveonjoy.com/AMC_NETWORK/index.m3u8
 #EXTINF:-1 group-title="国际",Aspire
-http://fl3.moveonjoy.com/Aspire/index.m3u8
+http://143.244.60.30/Aspire/index.m3u8
 #EXTINF:-1 group-title="国际",Bounce
 http://fl3.moveonjoy.com/BOUNCE_TV/index.m3u8
 #EXTINF:-1 group-title="国际",Buzzr
@@ -134,7 +134,7 @@ https://d2dw21aq0j0l5c.cloudfront.net/playlist.m3u8
 #EXTINF:-1 group-title="国际",National Geographic Wild
 http://fl3.moveonjoy.com/Nat_Geo_Wild/index.m3u8
 #EXTINF:-1 group-title="国际",BBC America
-http://fl3.moveonjoy.com/BBC_AMERICA/index.m3u8
+http://143.244.60.30/Animal_Planet/index.m3u8
 #EXTINF:-1 group-title="国际",Disney Junior
 http://fl3.moveonjoy.com/DISNEY_JR/index.m3u8
 #EXTINF:-1 group-title="国际",Nick Jr.
@@ -229,3 +229,11 @@ http://23.237.104.106:8080/USA_NAT_GEO/index.m3u8
 http://143.244.60.30/NEWS_NATION/index.m3u8
 #EXTINF:-1 group-title="国际",The Cooking Channel
 http://23.237.104.106:8080/USA_COOKING/index.m3u8
+#EXTINF:-1 group-title="国际",Animal Planet
+http://143.244.60.30/Animal_Planet/index.m3u8
+#EXTINF:-1 group-title="国际",DIY
+http://143.244.60.30/DIY/index.m3u8
+#EXTINF:-1 group-title="国际",ESPN 2
+http://143.244.60.30/ESPN_2/index.m3u8
+#EXTINF:-1 group-title="国际",LMN
+http://143.244.60.30/LIFETIME_MOVIE_NETWORK/index.m3u8
