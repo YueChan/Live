@@ -195,13 +195,13 @@ http://143.244.60.30/INSP/index.m3u8
 http://143.244.60.30/MTV/index.m3u8
 #EXTINF:-1 group-title="国际",MTV Live
 http://143.244.60.30/MTV_LIVE/index.m3u8
-#EXTINF:-1 group-title="Sports",NHL Network
+#EXTINF:-1 group-title="国际",NHL Network
 http://143.244.60.30/NHL_NETWORK/index.m3u8
 #EXTINF:-1 group-title="国际",NickToons
 http://143.244.60.30/NICKTOONS/index.m3u8
 #EXTINF:-1 group-title="国际",Oprah Winfrey Network
 http://143.244.60.30/OWN/index.m3u8
-#EXTINF:-1 group-title="Sports",OUTSIDE TV
+#EXTINF:-1 group-title="国际",OUTSIDE TV
 http://143.244.60.30/OUTSIDE_TV/index.m3u8
 #EXTINF:-1 group-title="国际",Oxygen
 http://143.244.60.30/OXYGEN/index.m3u8
