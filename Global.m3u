@@ -81,8 +81,8 @@ https://pac12-samsungus.amagi.tv/playlist.m3u8
 http://fl3.moveonjoy.com/COZI_TV/index.m3u8
 #EXTINF:-1 group-title="国际",ION Plus
 https://fl3.moveonjoy.com/ION_Plus/index.m3u8
-#EXTINF:-1 group-title="国际",ION TV
-http://fl3.moveonjoy.com/ION_TV/index.m3u8
+#EXTINF:-1 group-title="国际",Vice TV
+http://23.237.104.106:8080/USA_VICETV/index.m3u8
 #EXTINF:-1 group-title="国际",MSG
 http://fl3.moveonjoy.com/MSG/index.m3u8
 #EXTINF:-1 group-title="国际",TLC
