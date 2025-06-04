@@ -77,8 +77,6 @@ http://fl3.moveonjoy.com/COZI_TV/index.m3u8
 https://fl3.moveonjoy.com/ION_Plus/index.m3u8
 #EXTINF:-1 group-title="国际",ION
 http://143.244.60.30/ION_TV/index.m3u8
-#EXTINF:-1 group-title="国际",MSG
-http://fl3.moveonjoy.com/MSG/index.m3u8
 #EXTINF:-1 group-title="国际",TLC
 https://wikinew.newkso.ru/wiki/ustvtlc/mono.m3u8
 #EXTINF:-1 group-title="国际",YES
