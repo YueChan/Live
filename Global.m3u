@@ -205,8 +205,6 @@ http://23.237.104.106:8080/USA_DISNEY_XD/index.m3u8
 http://23.237.104.106:8080/USA_FOOD_NETWORK/index.m3u8
 #EXTINF:-1 group-title="国际",HBO
 http://23.237.104.106:8080/USA_HBO/index.m3u8
-#EXTINF:-1 group-title="国际",HBO Comedy
-http://23.237.104.106:8080/USA_HBO_COMEDY/index.m3u8
 #EXTINF:-1 group-title="国际",HBO Family
 http://23.237.104.106:8080/USA_HBO_FAMILY/index.m3u8
 #EXTINF:-1 group-title="国际",HBO Signature
@@ -217,8 +215,6 @@ http://23.237.104.106:8080/USA_HBO_ZONE/index.m3u8
 http://23.237.104.106:8080/USA_HBO2/index.m3u8
 #EXTINF:-1 group-title="国际",HGTV
 http://23.237.104.106:8080/USA_HGTV/index.m3u8
-#EXTINF:-1 group-title="国际",HLN
-http://143.244.60.30/HLN/index.m3u8
 #EXTINF:-1 group-title="国际",National Geographic
 http://23.237.104.106:8080/USA_NAT_GEO/index.m3u8
 #EXTINF:-1 group-title="国际",NewsNation
@@ -239,3 +235,7 @@ http://143.244.60.30/BEIN_SPORTS/index.m3u8
 http://23.237.104.106:8080/USA_FS1/index.m3u8
 #EXTINF:-1 group-title="国际",Fox Sport 2
 http://23.237.104.106:8080/USA_FS2/index.m3u8
+#EXTINF:-1 group-title="国际",GRIT TV
+http://143.244.60.30/GRIT_TV/index.m3u8
+#EXTINF:-1 group-title="国际",Hallmark 
+http://143.244.60.30/HALLMARK_CHANNEL/index.m3u8
