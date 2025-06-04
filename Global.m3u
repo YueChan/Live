@@ -155,7 +155,7 @@ http://fl3.moveonjoy.com/MLB_NETWORK/index.m3u8
 http://fl3.moveonjoy.com/SPORTSMAN_CHANNEL/index.m3u8
 #EXTINF:-1 group-title="国际",ESPN U
 http://fl3.moveonjoy.com/ESPN_U/index.m3u8
-#EXTINF:-1 group-title="国际",SportsNet
+#EXTINF:-1 group-title="国际",SportsNe New York
 http://fl3.moveonjoy.com/SNY/index.m3u8
 #EXTINF:-1 group-title="国际",Tastemade
 https://tastemade-xumo.amagi.tv/playlist.m3u8
@@ -219,3 +219,15 @@ http://143.244.60.30/STARZ_ENCORE_ACTION/index.m3u8
 http://143.244.60.30/VICELAND/index.m3u8
 #EXTINF:-1 group-title="国际",WGN
 http://143.244.60.30/WGN/index.m3u8
+#EXTINF:-1 group-title="国际",TSN 1
+http://fl5.moveonjoy.com/TSN_1/index.m3u8
+#EXTINF:-1 group-title="国际",TSN 2
+http://fl5.moveonjoy.com/TSN_2/index.m3u8
+#EXTINF:-1 group-title="国际",TSN 3
+http://fl5.moveonjoy.com/TSN_3/index.m3u8
+#EXTINF:-1 group-title="国际",TSN 4
+http://fl5.moveonjoy.com/TSN_4/index.m3u8
+#EXTINF:-1 group-title="国际",TSN 5
+http://fl5.moveonjoy.com/TSN_5/index.m3u8
+#EXTINF:-1 group-title="国际",FoxBusiness
+http://41.205.93.154/FOXBUSINESS/index.m3u8
