@@ -7,8 +7,12 @@ https://d3696l48vwq25d.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 #EXTINF:-1 group-title="国际",ABC News Live
 https://wikinew.newkso.ru/wiki/ustvabcnews/mono.m3u8
+#EXTINF:-1 group-title="国际",AlJazeera
+http://live-hls-web-aje.getaj.net/AJE/01.m3u8
 #EXTINF:-1 group-title="国际",CBS News
 http://fl3.moveonjoy.com/CBS_News/index.m3u8
+#EXTINF:-1 group-title="国际",CBC News
+https://dbrb49pjoymg4.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99991276
 #EXTINF:-1 group-title="国际",CNBC
 http://fl5.moveonjoy.com/CNBC/index.m3u8
 #EXTINF:-1 group-title="国际",FOX5
@@ -177,3 +181,41 @@ http://143.244.60.30/BEIN_SPORTS/index.m3u8
 http://143.244.60.30/GRIT_TV/index.m3u8
 #EXTINF:-1 group-title="国际",Hallmark 
 http://143.244.60.30/HALLMARK_CHANNEL/index.m3u8
+#EXTINF:-1 group-title="国际",Wild Earth
+https://wildearth-plex.amagi.tv/masterR1080p.m3u8
+#EXTINF:-1 group-title="国际",Destination America
+http://143.244.60.30/Destination_America/index.m3u8
+#EXTINF:-1 group-title="国际",Discovery Science
+http://143.244.60.30/Discovery_Science/index.m3u8
+#EXTINF:-1 group-title="国际",HGTV
+http://143.244.60.30/HGTV/index.m3u8
+#EXTINF:-1 group-title="国际",INSP TV
+http://143.244.60.30/INSP/index.m3u8
+#EXTINF:-1 group-title="国际",MTV
+http://143.244.60.30/MTV/index.m3u8
+#EXTINF:-1 group-title="国际",MTV Live
+http://143.244.60.30/MTV_LIVE/index.m3u8
+#EXTINF:-1 group-title="Sports",NHL Network
+http://143.244.60.30/NHL_NETWORK/index.m3u8
+#EXTINF:-1 group-title="国际",NickToons
+http://143.244.60.30/NICKTOONS/index.m3u8
+#EXTINF:-1 group-title="国际",Oprah Winfrey Network
+http://143.244.60.30/OWN/index.m3u8
+#EXTINF:-1 group-title="Sports",OUTSIDE TV
+http://143.244.60.30/OUTSIDE_TV/index.m3u8
+#EXTINF:-1 group-title="国际",Oxygen
+http://143.244.60.30/OXYGEN/index.m3u8
+#EXTINF:-1 group-title="国际",Paramount Network
+http://143.244.60.30/PARAMOUNT_NETWORK/index.m3u8
+#EXTINF:-1 group-title="国际",PopTV
+http://cdn1host.online:2999/kratorius/opLcbhlXaT/226
+#EXTINF:-1 group-title="国际",Starz Comedy
+http://143.244.60.30/STARZ_COMEDY/index.m3u8
+#EXTINF:-1 group-title="国际",Starz Edge
+http://143.244.60.30/STARZ_EDGE/index.m3u8
+#EXTINF:-1 group-title="国际",Starz Encore Action
+http://143.244.60.30/STARZ_ENCORE_ACTION/index.m3u8
+#EXTINF:-1 group-title="国际",Vice
+http://143.244.60.30/VICELAND/index.m3u8
+#EXTINF:-1 group-title="国际",WGN
+http://143.244.60.30/WGN/index.m3u8
