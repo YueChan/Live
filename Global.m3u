@@ -185,10 +185,6 @@ https://tastemade-xumo.amagi.tv/playlist.m3u8
 https://live-pop-ssai.simplestreamcdn.com/v1/master/774d979dd66704abea7c5b62cb34c6815fda0d35/narrative-popup-live-frequency/playlist.m3u8
 #EXTINF:-1 group-title="国际",World Poker Tour
 https://dth07jsr8atug.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/WPT-Plex/171.m3u8
-#EXTINF:-1 group-title="国际",INTV  
-http://tv1.intv.mk:1935/live/intv/index.m3u8
-#EXTINF:-1 group-title="国际",Folk Klub  
-http://tv1.intv.mk:1935/live2/folkklub/index.m3u8
 #EXTINF:-1 group-title="国际",MSG
 http://fl3.moveonjoy.com/MSG/index.m3u8
 #EXTINF:-1 group-title="国际",Wild TV
@@ -237,3 +233,9 @@ http://143.244.60.30/DIY/index.m3u8
 http://143.244.60.30/ESPN_2/index.m3u8
 #EXTINF:-1 group-title="国际",LMN
 http://143.244.60.30/LIFETIME_MOVIE_NETWORK/index.m3u8
+#EXTINF:-1 group-title="国际",BEIN Sports
+http://143.244.60.30/BEIN_SPORTS/index.m3u8
+#EXTINF:-1 group-title="国际",Fox Sport 1
+http://23.237.104.106:8080/USA_FS1/index.m3u8
+#EXTINF:-1 group-title="国际",Fox Sport 2
+http://23.237.104.106:8080/USA_FS2/index.m3u8
