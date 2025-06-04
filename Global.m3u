@@ -9,8 +9,6 @@ https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m
 https://wikinew.newkso.ru/wiki/ustvabcnews/mono.m3u8
 #EXTINF:-1 group-title="国际",CBS News
 http://fl3.moveonjoy.com/CBS_News/index.m3u8
-#EXTINF:-1 group-title="国际",Al Jazerra
-https://live-hls-web-aje.getaj.net/AJE/01.m3u8
 #EXTINF:-1 group-title="国际",CNBC
 http://fl5.moveonjoy.com/CNBC/index.m3u8
 #EXTINF:-1 group-title="国际",FOX5
@@ -39,8 +37,6 @@ http://91.247.68.229:8000/play/Fashion/index.m3u8
 https://rt-rtd.rttv.com/live/rtdoc/playlist_4500Kb.m3u8
 #EXTINF:-1 group-title="国际",Start TV
 http://fl3.moveonjoy.com/Start_Tv/index.m3u8
-#EXTINF:-1 group-title="国际",UP TV
-http://fl3.moveonjoy.com/Up_Tv/index.m3u8
 #EXTINF:-1 group-title="国际",TBS
 http://fl5.moveonjoy.com/NHL_8/index.m3u8
 #EXTINF:-1 group-title="国际",TCM
@@ -67,8 +63,6 @@ http://143.244.60.30/Aspire/index.m3u8
 http://fl3.moveonjoy.com/BOUNCE_TV/index.m3u8
 #EXTINF:-1 group-title="国际",Buzzr
 http://fl3.moveonjoy.com/Buzzr/index.m3u8
-#EXTINF:-1 group-title="国际",Cleo TV
-http://fl3.moveonjoy.com/Cleo_TV/index.m3u8
 #EXTINF:-1 group-title="国际",CMT
 http://fl3.moveonjoy.com/CMT/index.m3u8
 #EXTINF:-1 group-title="国际",Comedy Central
@@ -95,8 +89,6 @@ http://fl5.moveonjoy.com/NBA_TV/index.m3u8
 https://x4new.newkso.ru/x4/skymix/mono.m3u8
 #EXTINF:-1 group-title="国际",Discovery Channel
 http://fl3.moveonjoy.com/Discovery_Channel/index.m3u8
-#EXTINF:-1 group-title="国际",Discovery Science
-http://fl3.moveonjoy.com/Discovery_Science/index.m3u8
 #EXTINF:-1 group-title="国际",Lifetime
 https://wikinew.newkso.ru/wiki/ustvlifetime/mono.m3u8
 #EXTINF:-1 group-title="国际",Sony Movie
@@ -107,8 +99,6 @@ https://lovestoriestv-lovestoriestv-1-eu.xiaomi.wurl.tv/playlist.m3u8
 http://fl3.moveonjoy.com/VH1/index.m3u8
 #EXTINF:-1 group-title="国际",GoUSA TV
 https://brandusa-gousa-1-nl.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="国际",Journy
-https://linear-291.frequency.stream/dist/ovationtv/291/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="国际",Showtime
 http://fl3.moveonjoy.com/SHOWTIME_WEST/index.m3u8
 #EXTINF:-1 group-title="国际",Bravo
@@ -117,14 +107,10 @@ http://fl3.moveonjoy.com/BRAVO/index.m3u8
 http://fl3.moveonjoy.com/BET_EAST/index.m3u8
 #EXTINF:-1 group-title="国际",TV One
 http://fl3.moveonjoy.com/TV_ONE/index.m3u8
-#EXTINF:-1 group-title="国际",Up TV
-http://fl3.moveonjoy.com/Up_Tv/index.m3u8
 #EXTINF:-1 group-title="国际",CMTV
 https://cdn3.wowza.com/5/UWpORHhLSEs5SkJs/costamesa/G0075_002/playlist.m3u8
 #EXTINF:-1 group-title="国际",Tennis Channel
 http://fl3.moveonjoy.com/TENNIS_CHANNEL/index.m3u8
-#EXTINF:-1 group-title="国际",Loupe 4K
-https://d2dw21aq0j0l5c.cloudfront.net/playlist.m3u8
 #EXTINF:-1 group-title="国际",National Geographic Wild
 http://fl3.moveonjoy.com/Nat_Geo_Wild/index.m3u8
 #EXTINF:-1 group-title="国际",BBC America
@@ -137,8 +123,6 @@ http://fl3.moveonjoy.com/NICK_JR/index.m3u8
 http://fl5.moveonjoy.com/DISNEY/index.m3u8
 #EXTINF:-1 group-title="国际",OuterMax
 http://fl3.moveonjoy.com/OUTER_MAX/index.m3u8
-#EXTINF:-1 group-title="国际",MGM+
-http://fl3.moveonjoy.com/EPIX/index.m3u8
 #EXTINF:-1 group-title="国际",FXM
 http://fl3.moveonjoy.com/FX_MOVIE/index.m3u8
 #EXTINF:-1 group-title="国际",Outdoor Channel
@@ -155,8 +139,6 @@ http://fl3.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8
 https://bozztv.com/gusa/gusa-chefchampion/index.m3u8
 #EXTINF:-1 group-title="国际",Smithsonian
 http://fl3.moveonjoy.com/SMITHSONIAN_CHANNEL/index.m3u8
-#EXTINF:-1 group-title="国际",Trace Urban
-https://amg01131-tracetv-traceurban-glewed-g705j.amagi.tv/playlist1080p.m3u8
 #EXTINF:-1 group-title="国际",Much
 http://fl1.moveonjoy.com/MUCH/index.m3u8
 #EXTINF:-1 group-title="国际",Bridezillas
@@ -175,8 +157,6 @@ http://fl3.moveonjoy.com/ESPN_U/index.m3u8
 http://fl3.moveonjoy.com/SNY/index.m3u8
 #EXTINF:-1 group-title="国际",Tastemade
 https://tastemade-xumo.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="国际",Pop Up
-https://live-pop-ssai.simplestreamcdn.com/v1/master/774d979dd66704abea7c5b62cb34c6815fda0d35/narrative-popup-live-frequency/playlist.m3u8
 #EXTINF:-1 group-title="国际",World Poker Tour
 https://dth07jsr8atug.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/WPT-Plex/171.m3u8
 #EXTINF:-1 group-title="国际",MSG
@@ -191,8 +171,6 @@ http://143.244.60.30/CARTOON_NETWORK/index.m3u8
 http://143.244.60.30/Animal_Planet/index.m3u8
 #EXTINF:-1 group-title="国际",DIY
 http://143.244.60.30/DIY/index.m3u8
-#EXTINF:-1 group-title="国际",ESPN 2
-http://143.244.60.30/ESPN_2/index.m3u8
 #EXTINF:-1 group-title="国际",LMN
 http://143.244.60.30/LIFETIME_MOVIE_NETWORK/index.m3u8
 #EXTINF:-1 group-title="国际",BEIN Sports
