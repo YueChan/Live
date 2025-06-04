@@ -83,8 +83,6 @@ http://fl3.moveonjoy.com/COZI_TV/index.m3u8
 https://fl3.moveonjoy.com/ION_Plus/index.m3u8
 #EXTINF:-1 group-title="国际",ION
 http://143.244.60.30/ION_TV/index.m3u8
-#EXTINF:-1 group-title="国际",Vice TV
-http://23.237.104.106:8080/USA_VICETV/index.m3u8
 #EXTINF:-1 group-title="国际",MSG
 http://fl3.moveonjoy.com/MSG/index.m3u8
 #EXTINF:-1 group-title="国际",TLC
@@ -105,10 +103,6 @@ https://wikinew.newkso.ru/wiki/ustvlifetime/mono.m3u8
 http://fl3.moveonjoy.com/Sony_Movie_Channel/index.m3u8
 #EXTINF:-1 group-title="国际",LoveStories
 https://lovestoriestv-lovestoriestv-1-eu.xiaomi.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="国际",MTV Live
-http://23.237.104.106:8080/USA_MTV_LIVE/index.m3u8
-#EXTINF:-1 group-title="国际",MTV East
-http://23.237.104.106:8080/USA_MTV/index.m3u8
 #EXTINF:-1 group-title="国际",VH1
 http://fl3.moveonjoy.com/VH1/index.m3u8
 #EXTINF:-1 group-title="国际",GoUSA TV
@@ -189,38 +183,10 @@ https://dth07jsr8atug.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25
 http://fl3.moveonjoy.com/MSG/index.m3u8
 #EXTINF:-1 group-title="国际",Wild TV
 https://dfhsahpa45kk2.cloudfront.net/scheduler/scheduleMaster/476.m3u8
-#EXTINF:-1 group-title="国际",Nickelodeon
-http://23.237.104.106:8080/USA_NICKELODEON/index.m3u8
-#EXTINF:-1 group-title="国际",History
-http://23.237.104.106:8080/USA_HISTORY/index.m3u8
 #EXTINF:-1 group-title="国际",MLB Network
 https://fl3.moveonjoy.com/MLB_NETWORK/index.m3u8
 #EXTINF:-1 group-title="国际",Cartoon Network
 http://143.244.60.30/CARTOON_NETWORK/index.m3u8
-#EXTINF:-1 group-title="国际",CINEMAX
-http://23.237.104.106:8080/USA_CINEMAX/index.m3u8
-#EXTINF:-1 group-title="国际",Disney XD
-http://23.237.104.106:8080/USA_DISNEY_XD/index.m3u8
-#EXTINF:-1 group-title="国际",Food Network
-http://23.237.104.106:8080/USA_FOOD_NETWORK/index.m3u8
-#EXTINF:-1 group-title="国际",HBO
-http://23.237.104.106:8080/USA_HBO/index.m3u8
-#EXTINF:-1 group-title="国际",HBO Family
-http://23.237.104.106:8080/USA_HBO_FAMILY/index.m3u8
-#EXTINF:-1 group-title="国际",HBO Signature
-http://23.237.104.106:8080/USA_HBO_SIGNATURE/index.m3u8
-#EXTINF:-1 group-title="国际",HBO Zone
-http://23.237.104.106:8080/USA_HBO_ZONE/index.m3u8
-#EXTINF:-1 group-title="国际",HBO2
-http://23.237.104.106:8080/USA_HBO2/index.m3u8
-#EXTINF:-1 group-title="国际",HGTV
-http://23.237.104.106:8080/USA_HGTV/index.m3u8
-#EXTINF:-1 group-title="国际",National Geographic
-http://23.237.104.106:8080/USA_NAT_GEO/index.m3u8
-#EXTINF:-1 group-title="国际",NewsNation
-http://143.244.60.30/NEWS_NATION/index.m3u8
-#EXTINF:-1 group-title="国际",The Cooking Channel
-http://23.237.104.106:8080/USA_COOKING/index.m3u8
 #EXTINF:-1 group-title="国际",Animal Planet
 http://143.244.60.30/Animal_Planet/index.m3u8
 #EXTINF:-1 group-title="国际",DIY
@@ -231,10 +197,6 @@ http://143.244.60.30/ESPN_2/index.m3u8
 http://143.244.60.30/LIFETIME_MOVIE_NETWORK/index.m3u8
 #EXTINF:-1 group-title="国际",BEIN Sports
 http://143.244.60.30/BEIN_SPORTS/index.m3u8
-#EXTINF:-1 group-title="国际",Fox Sport 1
-http://23.237.104.106:8080/USA_FS1/index.m3u8
-#EXTINF:-1 group-title="国际",Fox Sport 2
-http://23.237.104.106:8080/USA_FS2/index.m3u8
 #EXTINF:-1 group-title="国际",GRIT TV
 http://143.244.60.30/GRIT_TV/index.m3u8
 #EXTINF:-1 group-title="国际",Hallmark 
