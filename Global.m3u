@@ -83,7 +83,6 @@ http://143.244.60.30/ION_TV/index.m3u8
 https://wikinew.newkso.ru/wiki/ustvtlc/mono.m3u8
 #EXTINF:-1 group-title="国际",YES
 https://wikinew.newkso.ru/wiki/yesnet/mono.m3u8
-
 #EXTINF:-1 group-title="国际",Discovery Channel
 http://fl3.moveonjoy.com/Discovery_Channel/index.m3u8
 #EXTINF:-1 group-title="国际",Lifetime
@@ -148,7 +147,6 @@ https://dth07jsr8atug.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25
 http://fl3.moveonjoy.com/MSG/index.m3u8
 #EXTINF:-1 group-title="国际",Wild TV
 https://dfhsahpa45kk2.cloudfront.net/scheduler/scheduleMaster/476.m3u8
-
 #EXTINF:-1 group-title="国际",Cartoon Network
 http://143.244.60.30/CARTOON_NETWORK/index.m3u8
 #EXTINF:-1 group-title="国际",Animal Planet
@@ -183,7 +181,6 @@ http://143.244.60.30/INSP/index.m3u8
 http://143.244.60.30/MTV/index.m3u8
 #EXTINF:-1 group-title="国际",MTV Live
 http://143.244.60.30/MTV_LIVE/index.m3u8
-
 #EXTINF:-1 group-title="国际",NickToons
 http://143.244.60.30/NICKTOONS/index.m3u8
 #EXTINF:-1 group-title="国际",Oprah Winfrey Network
