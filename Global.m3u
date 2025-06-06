@@ -1,4 +1,8 @@
 #EXTM3U
+#EXTINF:-1 group-title="国际",凤凰中文
+http://cdn.132.us.kg/live/fhzw/stream.m3u8
+#EXTINF:-1 group-title="国际",凤凰资讯
+http://cdn3.132.us.kg/live/fhzx/stream.m3u8
 #EXTINF:-1 group-title="国际",BBC
 https://jmp2.uk/sam-US4000033L.m3u8
 #EXTINF:-1 group-title="国际",CNN
