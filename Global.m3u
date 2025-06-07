@@ -4,7 +4,7 @@ http://cdn.132.us.kg/live/fhzw/stream.m3u8
 #EXTINF:-1 group-title="国际",凤凰资讯
 http://cdn3.132.us.kg/live/fhzx/stream.m3u8
 #EXTINF:-1 group-title="国际",BBC
-https://jmp2.uk/sam-US4000033L.m3u8
+https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
 #EXTINF:-1 group-title="国际",CNN
 https://jmp2.uk/sam-GBBD8000016N.m3u8
 #EXTINF:-1 group-title="国际",CNA
