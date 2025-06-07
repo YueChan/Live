@@ -21,6 +21,8 @@ https://jmp2.uk/sam-CA1400004AE.m3u8
 https://jmp2.uk/sam-USBC4400003OU.m3u8
 #EXTINF:-1 group-title="国际",GB News
 https://live-gbnews.simplestreamcdn.com/live5/gbnews/bitrate1.isml/manifest.m3u8
+#EXTINF:-1 group-title="国际",France 24
+https://live.france24.com/hls/live/2037218-b/F24_EN_HI_HLS/master_5000.m3u8
 #EXTINF:-1 group-title="国际",TalkTV
 https://live-talktv-ssai.simplestreamcdn.com/v1/master/774d979dd66704abea7c5b62cb34c6815fda0d35/talktv-live/index.m3u8
 #EXTINF:-1 group-title="国际",CNBC
