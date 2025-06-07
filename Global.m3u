@@ -129,6 +129,8 @@ http://fl3.moveonjoy.com/OUTER_MAX/index.m3u8
 http://fl3.moveonjoy.com/FX_MOVIE/index.m3u8
 #EXTINF:-1 group-title="国际",Outdoor Channel
 http://fl3.moveonjoy.com/OUTDOOR_CHANNEL/index.m3u8
+#EXTINF:-1 group-title="国际",Trace Urban
+https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="国际",Starz
 http://fl3.moveonjoy.com/STARZ/index.m3u8
 #EXTINF:-1 group-title="国际",FXX
