@@ -255,3 +255,7 @@ https://jmp2.uk/sam-CABD1200008JG.m3u8
 https://x4new.newkso.ru/x4/skymix/mono.m3u8
 #EXTINF:-1 group-title="国际",Tennis Channel
 http://fl3.moveonjoy.com/TENNIS_CHANNEL/index.m3u8
+#EXTINF:-1 group-title="国际",Crave 2
+http://fl3.moveonjoy.com/CRAVE_2/index.m3u8
+#EXTINF:-1 group-title="国际",Crave 4
+http://fl3.moveonjoy.com/CRAVE_4/index.m3u8
