@@ -47,12 +47,8 @@ https://rt-glb.rttv.com/dvr/rtnews/playlist_4500Kb.m3u8
 http://91.247.68.229:8000/play/Fashion/index.m3u8
 #EXTINF:-1 group-title="国际",RT Documentary
 https://rt-rtd.rttv.com/live/rtdoc/playlist_4500Kb.m3u8
-#EXTINF:-1 group-title="国际",Start TV
-http://fl3.moveonjoy.com/Start_Tv/index.m3u8
 #EXTINF:-1 group-title="国际",TBS
 http://fl5.moveonjoy.com/NHL_8/index.m3u8
-#EXTINF:-1 group-title="国际",TCM
-http://fl1.moveonjoy.com/TCM/index.m3u8
 #EXTINF:-1 group-title="国际",FYI
 http://fl3.moveonjoy.com/FYI/index.m3u8
 #EXTINF:-1 group-title="国际",Travel XP
