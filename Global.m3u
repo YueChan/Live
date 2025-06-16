@@ -15,6 +15,8 @@ http://fl3.moveonjoy.com/CBS_News/index.m3u8
 https://jmp2.uk/sam-CA1400004AE.m3u8
 #EXTINF:-1 group-title="国际",CBC News
 https://jmp2.uk/sam-USBC4400003OU.m3u8
+#EXTINF:-1 group-title="国际",Sky News
+https://jmp2.uk/sam-USBB52000022Q.m3u8
 #EXTINF:-1 group-title="国际",GB News
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-gbnewsnz-samsungnz/playlist.m3u8
 #EXTINF:-1 group-title="国际",France 24
@@ -245,8 +247,6 @@ http://143.244.60.30/BEIN_SPORTS/index.m3u8
 http://fl3.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8
 #EXTINF:-1 group-title="国际",Pac-12 Insider
 https://pac12-samsungus.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="国际",MLB Network
-https://fl3.moveonjoy.com/MLB_NETWORK/index.m3u8
 #EXTINF:-1 group-title="国际",NBA TV
 http://fl5.moveonjoy.com/NBA_TV/index.m3u8
 #EXTINF:-1 group-title="国际",FIFA+
