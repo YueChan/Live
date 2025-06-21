@@ -53,8 +53,6 @@ http://91.247.68.229:8000/play/Fashion/index.m3u8
 https://rt-rtd.rttv.com/live/rtdoc/playlist_4500Kb.m3u8
 #EXTINF:-1 group-title="国际",Start TV
 http://fl3.moveonjoy.com/Start_Tv/index.m3u8
-#EXTINF:-1 group-title="国际",TBS
-http://fl5.moveonjoy.com/NHL_8/index.m3u8
 #EXTINF:-1 group-title="国际",TCM
 http://fl1.moveonjoy.com/TCM/index.m3u8
 #EXTINF:-1 group-title="国际",FYI
@@ -139,12 +137,8 @@ http://fl3.moveonjoy.com/STARZ/index.m3u8
 http://fl3.moveonjoy.com/FXX/index.m3u8
 #EXTINF:-1 group-title="国际",SYFY
 http://fl3.moveonjoy.com/SYFY/index.m3u8
-#EXTINF:-1 group-title="国际",Chef Champion
-https://bozztv.com/gusa/gusa-chefchampion/index.m3u8
 #EXTINF:-1 group-title="国际",Smithsonian
 http://fl3.moveonjoy.com/SMITHSONIAN_CHANNEL/index.m3u8
-#EXTINF:-1 group-title="国际",Much
-http://fl1.moveonjoy.com/MUCH/index.m3u8
 #EXTINF:-1 group-title="国际",Bridezillas
 https://run-br-uk.otteravision.com/run/br_uk/br_uk_720.m3u8
 #EXTINF:-1 group-title="国际",Oxygen East
@@ -221,8 +215,6 @@ http://143.244.60.30/STARZ_ENCORE_ACTION/index.m3u8
 http://143.244.60.30/VICELAND/index.m3u8
 #EXTINF:-1 group-title="国际",WGN
 http://143.244.60.30/WGN/index.m3u8
-#EXTINF:-1 group-title="国际",TNT
-http://fl5.moveonjoy.com/NBA_1/index.m3u8
 #EXTINF:-1 group-title="国际",NHL Network
 http://143.244.60.30/NHL_NETWORK/index.m3u8
 #EXTINF:-1 group-title="国际",MLB Network
@@ -237,8 +229,6 @@ http://fl3.moveonjoy.com/SNY/index.m3u8
 http://fl5.moveonjoy.com/TSN_1/index.m3u8
 #EXTINF:-1 group-title="国际",TSN 2
 http://fl5.moveonjoy.com/TSN_2/index.m3u8
-#EXTINF:-1 group-title="国际",TSN 3
-http://fl5.moveonjoy.com/TSN_3/index.m3u8
 #EXTINF:-1 group-title="国际",TSN 4
 http://fl5.moveonjoy.com/TSN_4/index.m3u8
 #EXTINF:-1 group-title="国际",TSN 5
