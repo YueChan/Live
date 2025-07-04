@@ -88,7 +88,7 @@ http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/
 #EXTINF:-1 tvg-name="内蒙古卫视" group-title="卫视频道",内蒙卫视
 https://livestream-bt.nmtv.cn/nmtv/3208526general.m3u8?txSecret=eb5a3102dd5406c7ffeddf560b024952&txTime=76B2F9A0&token=e05248c42db840e4b4ea91bb78b94258
 #EXTINF:-1 tvg-name="大湾区卫视" tvg-logo="https://live.fanmingming.cn/tv/大湾区卫视.png" group-title="卫视频道",湾区卫视
-http://ali.hlspull.yximgs.com/live/b027460e580a463cb7e44eebexcvhnddggdfsdg.flv
+https://tcdn.itouchtv.cn/live/nfws.m3u8?t_token=21953f296396b5c51b37c917961091a5-fVS%2B%2BNqDIV7UXOsUZaTxCkHl8GBlmy%2FUEKUwBANjnMM7%2BmiYbeGIcG2Fehr9N1pVvYN%2Bb9o3FQKa6tiS4xStWg2pN6zYvpaTbn0vGdueXQQPmB4N0GWEXuXgAm0p88Ns6U7rLGhi2p32Ffmz36YwoaP8L8joEJZpC9X%2BR45FNrGvlHCJ7DcBgcqiCj3iKn7O1nun3Nbx96%2BrEUMmKBx2MEbMa1Y5KLXf2HngTy5pGt0TICgBgEv4zUdTvEph%2BHeuMeaLA9EPuVeJLAUd9Hr3AYi2u5zU5Pu4xEr0VWEu1%2FbHym1Vf1Z7EpIbQk4Kz1ZZ1H8tWfgRUr0CCbKqdbvSAw%3D%3D
 #EXTINF:-1 tvg-name="兵团卫视" tvg-logo="https://live.fanmingming.cn/tv/兵团卫视.png" group-title="卫视频道",兵团卫视
 https://liveout.btzx.com.cn/62ds9e/yil08g.m3u8
 #EXTINF:-1 tvg-name="南国都市" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/南国都市.png" group-title="地方频道",南国都市
