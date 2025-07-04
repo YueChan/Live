@@ -225,16 +225,6 @@ http://fl3.moveonjoy.com/SPORTSMAN_CHANNEL/index.m3u8
 http://fl3.moveonjoy.com/ESPN_U/index.m3u8
 #EXTINF:-1 group-title="国际",SportsNet New York
 http://fl3.moveonjoy.com/SNY/index.m3u8
-#EXTINF:-1 group-title="国际",TSN 1
-http://fl5.moveonjoy.com/TSN_1/index.m3u8
-#EXTINF:-1 group-title="国际",TSN 2
-http://fl5.moveonjoy.com/TSN_2/index.m3u8
-#EXTINF:-1 group-title="国际",TSN 3
-http://fl5.moveonjoy.com/TSN_3/index.m3u8
-#EXTINF:-1 group-title="国际",TSN 4
-http://fl5.moveonjoy.com/TSN_4/index.m3u8
-#EXTINF:-1 group-title="国际",TSN 5
-http://fl5.moveonjoy.com/TSN_5/index.m3u8
 #EXTINF:-1 group-title="国际",FOX Sports
 https://jmp2.uk/sam-US2700001QY.m3u8
 #EXTINF:-1 group-title="国际",NBC Sports
