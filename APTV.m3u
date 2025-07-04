@@ -117,32 +117,6 @@ https://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
 https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
 #EXTINF:-1 tvg-name="浙江钱江都市" tvg-logo="https://live.fanmingming.cn/tv/钱江都市.png" group-title="地方频道",浙江钱江
 https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
-#EXTINF:-1 group-title="地方频道",新闻频道
-http://tvcdn.stream3.hndt.com/tv/65bb6966017e100059b75a8500000000_transios/playlist.m3u8?wsSecret=70eb79b8bec3d062c4a954f9d8e09b7e&wsTime=1751616015
-#EXTINF:-1 group-title="地方频道",都市频道
-http://tvcdn.stream3.hndt.com/tv/65c3fbc5017e1000fde13faa00000000_transios/playlist.m3u8?wsSecret=30a535c0219aaeffeff7e39e5a71b20b&wsTime=1751616015
-#EXTINF:-1 group-title="地方频道",民生频道
-http://tvcdn.stream3.hndt.com/tv/65bef28a017e10009c49d5f900000000_transios/playlist.m3u8?wsSecret=906ce98dee4a718278c3d2ecab822904&wsTime=1751616015
-#EXTINF:-1 group-title="地方频道",法治频道
-http://tvcdn.stream3.hndt.com/tv/65be54a9017e1000af59fb4800000000_transios/playlist.m3u8?wsSecret=d4e1fe222c72a6e15f61aa1fe32fb9cd&wsTime=1751616015
-#EXTINF:-1 group-title="地方频道",公共频道
-http://tvcdn.stream3.hndt.com/tv/65b93894017e10000ae6b07d00000000_transios/playlist.m3u8?wsSecret=7239a540465fc6585130e2068dc7b85d&wsTime=1751616015
-#EXTINF:-1 group-title="地方频道",乡村频道
-http://tvcdn.stream3.hndt.com/tv/65b8302b017e100019dc540f00000000_transios/playlist.m3u8?wsSecret=98c3aef19f406acc1065020035e5ade4&wsTime=1751616015
-#EXTINF:-1 group-title="地方频道",视剧频道
-http://tvcdn.stream3.hndt.com/tv/65bd329b017e1000648cd2ed00000000_transios/playlist.m3u8?wsSecret=b4f1f838dbb1ef83e30120a394fec9bf&wsTime=1751616015
-#EXTINF:-1 group-title="地方频道",梨园频道
-http://tvcdn.stream3.hndt.com/tv/65b67b15017e1000258a2b2400000000_transios/playlist.m3u8?wsSecret=a7b3adf9924dc753b1873923b0efbf8e&wsTime=1751616015
-#EXTINF:-1 group-title="地方频道",文物宝库
-http://tvcdn.stream3.hndt.com/tv/65b5a69d017e1000aa645bea00000000_transios/playlist.m3u8?wsSecret=7d348a9634aebcb554e4685dd065db8c&wsTime=1751616015
-#EXTINF:-1 group-title="地方频道",武术频道
-http://tvcdn.stream3.hndt.com/tv/65b4b750017e1000dbb9306200000000_transios/playlist.m3u8?wsSecret=dc7f4398a1b0884959f9c2114e783f19&wsTime=1751616015
-#EXTINF:-1 group-title="地方频道",睛彩中原
-http://tvcdn.stream3.hndt.com/tv/65b27d4c017e100039bd55c200000000_transios/playlist.m3u8?wsSecret=db1884a85aa08d0237f98a238ebcff45&wsTime=1751616015
-#EXTINF:-1 group-title="地方频道",移动戏曲
-https://tvcdn.stream3.hndt.com/tv/160ea8971f8b41f0905f88c7afe3effe_transios/playlist.m3u8?wsSecret=e4b86b6492e3e5a6d4913392103266d7&wsTime=1751616015
-#EXTINF:-1 group-title="地方频道",国学频道
-rtmp://rtmp.tv.stream3.hndt.com/tv/647f9277018410008cf925e200000000?wsSecret=9a23316ee66e918684e097f&wsSecret=448a245b869549d251f61aa84053e582&wsTime=1751616015
 #EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/求索纪录.png" group-title="数字频道",求索纪录
 http://[2409:8087:1a01:df::7005]/PLTV/88888888/224/3221225713/main.m3u8
 #EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/求索生活.png" group-title="数字频道",求索生活
