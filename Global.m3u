@@ -35,6 +35,8 @@ http://fl3.moveonjoy.com/ESPN_NEWS/index.m3u8
 https://livetv-fa.tubi.video/fox-live-now/index.m3u8
 #EXTINF:-1 group-title="国际",ABC Australia
 https://abc-news-dmd-streams-1.akamaized.net/out/v1/701126012d044971b3fa89406a440133/index.m3u8
+#EXTINF:-1 group-title="国际",NewsNation
+http://fl3.moveonjoy.com/NEWS_NATION/index.m3u8
 #EXTINF:-1 group-title="国际",NHK World
 https://nhkworld-tv.akamaized.net/hls/live/2115640/nhkworld-tv/index_1M.m3u8
 #EXTINF:-1 group-title="国际",Taiwan Plus
@@ -155,6 +157,8 @@ http://143.244.60.30/CARTOON_NETWORK/index.m3u8
 http://143.244.60.30/Animal_Planet/index.m3u8
 #EXTINF:-1 group-title="国际",DIY
 http://143.244.60.30/DIY/index.m3u8
+#EXTINF:-1 group-title="国际",Fuse
+http://fl3.moveonjoy.com/FUSE/index.m3u8
 #EXTINF:-1 group-title="国际",LMN
 http://143.244.60.30/LIFETIME_MOVIE_NETWORK/index.m3u8
 #EXTINF:-1 group-title="国际",GRIT TV
