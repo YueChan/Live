@@ -21,6 +21,10 @@ https://jmp2.uk/sam-USBB52000022Q.m3u8
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-gbnewsnz-samsungnz/playlist.m3u8
 #EXTINF:-1 group-title="国际",France 24
 https://live.france24.com/hls/live/2037218-b/F24_EN_HI_HLS/master_5000.m3u8
+#EXTINF:-1 group-title="国际",DW News
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream05/streamPlaylist.m3u8
+#EXTINF:-1 group-title="国际",Arirang TV
+https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b3256000_sleng.m3u8
 #EXTINF:-1 group-title="国际",TalkTV
 https://live-talktv-ssai.simplestreamcdn.com/v1/master/774d979dd66704abea7c5b62cb34c6815fda0d35/talktv-live/index.m3u8
 #EXTINF:-1 group-title="国际",CNBC
@@ -257,10 +261,6 @@ http://fl3.moveonjoy.com/CRAVE_4/index.m3u8
 https://jmp2.uk/sam-INBA5100021WP.m3u8
 #EXTINF:-1 group-title="国际",Bloomberg Originals
 https://jmp2.uk/sam-INBA5100022O4.m3u8
-#EXTINF:-1 group-title="国际",Hollywire
-https://jmp2.uk/sam-CABC23000035R.m3u8
-#EXTINF:-1 group-title="国际",WeatherSpy
-https://jmp2.uk/sam-INBA5100028R4.m3u8
 #EXTINF:-1 group-title="国际",GoUSA TV
 https://jmp2.uk/sam-INBA5100025YE.m3u8
 #EXTINF:-1 group-title="国际",KCTV
