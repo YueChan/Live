@@ -161,6 +161,8 @@ http://143.244.60.30/DIY/index.m3u8
 http://fl3.moveonjoy.com/FUSE/index.m3u8
 #EXTINF:-1 group-title="国际",LMN
 http://143.244.60.30/LIFETIME_MOVIE_NETWORK/index.m3u8
+#EXTINF:-1 group-title="国际",Mytime  
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00500-studiocitypictu-mytimeuk-xiaomi/playlist.m3u8
 #EXTINF:-1 group-title="国际",GRIT TV
 http://143.244.60.30/GRIT_TV/index.m3u8
 #EXTINF:-1 group-title="国际",Hallmark
@@ -271,3 +273,9 @@ https://hlive.ktv.go.kr/live/klive_h.stream/playlist.m3u8
 https://cdntv.tbs.seoul.kr/tbs/tbs_tv_web.smil/playlist.m3u8
 #EXTINF:-1 group-title="国际",Gugak TV
 http://mgugaklive.nowcdn.co.kr/gugakvideo/gugakvideo.stream/playlist.m3u8
+#EXTINF:-1 group-title="国际",Ted Talks 
+https://tedconferences-ted-1-eu.xiaomi.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="国际",Kids TV  
+https://jansonmedia-kidstv-1-us.xiaomi.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="国际",Pulse
+https://lightning-pulse-xiaomi.amagi.tv/playlist.m3u8
