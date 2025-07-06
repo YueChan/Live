@@ -309,3 +309,5 @@ https://tedconferences-ted-1-eu.xiaomi.wurl.tv/playlist.m3u8
 https://jansonmedia-kidstv-1-us.xiaomi.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="国际",Pulse
 https://lightning-pulse-xiaomi.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="国际",Sky Sports F1
+https://stream.iptv-search.com/main.php?id=SKY+SPORTS+F1&t=1751360581&token=1c5a482adea05c4591ee2da69908a640
