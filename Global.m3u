@@ -127,6 +127,22 @@ http://fl3.moveonjoy.com/DISNEY_JR/index.m3u8
 http://fl3.moveonjoy.com/NICK_JR/index.m3u8
 #EXTINF:-1 group-title="国际",Disney Channel
 http://fl5.moveonjoy.com/DISNEY/index.m3u8
+#EXTINF:-1 group-title="国际",DISCOVERY LIFE
+http://143.244.60.30/DISCOVERY_LIFE/index.m3u8
+#EXTINF:-1 group-title="国际",DISNEY XD
+http://143.244.60.30/DISNEY_XD/index.m3u8
+#EXTINF:-1 group-title="国际",HBO
+http://143.244.60.30/HBO/index.m3u8
+#EXTINF:-1 group-title="国际",HBO Family
+http://143.244.60.30/HBO_FAMILY/index.m3u8
+#EXTINF:-1 group-title="国际",HBO Zone
+http://143.244.60.30/HBO_ZONE/index.m3u8
+#EXTINF:-1 group-title="国际",HBO Stream 
+http://143.244.60.30/HBO_2/index.m3u8
+#EXTINF:-1 group-title="国际",National Geographic
+http://143.244.60.30/National_Geographic/index.m3u8
+#EXTINF:-1group-title="国际",ESPN 2
+http://143.244.60.30/ESPN_2/index.m3u8
 #EXTINF:-1 group-title="国际",OuterMax
 http://fl3.moveonjoy.com/OUTER_MAX/index.m3u8
 #EXTINF:-1 group-title="国际",FXM
@@ -253,6 +269,20 @@ https://jmp2.uk/sam-CABD1200008JG.m3u8
 https://x4new.newkso.ru/x4/skymix/mono.m3u8
 #EXTINF:-1 group-title="国际",Tennis Channel
 http://fl3.moveonjoy.com/TENNIS_CHANNEL/index.m3u8
+#EXTINF:-1 group-title="国际",Tennis Channel
+http://143.244.60.30/TENNIS_CHANNEL/index.m3u8
+#EXTINF:-1 group-title="国际",TSN 1
+http://143.244.60.30/TSN_1/index.m3u8
+#EXTINF:-1 group-title="国际",TSN 2
+http://143.244.60.30/TSN_2/index.m3u8
+#EXTINF:-1 group-title="国际",TSN 3
+http://143.244.60.30/TSN_3/index.m3u8
+#EXTINF:-1 group-title="国际",TSN 4
+http://143.244.60.30/TSN_4/index.m3u8
+#EXTINF:-1 group-title="国际",TSN 5
+http://143.244.60.30/TSN_5/index.m3u8
+#EXTINF:-1 group-title="国际",ACC Network
+http://143.244.60.30/ACC_NETWORK/index.m3u8
 #EXTINF:-1 group-title="国际",Crave 2
 http://fl3.moveonjoy.com/CRAVE_2/index.m3u8
 #EXTINF:-1 group-title="国际",Crave 4
