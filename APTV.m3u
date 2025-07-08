@@ -209,9 +209,7 @@ http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_jade.flv
 http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_hoy78.flv
 #EXTINF:-1 group-title="港澳频道",HOY 77
 http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_hoy77.flv
-#EXTINF:-1 group-title="港澳频道",无线翡翠
-http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_jade.flv
-#EXTINF:-1 group-title="港澳频道",TVB Plus 
+#EXTINF:-1 group-title="港澳频道",TVB J2
 http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_j2.flv 
 #EXTINF:-1 group-title="港澳频道",无线新闻
 http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_wxxw.flv
