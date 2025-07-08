@@ -117,5 +117,5 @@ http://fortv.cc:8080//clarencekingrh@hotmail.com/pKgSdl4ZFX/57438
 http://fortv.cc:8080//clarencekingrh@hotmail.com/pKgSdl4ZFX/57276
 #EXTINF:-1 tvg-id="57277" tvg-name="CA OWN " group-title="国际",OWN 
 http://fortv.cc:8080//clarencekingrh@hotmail.com/pKgSdl4ZFX/57277
-#EXTINF:-1 tvg-id="ComedyDynamics.us" tvg-name="Comedy Dynamics" tvg-logo="https://i.imgur.com/1lEvUOa.png" group-title="国际",Comedy Dynamics
-https://aegis-cloudfront-1.tubi.video/427cd05d-a47b-4b16-a2fe-5e739da93966/playlist.m3u8
+#EXTINF:-1 tvg-id="ComedyCentral" group-title="国际",Comedy Central
+http://fl3.moveonjoy.com/Comedy_Central/index.m3u8
