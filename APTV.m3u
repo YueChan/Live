@@ -205,20 +205,22 @@ http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_ztzh.flv
 http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_ztxw.flv
 #EXTINF:-1 group-title="港澳频道",翡翠台
 http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_jade.flv
+#EXTINF:-1 group-title="港澳频道",有线新闻
+http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_hoy78.flv
+#EXTINF:-1 group-title="港澳频道",有线综合
+http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_hoy77.flv
+#EXTINF:-1 group-title="港澳频道",无线翡翠
+http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_jade.flv
+#EXTINF:-1 group-title="港澳频道",TVB Plus 
+http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_j2.flv 
 #EXTINF:-1 group-title="港澳频道",无线新闻
 http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_wxxw.flv
 #EXTINF:-1 group-title="港澳频道",重温经典
 http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_cwjd.flv
-#EXTINF:-1 group-title="港澳频道",tvbplus
-http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_j2.flv
 #EXTINF:-1 group-title="港澳频道",民视第一
 http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_msdy.flv
 #EXTINF:-1 group-title="港澳频道",民视台湾
 http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_mstw.flv
-#EXTINF:-1 group-title="港澳频道",HOY77
-http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_hoy77.flv
-#EXTINF:-1 group-title="港澳频道",HOY78
-http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_hoy78.flv
 #EXTINF:-1 group-title="港澳频道",美亚电影
 http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_mydy.flv
 #EXTINF:-1 group-title="港澳频道",东森超视
