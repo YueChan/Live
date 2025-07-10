@@ -271,16 +271,6 @@ https://x4new.newkso.ru/x4/skymix/mono.m3u8
 http://fl3.moveonjoy.com/TENNIS_CHANNEL/index.m3u8
 #EXTINF:-1 group-title="国际",Tennis Channel
 http://143.244.60.30/TENNIS_CHANNEL/index.m3u8
-#EXTINF:-1 group-title="国际",TSN 1
-http://143.244.60.30/TSN_1/index.m3u8
-#EXTINF:-1 group-title="国际",TSN 2
-http://143.244.60.30/TSN_2/index.m3u8
-#EXTINF:-1 group-title="国际",TSN 3
-http://143.244.60.30/TSN_3/index.m3u8
-#EXTINF:-1 group-title="国际",TSN 4
-http://143.244.60.30/TSN_4/index.m3u8
-#EXTINF:-1 group-title="国际",TSN 5
-http://143.244.60.30/TSN_5/index.m3u8
 #EXTINF:-1 group-title="国际",ACC Network
 http://143.244.60.30/ACC_NETWORK/index.m3u8
 #EXTINF:-1 group-title="国际",Crave 2
@@ -293,8 +283,6 @@ https://jmp2.uk/sam-INBA5100021WP.m3u8
 https://jmp2.uk/sam-INBA5100022O4.m3u8
 #EXTINF:-1 group-title="国际",GoUSA TV
 https://jmp2.uk/sam-INBA5100025YE.m3u8
-#EXTINF:-1 group-title="国际",KCTV
-http://119.77.96.184:1935/chn05/chn05/chunklist_w1306745753.m3u8
 #EXTINF:-1 group-title="国际",MBC
 http://vod.mpmbc.co.kr:1935/live/encoder-tv/playlist.m3u8
 #EXTINF:-1 group-title="国际",Korea TV
@@ -310,4 +298,4 @@ https://jansonmedia-kidstv-1-us.xiaomi.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="国际",Pulse
 https://lightning-pulse-xiaomi.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="国际",Sky Sports F1
-https://stream.iptv-search.com/main.php?id=SKY+SPORTS+F1&t=1751360581&token=1c5a482adea05c4591ee2da69908a640
+http://fortv.cc:8080/q8KuDU/354945/53704
