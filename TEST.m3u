@@ -43,16 +43,8 @@ http://fortv.cc:8080/clarencekingrh@hotmail.com/pKgSdl4ZFX/35252
 http://fortv.cc:8080/clarencekingrh@hotmail.com/pKgSdl4ZFX/20863
 #EXTINF:-1 tvg-id="13380" tvg-name="US Cinemax (East) " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png" group-title="国际",Cinemax  
 http://fortv.cc:8080/clarencekingrh@hotmail.com/pKgSdl4ZFX/13380
-#EXTINF:-1 tvg-id="53649" tvg-name="UK-BBC One" group-title="国际",BBC One
-http://fortv.cc:8080/clarencekingrh@hotmail.com/pKgSdl4ZFX/53649
-#EXTINF:-1 tvg-id="53650" tvg-name="UK: BBC TWO HD" group-title="国际",BBC Two
-http://fortv.cc:8080/clarencekingrh@hotmail.com/pKgSdl4ZFX/53650
-#EXTINF:-1 tvg-id="53720" tvg-name="UK-CBBC" group-title="国际",CBBC
-http://fortv.cc:8080/clarencekingrh@hotmail.com/pKgSdl4ZFX/53720
 #EXTINF:-1 tvg-id="57377" tvg-name="CA: Animal Planet" group-title="国际",Animal Planet
 http://fortv.cc:8080/clarencekingrh@hotmail.com/pKgSdl4ZFX/57377
-#EXTINF:-1 tvg-id="NBCSportsBayArea.us" tvg-name="NBC Sports Bay Area" tvg-logo="https://i.imgur.com/MTgUVKx.png" group-title="国际",NBC Sports
-https://v1.thetvapp.to/hls/nbc-sports-bay-area/index.m3u8
 #EXTINF:-1 tvg-id="35241" tvg-name="UK-Sky Sports News" group-title="国际",Sky Sports News
 http://fortv.cc:8080/clarencekingrh@hotmail.com/pKgSdl4ZFX/137719
 #EXTINF:-1 tvg-id="53706" tvg-name="UK Sky Sports Mix FHD (D)" group-title="国际",Sky Sports Mix  
@@ -63,8 +55,6 @@ http://fortv.cc:8080/clarencekingrh@hotmail.com/pKgSdl4ZFX/35238
 http://fortv.cc:8080/clarencekingrh@hotmail.com/pKgSdl4ZFX/35240
 #EXTINF:-1 tvg-id="35243" tvg-name="UK-Sky Sports Main Event" group-title="国际",Sky Sports Main Event
 http://fortv.cc:8080/clarencekingrh@hotmail.com/pKgSdl4ZFX/35243
-#EXTINF:-1 tvg-id="53663" tvg-name="UK SKY SciFI FHD (D)" group-title="国际",Sky SciFI  
-http://fortv.cc:8080/clarencekingrh@hotmail.com/pKgSdl4ZFX/53663
 #EXTINF:-1 tvg-id="45940" tvg-name="UK Sky Sports Cricket FHD (D)" group-title="国际",Sky Sports Cricket 
 http://fortv.cc:8080/clarencekingrh@hotmail.com/pKgSdl4ZFX/45940
 #EXTINF:-1 tvg-id="35244" tvg-name="UK Sky Sports F1 FHD" group-title="国际",Sky Sports F1  
@@ -117,5 +107,3 @@ http://fortv.cc:8080//clarencekingrh@hotmail.com/pKgSdl4ZFX/57438
 http://fortv.cc:8080//clarencekingrh@hotmail.com/pKgSdl4ZFX/57276
 #EXTINF:-1 tvg-id="57277" tvg-name="CA OWN " group-title="国际",OWN 
 http://fortv.cc:8080//clarencekingrh@hotmail.com/pKgSdl4ZFX/57277
-#EXTINF:-1 tvg-id="ComedyCentral" group-title="国际",Comedy Central
-http://fl3.moveonjoy.com/Comedy_Central/index.m3u8
