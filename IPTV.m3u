@@ -164,5 +164,4 @@ rtp://239.3.1.196:9012
 #EXTINF:-1 tvg-name="少儿动画" tvg-logo="https://epg.112114.xyz/logo/华数.png" group-title="数字",少儿动画
 rtp://239.3.1.199:9000
 #EXTINF:-1 tvg-name="中国交通" tvg-logo="https://epg.112114.xyz/logo/中国交通.png" group-title="数字",中国交通
-rtp://239.3.1.199:9000
 rtp://239.3.1.188:8001
