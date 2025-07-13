@@ -6,7 +6,7 @@ https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_ch
 #EXTINF:-1 tvg-id="121139" tvg-name="US abc 7 (WABC) New York" group-title="国际",ABC
 http://fortv.cc:8080/clarencekingrh@hotmail.com/pKgSdl4ZFX/121139
 #EXTINF:-1 tvg-id="160711" tvg-name="US Al Jazeera" group-title="国际",Al Jazeera
-http://fortv.cc:8080/clarencekingrh@hotmail.com/pKgSdl4ZFX/160711
+http://live-hls-web-aje.getaj.net/AJE/01.m3u8
 #EXTINF:-1 tvg-id="1818" tvg-name="US Fox News  " tvg-logo="https://juicetv.app/channellogo/foxnews.png" group-title="国际",Fox News
 http://fortv.cc:8080/clarencekingrh@hotmail.com/pKgSdl4ZFX/1818
 #EXTINF:-1 tvg-id="161450" tvg-name="US NewsNation " group-title="国际",NewsNation
