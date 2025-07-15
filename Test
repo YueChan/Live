@@ -1,8 +1,4 @@
 #EXTM3U
-#EXT-X-APP APTV
-#EXT-X-APTV-TYPE xtream
-#EXT-X-XC-URL http://fortv.cc:8080?username=q8KuDU&password=354945
-
 #EXTINF:-1 tvg-id="14823" tvg-name="#EXTINF:0,Ambient Sleeping Pill [Opt-1]" tvg-logo="https://www.clipartkey.com/mpngs/m/118-1184210_radio-station-png-clip-art-freeuse-library-bank.png" group-title="Radio Stations",#EXTINF:0,Ambient Sleeping Pill [Opt-1]
 http://fortv.cc:8080/q8KuDU/354945/14823
 #EXTINF:-1 tvg-id="14824" tvg-name="#EXTINF:0,Ambient Sleeping Pill [Opt-2]" tvg-logo="https://www.clipartkey.com/mpngs/m/118-1184210_radio-station-png-clip-art-freeuse-library-bank.png" group-title="Radio Stations",#EXTINF:0,Ambient Sleeping Pill [Opt-2]
