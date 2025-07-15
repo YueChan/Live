@@ -273,6 +273,8 @@ http://143.244.60.30/TENNIS_CHANNEL/index.m3u8
 http://143.244.60.30/ACC_NETWORK/index.m3u8
 #EXTINF:-1 group-title="国际",Crave 2
 http://fl3.moveonjoy.com/CRAVE_2/index.m3u8
+#EXTINF:-1 group-title="国际",Crave 3
+http://fortv.cc:8080/q8KuDU/354945/57322
 #EXTINF:-1 group-title="国际",Crave 4
 http://fl3.moveonjoy.com/CRAVE_4/index.m3u8
 #EXTINF:-1 group-title="国际",Bloomberg TV
