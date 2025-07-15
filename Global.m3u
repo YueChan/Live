@@ -71,6 +71,8 @@ https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 https://aegis-cloudfront-1.tubi.video/8d2bf7b1-0e93-405f-8c15-ac0756d05f66/playlist.m3u8
 #EXTINF:-1 group-title="国际",MovieSphere
 https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="国际",Cartoon Network
+http://fortv.cc:8080/q8KuDU/354945/53719
 #EXTINF:-1 group-title="国际",AMC
 http://fl5.moveonjoy.com/AMC_NETWORK/index.m3u8
 #EXTINF:-1 group-title="国际",Aspire
@@ -171,8 +173,6 @@ https://dth07jsr8atug.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25
 http://fl3.moveonjoy.com/MSG/index.m3u8
 #EXTINF:-1 group-title="国际",Wild TV
 https://dfhsahpa45kk2.cloudfront.net/scheduler/scheduleMaster/476.m3u8
-#EXTINF:-1 group-title="国际",Cartoon Network
-http://143.244.60.30/CARTOON_NETWORK/index.m3u8
 #EXTINF:-1 group-title="国际",Animal Planet
 http://143.244.60.30/Animal_Planet/index.m3u8
 #EXTINF:-1 group-title="国际",DIY
