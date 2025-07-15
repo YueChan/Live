@@ -13,8 +13,8 @@ http://live-hls-web-aje.getaj.net/AJE/01.m3u8
 http://fl3.moveonjoy.com/CBS_News/index.m3u8
 #EXTINF:-1 group-title="国际",CTV News
 https://jmp2.uk/sam-CA1400004AE.m3u8
-#EXTINF:-1 group-title="国际",CBC News
-https://jmp2.uk/sam-USBC4400003OU.m3u8
+#EXTINF:-1 group-title="国际",Global Halifax News
+http://fortv.cc:8080/q8KuDU/354945/57434
 #EXTINF:-1 group-title="国际",Sky News
 https://jmp2.uk/sam-USBB52000022Q.m3u8
 #EXTINF:-1 group-title="国际",GB News
