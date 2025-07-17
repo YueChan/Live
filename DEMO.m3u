@@ -1,7 +1,4 @@
 #EXTM3U
-#EXT-X-APP APTV
-#EXT-X-APTV-TYPE local
-
 #EXTINF:-1 group-title="国际",BBC NEWS
 http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/191457.m3u8
 #EXTINF:-1 group-title="国际",CNN
@@ -34,18 +31,6 @@ http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/6625.m3u8
 http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/181655.m3u8
 #EXTINF:-1 group-title="国际",SYFY
 http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/153653.m3u8
-#EXTINF:-1 group-title="国际",ITV 1
-http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/191155.m3u8
-#EXTINF:-1 group-title="国际",ITV 2
-http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/153629.m3u8
-#EXTINF:-1 group-title="国际",ITV 3
-http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/401384755.m3u8
-#EXTINF:-1 group-title="国际",ITV 4
-http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/153631.m3u8
-#EXTINF:-1 group-title="国际",CHANNEL 4
-http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/401384753.m3u8
-#EXTINF:-1 group-title="国际",E4
-http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/14091.m3u8
 #EXTINF:-1 group-title="国际",STV
 http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/153673.m3u8
 #EXTINF:-1 group-title="国际",BBC 1
