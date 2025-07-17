@@ -69,6 +69,8 @@ http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/181442.m3u8
 http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/6615.m3u8
 #EXTINF:-1 group-title="国际",LOVE NATURE
 http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/6616.m3u8
+#EXTINF:-1 group-title="国际",Disney Channel
+http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/153841.m3u8
 #EXTINF:-1 group-title="国际",CINEVAULT WESTERNS
 http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/77367.m3u8
 #EXTINF:-1 group-title="国际",CINE LIFE
@@ -97,5 +99,3 @@ http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/401384756.m3u8
 http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/153630.m3u8
 #EXTINF:-1 group-title="国际",ITV 4 
 http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/76459.m3u8
-#EXTINF:-1 group-title="国际",Disney Channel
-http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/153841.m3u8
