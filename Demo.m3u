@@ -1,80 +1,112 @@
 #EXTM3U
-#EXTINF:-1 group-title="国际",BBC NEWS
+#EXTINF:-1 group-title="国际",BBC WORLD NEWS
 http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/40091.m3u8
 #EXTINF:-1 group-title="国际",CNN
 http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/36480.m3u8
-#EXTINF:-1 group-title="国际",TRT WORLD
-http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/400230289.m3u8
 #EXTINF:-1 group-title="国际",GB NEWS
 http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/400200058.m3u8
+#EXTINF:-1 group-title="国际",CNBC
+http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/82803.m3u8
 #EXTINF:-1 group-title="国际",SKY NEWS
 http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/153846.m3u8
-#EXTINF:-1 group-title="国际",CNBC
-http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/181635.m3u8
-#EXTINF:-1 group-title="国际",CBBC
-http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/153823.m3u8
-#EXTINF:-1 group-title="国际",AL JAZEERA
-http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/400230347.m3u8
-#EXTINF:-1 group-title="国际",DW ENGLISH
-http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/176619.m3u8
-#EXTINF:-1 group-title="国际",NBC NEWS
-http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/378781.m3u8
-#EXTINF:-1 group-title="国际",FRANCE 24
-http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/181666.m3u8
 #EXTINF:-1 group-title="国际",EURO NEWS
 http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/181673.m3u8
+#EXTINF:-1 group-title="国际",USA TODAY
+http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/6625.m3u8
+#EXTINF:-1 group-title="国际",OAN
+http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/181655.m3u8
 #EXTINF:-1 group-title="国际",RT NEWS
 http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/181651.m3u8
-#EXTINF:-1 group-title="国际",USA TODAY News
-http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/6625.m3u8
-#EXTINF:-1 group-title="国际",ONE AMERICAN NEWS
-http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/181655.m3u8
-#EXTINF:-1 group-title="国际",SYFY
-http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/153653.m3u8
-#EXTINF:-1 group-title="国际",STV
-http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/153673.m3u8
+#EXTINF:-1 group-title="国际",DW ENGLISH
+http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/176619.m3u8
+#EXTINF:-1 group-title="国际",FRANCE 24
+http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/153855.m3u8
+#EXTINF:-1 group-title="国际",AL JAZEERA
+http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/400230347.m3u8
+#EXTINF:-1 group-title="国际",TRT WORLD
+http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/400230338.m3u8
+#EXTINF:-1 group-title="国际",NBC NEWS NOW
+http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/82805.m3u8
+#EXTINF:-1 group-title="国际",CHEDDAR NEWS
+http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/77259.m3u8
+#EXTINF:-1 group-title="国际",TALK TV
+http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/6520.m3u8
+#EXTINF:-1 group-title="国际",ITV Quiz
+http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/154054.m3u8
+#EXTINF:-1 group-title="国际",Game Show Network
+http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/33966.m3u8
 #EXTINF:-1 group-title="国际",BBC 1
 http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/153624.m3u8
 #EXTINF:-1 group-title="国际",BBC 2
 http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/153625.m3u8
+#EXTINF:-1 group-title="国际",BBC 3
+http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/39324.m3u8
+#EXTINF:-1 group-title="国际",ITV 1
+http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/153627.m3u8
+#EXTINF:-1 group-title="国际",ITV 2
+http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/153675.m3u8
+#EXTINF:-1 group-title="国际",ITV 3
+http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/153630.m3u8
+#EXTINF:-1 group-title="国际",ITV 4
+http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/14095.m3u8
+#EXTINF:-1 group-title="国际",CHANNEL 4
+http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/153633.m3u8
 #EXTINF:-1 group-title="国际",CHANNEL 5
 http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/153634.m3u8
-#EXTINF:-1 group-title="国际",TALK TV
-http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/6520.m3u8
 #EXTINF:-1 group-title="国际",E4
 http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/153636.m3u8
-#EXTINF:-1 group-title="国际",SKY SPORTS PREMIER LEAGUE
-http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/401384747.m3u8
-#EXTINF:-1 group-title="国际",SKY SPORTS+
-http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/400225157.m3u8
-#EXTINF:-1 group-title="国际",SKY SPORTS ARENA
-http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/153705.m3u8
-#EXTINF:-1 group-title="国际",SKY SPORTS GOLF
-http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/191685.m3u8
-#EXTINF:-1 group-title="国际",SKY SPORTS NFL
-http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/191689.m3u8
-#EXTINF:-1 group-title="国际",SKY SPORTS F1
-http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/191464.m3u8
-#EXTINF:-1 group-title="国际",Sky MAX
+#EXTINF:-1 group-title="国际",DOVE
+http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/181554.m3u8
+#EXTINF:-1 group-title="国际",IFC
+http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/181559.m3u8
+#EXTINF:-1 group-title="国际",STV
+http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/153673.m3u8
+#EXTINF:-1 group-title="国际",S4C
+http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/153866.m3u8
+#EXTINF:-1 group-title="国际",UTV
+http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/153868.m3u8
+#EXTINF:-1 group-title="国际",SKY MAX
 http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/2447.m3u8
+#EXTINF:-1 group-title="国际",SYFY
+http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/153653.m3u8
 #EXTINF:-1 group-title="国际",SKY ARTS
 http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/191471.m3u8
-#EXTINF:-1 group-title="国际",SKY ANIMATION
-http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/189997.m3u8
-#EXTINF:-1 group-title="国际",NBC SPORTS NETWORK
-http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/181442.m3u8
-#EXTINF:-1 group-title="国际",WILD EARTH
-http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/6615.m3u8
-#EXTINF:-1 group-title="国际",LOVE NATURE
-http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/6616.m3u8
-#EXTINF:-1 group-title="国际",Disney Channel
-http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/153841.m3u8
-#EXTINF:-1 group-title="国际",CINEVAULT WESTERNS
-http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/77367.m3u8
-#EXTINF:-1 group-title="国际",AMC THRILLERS
-http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/401412568.m3u8
-#EXTINF:-1 group-title="国际",BBC COMEDY
-http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/77458.m3u8
+#EXTINF:-1 group-title="国际",SKY ATLANTIC
+http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/191472.m3u8
+#EXTINF:-1 group-title="国际",MORE4
+http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/191475.m3u8
+#EXTINF:-1 group-title="国际",TLC
+http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/191459.m3u8
+#EXTINF:-1 group-title="国际",PREMIER SPORTS 1
+http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/153723.m3u8
+#EXTINF:-1 group-title="国际",PREMIER SPORTS 2
+http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/153724.m3u8
+#EXTINF:-1 group-title="国际",SKY SPORTS GOLF
+http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/191685.m3u8
+#EXTINF:-1 group-title="国际",SKY SPORTS ARENA
+http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/153705.m3u8
+#EXTINF:-1 group-title="国际",SKY SPORTS NFL
+http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/191689.m3u8
+#EXTINF:-1 group-title="国际",SKY SPORTS MAIN EVENT
+http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/153691.m3u8
+#EXTINF:-1 group-title="国际",SKY SPORTS PREMIER LEAGUE
+http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/153693.m3u8
+#EXTINF:-1 group-title="国际",SKY SPORTS NEWS
+http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/153707.m3u8
+#EXTINF:-1 group-title="国际",SKY SPORTS+
+http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/401172773.m3u8
+#EXTINF:-1 group-title="国际",SKY SPORTS FOOTBALL
+http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/153695.m3u8
+#EXTINF:-1 group-title="国际",SKY SPORTS CRICKET
+http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/153697.m3u8
+#EXTINF:-1 group-title="国际",SKY SPORTS TENNIS
+http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/391270.m3u8
+#EXTINF:-1 group-title="国际",SKY SPORTS F1
+http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/191464.m3u8
+#EXTINF:-1 group-title="国际",SKY SPORTS RACING HEVC
+http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/433202.m3u8
+#EXTINF:-1 group-title="国际",SKY SPORTS MIX HEVC
+http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/433206.m3u8
 #EXTINF:-1 group-title="国际",TNT SPORT 1
 http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/13780.m3u8
 #EXTINF:-1 group-title="国际",TNT SPORT 2
@@ -85,13 +117,105 @@ http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/6204.m3u8
 http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/401384751.m3u8
 #EXTINF:-1 group-title="国际",TNT SPORT 5
 http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/62800.m3u8
-#EXTINF:-1 group-title="国际",ITV Quiz  
-http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/154054.m3u8
-#EXTINF:-1 group-title="国际",ITV 1  
-http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/401384757.m3u8
-#EXTINF:-1 group-title="国际",ITV 2 
-http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/401384756.m3u8
-#EXTINF:-1 group-title="国际",ITV 3  
-http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/153630.m3u8
-#EXTINF:-1 group-title="国际",ITV 4 
-http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/76459.m3u8
+#EXTINF:-1 group-title="国际",RACING UK
+http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/191470.m3u8
+#EXTINF:-1 group-title="国际",BRAVO
+http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/176775.m3u8
+#EXTINF:-1 group-title="国际",AMC PLUS
+http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/176790.m3u8
+#EXTINF:-1 group-title="国际",NFL RED ZONE
+http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/181403.m3u8
+#EXTINF:-1 group-title="国际",SPORTS GRID
+http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/400163374.m3u8
+#EXTINF:-1 group-title="国际",WWE NETWORK
+http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/181444.m3u8
+#EXTINF:-1 group-title="国际",SPEED SPORT 1
+http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/401572602.m3u8
+#EXTINF:-1 group-title="国际",CBS SPORTS GOLAZO NETWORK
+http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/27183.m3u8
+#EXTINF:-1 group-title="国际",CBS SPORTS HQ
+http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/183430.m3u8
+#EXTINF:-1 group-title="国际",FUBO SPORTS NETWORK
+http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/400163500.m3u8
+#EXTINF:-1 group-title="国际",NBC SPORTS NETWORK
+http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/181442.m3u8
+#EXTINF:-1 group-title="国际",NBC GOLF CHANNEL
+http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/181475.m3u8
+#EXTINF:-1 group-title="国际",HLN
+http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/253154.m3u8
+#EXTINF:-1 group-title="国际",REAL AMERICA'S VOICE
+http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/381772.m3u8
+#EXTINF:-1 group-title="国际",LIFETIME
+http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/176707.m3u8
+#EXTINF:-1 group-title="国际",DOG TV
+http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/13550.m3u8
+#EXTINF:-1 group-title="国际",AWE
+http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/176716.m3u8
+#EXTINF:-1 group-title="国际",TRU TV
+http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/176757.m3u8
+#EXTINF:-1 group-title="国际",LAFF
+http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/400309672.m3u8
+#EXTINF:-1 group-title="国际",REVOLT
+http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/176704.m3u8
+#EXTINF:-1 group-title="国际",UNIVERSO
+http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/28279.m3u8
+#EXTINF:-1 group-title="国际",DEFIANCE
+http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/33938.m3u8
+#EXTINF:-1 group-title="国际",HAUNT TV
+http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/401622241.m3u8
+#EXTINF:-1 group-title="国际",PURSUIT CHANNEL
+http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/176607.m3u8
+#EXTINF:-1 group-title="国际",FREE SPEECH TV
+http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/253161.m3u8
+#EXTINF:-1 group-title="国际",Wild Earth
+http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/6615.m3u8
+#EXTINF:-1 group-title="国际",Love Nature
+http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/6616.m3u8
+#EXTINF:-1 group-title="国际",CINEMAX THRILLER MAX
+http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/170629.m3u8
+#EXTINF:-1 group-title="国际",CINEVAULT WESTERNS
+http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/77367.m3u8
+#EXTINF:-1 group-title="国际",CINE LIFE
+http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/42198.m3u8
+#EXTINF:-1 group-title="国际",AMC THRILLERS
+http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/401412568.m3u8
+#EXTINF:-1 group-title="国际",PARAMOUNT NETWORK
+http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/176601.m3u8
+#EXTINF:-1 group-title="国际",FUBO MOVIES
+http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/33964.m3u8
+#EXTINF:-1 group-title="国际",THE FILM DETECTIVE
+http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/181553.m3u8
+#EXTINF:-1 group-title="国际",SHOWTIME 2 EAST
+http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/181563.m3u8
+#EXTINF:-1 group-title="国际",SCREENPIX WESTERNS
+http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/28289.m3u8
+#EXTINF:-1 group-title="国际",NICKTOONS
+http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/176798.m3u8
+#EXTINF:-1 group-title="国际",ADULT ANIMATION
+http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/77598.m3u8
+#EXTINF:-1 group-title="国际",SONY Movies
+http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/433239.m3u8
+#EXTINF:-1 group-title="国际",DISCOVERY CHANNEL
+http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/176620.m3u8
+#EXTINF:-1 group-title="国际",DISNEY CHANNEL
+http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/153841.m3u8
+#EXTINF:-1 group-title="国际",LOL NETWORK
+http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/77461.m3u8
+#EXTINF:-1 group-title="国际",ABSOLUTE REALITY
+http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/401442715.m3u8
+#EXTINF:-1 group-title="国际",VICTORY CHANNEL
+http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/401442727.m3u8
+#EXTINF:-1 group-title="国际",HISTORY CHANNEL
+http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/176584.m3u8
+#EXTINF:-1 group-title="国际",OXYGEN EAST
+http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/176596.m3u8
+#EXTINF:-1 group-title="国际",SKY SHOWCASE
+http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/191466.m3u8
+#EXTINF:-1 group-title="国际",SKY ANIMATION
+http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/189992.m3u8
+#EXTINF:-1 group-title="国际",COMEDY CENTRAL
+http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/400230293.m3u8
+#EXTINF:-1 group-title="国际",BBC COMEDY
+http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/6625.m3u8
+#EXTINF:-1 group-title="国际",SKY COMEDY
+http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/401630523.m3u8
