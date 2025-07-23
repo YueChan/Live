@@ -1,0 +1,52 @@
+#EXTM3U
+#EXT-X-APP APTV
+#EXT-X-APTV-TYPE local
+
+#EXTINF:-1 group-title="国际",无线新闻
+https://stream.iptv-search.com/main.php?id=%E6%97%A0%E7%BA%BF%E6%96%B0%E9%97%BB%E5%8F%B0&t=1752825547&token=ba58c164a6d3b6e8b7d66002fd41f91a
+#EXTINF:-1 group-title="国际",中天娱乐
+https://stream.iptv-search.com/main.php?id=%E4%B8%AD%E5%A4%A9%E5%A8%B1%E4%B9%90&t=1752825547&token=c4828bfc675f2bf6a6a516487481b3e2
+#EXTINF:-1 group-title="国际",中天新闻
+https://stream.iptv-search.com/main.php?id=%E4%B8%AD%E5%A4%A9%E6%96%B0%E9%97%BB+HD&t=1752825547&token=111274cd0f0ba724e30e454a972469c3
+#EXTINF:-1 group-title="国际",凤凰香港
+https://stream.iptv-search.com/main.php?id=%E5%87%A4%E5%87%B0%E9%A6%99%E6%B8%AF&t=1752825547&token=70e4dd8d35b528780b1db98a10eaf130
+#EXTINF:-1 group-title="国际",凤凰中文
+https://stream.iptv-search.com/main.php?id=%E5%87%A4%E5%87%B0%E4%B8%AD%E6%96%87&t=1752825547&token=4728cc263d35459c0132ed1f787fc23b
+#EXTINF:-1 group-title="国际",凤凰资讯
+https://stream.iptv-search.com/main.php?id=%E5%87%A4%E5%87%B0%E8%B5%84%E8%AE%AF%E9%AB%98%E6%B8%85&t=1752825547&token=048cea0107d05a6f64df4884b5476dd4
+#EXTINF:-1 group-title="国际",莲花卫视
+https://stream.iptv-search.com/main.php?id=%E8%8E%B2%E8%8A%B1%E5%8D%AB%E8%A7%86&t=1752825547&token=5d2a9b7d556a0148260168aa2a2ce43f
+#EXTINF:-1 group-title="国际",东森新闻
+https://stream.iptv-search.com/main.php?id=%E4%B8%9C%E6%A3%AE%E6%96%B0%E9%97%BB&t=1752825547&token=59ff2311d99e2b68da5f24ad3cd71a09
+#EXTINF:-1 group-title="国际",东森美洲
+https://stream.iptv-search.com/main.php?id=%E4%B8%9C%E6%A3%AE%E6%96%B0%E9%97%BB%E7%BE%8E%E5%9B%BD&t=1752825547&token=59e5569292975dbeb6b377099a817955
+#EXTINF:-1 group-title="国际",台视新闻
+https://stream.iptv-search.com/main.php?id=%E5%8F%B0%E8%A7%86%E6%96%B0%E9%97%BB+HD&t=1752825547&token=05ba5975565a304d8dd31b608c51fe92
+#EXTINF:-1 group-title="国际",民视新闻
+https://stream.iptv-search.com/main.php?id=%E6%B0%91%E8%A6%96%E6%96%B0%E8%81%9E+HD&t=1752825547&token=d218ea89c09fea4709b510150486af6f
+#EXTINF:-1 group-title="国际",公视新闻
+https://stream.iptv-search.com/main.php?id=%E5%85%AC%E8%A7%86&t=1752825547&token=2df2f22e22d17ab30416d5b7189a8c2b
+#EXTINF:-1 group-title="国际",TVBS高清
+https://stream.iptv-search.com/main.php?id=TVBS+HD&t=1752825547&token=054e63b280535f97823fbbb8be433e7f
+#EXTINF:-1 group-title="国际",TVBJ1
+https://stream.iptv-search.com/main.php?id=%E7%BF%A1%E7%BF%A0%E5%8F%B0%E5%8C%97%E7%BE%8E%E7%89%88%28TVB+J1%29&t=1752825547&token=938a5e5c0ccbeac9a6a570711fd0314a
+#EXTINF:-1 group-title="国际",TVB翡翠台
+https://stream.iptv-search.com/main.php?id=TVB%E7%BF%A1%E7%BF%A0%E5%8F%B0&t=1752825547&token=26b438b6e85f0006fd654db5968818b5
+#EXTINF:-1 group-title="国际",TVB明珠台
+https://stream.iptv-search.com/main.php?id=TVB%E6%98%8E%E7%8F%A0%E5%8F%B0&t=1752825547&token=8197c49bd54b60714cdd219da1c9a2b7
+#EXTINF:-1 group-title="国际",东森戏剧
+https://stream.iptv-search.com/main.php?id=%E4%B8%9C%E6%A3%AE%E6%88%8F%E5%89%A7&t=1752825547&token=fe3e98e1b7c017578c3ea3abb7e69fde
+#EXTINF:-1 group-title="国际",东森电影
+https://stream.iptv-search.com/main.php?id=%E4%B8%9C%E6%A3%AE%E7%94%B5%E5%BD%B1&t=1752825547&token=e9679b09de43117b64ccacc7996bfa0d
+#EXTINF:-1 group-title="国际",东森洋片
+https://stream.iptv-search.com/main.php?id=%E4%B8%9C%E6%A3%AE%E6%B4%8B%E7%89%87&t=1752825547&token=5929a48ca84bce13b46cb06d8b311bee
+#EXTINF:-1 group-title="国际",澳视澳门
+https://stream.iptv-search.com/main.php?id=%E6%BE%B3%E8%A7%86%E6%BE%B3%E9%97%A8&t=1752825547&token=9a7df7660db94345b3fe0227917847b6
+#EXTINF:-1 group-title="国际",美亚电影
+https://stream.iptv-search.com/main.php?id=%E7%BE%8E%E4%BA%9A%E7%94%B5%E5%BD%B1&t=1752825547&token=75d31baf054a02ce77b706aff030468b
+#EXTINF:-1 group-title="国际",纬来电影
+https://stream.iptv-search.com/main.php?id=%E7%BA%AC%E6%9D%A5%E7%94%B5%E5%BD%B1%E5%8F%B0&t=1752825547&token=9ba1c0e30d7400654698cb8ffe0fea44
+#EXTINF:-1 group-title="国际",重温经典
+https://stream.iptv-search.com/main.php?id=%E9%87%8D%E6%B8%A9%E7%BB%8F%E5%85%B8&t=1752825547&token=3a5be6964fa51e1a2b46437555b58750
+#EXTINF:-1 group-title="国际",星卫电影
+https://stream.iptv-search.com/main.php?id=%E6%98%9F%E5%8D%AB%E7%94%B5%E5%BD%B1&t=1752825547&token=29f36e2425ebf911301adf7c84d63642
