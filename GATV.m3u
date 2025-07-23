@@ -1,7 +1,4 @@
 #EXTM3U
-#EXT-X-APP APTV
-#EXT-X-APTV-TYPE local
-
 #EXTINF:-1 group-title="国际",无线新闻
 https://stream.iptv-search.com/main.php?id=%E6%97%A0%E7%BA%BF%E6%96%B0%E9%97%BB%E5%8F%B0&t=1752825547&token=ba58c164a6d3b6e8b7d66002fd41f91a
 #EXTINF:-1 group-title="国际",中天娱乐
