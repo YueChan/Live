@@ -115,16 +115,6 @@ rtp://239.3.1.58:8156
 rtp://239.3.1.165:8001
 #EXTINF:-1 tvg-name="快乐垂钓" tvg-logo="https://live.fanmingming.com/tv/快乐垂钓.png" group-title="地方",快乐垂钓
 rtp://239.3.1.164:8001
-#EXTINF:-1 tvg-name="金色学堂" tvg-logo="https://live.fanmingming.com/tv/金色学堂.png" group-title="数字",金色学堂
-rtp://239.3.1.208:8001
-#EXTINF:-1 tvg-name="生活时尚" tvg-logo="https://live.fanmingming.com/tv/生活时尚.png" group-title="数字",生活时尚
-rtp://239.3.1.206:8001
-#EXTINF:-1 tvg-name="全纪实" tvg-logo="https://live.fanmingming.com/tv/乐游.png" group-title="数字",乐游频道
-rtp://239.3.1.207:8001
-#EXTINF:-1 tvg-name="都市剧场" tvg-logo="https://live.fanmingming.com/tv/都市剧场.png" group-title="数字",都市剧场
-rtp://239.3.1.203:8001
-#EXTINF:-1 tvg-name="魅力足球" tvg-logo="https://live.fanmingming.com/tv/魅力足球.png" group-title="数字",魅力足球
-rtp://239.3.1.201:8001
 #EXTINF:-1 tvg-name="晴彩竞技" tvg-logo="https://epg.112114.xyz/logo/晴彩竞技.png" group-title="数字",睛彩竞技
 rtp://239.3.1.125:8001
 #EXTINF:-1 tvg-name="晴彩篮球" tvg-logo="https://epg.112114.xyz/logo/晴彩篮球.png" group-title="数字",睛彩篮球
