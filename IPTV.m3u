@@ -107,8 +107,6 @@ rtp://239.3.1.235:8000
 rtp://239.3.1.115:8000
 #EXTINF:-1 tvg-name="卡酷动画" tvg-logo="https://live.fanmingming.com/tv/卡酷少儿.png" group-title="地方",卡酷少儿
 rtp://239.3.1.189:8000
-#EXTINF:-1 tvg-name="北京IPTV4K" tvg-logo="https://live.fanmingming.com/tv/北京IPTV4K.png" group-title="地方",4K超清
-rtp://239.3.1.249:8001
 #EXTINF:-1 tvg-name="金鹰纪实" tvg-logo="https://live.fanmingming.com/tv/金鹰纪实.png" group-title="地方",金鹰纪实
 rtp://239.3.1.58:8156
 #EXTINF:-1 tvg-name="茶" tvg-logo="https://live.fanmingming.com/tv/茶.png" group-title="地方",茶友频道
@@ -125,6 +123,8 @@ rtp://239.3.1.127:8001
 rtp://239.3.1.128:8001
 #EXTINF:-1 tvg-name="爱上4K" tvg-logo="https://epg.112114.xyz/logo/华数.png" group-title="数字",爱上4K
 rtp://239.3.1.236:2000
+#EXTINF:-1 tvg-name="北京IPTV4K" tvg-logo="https://live.fanmingming.com/tv/北京IPTV4K.png" group-title="数字",4K超清
+rtp://239.3.1.249:8001
 #EXTINF:-1 tvg-name="城市剧场" tvg-logo="https://epg.112114.xyz/logo/华数.png" group-title="数字",城市剧场
 rtp://239.3.1.67:4120
 #EXTINF:-1 tvg-name="军旅剧场" tvg-logo="https://epg.112114.xyz/logo/华数.png" group-title="数字",军旅剧场
