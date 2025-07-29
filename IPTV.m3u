@@ -167,7 +167,7 @@ rtp://239.3.1.223:8001
 rtp://239.3.1.181:8001
 #EXTINF:-1 tvg-name="家有购物" tvg-logo="https://live.fanmingming.com/tv/家有购物.png" group-title="数字",家有购物
 rtp://239.3.1.185:8001
-#EXTINF:-1 tvg-name="聚鲨环球精选" tvg-logo="https://live.fanmingming.com/tv/聚鲨环球精选.png" group-title="数字",聚鲨环球
+#EXTINF:-1 tvg-name="聚鲨环球精选" tvg-logo="https://live.fanmingming.com/tv/聚鲨环球精选.png" group-title="数字",聚鲨精选
 rtp://239.3.1.179:8001
 #EXTINF:-1 tvg-name="中国交通" tvg-logo="https://live.fanmingming.com/tv/中国交通.png" group-title="数字",中国交通
 rtp://239.3.1.188:8001
