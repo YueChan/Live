@@ -1,121 +1,233 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="47213" tvg-name="CA CNN " group-title="国际",CNN
-http://fortv.cc:8080/clarencekingrh@hotmail.com/pKgSdl4ZFX/47213
-#EXTINF:-1 tvg-id="53757" tvg-name="UK: BBC NEWS" group-title="国际",BBC 
-https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
-#EXTINF:-1 tvg-id="121139" tvg-name="US abc 7 (WABC) New York" group-title="国际",ABC
-http://fortv.cc:8080/clarencekingrh@hotmail.com/pKgSdl4ZFX/121139
-#EXTINF:-1 tvg-id="160711" tvg-name="US Al Jazeera" group-title="国际",Al Jazeera
-http://live-hls-web-aje.getaj.net/AJE/01.m3u8
-#EXTINF:-1 tvg-id="1818" tvg-name="US Fox News" group-title="国际",Fox News
-http://fortv.cc:8080/clarencekingrh@hotmail.com/pKgSdl4ZFX/1818
-#EXTINF:-1 tvg-id="161450" tvg-name="US NewsNation" group-title="国际",NewsNation
-http://fortv.cc:8080/clarencekingrh@hotmail.com/pKgSdl4ZFX/161450
-#EXTINF:-1 tvg-id="46754" tvg-name="US CBSN New York (D)" group-title="国际",CBSN  
-http://fortv.cc:8080/clarencekingrh@hotmail.com/pKgSdl4ZFX/46754
-#EXTINF:-1 tvg-id="78578" tvg-name="Infowars" group-title="国际",Infowars
-http://fortv.cc:8080/clarencekingrh@hotmail.com/pKgSdl4ZFX/78578
-#EXTINF:-1 tvg-id="121004" tvg-name="AU ABC News Sydney (D)" group-title="国际",ABC News Sydney 
-http://fortv.cc:8080/clarencekingrh@hotmail.com/pKgSdl4ZFX/121004
-#EXTINF:-1 tvg-id="53695" tvg-name="UK-Discovery Science" group-title="国际",Discovery Science
-http://fortv.cc:8080/clarencekingrh@hotmail.com/pKgSdl4ZFX/53695
-#EXTINF:-1 tvg-id="11664" tvg-name="US Nat Geo Wild East (A)" tvg-logo="https://i.pinimg.com/originals/b7/4f/75/b74f758bf9eadb051be71f7a9deb6e8c.png" group-title="国际",Nat Geo Wild East
-http://fortv.cc:8080/clarencekingrh@hotmail.com/pKgSdl4ZFX/11664
-#EXTINF:-1 tvg-id="46722" tvg-name="US National Geographic " group-title="国际",National Geographic
-http://fortv.cc:8080/clarencekingrh@hotmail.com/pKgSdl4ZFX/46722
-#EXTINF:-1 tvg-id="53719" tvg-name="UK-Cartoon Network" group-title="国际",Cartoon Network
-http://fortv.cc:8080/clarencekingrh@hotmail.com/pKgSdl4ZFX/53719
-#EXTINF:-1 tvg-id="18925" tvg-name="US AMC" tvg-logo="https://seeklogo.com/images/A/amc-logo-36BD2C5A01-seeklogo.com.png" group-title="国际",AMC
-http://fortv.cc:8080/clarencekingrh@hotmail.com/pKgSdl4ZFX/18925
-#EXTINF:-1 tvg-id="13702" tvg-name="US BET (East)" tvg-logo="https://www.pinclipart.com/picdir/middle/396-3966034_bet-her-logo-png-clipart.png" group-title="国际",BET
-http://fortv.cc:8080/clarencekingrh@hotmail.com/pKgSdl4ZFX/13702
-#EXTINF:-1 tvg-id="21259" tvg-name="US CBS News " group-title="国际",CBS
-http://fortv.cc:8080/clarencekingrh@hotmail.com/pKgSdl4ZFX/21259
-#EXTINF:-1 tvg-id="9815" tvg-name="US CNBC " tvg-logo="https://piketrail.com/wp-content/uploads/2019/09/cnbclogo.png" group-title="国际",CNBC
-http://fortv.cc:8080/clarencekingrh@hotmail.com/pKgSdl4ZFX/9815
-#EXTINF:-1 tvg-id="46724" tvg-name="US HISTORY " group-title="国际",History
-http://fortv.cc:8080/clarencekingrh@hotmail.com/pKgSdl4ZFX/46724
-#EXTINF:-1 tvg-id="35248" tvg-name="UK Sky Cinema Scifi & Horror FHD" group-title="国际",Sky Cinema Scifi & Horror 
-http://fortv.cc:8080/clarencekingrh@hotmail.com/pKgSdl4ZFX/35248
-#EXTINF:-1 tvg-id="35252" tvg-name="UK MOVIES: SKY CRIME THRILLER" group-title="国际",Sky Crime Thriller
-http://fortv.cc:8080/clarencekingrh@hotmail.com/pKgSdl4ZFX/35252
-#EXTINF:-1 tvg-id="20863" tvg-name="US Lifetime Movies " tvg-logo="https://findvectorlogo.com/wp-content/uploads/2020/01/lifetime-movies-vector-logo.png" group-title="国际",Lifetime Movies
-http://fortv.cc:8080/clarencekingrh@hotmail.com/pKgSdl4ZFX/20863
-#EXTINF:-1 tvg-id="13380" tvg-name="US Cinemax (East) " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png" group-title="国际",Cinemax  
-http://fortv.cc:8080/clarencekingrh@hotmail.com/pKgSdl4ZFX/13380
-#EXTINF:-1 tvg-id="57377" tvg-name="CA: Animal Planet" group-title="国际",Animal Planet
-http://fortv.cc:8080/clarencekingrh@hotmail.com/pKgSdl4ZFX/57377
-#EXTINF:-1 tvg-id="35241" tvg-name="UK-Sky Sports News" group-title="国际",Sky Sports News
-http://fortv.cc:8080/clarencekingrh@hotmail.com/pKgSdl4ZFX/137719
-#EXTINF:-1 tvg-id="53706" tvg-name="UK Sky Sports Mix FHD (D)" group-title="国际",Sky Sports Mix  
-http://fortv.cc:8080/clarencekingrh@hotmail.com/pKgSdl4ZFX/53706
-#EXTINF:-1 tvg-id="35238" tvg-name="UK-Sky Sports Arena" group-title="国际",Sky Sports Arena
-http://fortv.cc:8080/clarencekingrh@hotmail.com/pKgSdl4ZFX/35238
-#EXTINF:-1 tvg-id="35240" tvg-name="UK Sky Sports Golf FHD " group-title="国际",Sky Sports Golf  
-http://fortv.cc:8080/clarencekingrh@hotmail.com/pKgSdl4ZFX/35240
-#EXTINF:-1 tvg-id="35243" tvg-name="UK-Sky Sports Main Event" group-title="国际",Sky Sports Main Event
-http://fortv.cc:8080/clarencekingrh@hotmail.com/pKgSdl4ZFX/35243
-#EXTINF:-1 tvg-id="45940" tvg-name="UK Sky Sports Cricket FHD (D)" group-title="国际",Sky Sports Cricket 
-http://fortv.cc:8080/clarencekingrh@hotmail.com/pKgSdl4ZFX/45940
-#EXTINF:-1 tvg-id="35244" tvg-name="UK Sky Sports F1 FHD" group-title="国际",Sky Sports F1  
-http://fortv.cc:8080/clarencekingrh@hotmail.com/pKgSdl4ZFX/35244
-#EXTINF:-1 tvg-id="76842" tvg-name="UK: SKY SP RACING FHD" group-title="国际",Sky SP Racing  
-http://fortv.cc:8080/clarencekingrh@hotmail.com/pKgSdl4ZFX/76842
-#EXTINF:-1 tvg-id="57273" tvg-name="CA HGTV " group-title="国际",HGTV
-http://fortv.cc:8080/clarencekingrh@hotmail.com/pKgSdl4ZFX/57273
-#EXTINF:-1 tvg-id="46688" tvg-name="US TNT (West) " group-title="国际",TNT 
-http://fortv.cc:8080/clarencekingrh@hotmail.com/pKgSdl4ZFX/46688
-#EXTINF:-1 tvg-id="21360" tvg-name="MLB Network" tvg-logo="https://a4.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fmisc_logos%2F500%2Fmlb.png" group-title="国际",MLB Network
-http://fortv.cc:8080/clarencekingrh@hotmail.com/pKgSdl4ZFX/21360
-#EXTINF:-1 tvg-id="159091" tvg-name="USA: NFL NETWORK (1)" group-title="国际",NFL Network
-http://fortv.cc:8080/clarencekingrh@hotmail.com/pKgSdl4ZFX/159091
-#EXTINF:-1 tvg-id="17776" tvg-name="US More Max " tvg-logo="https://p.kindpng.com/picc/s/83-836958_more-max-hdtv-cinemax-hd-png-download.png" group-title="国际",More Max
-http://fortv.cc:8080/clarencekingrh@hotmail.com/pKgSdl4ZFX/17776
-#EXTINF:-1 tvg-id="22995" tvg-name="CA-NBA TV" tvg-logo="https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png" group-title="国际",NBA TV
-http://fortv.cc:8080/clarencekingrh@hotmail.com/pKgSdl4ZFX/22995
-#EXTINF:-1 tvg-id="20940" tvg-name="US NBC Sports California (A)" tvg-logo="https://www.clipartmax.com/png/middle/421-4210789_nbc-sports-california-shows-nbc-sports-pressbox-san-nbc-sports-philadelphia-logo.png" group-title="国际",NBC Sports California  
-http://fortv.cc:8080/clarencekingrh@hotmail.com/pKgSdl4ZFX/20940
-#EXTINF:-1 tvg-id="20941" tvg-name="US NBC Sports Chicago " tvg-logo="https://img2.pngio.com/chicago-sports-transparent-png-clipart-free-download-ywd-nbc-sports-png-800_625.png" group-title="国际",NBC Sports Chicago 
-http://fortv.cc:8080/clarencekingrh@hotmail.com/pKgSdl4ZFX/20941
-#EXTINF:-1 tvg-id="20926" tvg-name="US NBC Sports Network (FHD) " tvg-logo="https://findlogovector.com/wp-content/uploads/2019/03/nbc-sports-logo-vector.png" group-title="国际",NBC Sports Network 
-http://fortv.cc:8080/clarencekingrh@hotmail.com/pKgSdl4ZFX/20926
-#EXTINF:-1 tvg-id="20943" tvg-name="US NBC Sports Philly (F)" tvg-logo="https://www.nbcsports.com/sites/rsnunited/files/styles/article_hero_image/public/archive/assets_article/philadelphia/2019/10/01/logo.png" group-title="国际",NBC Sports Philly    
-http://fortv.cc:8080/clarencekingrh@hotmail.com/pKgSdl4ZFX/20943
-#EXTINF:-1 tvg-id="1846" tvg-name="US Fox Sports 1 " tvg-logo="https://awfulannouncing.com/wp-content/uploads/sites/94/2015/09/Screen-Shot-2015-09-04-at-6.09.55-PM.png" group-title="国际",Fox Sports 1 
-http://fortv.cc:8080/clarencekingrh@hotmail.com/pKgSdl4ZFX/1846
-#EXTINF:-1 tvg-id="17772" tvg-name="US HBO Family (East) " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png" group-title="国际",HBO Family  
-http://fortv.cc:8080//clarencekingrh@hotmail.com/pKgSdl4ZFX/17772
-#EXTINF:-1 tvg-id="13480" tvg-name="US MovieMAX (East) " tvg-logo="https://www.dishactivations.com/wp-content/uploads/2014/05/MoviePlex.png" group-title="国际",MovieMAX
-http://fortv.cc:8080//clarencekingrh@hotmail.com/pKgSdl4ZFX/13480
-#EXTINF:-1 tvg-id="21012" tvg-name="US Cinemax Outermax (X)" group-title="国际",Cinemax Outermax
-http://fortv.cc:8080//clarencekingrh@hotmail.com/pKgSdl4ZFX/21012
-#EXTINF:-1 tvg-id="46694" tvg-name="Paramount Network " group-title="国际",Paramount Network
-http://fortv.cc:8080/q8KuDU/354945/46694
-#EXTINF:-1 tvg-id="46214" tvg-name="US Showtime East " group-title="国际",Showtime 
-http://fortv.cc:8080//clarencekingrh@hotmail.com/pKgSdl4ZFX/46214
-#EXTINF:-1 tvg-id="7323" tvg-name="Food Network HD" group-title="国际",Food Network 
-http://fortv.cc:8080/q8KuDU/354945/7323
-#EXTINF:-1 tvg-id="57306" tvg-name="CA: CBC TORONTO" group-title="国际",CBC  
-http://fortv.cc:8080//clarencekingrh@hotmail.com/pKgSdl4ZFX/57306
-#EXTINF:-1 tvg-id="57357" tvg-name="CA CP24 News HD (D)" group-title="国际",CP24 News 
-http://fortv.cc:8080//clarencekingrh@hotmail.com/pKgSdl4ZFX/57357
-#EXTINF:-1 tvg-id="57254" tvg-name="CA CTV Drama Channel (R)" group-title="国际",CTV Drama 
-http://fortv.cc:8080//clarencekingrh@hotmail.com/pKgSdl4ZFX/57254
-#EXTINF:-1 tvg-id="57350" tvg-name="CA: CTV NEWS CHANNEL HD" group-title="国际",CTV NEWS
-http://fortv.cc:8080//clarencekingrh@hotmail.com/pKgSdl4ZFX/57350
-#EXTINF:-1 tvg-id="57437" tvg-name="CA: HBO 1 " group-title="国际",HBO 1 
-http://fortv.cc:8080//clarencekingrh@hotmail.com/pKgSdl4ZFX/57437
-#EXTINF:-1 tvg-id="57438" tvg-name="CA HBO 2 (R)" group-title="国际",HBO 2 
-http://fortv.cc:8080//clarencekingrh@hotmail.com/pKgSdl4ZFX/57438
-#EXTINF:-1 tvg-id="57276" tvg-name="CA: PBS HD" group-title="国际",PBS 
-http://fortv.cc:8080//clarencekingrh@hotmail.com/pKgSdl4ZFX/57276
-#EXTINF:-1 tvg-id="57277" tvg-name="CA OWN " group-title="国际",OWN 
-http://fortv.cc:8080//clarencekingrh@hotmail.com/pKgSdl4ZFX/57277
-#EXTINF:-1 tvg-id="46706" tvg-name="CMT" group-title="国际",CMT
-http://fortv.cc:8080/q8KuDU/354945/46706
-#EXTINF:-1 tvg-id="66244" tvg-name="Comet" group-title="国际",Comet 
-http://fortv.cc:8080/q8KuDU/354945/66244
-#EXTINF:-1 tvg-id="20189" tvg-name="Decades" group-title="国际",Decades
-http://fortv.cc:8080/q8KuDU/354945/20189
-#EXTINF:-1 tvg-id="10260" tvg-name="FXM" group-title="国际",FXM
-http://fortv.cc:8080/q8KuDU/354945/10260
+#EXTINF:-1 group-title="国际",BBC 1 
+http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/100648
+#EXTINF:-1 group-title="国际",BBC 2 
+http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/100649
+#EXTINF:-1 group-title="国际",BBC 3 
+http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/100650
+#EXTINF:-1 group-title="国际",BBC 4 
+http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/100651
+#EXTINF:-1 group-title="国际",ITV 1 
+http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/100653
+#EXTINF:-1 group-title="国际",ITV 2 
+http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/100654
+#EXTINF:-1 group-title="国际",ITV 3 
+http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/100655
+#EXTINF:-1 group-title="国际",ITV 4 
+http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/100656
+#EXTINF:-1 group-title="国际",GB NEWS 
+http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/454912
+#EXTINF:-1 group-title="国际",CHANNEL 4 
+http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/100658
+#EXTINF:-1 group-title="国际",CHANNEL 5 
+http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/100659
+#EXTINF:-1 group-title="国际",TALK TV 
+http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/714352
+#EXTINF:-1 group-title="国际",ALIBI 
+http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/100663
+#EXTINF:-1 group-title="国际",BBC PARLIAMENT 
+http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/100669
+#EXTINF:-1 group-title="国际",BLOOMBERG 
+http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/100683
+#EXTINF:-1 group-title="国际",CNN 
+http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/100684
+#EXTINF:-1 group-title="国际",FRANCE 24 
+http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/745640
+#EXTINF:-1 group-title="国际",SKY NEWS 
+http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/100690
+#EXTINF:-1 group-title="国际",CNBC  
+http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/100695
+#EXTINF:-1 group-title="国际",AL JAZEERA 
+http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/100700
+#EXTINF:-1 group-title="国际",GOLD 
+http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/100800
+#EXTINF:-1 group-title="国际",DAVE 
+http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/100797
+#EXTINF:-1 group-title="国际",E! ENTERTAINMENT 
+http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/745650
+#EXTINF:-1 group-title="国际",MORE 4 
+http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/100803
+#EXTINF:-1 group-title="国际",QUEST 
+http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/745652
+#EXTINF:-1 group-title="国际",SKY MAX 
+http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/547880
+#EXTINF:-1 group-title="国际",SKY SHOWCASE 
+http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/100806
+#EXTINF:-1 group-title="国际",SKY ATLANTIC 
+http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/100936
+#EXTINF:-1 group-title="国际",SKY ARTS 
+http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/100937
+#EXTINF:-1 group-title="国际",SKY WITNESS 
+http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/100807
+#EXTINF:-1 group-title="国际",COMEDY CENTRAL 
+http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/100916
+#EXTINF:-1 group-title="国际",SKY MIX 
+http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/1449268
+#EXTINF:-1 group-title="国际",QVC 
+http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/102419
+#EXTINF:-1 group-title="国际",QVC STYLE  
+http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/102422
+#EXTINF:-1 group-title="国际",DISCOVERY 
+http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/100761
+#EXTINF:-1 group-title="国际",NAT GEO 
+http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/100762
+#EXTINF:-1 group-title="国际",NAT GEO WILD 
+http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/745679
+#EXTINF:-1 group-title="国际",SKY CRIME 
+http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/739766
+#EXTINF:-1 group-title="国际",SKY HISTORY 
+http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/100766
+#EXTINF:-1 group-title="国际",SKY CINEMA COMEDY 
+http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/100939
+#EXTINF:-1 group-title="国际",SKY CINEMA FAMILY 
+http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/745665
+#EXTINF:-1 group-title="国际",SKY CINEMA PREMIER 
+http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/213526
+#EXTINF:-1 group-title="国际",SKY CINEMA GREATS 
+http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/100942
+#EXTINF:-1 group-title="国际",SKY CINEMA SCI-FI & HORROR 
+http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/100944
+#EXTINF:-1 group-title="国际",SKY CINEMA THRILLER 
+http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/100946
+#EXTINF:-1 group-title="国际",SKY CINEMA DRAMA 
+http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/100947
+#EXTINF:-1 group-title="国际",SKY CINEMA HITS 
+http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/745671
+#EXTINF:-1 group-title="国际",SKY CINEMA ANIMATION 
+http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/197793
+#EXTINF:-1 group-title="国际",FILM 4 
+http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/745674
+#EXTINF:-1 group-title="国际",SYFY 
+http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/100771
+#EXTINF:-1 group-title="国际",CARTOON NETWORK 
+http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/100912
+#EXTINF:-1 group-title="国际",SKY KIDS 
+http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/771667
+#EXTINF:-1 group-title="国际",MTV LIVE 
+http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/101100
+#EXTINF:-1 group-title="国际",SKY SPORTS ACTION 
+http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/101043
+#EXTINF:-1 group-title="国际",SKY SPORTS ACTION 
+http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/101020
+#EXTINF:-1 group-title="国际",SKY SPORTS NEWS 
+http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/101042
+#EXTINF:-1 group-title="国际",SKY SPORTS FOOTBALL 
+http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/101044
+#EXTINF:-1 group-title="国际",SKY SPORTS PREMIER LEAGUE 
+http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/101045
+#EXTINF:-1 group-title="国际",SKY SPORTS MAIN EVENT 
+http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/103112
+#EXTINF:-1 group-title="国际",SKY SPORT MIX 
+http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/103109
+#EXTINF:-1 group-title="国际",SKY SPORTS TENNIS 
+http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/1341720
+#EXTINF:-1 group-title="国际",SKY SPORTS+ 
+http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/101049
+#EXTINF:-1 group-title="国际",SKY SPORTS F1 
+http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/101051
+#EXTINF:-1 group-title="国际",SKY SPORTS GOLF 
+http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/101052
+#EXTINF:-1 group-title="国际",BEIN SPORT NBA 
+http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/112438
+#EXTINF:-1 group-title="国际",BEIN SPORTS ENGLISH 2 
+http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/112453
+#EXTINF:-1 group-title="国际",BEIN SPORTS 1 
+http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/112449
+#EXTINF:-1 group-title="国际",BEIN SPORTS 2 
+http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/112450
+#EXTINF:-1 group-title="国际",BEIN SPORTS 4 
+http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/112443
+#EXTINF:-1 group-title="国际",BEIN SPORTS 3 
+http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/112451
+#EXTINF:-1 group-title="国际",BEIN SPORTS 5 
+http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/112444
+#EXTINF:-1 group-title="国际",BEIN SPORTS 7 
+http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/112446
+#EXTINF:-1 group-title="国际",BEIN SPORTS 6 
+http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/112445
+#EXTINF:-1 group-title="国际",BEIN SPORTS 8 
+http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/899112
+#EXTINF:-1 group-title="国际",BEIN SPORTS 9 
+http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/899113
+#EXTINF:-1 group-title="国际",TNT SPORTS 1 
+http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/205999
+#EXTINF:-1 group-title="国际",TNT SPORTS 2 
+http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/103146
+#EXTINF:-1 group-title="国际",TNT SPORTS 4 
+http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/670669
+#EXTINF:-1 group-title="国际",PREMIER SPORTS 
+http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/101064
+#EXTINF:-1 group-title="国际",TNT SPORTS 3 
+http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/103149
+#EXTINF:-1 group-title="国际",PREMIER SPORTS 2 
+http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/101065
+#EXTINF:-1 group-title="国际",PREMIER SPORTS 
+http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/745691
+#EXTINF:-1 group-title="国际",CELTIC TV  
+http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/197102
+#EXTINF:-1 group-title="国际",RACING UK 
+http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/101066
+#EXTINF:-1 group-title="国际",RANGERS FC TV 
+http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/292939
+#EXTINF:-1 group-title="国际",Discovery Channel
+http://panelguys.top:8080/phi@live.ca/phi@3574/53684
+#EXTINF:-1 group-title="国际",TNT SPORTS ULTIMATE U
+http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/1449257
+#EXTINF:-1 group-title="国际",BBC RED BUTTON 1 
+http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/1449267
+#EXTINF:-1 group-title="国际",HUBPREMIER 1
+http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/1289436
+#EXTINF:-1 group-title="国际",DAZN 
+http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/787620
+#EXTINF:-1 group-title="国际",ASTRO SUPERSPORT 
+http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/556245
+#EXTINF:-1 group-title="国际",TNT SPORTS 1 50FPS
+http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/1482565
+#EXTINF:-1 group-title="国际",Discovery History
+http://panelguys.top:8080/phi@live.ca/phi@3574/53694
+#EXTINF:-1 group-title="国际",TNT SPORTS 2  
+http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/1482566
+#EXTINF:-1 group-title="国际",TNT SPORTS 3  
+http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/1482567
+#EXTINF:-1 group-title="国际",TNT SPORTS 4 
+http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/1482568
+#EXTINF:-1 group-title="国际",VIAPLAY SPORTS 1  
+http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/1479405
+#EXTINF:-1 group-title="国际",VIAPLAY SPORTS 2  
+http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/1479406
+#EXTINF:-1 group-title="国际",KIDS ONEPLAY MICKEY MOUSE 
+http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/1652828
+#EXTINF:-1 group-title="国际",Discovery Science
+http://panelguys.top:8080/phi@live.ca/phi@3574/53695
+#EXTINF:-1 group-title="国际",KIDS ONEPLAY CURIOUS GEORGE 
+http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/1652805
+#EXTINF:-1 group-title="国际",CBS NEWS 
+http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/360767
+#EXTINF:-1 group-title="国际",CNN  
+http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/360770
+#EXTINF:-1 group-title="国际",NEWSMAX TV 
+http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/360782
+#EXTINF:-1 group-title="国际",ONE AMERICA NEWS
+http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/783496
+#EXTINF:-1 group-title="国际",BBC WORLD NEWS 
+http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/360787
+#EXTINF:-1 group-title="国际",AL JAZEERA 
+http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/360793
+#EXTINF:-1 group-title="国际",HBO EAST
+http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/361401
+#EXTINF:-1 group-title="国际",HBO WEST
+http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/361402
+#EXTINF:-1 group-title="国际",HBO COMEDY   
+http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/361407
+#EXTINF:-1 group-title="国际",AMC 
+http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/361446
+#EXTINF:-1 group-title="国际",AMC+ 
+http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/361447
+#EXTINF:-1 group-title="国际",SHOWTIME  
+http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/361455
+#EXTINF:-1 group-title="国际",SONY MOVIE CHANNEL 
+http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/361467
+#EXTINF:-1 group-title="国际",NICKTOONS 
+http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/361374
+#EXTINF:-1 group-title="国际",MTV LIVE 
+http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/361488
