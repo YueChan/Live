@@ -155,3 +155,9 @@ rtp://239.3.1.195:9024
 rtp://239.3.1.196:9012
 #EXTINF:-1 tvg-name="少儿动画" tvg-logo="https://epg.112114.xyz/logo/华数.png" group-title="数字",少儿动画
 rtp://239.3.1.199:9000
+#EXTINF:-1 tvg-name="央广购物" tvg-logo="https://live.fanmingming.com/tv/央广购物.png" group-title="数字",央广购物
+rtp://239.3.1.223:8001
+#EXTINF:-1 tvg-name="时尚购物" tvg-logo="https://live.fanmingming.com/tv/时尚购物.png" group-title="数字",时尚购物
+rtp://239.3.1.181:8001
+#EXTINF:-1 tvg-name="家有购物" tvg-logo="https://live.fanmingming.com/tv/家有购物.png" group-title="数字",家有购物
+rtp://239.3.1.185:8001
