@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:-1 group-title="国际",BBC
 http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/360787
-#EXTINF:-1 group-title="国际",CNN  
-http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/360770
 #EXTINF:-1 group-title="国际",CNN 
 http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/100684
 #EXTINF:-1 group-title="国际",FRANCE 24 
@@ -17,8 +15,6 @@ http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/100700
 http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/360782
 #EXTINF:-1 group-title="国际",ONE AMERICA NEWS
 http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/783496
-#EXTINF:-1 group-title="国际",AL JAZEERA 
-http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/360793
 #EXTINF:-1 group-title="国际",CBS NEWS 
 http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/360767
 #EXTINF:-1 group-title="国际",BBC 1 
