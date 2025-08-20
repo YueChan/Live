@@ -1,4 +1,26 @@
 #EXTM3U
+#EXTINF:-1 group-title="国际",BBC
+http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/360787
+#EXTINF:-1 group-title="国际",CNN  
+http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/360770
+#EXTINF:-1 group-title="国际",CNN 
+http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/100684
+#EXTINF:-1 group-title="国际",FRANCE 24 
+http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/745640
+#EXTINF:-1 group-title="国际",SKY NEWS 
+http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/100690
+#EXTINF:-1 group-title="国际",CNBC  
+http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/100695
+#EXTINF:-1 group-title="国际",AL JAZEERA 
+http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/100700
+#EXTINF:-1 group-title="国际",NEWSMAX TV 
+http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/360782
+#EXTINF:-1 group-title="国际",ONE AMERICA NEWS
+http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/783496
+#EXTINF:-1 group-title="国际",AL JAZEERA 
+http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/360793
+#EXTINF:-1 group-title="国际",CBS NEWS 
+http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/360767
 #EXTINF:-1 group-title="国际",BBC 1 
 http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/100648
 #EXTINF:-1 group-title="国际",BBC 2 
@@ -15,8 +37,6 @@ http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/100654
 http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/100655
 #EXTINF:-1 group-title="国际",ITV 4 
 http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/100656
-#EXTINF:-1 group-title="国际",GB NEWS 
-http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/454912
 #EXTINF:-1 group-title="国际",CHANNEL 4 
 http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/100658
 #EXTINF:-1 group-title="国际",CHANNEL 5 
@@ -29,16 +49,6 @@ http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/100663
 http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/100669
 #EXTINF:-1 group-title="国际",BLOOMBERG 
 http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/100683
-#EXTINF:-1 group-title="国际",CNN 
-http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/100684
-#EXTINF:-1 group-title="国际",FRANCE 24 
-http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/745640
-#EXTINF:-1 group-title="国际",SKY NEWS 
-http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/100690
-#EXTINF:-1 group-title="国际",CNBC  
-http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/100695
-#EXTINF:-1 group-title="国际",AL JAZEERA 
-http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/100700
 #EXTINF:-1 group-title="国际",GOLD 
 http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/100800
 #EXTINF:-1 group-title="国际",DAVE 
@@ -153,18 +163,16 @@ http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/899113
 http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/205999
 #EXTINF:-1 group-title="国际",TNT SPORTS 2 
 http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/103146
+#EXTINF:-1 group-title="国际",TNT SPORTS 3 
+http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/103149
 #EXTINF:-1 group-title="国际",TNT SPORTS 4 
 http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/670669
 #EXTINF:-1 group-title="国际",PREMIER SPORTS 
 http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/101064
-#EXTINF:-1 group-title="国际",TNT SPORTS 3 
-http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/103149
 #EXTINF:-1 group-title="国际",PREMIER SPORTS 2 
 http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/101065
 #EXTINF:-1 group-title="国际",PREMIER SPORTS 
 http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/745691
-#EXTINF:-1 group-title="国际",CELTIC TV  
-http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/197102
 #EXTINF:-1 group-title="国际",RACING UK 
 http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/101066
 #EXTINF:-1 group-title="国际",RANGERS FC TV 
@@ -181,10 +189,8 @@ http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/1289436
 http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/787620
 #EXTINF:-1 group-title="国际",ASTRO SUPERSPORT 
 http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/556245
-#EXTINF:-1 group-title="国际",TNT SPORTS 1 50FPS
+#EXTINF:-1 group-title="国际",TNT SPORTS 1  
 http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/1482565
-#EXTINF:-1 group-title="国际",Discovery History
-http://panelguys.top:8080/phi@live.ca/phi@3574/53694
 #EXTINF:-1 group-title="国际",TNT SPORTS 2  
 http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/1482566
 #EXTINF:-1 group-title="国际",TNT SPORTS 3  
@@ -201,18 +207,6 @@ http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/1652828
 http://panelguys.top:8080/phi@live.ca/phi@3574/53695
 #EXTINF:-1 group-title="国际",KIDS ONEPLAY CURIOUS GEORGE 
 http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/1652805
-#EXTINF:-1 group-title="国际",CBS NEWS 
-http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/360767
-#EXTINF:-1 group-title="国际",CNN  
-http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/360770
-#EXTINF:-1 group-title="国际",NEWSMAX TV 
-http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/360782
-#EXTINF:-1 group-title="国际",ONE AMERICA NEWS
-http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/783496
-#EXTINF:-1 group-title="国际",BBC WORLD NEWS 
-http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/360787
-#EXTINF:-1 group-title="国际",AL JAZEERA 
-http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/360793
 #EXTINF:-1 group-title="国际",HBO EAST
 http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/361401
 #EXTINF:-1 group-title="国际",HBO WEST
