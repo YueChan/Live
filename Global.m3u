@@ -1,307 +1,303 @@
 #EXTM3U
-#EXTINF:-1 group-title="国际",BBC
+#EXTINF:-1 group-title="Demo",BBC
 http://panelguys.top:8080/txd7Fd/030774/53757
-#EXTINF:-1 group-title="国际",CNN
+#EXTINF:-1 group-title="Demo",CNN
 http://panelguys.top:8080/txd7Fd/030774/47213
-#EXTINF:-1 group-title="国际",CNA
+#EXTINF:-1 group-title="Demo",CNA
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
-#EXTINF:-1 group-title="国际",RT NEWS
+#EXTINF:-1 group-title="Demo",RT NEWS
 http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/181651.m3u8
-#EXTINF:-1 group-title="国际",GB NEWS
+#EXTINF:-1 group-title="Demo",GB NEWS
 http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/400200058.m3u8
-#EXTINF:-1 group-title="国际",FRANCE 24
+#EXTINF:-1 group-title="Demo",FRANCE 24
 http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/745640
-#EXTINF:-1 group-title="国际",SKY NEWS
+#EXTINF:-1 group-title="Demo",SKY NEWS
 http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/100690
-#EXTINF:-1 group-title="国际",EURO NEWS
+#EXTINF:-1 group-title="Demo",EURO NEWS
 http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/181673.m3u8
-#EXTINF:-1 group-title="国际",NBC NEWS NOW
+#EXTINF:-1 group-title="Demo",NBC NEWS NOW
 http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/82805.m3u8
-#EXTINF:-1 group-title="国际",AL JAZEERA
+#EXTINF:-1 group-title="Demo",AL JAZEERA
 http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/100700
-#EXTINF:-1 group-title="国际",NEWS 12
+#EXTINF:-1 group-title="Demo",NEWS 12
 http://panelguys.top:8080/qcFA9B/963626/167741
-#EXTINF:-1 group-title="国际",DW ENGLISH
+#EXTINF:-1 group-title="Demo",DW ENGLISH
 http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/176619.m3u8
-#EXTINF:-1 group-title="国际",CBS NEWS
+#EXTINF:-1 group-title="Demo",CBS NEWS
 http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/360767
-#EXTINF:-1 group-title="国际",TRT WORLD
+#EXTINF:-1 group-title="Demo",TRT WORLD
 http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/400230338.m3u8
-#EXTINF:-1 group-title="国际",USA TODAY
+#EXTINF:-1 group-title="Demo",USA TODAY
 http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/6625.m3u8
-#EXTINF:-1 group-title="国际",ONE AMERICA NEWS
+#EXTINF:-1 group-title="Demo",ONE AMERICA NEWS
 http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/783496
-#EXTINF:-1 group-title="国际",Taiwan Plus
+#EXTINF:-1 group-title="Demo",Taiwan Plus
 https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap-northeast-1/6282251407001/playlist.m3u8
-#EXTINF:-1 group-title="国际",RT Documentary
+#EXTINF:-1 group-title="Demo",RT Documentary
 https://rt-rtd.rttv.com/live/rtdoc/playlist_4500Kb.m3u8
-#EXTINF:-1 group-title="国际",OAN
+#EXTINF:-1 group-title="Demo",OAN
 http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/181655.m3u8
-#EXTINF:-1 group-title="国际",CNBC
+#EXTINF:-1 group-title="Demo",CNBC
 http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/100695
-#EXTINF:-1 group-title="国际",ITV 1
+#EXTINF:-1 group-title="Demo",ITV 1
 http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/100653
-#EXTINF:-1 group-title="国际",ITV 2
+#EXTINF:-1 group-title="Demo",ITV 2
 http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/100654
-#EXTINF:-1 group-title="国际",ITV 3
+#EXTINF:-1 group-title="Demo",ITV 3
 http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/100655
-#EXTINF:-1 group-title="国际",ITV 4
+#EXTINF:-1 group-title="Demo",ITV 4
 http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/100656
-#EXTINF:-1 group-title="国际",CHANNEL 4
+#EXTINF:-1 group-title="Demo",CHANNEL 4
 http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/100658
-#EXTINF:-1 group-title="国际",CHANNEL 5
+#EXTINF:-1 group-title="Demo",CHANNEL 5
 http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/100659
-#EXTINF:-1 group-title="国际",TALK TV
+#EXTINF:-1 group-title="Demo",TALK TV
 http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/714352
-#EXTINF:-1 group-title="国际",ALIBI
+#EXTINF:-1 group-title="Demo",ALIBI
 http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/100663
-#EXTINF:-1 group-title="国际",BBC PARLIAMENT
+#EXTINF:-1 group-title="Demo",BBC PARLIAMENT
 http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/100669
-#EXTINF:-1 group-title="国际",GOLD
+#EXTINF:-1 group-title="Demo",GOLD
 http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/100800
-#EXTINF:-1 group-title="国际",DAVE
+#EXTINF:-1 group-title="Demo",DAVE
 http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/100797
-#EXTINF:-1 group-title="国际",MORE 4
+#EXTINF:-1 group-title="Demo",MORE 4
 http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/100803
-#EXTINF:-1 group-title="国际",QUEST
+#EXTINF:-1 group-title="Demo",QUEST
 http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/745652
-#EXTINF:-1 group-title="国际",SKY MAX
+#EXTINF:-1 group-title="Demo",SKY MAX
 http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/547880
-#EXTINF:-1 group-title="国际",SKY SHOWCASE
+#EXTINF:-1 group-title="Demo",SKY SHOWCASE
 http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/100806
-#EXTINF:-1 group-title="国际",SKY ATLANTIC
+#EXTINF:-1 group-title="Demo",SKY ATLANTIC
 http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/100936
-#EXTINF:-1 group-title="国际",SKY ARTS
+#EXTINF:-1 group-title="Demo",SKY ARTS
 http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/100937
-#EXTINF:-1 group-title="国际",SKY WITNESS
+#EXTINF:-1 group-title="Demo",SKY WITNESS
 http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/100807
-#EXTINF:-1 group-title="国际",COMEDY CENTRAL
+#EXTINF:-1 group-title="Demo",COMEDY CENTRAL
 http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/100916
-#EXTINF:-1 group-title="国际",SKY MIX
+#EXTINF:-1 group-title="Demo",SKY MIX
 http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/1449268
-#EXTINF:-1 group-title="国际",QVC
+#EXTINF:-1 group-title="Demo",QVC
 http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/102419
-#EXTINF:-1 group-title="国际",QVC STYLE
+#EXTINF:-1 group-title="Demo",QVC STYLE
 http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/102422
-#EXTINF:-1 group-title="国际",NAT GEO
+#EXTINF:-1 group-title="Demo",NAT GEO
 http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/100762
-#EXTINF:-1 group-title="国际",NAT GEO WILD
+#EXTINF:-1 group-title="Demo",NAT GEO WILD
 http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/745679
-#EXTINF:-1 group-title="国际",SKY CRIME
+#EXTINF:-1 group-title="Demo",SKY CRIME
 http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/739766
-#EXTINF:-1 group-title="国际",SKY HISTORY
+#EXTINF:-1 group-title="Demo",SKY HISTORY
 http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/100766
-#EXTINF:-1 group-title="国际",SKY CINEMA COMEDY
+#EXTINF:-1 group-title="Demo",SKY CINEMA COMEDY
 http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/100939
-#EXTINF:-1 group-title="国际",SKY CINEMA FAMILY
+#EXTINF:-1 group-title="Demo",SKY CINEMA FAMILY
 http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/745665
-#EXTINF:-1 group-title="国际",SKY CINEMA PREMIER
+#EXTINF:-1 group-title="Demo",SKY CINEMA PREMIER
 http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/213526
-#EXTINF:-1 group-title="国际",SKY CINEMA GREATS
+#EXTINF:-1 group-title="Demo",SKY CINEMA GREATS
 http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/100942
-#EXTINF:-1 group-title="国际",SKY CINEMA SCI-FI & HORROR
+#EXTINF:-1 group-title="Demo",SKY CINEMA SCI-FI & HORROR
 http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/100944
-#EXTINF:-1 group-title="国际",SKY CINEMA THRILLER
+#EXTINF:-1 group-title="Demo",SKY CINEMA THRILLER
 http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/100946
-#EXTINF:-1 group-title="国际",SKY CINEMA DRAMA
+#EXTINF:-1 group-title="Demo",SKY CINEMA DRAMA
 http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/100947
-#EXTINF:-1 group-title="国际",SKY CINEMA HITS
+#EXTINF:-1 group-title="Demo",SKY CINEMA HITS
 http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/745671
-#EXTINF:-1 group-title="国际",SKY CINEMA ANIMATION
+#EXTINF:-1 group-title="Demo",SKY CINEMA ANIMATION
 http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/197793
-#EXTINF:-1 group-title="国际",FILM 4
+#EXTINF:-1 group-title="Demo",FILM 4
 http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/745674
-#EXTINF:-1 group-title="国际",SYFY
+#EXTINF:-1 group-title="Demo",SYFY
 http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/100771
-#EXTINF:-1 group-title="国际",CARTOON NETWORK
+#EXTINF:-1 group-title="Demo",CARTOON NETWORK
 http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/100912
-#EXTINF:-1 group-title="国际",SKY KIDS
+#EXTINF:-1 group-title="Demo",SKY KIDS
 http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/771667
-#EXTINF:-1 group-title="国际",SKY SPORTS ACTION
+#EXTINF:-1 group-title="Demo",SKY SPORTS ACTION
 http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/101020
-#EXTINF:-1 group-title="国际",SKY SPORTS NEWS
+#EXTINF:-1 group-title="Demo",SKY SPORTS NEWS
 http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/101042
-#EXTINF:-1 group-title="国际",SKY SPORTS FOOTBALL
+#EXTINF:-1 group-title="Demo",SKY SPORTS FOOTBALL
 http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/101044
-#EXTINF:-1 group-title="国际",SKY SPORTS PREMIER LEAGUE
+#EXTINF:-1 group-title="Demo",SKY SPORTS PREMIER LEAGUE
 http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/101045
-#EXTINF:-1 group-title="国际",SKY SPORTS MAIN EVENT
+#EXTINF:-1 group-title="Demo",SKY SPORTS MAIN EVENT
 http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/103112
-#EXTINF:-1 group-title="国际",SKY SPORT MIX
+#EXTINF:-1 group-title="Demo",SKY SPORT MIX
 http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/103109
-#EXTINF:-1 group-title="国际",SKY SPORTS TENNIS
+#EXTINF:-1 group-title="Demo",SKY SPORTS TENNIS
 http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/1341720
-#EXTINF:-1 group-title="国际",SKY SPORTS+
+#EXTINF:-1 group-title="Demo",SKY SPORTS+
 http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/101049
-#EXTINF:-1 group-title="国际",SKY SPORTS F1
+#EXTINF:-1 group-title="Demo",SKY SPORTS F1
 http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/101051
-#EXTINF:-1 group-title="国际",SKY SPORTS GOLF
+#EXTINF:-1 group-title="Demo",SKY SPORTS GOLF
 http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/101052
-#EXTINF:-1 group-title="国际",BEIN SPORT NBA
+#EXTINF:-1 group-title="Demo",BEIN SPORT NBA
 http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/112438
-#EXTINF:-1 group-title="国际",BEIN SPORTS ENGLISH 2
+#EXTINF:-1 group-title="Demo",BEIN SPORTS ENGLISH 2
 http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/112453
-#EXTINF:-1 group-title="国际",BEIN SPORTS 1
+#EXTINF:-1 group-title="Demo",BEIN SPORTS 1
 http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/112449
-#EXTINF:-1 group-title="国际",BEIN SPORTS 2
+#EXTINF:-1 group-title="Demo",BEIN SPORTS 2
 http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/112450
-#EXTINF:-1 group-title="国际",BEIN SPORTS 4
+#EXTINF:-1 group-title="Demo",BEIN SPORTS 4
 http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/112443
-#EXTINF:-1 group-title="国际",BEIN SPORTS 3
+#EXTINF:-1 group-title="Demo",BEIN SPORTS 3
 http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/112451
-#EXTINF:-1 group-title="国际",BEIN SPORTS 5
+#EXTINF:-1 group-title="Demo",BEIN SPORTS 5
 http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/112444
-#EXTINF:-1 group-title="国际",BEIN SPORTS 7
+#EXTINF:-1 group-title="Demo",BEIN SPORTS 7
 http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/112446
-#EXTINF:-1 group-title="国际",BEIN SPORTS 6
+#EXTINF:-1 group-title="Demo",BEIN SPORTS 6
 http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/112445
-#EXTINF:-1 group-title="国际",BEIN SPORTS 8
+#EXTINF:-1 group-title="Demo",BEIN SPORTS 8
 http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/899112
-#EXTINF:-1 group-title="国际",BEIN SPORTS 9
+#EXTINF:-1 group-title="Demo",BEIN SPORTS 9
 http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/899113
-#EXTINF:-1 group-title="国际",TNT SPORTS 1
+#EXTINF:-1 group-title="Demo",TNT SPORTS 1
 http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/205999
-#EXTINF:-1 group-title="国际",TNT SPORTS 2
+#EXTINF:-1 group-title="Demo",TNT SPORTS 2
 http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/103146
-#EXTINF:-1 group-title="国际",TNT SPORTS 3
+#EXTINF:-1 group-title="Demo",TNT SPORTS 3
 http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/103149
-#EXTINF:-1 group-title="国际",TNT SPORTS 4
+#EXTINF:-1 group-title="Demo",TNT SPORTS 4
 http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/670669
-#EXTINF:-1 group-title="国际",PREMIER SPORTS 1
+#EXTINF:-1 group-title="Demo",PREMIER SPORTS 1
 http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/101064
-#EXTINF:-1 group-title="国际",PREMIER SPORTS 2
+#EXTINF:-1 group-title="Demo",PREMIER SPORTS 2
 http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/101065
-#EXTINF:-1 group-title="国际",RACING UK
+#EXTINF:-1 group-title="Demo",RACING UK
 http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/101066
-#EXTINF:-1 group-title="国际",RANGERS FC TV
+#EXTINF:-1 group-title="Demo",RANGERS FC TV
 http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/292939
-#EXTINF:-1 group-title="国际",TNT SPORTS ULTIMATE U
+#EXTINF:-1 group-title="Demo",TNT SPORTS ULTIMATE U
 http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/1449257
-#EXTINF:-1 group-title="国际",BBC RED BUTTON 1
+#EXTINF:-1 group-title="Demo",BBC RED BUTTON 1
 http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/1449267
-#EXTINF:-1 group-title="国际",HUBPREMIER 1
+#EXTINF:-1 group-title="Demo",HUBPREMIER 1
 http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/1289436
-#EXTINF:-1 group-title="国际",DAZN
+#EXTINF:-1 group-title="Demo",DAZN
 http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/787620
-#EXTINF:-1 group-title="国际",ASTRO SUPERSPORT
+#EXTINF:-1 group-title="Demo",ASTRO SUPERSPORT
 http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/556245
-#EXTINF:-1 group-title="国际",VIAPLAY SPORTS 1
+#EXTINF:-1 group-title="Demo",VIAPLAY SPORTS 1
 http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/1479405
-#EXTINF:-1 group-title="国际",VIAPLAY SPORTS 2
+#EXTINF:-1 group-title="Demo",VIAPLAY SPORTS 2
 http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/1479406
-#EXTINF:-1 group-title="国际",KIDS ONEPLAY MICKEY MOUSE
+#EXTINF:-1 group-title="Demo",KIDS ONEPLAY MICKEY MOUSE
 http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/1652828
-#EXTINF:-1 group-title="国际",KIDS ONEPLAY CURIOUS GEORGE
+#EXTINF:-1 group-title="Demo",KIDS ONEPLAY CURIOUS GEORGE
 http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/1652805
-#EXTINF:-1 group-title="国际",HBO EAST
+#EXTINF:-1 group-title="Demo",HBO EAST
 http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/361401
-#EXTINF:-1 group-title="国际",HBO WEST
+#EXTINF:-1 group-title="Demo",HBO WEST
 http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/361402
-#EXTINF:-1 group-title="国际",HBO COMEDY
+#EXTINF:-1 group-title="Demo",HBO COMEDY
 http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/361407
-#EXTINF:-1 group-title="国际",AMC
+#EXTINF:-1 group-title="Demo",AMC
 http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/361446
-#EXTINF:-1 group-title="国际",AMC+
+#EXTINF:-1 group-title="Demo",AMC+
 http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/361447
-#EXTINF:-1 group-title="国际",SHOWTIME
+#EXTINF:-1 group-title="Demo",SHOWTIME
 http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/361455
-#EXTINF:-1 group-title="国际",SONY MOVIE CHANNEL
+#EXTINF:-1 group-title="Demo",SONY MOVIE CHANNEL
 http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/361467
-#EXTINF:-1 group-title="国际",NICKTOONS
+#EXTINF:-1 group-title="Demo",NICKTOONS
 http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/361374
-#EXTINF:-1 group-title="国际",MTV LIVE
+#EXTINF:-1 group-title="Demo",MTV LIVE
 http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/361488
-#EXTINF:-1 group-title="国际",ITV Quiz
+#EXTINF:-1 group-title="Demo",ITV Quiz
 http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/154054.m3u8
-#EXTINF:-1 group-title="国际",Game Show Network
+#EXTINF:-1 group-title="Demo",Game Show Network
 http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/33966.m3u8
-#EXTINF:-1 group-title="国际",E4
+#EXTINF:-1 group-title="Demo",E4
 http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/153636.m3u8
-#EXTINF:-1 group-title="国际",DOVE
+#EXTINF:-1 group-title="Demo",DOVE
 http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/181554.m3u8
-#EXTINF:-1 group-title="国际",IFC
+#EXTINF:-1 group-title="Demo",IFC
 http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/181559.m3u8
-#EXTINF:-1 group-title="国际",STV
+#EXTINF:-1 group-title="Demo",STV
 http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/153673.m3u8
-#EXTINF:-1 group-title="国际",S4C
+#EXTINF:-1 group-title="Demo",S4C
 http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/153866.m3u8
-#EXTINF:-1 group-title="国际",UTV
+#EXTINF:-1 group-title="Demo",UTV
 http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/153868.m3u8
-#EXTINF:-1 group-title="国际",TLC
+#EXTINF:-1 group-title="Demo",TLC
 http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/191459.m3u8
-#EXTINF:-1 group-title="国际",PREMIER SPORTS 1
+#EXTINF:-1 group-title="Demo",PREMIER SPORTS 1
 http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/153723.m3u8
-#EXTINF:-1 group-title="国际",PREMIER SPORTS 2
+#EXTINF:-1 group-title="Demo",PREMIER SPORTS 2
 http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/153724.m3u8
-#EXTINF:-1 group-title="国际",SKY SPORTS TENNIS
+#EXTINF:-1 group-title="Demo",SKY SPORTS TENNIS
 http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/391270.m3u8
-#EXTINF:-1 group-title="国际",NFL RED ZONE
+#EXTINF:-1 group-title="Demo",NFL RED ZONE
 http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/181403.m3u8
-#EXTINF:-1 group-title="国际",SPORTS GRID
+#EXTINF:-1 group-title="Demo",SPORTS GRID
 http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/400163374.m3u8
-#EXTINF:-1 group-title="国际",SPEED SPORT 1
+#EXTINF:-1 group-title="Demo",SPEED SPORT 1
 http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/401572602.m3u8
-#EXTINF:-1 group-title="国际",CBS SPORTS GOLAZO NETWORK
+#EXTINF:-1 group-title="Demo",CBS SPORTS GOLAZO NETWORK
 http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/27183.m3u8
-#EXTINF:-1 group-title="国际",CBS SPORTS HQ
+#EXTINF:-1 group-title="Demo",CBS SPORTS HQ
 http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/183430.m3u8
-#EXTINF:-1 group-title="国际",FUBO SPORTS NETWORK
+#EXTINF:-1 group-title="Demo",FUBO SPORTS NETWORK
 http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/400163500.m3u8
-#EXTINF:-1 group-title="国际",NBC SPORTS NETWORK
+#EXTINF:-1 group-title="Demo",NBC SPORTS NETWORK
 http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/181442.m3u8
-#EXTINF:-1 group-title="国际",REAL AMERICA'S VOICE
+#EXTINF:-1 group-title="Demo",REAL AMERICA'S VOICE
 http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/381772.m3u8
-#EXTINF:-1 group-title="国际",DOG TV
+#EXTINF:-1 group-title="Demo",DOG TV
 http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/13550.m3u8
-#EXTINF:-1 group-title="国际",AWE
+#EXTINF:-1 group-title="Demo",AWE
 http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/176716.m3u8
-#EXTINF:-1 group-title="国际",LAFF
+#EXTINF:-1 group-title="Demo",LAFF
 http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/400309672.m3u8
-#EXTINF:-1 group-title="国际",TRU TV
+#EXTINF:-1 group-title="Demo",TRU TV
 http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/176757.m3u8
-#EXTINF:-1 group-title="国际",REVOLT
+#EXTINF:-1 group-title="Demo",REVOLT
 http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/176704.m3u8
-#EXTINF:-1 group-title="国际",UNIVERSO
+#EXTINF:-1 group-title="Demo",UNIVERSO
 http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/28279.m3u8
-#EXTINF:-1 group-title="国际",Wild Earth
+#EXTINF:-1 group-title="Demo",Wild Earth
 http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/6615.m3u8
-#EXTINF:-1 group-title="国际",DEFIANCE
+#EXTINF:-1 group-title="Demo",DEFIANCE
 http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/33938.m3u8
-#EXTINF:-1 group-title="国际",CINE LIFE
+#EXTINF:-1 group-title="Demo",CINE LIFE
 http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/42198.m3u8
-#EXTINF:-1 group-title="国际",CINEVAULT WESTERNS
+#EXTINF:-1 group-title="Demo",CINEVAULT WESTERNS
 http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/77367.m3u8
-#EXTINF:-1 group-title="国际",AMC THRILLERS
+#EXTINF:-1 group-title="Demo",AMC THRILLERS
 http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/401412568.m3u8
-#EXTINF:-1 group-title="国际",PARAMOUNT NETWORK
+#EXTINF:-1 group-title="Demo",PARAMOUNT NETWORK
 http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/176601.m3u8
-#EXTINF:-1 group-title="国际",Showtime Family Zone
+#EXTINF:-1 group-title="Demo",Showtime Family Zone
 http://panelguys.top:8080/qcFA9B/963626/13481
-#EXTINF:-1 group-title="国际",Showtime Women
+#EXTINF:-1 group-title="Demo",Showtime Women
 http://panelguys.top:8080/qcFA9B/963626/17778
-#EXTINF:-1 group-title="国际",Showtime Women
+#EXTINF:-1 group-title="Demo",Showtime Women
 http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/33964.m3u8
-#EXTINF:-1 group-title="国际",THE FILM DETECTIVE
+#EXTINF:-1 group-title="Demo",THE FILM DETECTIVE
 http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/181553.m3u8
-#EXTINF:-1 group-title="国际",ADULT ANIMATION
+#EXTINF:-1 group-title="Demo",ADULT ANIMATION
 http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/77598.m3u8
-#EXTINF:-1 group-title="国际",SCREENPIX WESTERNS
+#EXTINF:-1 group-title="Demo",SCREENPIX WESTERNS
 http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/28289.m3u8
-#EXTINF:-1 group-title="国际",SHOWTIME 2 EAST
+#EXTINF:-1 group-title="Demo",SHOWTIME 2 EAST
 http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/181563.m3u8
-#EXTINF:-1 group-title="国际",DISNEY CHANNEL
+#EXTINF:-1 group-title="Demo",DISNEY CHANNEL
 http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/153841.m3u8
-#EXTINF:-1 group-title="国际",LOL NETWORK
+#EXTINF:-1 group-title="Demo",LOL NETWORK
 http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/77461.m3u8
-#EXTINF:-1 group-title="国际",HISTORY CHANNEL
+#EXTINF:-1 group-title="Demo",HISTORY CHANNEL
 http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/176584.m3u8
-#EXTM3U
-#EXT-X-APP APTV
-#EXT-X-APTV-TYPE local
-
 #EXTINF:-1 group-title="Test",NBA TV
 http://panelguys.top:8080/txd7Fd/030774/22995
-#EXTINF:-1 group-title="Test",Sportsnet East  
+#EXTINF:-1 group-title="Test",Sportsnet East
 http://panelguys.top:8080/txd7Fd/030774/41836
 #EXTINF:-1 group-title="Test",YTV East
 http://panelguys.top:8080/txd7Fd/030774/63850
@@ -311,13 +307,13 @@ http://panelguys.top:8080/txd7Fd/030774/57377
 http://panelguys.top:8080/txd7Fd/030774/57379
 #EXTINF:-1 group-title="Test",Cartoon Network
 http://panelguys.top:8080/txd7Fd/030774/57380
-#EXTINF:-1 group-title="Test",CBC Charlottetown  
+#EXTINF:-1 group-title="Test",CBC Charlottetown
 http://panelguys.top:8080/txd7Fd/030774/57382
 #EXTINF:-1 group-title="Test",CBC Edmonton
 http://panelguys.top:8080/txd7Fd/030774/57384
 #EXTINF:-1 group-title="Test",CBC Halifax HD
 http://panelguys.top:8080/txd7Fd/030774/57385
-#EXTINF:-1 group-title="Test",CBC Montreal  
+#EXTINF:-1 group-title="Test",CBC Montreal
 http://panelguys.top:8080/txd7Fd/030774/57387
 #EXTINF:-1 group-title="Test",CBC OTTAWA
 http://panelguys.top:8080/txd7Fd/030774/57305
@@ -339,31 +335,31 @@ http://panelguys.top:8080/txd7Fd/030774/57311
 http://panelguys.top:8080/txd7Fd/030774/79547
 #EXTINF:-1 group-title="Test",CTV Comedy Channel
 http://panelguys.top:8080/txd7Fd/030774/57408
-#EXTINF:-1 group-title="Test",CTV Drama Channel  
+#EXTINF:-1 group-title="Test",CTV Drama Channel
 http://panelguys.top:8080/txd7Fd/030774/57254
-#EXTINF:-1 group-title="Test",CTV Edmonton Alberta   
+#EXTINF:-1 group-title="Test",CTV Edmonton Alberta
 http://panelguys.top:8080/txd7Fd/030774/58725
-#EXTINF:-1 group-title="Test",CTV Halifax Nova Scotia  
+#EXTINF:-1 group-title="Test",CTV Halifax Nova Scotia
 http://panelguys.top:8080/txd7Fd/030774/57410
 #EXTINF:-1 group-title="Test",CTV Kitchener
 http://panelguys.top:8080/txd7Fd/030774/58557
 #EXTINF:-1 group-title="Test",CTV Montreal HD
 http://panelguys.top:8080/txd7Fd/030774/47234
-#EXTINF:-1 group-title="Test",CTV NEWS CHANNEL  
+#EXTINF:-1 group-title="Test",CTV NEWS CHANNEL
 http://panelguys.top:8080/txd7Fd/030774/57350
 #EXTINF:-1 group-title="Test",CTV OTTAWA
 http://panelguys.top:8080/txd7Fd/030774/47237
-#EXTINF:-1 group-title="Test",CTV Regina Saskatchewan 
+#EXTINF:-1 group-title="Test",CTV Regina Saskatchewan
 http://panelguys.top:8080/txd7Fd/030774/66381
-#EXTINF:-1 group-title="Test",CTV Saskatoon Saskatchewan  
+#EXTINF:-1 group-title="Test",CTV Saskatoon Saskatchewan
 http://panelguys.top:8080/txd7Fd/030774/66382
-#EXTINF:-1 group-title="Test",CTV Toronto HD  
+#EXTINF:-1 group-title="Test",CTV Toronto HD
 http://panelguys.top:8080/txd7Fd/030774/47296
 #EXTINF:-1 group-title="Test",CTV2 Vancouver
 http://panelguys.top:8080/txd7Fd/030774/57316
-#EXTINF:-1 group-title="Test",CTV2 Windsor HD  
+#EXTINF:-1 group-title="Test",CTV2 Windsor HD
 http://panelguys.top:8080/txd7Fd/030774/77165
-#EXTINF:-1 group-title="Test",CTV Barrie Ontario  
+#EXTINF:-1 group-title="Test",CTV Barrie Ontario
 http://panelguys.top:8080/txd7Fd/030774/57373
 #EXTINF:-1 group-title="Test",Disney Junior
 http://panelguys.top:8080/txd7Fd/030774/57349
@@ -373,19 +369,19 @@ http://panelguys.top:8080/txd7Fd/030774/57249
 http://panelguys.top:8080/txd7Fd/030774/57247
 #EXTINF:-1 group-title="Test",FXX
 http://panelguys.top:8080/txd7Fd/030774/57429
-#EXTINF:-1 group-title="Test",Game Show Network  
+#EXTINF:-1 group-title="Test",Game Show Network
 http://panelguys.top:8080/txd7Fd/030774/57430
 #EXTINF:-1 group-title="Test",Ginx esports TV
 http://panelguys.top:8080/txd7Fd/030774/57431
-#EXTINF:-1 group-title="Test",Global News Kingston  
+#EXTINF:-1 group-title="Test",Global News Kingston
 http://panelguys.top:8080/txd7Fd/030774/57432
-#EXTINF:-1 group-title="Test",Global Edmonton News  
+#EXTINF:-1 group-title="Test",Global Edmonton News
 http://panelguys.top:8080/txd7Fd/030774/58724
 #EXTINF:-1 group-title="Test",Global Halifax News
 http://panelguys.top:8080/txd7Fd/030774/57434
-#EXTINF:-1 group-title="Test",Global News Regina 
+#EXTINF:-1 group-title="Test",Global News Regina
 http://panelguys.top:8080/txd7Fd/030774/66384
-#EXTINF:-1 group-title="Test",Global Saskatoon  
+#EXTINF:-1 group-title="Test",Global Saskatoon
 http://panelguys.top:8080/txd7Fd/030774/66383
 #EXTINF:-1 group-title="Test",GLOBAL TORONTO
 http://panelguys.top:8080/txd7Fd/030774/57435
@@ -393,9 +389,9 @@ http://panelguys.top:8080/txd7Fd/030774/57435
 http://panelguys.top:8080/txd7Fd/030774/57438
 #EXTINF:-1 group-title="Test",HGTV
 http://panelguys.top:8080/txd7Fd/030774/57273
-#EXTINF:-1 group-title="Test",Investigation Discovery  
+#EXTINF:-1 group-title="Test",Investigation Discovery
 http://panelguys.top:8080/txd7Fd/030774/57442
-#EXTINF:-1 group-title="Test",MSNBC 
+#EXTINF:-1 group-title="Test",MSNBC
 http://panelguys.top:8080/txd7Fd/030774/47332
 #EXTINF:-1 group-title="Test",MTV
 http://panelguys.top:8080/txd7Fd/030774/57446
@@ -419,35 +415,35 @@ http://panelguys.top:8080/txd7Fd/030774/57325
 http://panelguys.top:8080/txd7Fd/030774/47366
 #EXTINF:-1 group-title="Test",Slice TV
 http://panelguys.top:8080/txd7Fd/030774/57274
-#EXTINF:-1 group-title="Test",Smithsonian Channel  
+#EXTINF:-1 group-title="Test",Smithsonian Channel
 http://panelguys.top:8080/txd7Fd/030774/47369
-#EXTINF:-1 group-title="Test",Sportsnet 360  
+#EXTINF:-1 group-title="Test",Sportsnet 360
 http://panelguys.top:8080/txd7Fd/030774/57299
-#EXTINF:-1 group-title="Test",Sportsnet East HD 
+#EXTINF:-1 group-title="Test",Sportsnet East HD
 http://panelguys.top:8080/txd7Fd/030774/57298
-#EXTINF:-1 group-title="Test",Sportsnet One 
+#EXTINF:-1 group-title="Test",Sportsnet One
 http://panelguys.top:8080/txd7Fd/030774/47379
-#EXTINF:-1 group-title="Test",Sportsnet Ontario  
+#EXTINF:-1 group-title="Test",Sportsnet Ontario
 http://panelguys.top:8080/txd7Fd/030774/11649
-#EXTINF:-1 group-title="Test",Sportsnet Pacific  
+#EXTINF:-1 group-title="Test",Sportsnet Pacific
 http://panelguys.top:8080/txd7Fd/030774/9860
-#EXTINF:-1 group-title="Test",Sportsnet West  
+#EXTINF:-1 group-title="Test",Sportsnet West
 http://panelguys.top:8080/txd7Fd/030774/20975
 #EXTINF:-1 group-title="Test",Sportsnet World HD
 http://panelguys.top:8080/txd7Fd/030774/75675
-#EXTINF:-1 group-title="Test",Teletoon East 
+#EXTINF:-1 group-title="Test",Teletoon East
 http://panelguys.top:8080/txd7Fd/030774/57372
-#EXTINF:-1 group-title="Test",TSN 2  
+#EXTINF:-1 group-title="Test",TSN 2
 http://panelguys.top:8080/txd7Fd/030774/16129
 #EXTINF:-1 group-title="Test",TSN 3 HD
 http://panelguys.top:8080/txd7Fd/030774/47444
 #EXTINF:-1 group-title="Test",TSN 4
 http://panelguys.top:8080/txd7Fd/030774/66783
-#EXTINF:-1 group-title="Test",SKY CINEMA ACTION  
+#EXTINF:-1 group-title="Test",SKY CINEMA ACTION
 http://panelguys.top:8080/txd7Fd/030774/35254
 #EXTINF:-1 group-title="Test",SKY CINEMA DRAMA
 http://panelguys.top:8080/txd7Fd/030774/35251
-#EXTINF:-1 group-title="Test",Sky Cinema Scifi & Horror  
+#EXTINF:-1 group-title="Test",Sky Cinema Scifi & Horror
 http://panelguys.top:8080/txd7Fd/030774/35248
 #EXTINF:-1 group-title="Test",SKY COMEDY
 http://panelguys.top:8080/txd7Fd/030774/35253
@@ -463,7 +459,7 @@ http://panelguys.top:8080/txd7Fd/030774/53757
 http://panelguys.top:8080/txd7Fd/030774/53718
 #EXTINF:-1 group-title="Test",Channel 5
 http://panelguys.top:8080/txd7Fd/030774/53653
-#EXTINF:-1 group-title="Test",Crime & Investigation 
+#EXTINF:-1 group-title="Test",Crime & Investigation
 http://panelguys.top:8080/txd7Fd/030774/53689
 #EXTINF:-1 group-title="Test",Discovery Channel
 http://panelguys.top:8080/txd7Fd/030774/53684
@@ -497,41 +493,41 @@ http://panelguys.top:8080/txd7Fd/030774/77166
 http://panelguys.top:8080/txd7Fd/030774/53705
 #EXTINF:-1 group-title="Test",Sky Sports Arena
 http://panelguys.top:8080/txd7Fd/030774/35238
-#EXTINF:-1 group-title="Test",Sky Sports F1 
+#EXTINF:-1 group-title="Test",Sky Sports F1
 http://panelguys.top:8080/txd7Fd/030774/53704
-#EXTINF:-1 group-title="Test",Sky Sports Golf 
+#EXTINF:-1 group-title="Test",Sky Sports Golf
 http://panelguys.top:8080/txd7Fd/030774/35240
 #EXTINF:-1 group-title="Test",Sky Sports Main Event
 http://panelguys.top:8080/txd7Fd/030774/35243
-#EXTINF:-1 group-title="Test",Sky Sports Mix  
+#EXTINF:-1 group-title="Test",Sky Sports Mix
 http://panelguys.top:8080/txd7Fd/030774/53706
 #EXTINF:-1 group-title="Test",Sky Sports News
 http://panelguys.top:8080/txd7Fd/030774/35241
-#EXTINF:-1 group-title="Test",SKY SciFI FHD  
+#EXTINF:-1 group-title="Test",SKY SciFI FHD
 http://panelguys.top:8080/txd7Fd/030774/53663
 #EXTINF:-1 group-title="Test",TLC
 http://panelguys.top:8080/txd7Fd/030774/53681
-#EXTINF:-1 group-title="Test",Willow Cricket  
+#EXTINF:-1 group-title="Test",Willow Cricket
 http://panelguys.top:8080/txd7Fd/030774/41979
-#EXTINF:-1 group-title="Test",Sky Sports Cricket  
+#EXTINF:-1 group-title="Test",Sky Sports Cricket
 http://panelguys.top:8080/txd7Fd/030774/45940
-#EXTINF:-1 group-title="Test",Sky Sports F1  
+#EXTINF:-1 group-title="Test",Sky Sports F1
 http://panelguys.top:8080/txd7Fd/030774/35244
 #EXTINF:-1 group-title="Test",CHARGE!
 http://panelguys.top:8080/txd7Fd/030774/79594
 #EXTINF:-1 group-title="Test",Lifetime Movies
 http://panelguys.top:8080/txd7Fd/030774/20863
-#EXTINF:-1 group-title="Test",NBC Sports Network  
+#EXTINF:-1 group-title="Test",NBC Sports Network
 http://panelguys.top:8080/txd7Fd/030774/46725
 #EXTINF:-1 group-title="Test",WWE NETWORK
 http://panelguys.top:8080/txd7Fd/030774/11645
 #EXTINF:-1 group-title="Test",Bally Sports Southwest
 http://panelguys.top:8080/txd7Fd/030774/21843
-#EXTINF:-1 group-title="Test",FanDuel Sports West 
+#EXTINF:-1 group-title="Test",FanDuel Sports West
 http://panelguys.top:8080/txd7Fd/030774/20932
 #EXTINF:-1 group-title="Test",Disney Jr
 http://panelguys.top:8080/txd7Fd/030774/41960
-#EXTINF:-1 group-title="Test",PT Eleven Sports 1  
+#EXTINF:-1 group-title="Test",PT Eleven Sports 1
 http://panelguys.top:8080/txd7Fd/030774/35264
 #EXTINF:-1 group-title="Test",ESPN NEWS
 http://panelguys.top:8080/txd7Fd/030774/17707
@@ -539,19 +535,19 @@ http://panelguys.top:8080/txd7Fd/030774/17707
 http://panelguys.top:8080/txd7Fd/030774/17752
 #EXTINF:-1 group-title="Test",MSG2 (F)
 http://panelguys.top:8080/txd7Fd/030774/21089
-#EXTINF:-1 group-title="Test",NBC Sports California  
+#EXTINF:-1 group-title="Test",NBC Sports California
 http://panelguys.top:8080/txd7Fd/030774/20940
 #EXTINF:-1 group-title="Test",NBC Sports Chicago
 http://panelguys.top:8080/txd7Fd/030774/20941
-#EXTINF:-1 group-title="Test",NBC Sports Network  
+#EXTINF:-1 group-title="Test",NBC Sports Network
 http://panelguys.top:8080/txd7Fd/030774/20926
-#EXTINF:-1 group-title="Test",NBC Sports Philly 
+#EXTINF:-1 group-title="Test",NBC Sports Philly
 http://panelguys.top:8080/txd7Fd/030774/20943
-#EXTINF:-1 group-title="Test",NBC Sports Washington  
+#EXTINF:-1 group-title="Test",NBC Sports Washington
 http://panelguys.top:8080/txd7Fd/030774/20944
 #EXTINF:-1 group-title="Test",ESPN SEC Network
 http://panelguys.top:8080/txd7Fd/030774/17608
-#EXTINF:-1 group-title="Test",Spectrum SportsNet LA Dodgers 
+#EXTINF:-1 group-title="Test",Spectrum SportsNet LA Dodgers
 http://panelguys.top:8080/txd7Fd/030774/31636
 #EXTINF:-1 group-title="Test",YES Network
 http://panelguys.top:8080/txd7Fd/030774/57972
@@ -559,9 +555,9 @@ http://panelguys.top:8080/txd7Fd/030774/57972
 http://panelguys.top:8080/txd7Fd/030774/21092
 #EXTINF:-1 group-title="Test",UniMas
 http://panelguys.top:8080/txd7Fd/030774/57969
-#EXTINF:-1 group-title="Test",Univision  
+#EXTINF:-1 group-title="Test",Univision
 http://panelguys.top:8080/txd7Fd/030774/15336
-#EXTINF:-1 group-title="Test",Spectrum SportsNet Lakers 
+#EXTINF:-1 group-title="Test",Spectrum SportsNet Lakers
 http://panelguys.top:8080/txd7Fd/030774/20946
 #EXTINF:-1 group-title="Test",StarMax
 http://panelguys.top:8080/txd7Fd/030774/13381
@@ -571,15 +567,15 @@ http://panelguys.top:8080/txd7Fd/030774/22990
 http://panelguys.top:8080/txd7Fd/030774/18925
 #EXTINF:-1 group-title="Test",Bet Gospel
 http://panelguys.top:8080/txd7Fd/030774/66080
-#EXTINF:-1 group-title="Test",BET  
+#EXTINF:-1 group-title="Test",BET
 http://panelguys.top:8080/txd7Fd/030774/13702
-#EXTINF:-1 group-title="Test",Bravo  
+#EXTINF:-1 group-title="Test",Bravo
 http://panelguys.top:8080/txd7Fd/030774/20859
-#EXTINF:-1 group-title="Test",BUZZR  
+#EXTINF:-1 group-title="Test",BUZZR
 http://panelguys.top:8080/txd7Fd/030774/21896
 #EXTINF:-1 group-title="Test",CBS News
 http://panelguys.top:8080/txd7Fd/030774/21259
-#EXTINF:-1 group-title="Test",Cinemax  
+#EXTINF:-1 group-title="Test",Cinemax
 http://panelguys.top:8080/txd7Fd/030774/13380
 #EXTINF:-1 group-title="Test",CMT
 http://panelguys.top:8080/txd7Fd/030774/46706
@@ -587,11 +583,11 @@ http://panelguys.top:8080/txd7Fd/030774/46706
 http://panelguys.top:8080/txd7Fd/030774/9815
 #EXTINF:-1 group-title="Test",CNN
 http://panelguys.top:8080/txd7Fd/030774/104884
-#EXTINF:-1 group-title="Test",Comet 
+#EXTINF:-1 group-title="Test",Comet
 http://panelguys.top:8080/txd7Fd/030774/66244
 #EXTINF:-1 group-title="Test",Decades
 http://panelguys.top:8080/txd7Fd/030774/20189
-#EXTINF:-1 group-title="Test",Discovery Velocity  
+#EXTINF:-1 group-title="Test",Discovery Velocity
 http://panelguys.top:8080/txd7Fd/030774/46212
 #EXTINF:-1 group-title="Test",Magnolia Network
 http://panelguys.top:8080/txd7Fd/030774/10503
@@ -599,15 +595,15 @@ http://panelguys.top:8080/txd7Fd/030774/10503
 http://panelguys.top:8080/txd7Fd/030774/53539
 #EXTINF:-1 group-title="Test",EPIX (East)
 http://panelguys.top:8080/txd7Fd/030774/13214
-#EXTINF:-1 group-title="Test",Epix Drive IN  
+#EXTINF:-1 group-title="Test",Epix Drive IN
 http://panelguys.top:8080/txd7Fd/030774/14193
 #EXTINF:-1 group-title="Test",Epix Hits
 http://panelguys.top:8080/txd7Fd/030774/12744
-#EXTINF:-1 group-title="Test",EPIX2 
+#EXTINF:-1 group-title="Test",EPIX2
 http://panelguys.top:8080/txd7Fd/030774/12730
 #EXTINF:-1 group-title="Test",ESPN 2
 http://panelguys.top:8080/txd7Fd/030774/2210
-#EXTINF:-1 group-title="Test",ESPN 1  
+#EXTINF:-1 group-title="Test",ESPN 1
 http://panelguys.top:8080/txd7Fd/030774/14197
 #EXTINF:-1 group-title="Test",Fox Business Network
 http://panelguys.top:8080/txd7Fd/030774/17639
@@ -621,7 +617,7 @@ http://panelguys.top:8080/txd7Fd/030774/20922
 http://panelguys.top:8080/txd7Fd/030774/46690
 #EXTINF:-1 group-title="Test",FXM
 http://panelguys.top:8080/txd7Fd/030774/10260
-#EXTINF:-1 group-title="Test",FXX  
+#EXTINF:-1 group-title="Test",FXX
 http://panelguys.top:8080/txd7Fd/030774/46699
 #EXTINF:-1 group-title="Test",Grit TV
 http://panelguys.top:8080/txd7Fd/030774/20861
@@ -633,7 +629,7 @@ http://panelguys.top:8080/txd7Fd/030774/9307
 http://panelguys.top:8080/txd7Fd/030774/10289
 #EXTINF:-1 group-title="Test",HBO East HD
 http://panelguys.top:8080/txd7Fd/030774/46713
-#EXTINF:-1 group-title="Test",HGTV  
+#EXTINF:-1 group-title="Test",HGTV
 http://panelguys.top:8080/txd7Fd/030774/46717
 #EXTINF:-1 group-title="Test",HISTORY
 http://panelguys.top:8080/txd7Fd/030774/46724
@@ -641,11 +637,11 @@ http://panelguys.top:8080/txd7Fd/030774/46724
 http://panelguys.top:8080/txd7Fd/030774/16262
 #EXTINF:-1 group-title="Test",ION
 http://panelguys.top:8080/txd7Fd/030774/9297
-#EXTINF:-1 group-title="Test",Laff  
+#EXTINF:-1 group-title="Test",Laff
 http://panelguys.top:8080/txd7Fd/030774/17777
 #EXTINF:-1 group-title="Test",Lifetime
 http://panelguys.top:8080/txd7Fd/030774/46714
-#EXTINF:-1 group-title="Test",MAV TV  
+#EXTINF:-1 group-title="Test",MAV TV
 http://panelguys.top:8080/txd7Fd/030774/20977
 #EXTINF:-1 group-title="Test",More Max
 http://panelguys.top:8080/txd7Fd/030774/17776
@@ -653,7 +649,7 @@ http://panelguys.top:8080/txd7Fd/030774/17776
 http://panelguys.top:8080/txd7Fd/030774/10399
 #EXTINF:-1 group-title="Test",MSG Plus
 http://panelguys.top:8080/txd7Fd/030774/9276
-#EXTINF:-1 group-title="Test",Nat Geo Wild East 
+#EXTINF:-1 group-title="Test",Nat Geo Wild East
 http://panelguys.top:8080/txd7Fd/030774/11664
 #EXTINF:-1 group-title="Test",One America News
 http://panelguys.top:8080/txd7Fd/030774/21752
@@ -665,25 +661,25 @@ http://panelguys.top:8080/txd7Fd/030774/46698
 http://panelguys.top:8080/txd7Fd/030774/46695
 #EXTINF:-1 group-title="Test",Paramount Network
 http://panelguys.top:8080/txd7Fd/030774/46694
-#EXTINF:-1 group-title="Test",PixL  
+#EXTINF:-1 group-title="Test",PixL
 http://panelguys.top:8080/txd7Fd/030774/21648
-#EXTINF:-1 group-title="Test",GAC Living 
+#EXTINF:-1 group-title="Test",GAC Living
 http://panelguys.top:8080/txd7Fd/030774/75654
 #EXTINF:-1 group-title="Test",AMC Thrillers
 http://panelguys.top:8080/txd7Fd/030774/66243
 #EXTINF:-1 group-title="Test",Showtime East
 http://panelguys.top:8080/txd7Fd/030774/46214
-#EXTINF:-1 group-title="Test",Showtime 2  
+#EXTINF:-1 group-title="Test",Showtime 2
 http://panelguys.top:8080/txd7Fd/030774/13219
-#EXTINF:-1 group-title="Test",Showtime Family Zone  
+#EXTINF:-1 group-title="Test",Showtime Family Zone
 http://panelguys.top:8080/txd7Fd/030774/13481
-#EXTINF:-1 group-title="Test",Showtime Women  
+#EXTINF:-1 group-title="Test",Showtime Women
 http://panelguys.top:8080/txd7Fd/030774/17778
-#EXTINF:-1 group-title="Test",Starz Encore Westerns  
+#EXTINF:-1 group-title="Test",Starz Encore Westerns
 http://panelguys.top:8080/txd7Fd/030774/16263
 #EXTINF:-1 group-title="Test",TBN
 http://panelguys.top:8080/txd7Fd/030774/21895
-#EXTINF:-1 group-title="Test",TLC  
+#EXTINF:-1 group-title="Test",TLC
 http://panelguys.top:8080/txd7Fd/030774/47703
 #EXTINF:-1 group-title="Test",TNT West
 http://panelguys.top:8080/txd7Fd/030774/46688
