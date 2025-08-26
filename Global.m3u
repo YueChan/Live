@@ -57,10 +57,6 @@ http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/181403.m3u8
 http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/400163374.m3u8
 #EXTINF:-1 group-title="国际",SPEED SPORT 1
 http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/401572602.m3u8
-#EXTINF:-1 group-title="国际",CBS SPORTS GOLAZO NETWORK
-http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/27183.m3u8
-#EXTINF:-1 group-title="国际",CBS SPORTS HQ
-http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/183430.m3u8
 #EXTINF:-1 group-title="国际",REAL AMERICA'S VOICE
 http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/381772.m3u8
 #EXTINF:-1 group-title="国际",DOG TV
@@ -367,8 +363,6 @@ http://panelguys.top:8080/txd7Fd/030774/14197
 http://panelguys.top:8080/txd7Fd/030774/17639
 #EXTINF:-1 group-title="国际",Fox News
 http://panelguys.top:8080/txd7Fd/030774/1818
-#EXTINF:-1 group-title="国际",Fox Sports 1
-http://panelguys.top:8080/txd7Fd/030774/1846
 #EXTINF:-1 group-title="国际",FanDuel Sports South
 http://panelguys.top:8080/txd7Fd/030774/20922
 #EXTINF:-1 group-title="国际",FX East
@@ -413,8 +407,6 @@ http://panelguys.top:8080/txd7Fd/030774/17777
 http://panelguys.top:8080/txd7Fd/030774/46714
 #EXTINF:-1 group-title="国际",More Max
 http://panelguys.top:8080/txd7Fd/030774/17776
-#EXTINF:-1 group-title="国际",MotorTrend (A)
-http://panelguys.top:8080/txd7Fd/030774/10399
 #EXTINF:-1 group-title="国际",MSG Plus
 http://panelguys.top:8080/txd7Fd/030774/9276
 #EXTINF:-1 group-title="国际",Nat Geo Wild East
@@ -425,7 +417,7 @@ http://panelguys.top:8080/txd7Fd/030774/21752
 http://panelguys.top:8080/txd7Fd/030774/20865
 #EXTINF:-1 group-title="国际",OWN
 http://panelguys.top:8080/txd7Fd/030774/46698
-#EXTINF:-1 group-title="国际",Oxygen (A)
+#EXTINF:-1 group-title="国际",Oxygen 
 http://panelguys.top:8080/txd7Fd/030774/46695
 #EXTINF:-1 group-title="国际",Paramount Network
 http://panelguys.top:8080/txd7Fd/030774/46694
