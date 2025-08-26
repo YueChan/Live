@@ -105,8 +105,6 @@ http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/181563.m3u8
 http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/153841.m3u8
 #EXTINF:-1 group-title="国际",LOL NETWORK
 http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/77461.m3u8
-#EXTINF:-1 group-title="国际",HISTORY CHANNEL
-http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/176584.m3u8
 #EXTINF:-1 group-title="国际",NBA TV
 http://panelguys.top:8080/txd7Fd/030774/22995
 #EXTINF:-1 group-title="国际",Sportsnet East
@@ -127,8 +125,6 @@ http://panelguys.top:8080/txd7Fd/030774/57384
 http://panelguys.top:8080/txd7Fd/030774/57385
 #EXTINF:-1 group-title="国际",CBC Montreal
 http://panelguys.top:8080/txd7Fd/030774/57387
-#EXTINF:-1 group-title="国际",CBC OTTAWA
-http://panelguys.top:8080/txd7Fd/030774/57305
 #EXTINF:-1 group-title="国际",CBC TORONTO
 http://panelguys.top:8080/txd7Fd/030774/57306
 #EXTINF:-1 group-title="国际",CHRGD
@@ -281,8 +277,6 @@ http://panelguys.top:8080/txd7Fd/030774/53694
 http://panelguys.top:8080/txd7Fd/030774/53702
 #EXTINF:-1 group-title="国际",H2
 http://panelguys.top:8080/txd7Fd/030774/53692
-#EXTINF:-1 group-title="国际",History  Channel
-http://panelguys.top:8080/txd7Fd/030774/53686
 #EXTINF:-1 group-title="国际",ITV 3
 http://panelguys.top:8080/txd7Fd/030774/53665
 #EXTINF:-1 group-title="国际",ITV2 HD
@@ -337,8 +331,6 @@ http://panelguys.top:8080/txd7Fd/030774/11645
 http://panelguys.top:8080/txd7Fd/030774/21843
 #EXTINF:-1 group-title="国际",FanDuel Sports West
 http://panelguys.top:8080/txd7Fd/030774/20932
-#EXTINF:-1 group-title="国际",Disney Jr
-http://panelguys.top:8080/txd7Fd/030774/41960
 #EXTINF:-1 group-title="国际",PT Eleven Sports 1
 http://panelguys.top:8080/txd7Fd/030774/35264
 #EXTINF:-1 group-title="国际",ESPN NEWS
@@ -369,7 +361,7 @@ http://panelguys.top:8080/txd7Fd/030774/21092
 http://panelguys.top:8080/txd7Fd/030774/57969
 #EXTINF:-1 group-title="国际",Univision
 http://panelguys.top:8080/txd7Fd/030774/15336
-#EXTINF:-1 group-title="国际",Spectrum SportsNet 
+#EXTINF:-1 group-title="国际",Spectrum SportsNet
 http://panelguys.top:8080/txd7Fd/030774/20946
 #EXTINF:-1 group-title="国际",StarMax
 http://panelguys.top:8080/txd7Fd/030774/13381
@@ -443,7 +435,7 @@ http://panelguys.top:8080/txd7Fd/030774/10289
 http://panelguys.top:8080/txd7Fd/030774/46713
 #EXTINF:-1 group-title="国际",HGTV
 http://panelguys.top:8080/txd7Fd/030774/46717
-#EXTINF:-1 group-title="国际",HISTORY
+#EXTINF:-1 group-title="国际",History Channel
 http://panelguys.top:8080/txd7Fd/030774/46724
 #EXTINF:-1 group-title="国际",INSP
 http://panelguys.top:8080/txd7Fd/030774/16262
