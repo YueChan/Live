@@ -241,6 +241,14 @@ http://panelguys.top:8080/txd7Fd/030774/53653
 http://panelguys.top:8080/txd7Fd/030774/53689
 #EXTINF:-1 group-title="国际",Discovery Channel
 http://panelguys.top:8080/txd7Fd/030774/53684
+#EXTINF:-1 group-title="国际",DISCOVERY FAMILY CHANNEL
+http://fl1.moveonjoy.com/DISCOVERY_FAMILY_CHANNEL/index.m3u8
+#EXTINF:-1 group-title="国际",DISCOVERY LIFE
+http://fl1.moveonjoy.com/DISCOVERY_LIFE/index.m3u8
+#EXTINF:-1 group-title="国际",Discovery Science
+http://fl1.moveonjoy.com/Discovery_Science/index.m3u8
+#EXTINF:-1 group-title="国际",DISNEY XD
+http://fl1.moveonjoy.com/DISNEY_XD/index.m3u8
 #EXTINF:-1 group-title="国际",Discovery History
 http://panelguys.top:8080/txd7Fd/030774/53694
 #EXTINF:-1 group-title="国际",Film 4
