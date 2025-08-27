@@ -189,7 +189,7 @@ http://panelguys.top:8080/txd7Fd/030774/57280
 http://panelguys.top:8080/txd7Fd/030774/47339
 #EXTINF:-1 group-title="国际",NFL NETWORK HD
 http://panelguys.top:8080/txd7Fd/030774/47346
-#EXTINF:-1 group-title="国际",OLN (E)
+#EXTINF:-1 group-title="国际",OLN 
 http://panelguys.top:8080/txd7Fd/030774/57366
 #EXTINF:-1 group-title="国际",OWN
 http://panelguys.top:8080/txd7Fd/030774/57277
@@ -317,8 +317,6 @@ http://panelguys.top:8080/txd7Fd/030774/20943
 http://panelguys.top:8080/txd7Fd/030774/20944
 #EXTINF:-1 group-title="国际",ESPN SEC Network
 http://panelguys.top:8080/txd7Fd/030774/17608
-#EXTINF:-1 group-title="国际",Spectrum SportsNet LA Dodgers
-http://panelguys.top:8080/txd7Fd/030774/31636
 #EXTINF:-1 group-title="国际",YES Network
 http://panelguys.top:8080/txd7Fd/030774/57972
 #EXTINF:-1 group-title="国际",Court TV
@@ -477,3 +475,7 @@ http://143.244.60.30/MLB_NETWORK/index.m3u8
 http://143.244.60.30/ESPN_NEWS/index.m3u8
 #EXTINF:-1 group-title="国际",ESPN U
 http://143.244.60.30/ESPN_U/index.m3u8
+#EXTINF:-1 group-title="国际",MTV
+http://fl1.moveonjoy.com/MTV/index.m3u8
+#EXTINF:-1 group-title="国际",MTV Live
+http://fl1.moveonjoy.com/MTV_LIVE/index.m3u8
