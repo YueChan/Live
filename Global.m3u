@@ -379,8 +379,10 @@ http://panelguys.top:8080/txd7Fd/030774/20922
 http://panelguys.top:8080/txd7Fd/030774/46690
 #EXTINF:-1 group-title="国际",FXM
 http://panelguys.top:8080/txd7Fd/030774/10260
-#EXTINF:-1 group-title="国际",FXX
-http://panelguys.top:8080/txd7Fd/030774/46699
+#EXTINF:-1 group-title="国际",FYI
+http://fl1.moveonjoy.com/FYI/index.m3u8
+#EXTINF:-1 group-title="国际",DIY
+http://fl1.moveonjoy.com/DIY/index.m3u8
 #EXTINF:-1 group-title="国际",Grit TV
 http://panelguys.top:8080/txd7Fd/030774/20861
 #EXTINF:-1 group-title="国际",Hallmark Channel
