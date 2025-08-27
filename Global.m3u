@@ -223,6 +223,8 @@ http://panelguys.top:8080/txd7Fd/030774/16129
 http://panelguys.top:8080/txd7Fd/030774/47444
 #EXTINF:-1 group-title="国际",TSN 4
 http://panelguys.top:8080/txd7Fd/030774/66783
+#EXTINF:-1 group-title="Sports",TSN 5
+http://fl5.moveonjoy.com/TSN_5/index.m3u8
 #EXTINF:-1 group-title="国际",SKY CINEMA ACTION
 http://panelguys.top:8080/txd7Fd/030774/35254
 #EXTINF:-1 group-title="国际",SKY CINEMA DRAMA
@@ -459,3 +461,9 @@ http://panelguys.top:8080/txd7Fd/030774/10224
 http://panelguys.top:8080/txd7Fd/030774/46696
 #EXTINF:-1 group-title="国际",VICELAND
 http://panelguys.top:8080/txd7Fd/030774/46697
+#EXTINF:-1 group-title="国际",MLB Network
+http://143.244.60.30/MLB_NETWORK/index.m3u8
+#EXTINF:-1 group-title="国际",ESPN NEWS
+http://143.244.60.30/ESPN_NEWS/index.m3u8
+#EXTINF:-1 group-title="国际",ESPN U
+http://143.244.60.30/ESPN_U/index.m3u8
