@@ -479,3 +479,25 @@ http://143.244.60.30/ESPN_U/index.m3u8
 http://fl1.moveonjoy.com/MTV/index.m3u8
 #EXTINF:-1 group-title="国际",MTV Live
 http://fl1.moveonjoy.com/MTV_LIVE/index.m3u8
+#EXTINF:-1 group-title="国际s",Golf Channel
+https://fl3.moveonjoy.com/GOLF/index.m3u8
+#EXTINF:-1 group-title="国际",Travel Channel
+http://fl1.moveonjoy.com/Travel_Channel/index.m3u8
+#EXTINF:-1 group-title="国际",TVOne
+https://fl3.moveonjoy.com/TV_ONE/index.m3u8
+#EXTINF:-1 group-title="国际",WeTV
+http://fl1.moveonjoy.com/WE_TV/index.m3u8
+#EXTINF:-1 group-title="国际",WGN
+https://fl3.moveonjoy.com/WGN/index.m3u8
+#EXTINF:-1 group-title="国际",W NETWORK
+https://fl3.moveonjoy.com/W_NETWORK/index.m3u8
+#EXTINF:-1 group-title="国际",Vice
+https://fl3.moveonjoy.com/VICELAND/index.m3u8
+#EXTINF:-1 group-title="国际",Tennis Channel
+http://fl1.moveonjoy.com/TENNIS_CHANNEL/index.m3u8
+#EXTINF:-1 group-title="国际",SYFY
+https://fl3.moveonjoy.com/SYFY/index.m3u8
+#EXTINF:-1 group-title="国际",TBS
+http://fl1.moveonjoy.com/TBS/index.m3u8
+#EXTINF:-1 group-title="国际",TCM
+http://fl1.moveonjoy.com/TCM/index.m3u8
