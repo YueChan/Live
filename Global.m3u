@@ -477,7 +477,7 @@ http://143.244.60.30/ESPN_U/index.m3u8
 http://fl1.moveonjoy.com/MTV/index.m3u8
 #EXTINF:-1 group-title="国际",MTV Live
 http://fl1.moveonjoy.com/MTV_LIVE/index.m3u8
-#EXTINF:-1 group-title="国际s",Golf Channel
+#EXTINF:-1 group-title="国际",Golf Channel
 https://fl3.moveonjoy.com/GOLF/index.m3u8
 #EXTINF:-1 group-title="国际",Travel Channel
 http://fl1.moveonjoy.com/Travel_Channel/index.m3u8
