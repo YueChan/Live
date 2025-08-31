@@ -143,10 +143,8 @@ http://panelguys.top:8080/txd7Fd/030774/47234
 http://panelguys.top:8080/txd7Fd/030774/57350
 #EXTINF:-1 group-title="国际",CTV OTTAWA
 http://panelguys.top:8080/txd7Fd/030774/47237
-#EXTINF:-1 group-title="国际",CTV Regina Saskatchewan
+#EXTINF:-1 group-title="国际",CTV Regina  
 http://panelguys.top:8080/txd7Fd/030774/66381
-#EXTINF:-1 group-title="国际",CTV Saskatoon Saskatchewan
-http://panelguys.top:8080/txd7Fd/030774/66382
 #EXTINF:-1 group-title="国际",CTV Toronto HD
 http://panelguys.top:8080/txd7Fd/030774/47296
 #EXTINF:-1 group-title="国际",CTV2 Vancouver
@@ -499,3 +497,5 @@ https://fl3.moveonjoy.com/SYFY/index.m3u8
 http://fl1.moveonjoy.com/TBS/index.m3u8
 #EXTINF:-1 group-title="国际",TCM
 http://fl1.moveonjoy.com/TCM/index.m3u8
+#EXTINF:-1 group-title="国际",Fashion 4K
+https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
