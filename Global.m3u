@@ -17,10 +17,20 @@ http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/400200058.m3u8
 http://212.102.60.231:80/NEWS_NATION/index.m3u8
 #EXTINF:-1 group-title="国际",CBS News
 http://panelguys.top:8080/txd7Fd/030774/21259
+#EXTINF:-1 group-title="国际",Global News
+https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/live-audio_1=96000-video=2499968.m3u8
+#EXTINF:-1 group-title="国际",Newsmax 2
+https://nmxlive.akamaized.net/hls/live/529965/Live_1/1.m3u8
 #EXTINF:-1 group-title="国际",RTE NEWS
 http://panelguys.top:8080/txd7Fd/030774/79108
 #EXTINF:-1 group-title="国际",PBS HD
 http://panelguys.top:8080/txd7Fd/030774/57276
+#EXTINF:-1 group-title="国际",Cheddar News
+https://cheddar-us.samsung.wurl.tv/playlist_4300k.m3u8
+#EXTINF:-1 group-title="国际",Newsy
+https://547f72e6652371c3.mediapackage.us-east-1.amazonaws.com/out/v1/e3e6e29095844c4ba7d887f01e44a5ef/index_8.m3u8
+#EXTINF:-1 group-title="国际",HollyWire
+https://bozztv.com/hwotta/playlist/HD3400/HD3400.m3u8
 #EXTINF:-1 group-title="国际",NEWS 12
 http://panelguys.top:8080/qcFA9B/963626/167741
 #EXTINF:-1 group-title="国际",Arirang
@@ -99,6 +109,8 @@ http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/153841.m3u8
 http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/77461.m3u8
 #EXTINF:-1 group-title="国际",NBA TV
 http://panelguys.top:8080/txd7Fd/030774/22995
+#EXTINF:-1 group-title="国际",FIFA+
+https://cb2b444d.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctY2FfRklGQVBsdXNFbmdsaXNoX0hMUw/playlist.m3u8
 #EXTINF:-1 group-title="国际",Sportsnet East
 http://panelguys.top:8080/txd7Fd/030774/41836
 #EXTINF:-1 group-title="国际",YTV East
