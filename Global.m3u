@@ -13,6 +13,8 @@ http://live-hls-web-aje.getaj.net/AJE/01.m3u8
 http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/181651.m3u8
 #EXTINF:-1 group-title="国际",GB NEWS
 http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/400200058.m3u8
+#EXTINF:-1 group-title="国际",News Nation
+http://212.102.60.231:80/NEWS_NATION/index.m3u8
 #EXTINF:-1 group-title="国际",CBS News
 http://panelguys.top:8080/txd7Fd/030774/21259
 #EXTINF:-1 group-title="国际",RTE NEWS
