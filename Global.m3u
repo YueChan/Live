@@ -395,26 +395,6 @@ http://fl1.moveonjoy.com/FYI/index.m3u8
 http://fl1.moveonjoy.com/DIY/index.m3u8
 #EXTINF:-1 group-title="国际",Grit TV
 http://panelguys.top:8080/txd7Fd/030774/20861
-#EXTINF:-1 group-title="国际",Hallmark Channel
-http://panelguys.top:8080/txd7Fd/030774/46719
-#EXTINF:-1 group-title="国际",Hallmark Drama
-http://panelguys.top:8080/txd7Fd/030774/9307
-#EXTINF:-1 group-title="国际",Hallmark Movies & Mysteries
-http://panelguys.top:8080/txd7Fd/030774/10289
-#EXTINF:-1 group-title="国际",HBO HD
-http://tv.zapping.life:8080/ancharriere1/DaJmm5GvuY/7968
-#EXTINF:-1 group-title="国际",HBO Comedy
-http://tv.zapping.life:8080/ancharriere1/DaJmm5GvuY/17974
-#EXTINF:-1 group-title="国际",HBO Signature
-http://tv.zapping.life:8080/ancharriere1/DaJmm5GvuY/17976
-#EXTINF:-1 group-title="国际",HBO West
-http://tv.zapping.life:8080/ancharriere1/DaJmm5GvuY/17977
-#EXTINF:-1 group-title="国际",HBO ZONE
-http://tv.zapping.life:8080/ancharriere1/DaJmm5GvuY/17978
-#EXTINF:-1 group-title="国际",HBO East HD
-http://panelguys.top:8080/txd7Fd/030774/46713
-#EXTINF:-1 group-title="国际",HBO 2
-http://panelguys.top:8080/txd7Fd/030774/57438
 #EXTINF:-1 group-title="国际",HGTV
 http://panelguys.top:8080/txd7Fd/030774/46717
 #EXTINF:-1 group-title="国际",History Channel
@@ -447,26 +427,6 @@ http://panelguys.top:8080/txd7Fd/030774/46694
 http://panelguys.top:8080/txd7Fd/030774/21648
 #EXTINF:-1 group-title="国际",GAC Living
 http://panelguys.top:8080/txd7Fd/030774/75654
-#EXTINF:-1 group-title="国际",AMC Thrillers
-http://panelguys.top:8080/txd7Fd/030774/66243
-#EXTINF:-1 group-title="国际",Showtime East
-http://panelguys.top:8080/txd7Fd/030774/46214
-#EXTINF:-1 group-title="国际",Showtime 2
-http://panelguys.top:8080/txd7Fd/030774/13219
-#EXTINF:-1 group-title="国际",Showtime Family Zone
-http://panelguys.top:8080/txd7Fd/030774/13481
-#EXTINF:-1 group-title="国际",Showtime Women
-http://panelguys.top:8080/txd7Fd/030774/17778
-#EXTINF:-1 group-title="国际",Showtime Showcase  
-http://tv.zapping.life:8080/ancharriere1/DaJmm5GvuY/17930
-#EXTINF:-1 group-title="国际",Showtime Extreme 
-http://tv.zapping.life:8080/ancharriere1/DaJmm5GvuY/17987
-#EXTINF:-1 group-title="国际",Showtime Next  
-http://tv.zapping.life:8080/ancharriere1/DaJmm5GvuY/17989
-#EXTINF:-1 group-title="国际",Showtime West  
-http://tv.zapping.life:8080/ancharriere1/DaJmm5GvuY/17990
-#EXTINF:-1 group-title="国际",Starz Encore Westerns
-http://panelguys.top:8080/txd7Fd/030774/16263
 #EXTINF:-1 group-title="国际",TBN
 http://panelguys.top:8080/txd7Fd/030774/21895
 #EXTINF:-1 group-title="国际",TLC
@@ -515,3 +475,57 @@ http://fl1.moveonjoy.com/TBS/index.m3u8
 http://fl1.moveonjoy.com/TCM/index.m3u8
 #EXTINF:-1 group-title="国际",Fashion 4K
 https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
+#EXTINF:-1 group-title="国际",Hallmark Channel
+http://panelguys.top:8080/txd7Fd/030774/46719
+#EXTINF:-1 group-title="国际",Hallmark Drama
+http://panelguys.top:8080/txd7Fd/030774/9307
+#EXTINF:-1 group-title="国际",Hallmark Movies & Mysteries
+http://panelguys.top:8080/txd7Fd/030774/10289
+#EXTINF:-1 group-title="国际",HBO HD
+http://tv.zapping.life:8080/ancharriere1/DaJmm5GvuY/7968
+#EXTINF:-1 group-title="国际",HBO Comedy
+http://tv.zapping.life:8080/ancharriere1/DaJmm5GvuY/17974
+#EXTINF:-1 group-title="国际",HBO Signature
+http://tv.zapping.life:8080/ancharriere1/DaJmm5GvuY/17976
+#EXTINF:-1 group-title="国际",HBO West
+http://tv.zapping.life:8080/ancharriere1/DaJmm5GvuY/17977
+#EXTINF:-1 group-title="国际",HBO ZONE
+http://tv.zapping.life:8080/ancharriere1/DaJmm5GvuY/17978
+#EXTINF:-1 group-title="国际",HBO East HD
+http://panelguys.top:8080/txd7Fd/030774/46713
+#EXTINF:-1 group-title="国际",HBO 2
+http://panelguys.top:8080/txd7Fd/030774/57438
+#EXTINF:-1 group-title="国际",AMC Thrillers
+http://panelguys.top:8080/txd7Fd/030774/66243
+#EXTINF:-1 group-title="国际",Showtime East
+http://panelguys.top:8080/txd7Fd/030774/46214
+#EXTINF:-1 group-title="国际",Showtime 2
+http://panelguys.top:8080/txd7Fd/030774/13219
+#EXTINF:-1 group-title="国际",Showtime Family Zone
+http://panelguys.top:8080/txd7Fd/030774/13481
+#EXTINF:-1 group-title="国际",Showtime Women
+http://panelguys.top:8080/txd7Fd/030774/17778
+#EXTINF:-1 group-title="国际",Showtime Showcase  
+http://tv.zapping.life:8080/ancharriere1/DaJmm5GvuY/17930
+#EXTINF:-1 group-title="国际",Showtime Extreme 
+http://tv.zapping.life:8080/ancharriere1/DaJmm5GvuY/17987
+#EXTINF:-1 group-title="国际",Showtime Next  
+http://tv.zapping.life:8080/ancharriere1/DaJmm5GvuY/17989
+#EXTINF:-1 group-title="国际",Showtime West  
+http://tv.zapping.life:8080/ancharriere1/DaJmm5GvuY/17990
+#EXTINF:-1 group-title="国际",Starz Encore Westerns
+http://panelguys.top:8080/txd7Fd/030774/16263
+#EXTINF:-1 group-title="国际",MovieSphere
+https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="国际",Rakuten Action
+https://54045f0c40fd442c8b06df076aaf1e85.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6065/master.m3u8
+#EXTINF:-1 group-title="国际",Rakuten Comedy
+https://9be783d652cd4b099cf63e1dc134c4a3.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6181/master.m3u8
+#EXTINF:-1 group-title="国际",Rakuten Drama
+https://fee09fd665814f51b939b6d106cf5f66.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6093/master.m3u8
+#EXTINF:-1 group-title="国际",Rakuten Family
+https://e3207568b726401995c25670faaf32e4.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6203/master.m3u8
+#EXTINF:-1 group-title="国际",Rakuten Reality
+https://68f6dfd1f2bd415b9c42f1d383004b69.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6233/master.m3u8
+#EXTINF:-1 group-title="国际",Rakuten Romance
+https://2c88ed8c4df9479aa0c7138dc42115e2.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6194/master.m3u8
