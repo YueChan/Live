@@ -75,7 +75,7 @@ http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/153724.m3u8
 http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/391270.m3u8
 #EXTINF:-1 group-title="国际",NFL RED ZONE
 http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/181403.m3u8
-#EXTINF:-1 group-title="国际",SPORTS GRID
+#EXTINF:-1 group-title="国际",SportsGrid
 http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/400163374.m3u8
 #EXTINF:-1 group-title="国际",SPEED SPORT 1
 http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/401572602.m3u8
@@ -231,8 +231,6 @@ http://panelguys.top:8080/txd7Fd/030774/9860
 http://panelguys.top:8080/txd7Fd/030774/20975
 #EXTINF:-1 group-title="国际",Sportsnet World HD
 http://panelguys.top:8080/txd7Fd/030774/75675
-#EXTINF:-1 group-title="国际",Teletoon East
-http://panelguys.top:8080/txd7Fd/030774/57372
 #EXTINF:-1 group-title="国际",TSN 1
 http://tv.zapping.life:8080/ancharriere1/DaJmm5GvuY/7973
 #EXTINF:-1 group-title="国际",TSN 2
