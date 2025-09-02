@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 group-title="国际",BBC NEWS
-ttp://fl3.moveonjoy.com/BBC_WORLD_NEWS/index.m3u8
+http://fl3.moveonjoy.com/BBC_WORLD_NEWS/index.m3u8
 #EXTINF:-1 group-title="国际",CNN
 http://user.scalecdn.co:8080/live/supersonicstreams/cUewZolveU/88946.ts
 #EXTINF:-1 group-title="国际",CNA
