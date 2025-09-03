@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 group-title="国际",BBC NEWS
-http://fl3.moveonjoy.com/BBC_WORLD_NEWS/index.m3u8
+https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
 #EXTINF:-1 group-title="国际",CNN
 http://user.scalecdn.co:8080/live/supersonicstreams/cUewZolveU/88946.ts
 #EXTINF:-1 group-title="国际",CNA
