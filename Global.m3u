@@ -21,8 +21,6 @@ http://panelguys.top:8080/txd7Fd/030774/21259
 https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/live-audio_1=96000-video=2499968.m3u8
 #EXTINF:-1 group-title="国际",Newsmax 2
 https://nmxlive.akamaized.net/hls/live/529965/Live_1/1.m3u8
-#EXTINF:-1 group-title="国际",NHK Japan
-https://nhkworld-tv.akamaized.net/hls/live/2115640/nhkworld-tv/index_1M.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 group-title="国际",RTE NEWS
 http://panelguys.top:8080/txd7Fd/030774/79108
 #EXTINF:-1 group-title="国际",TBS Seoul
@@ -313,8 +311,6 @@ http://panelguys.top:8080/txd7Fd/030774/11645
 http://panelguys.top:8080/txd7Fd/030774/21843
 #EXTINF:-1 group-title="国际",FanDuel Sports West
 http://panelguys.top:8080/txd7Fd/030774/20932
-#EXTINF:-1 group-title="国际",PT Eleven Sports 1
-http://panelguys.top:8080/txd7Fd/030774/35264
 #EXTINF:-1 group-title="国际",ESPN NEWS
 http://panelguys.top:8080/txd7Fd/030774/17707
 #EXTINF:-1 group-title="国际",FanDuel Sports Ohio
@@ -361,6 +357,8 @@ http://panelguys.top:8080/txd7Fd/030774/46706
 http://panelguys.top:8080/txd7Fd/030774/9815
 #EXTINF:-1 group-title="国际",Comet
 http://panelguys.top:8080/txd7Fd/030774/66244
+#EXTINF:-1 group-title="国际",Aspire
+http://fl3.moveonjoy.com/Aspire/index.m3u8
 #EXTINF:-1 group-title="国际",Decades
 http://panelguys.top:8080/txd7Fd/030774/20189
 #EXTINF:-1 group-title="国际",Discovery Velocity
@@ -459,6 +457,8 @@ http://fl1.moveonjoy.com/Travel_Channel/index.m3u8
 https://fl3.moveonjoy.com/TV_ONE/index.m3u8
 #EXTINF:-1 group-title="国际",WeTV
 http://fl1.moveonjoy.com/WE_TV/index.m3u8
+#EXTINF:-1 group-title="国际",COZI TV
+http://fl3.moveonjoy.com/COZI_TV/index.m3u8
 #EXTINF:-1 group-title="国际",WGN
 https://fl3.moveonjoy.com/WGN/index.m3u8
 #EXTINF:-1 group-title="国际",W NETWORK
