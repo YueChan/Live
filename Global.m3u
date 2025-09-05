@@ -69,8 +69,6 @@ http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/153868.m3u8
 http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/153723.m3u8
 #EXTINF:-1 group-title="国际",PREMIER SPORTS 2
 http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/153724.m3u8
-#EXTINF:-1 group-title="国际",SKY SPORTS TENNIS
-http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/391270.m3u8
 #EXTINF:-1 group-title="国际",NFL RED ZONE
 http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/181403.m3u8
 #EXTINF:-1 group-title="国际",SportsGrid
@@ -95,7 +93,7 @@ http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/33938.m3u8
 http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/42198.m3u8
 #EXTINF:-1 group-title="国际",CINEVAULT WESTERNS
 http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/77367.m3u8
-#EXTINF:-1 group-title="国际",Stories by AMC  
+#EXTINF:-1 group-title="国际",Stories by AMC
 http://fl5.moveonjoy.com/AMC_NETWORK/index.m3u8
 #EXTINF:-1 group-title="国际",PARAMOUNT NETWORK
 http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/176601.m3u8
@@ -161,7 +159,7 @@ http://panelguys.top:8080/txd7Fd/030774/47234
 http://panelguys.top:8080/txd7Fd/030774/57350
 #EXTINF:-1 group-title="国际",CTV OTTAWA
 http://panelguys.top:8080/txd7Fd/030774/47237
-#EXTINF:-1 group-title="国际",CTV Regina  
+#EXTINF:-1 group-title="国际",CTV Regina
 http://panelguys.top:8080/txd7Fd/030774/66381
 #EXTINF:-1 group-title="国际",CTV Toronto HD
 http://panelguys.top:8080/txd7Fd/030774/47296
@@ -201,7 +199,7 @@ http://panelguys.top:8080/txd7Fd/030774/57280
 http://panelguys.top:8080/txd7Fd/030774/47339
 #EXTINF:-1 group-title="国际",NFL NETWORK HD
 http://panelguys.top:8080/txd7Fd/030774/47346
-#EXTINF:-1 group-title="国际",OLN 
+#EXTINF:-1 group-title="国际",OLN
 http://panelguys.top:8080/txd7Fd/030774/57366
 #EXTINF:-1 group-title="国际",OWN
 http://panelguys.top:8080/txd7Fd/030774/57277
@@ -239,16 +237,16 @@ http://fl5.moveonjoy.com/TSN_5/index.m3u8
 http://panelguys.top:8080/txd7Fd/030774/53653
 #EXTINF:-1 group-title="国际",Discovery Channel
 http://panelguys.top:8080/txd7Fd/030774/53684
-#EXTINF:-1 group-title="国际",DISCOVERY FAMILY CHANNEL
+#EXTINF:-1 group-title="国际",Discovery History
+http://panelguys.top:8080/txd7Fd/030774/53694
+#EXTINF:-1 group-title="国际",Discovery Family
 http://fl1.moveonjoy.com/DISCOVERY_FAMILY_CHANNEL/index.m3u8
-#EXTINF:-1 group-title="国际",DISCOVERY LIFE
+#EXTINF:-1 group-title="国际",Discovery Life
 http://fl1.moveonjoy.com/DISCOVERY_LIFE/index.m3u8
 #EXTINF:-1 group-title="国际",Discovery Science
 http://fl1.moveonjoy.com/Discovery_Science/index.m3u8
-#EXTINF:-1 group-title="国际",DISNEY XD
+#EXTINF:-1 group-title="国际",Disney XD
 http://fl1.moveonjoy.com/DISNEY_XD/index.m3u8
-#EXTINF:-1 group-title="国际",Discovery History
-http://panelguys.top:8080/txd7Fd/030774/53694
 #EXTINF:-1 group-title="国际",Film 4
 http://panelguys.top:8080/txd7Fd/030774/53702
 #EXTINF:-1 group-title="国际",H2
@@ -261,32 +259,16 @@ http://panelguys.top:8080/txd7Fd/030774/53671
 http://panelguys.top:8080/txd7Fd/030774/53717
 #EXTINF:-1 group-title="国际",NICKELODEON
 http://panelguys.top:8080/txd7Fd/030774/53728
-#EXTINF:-1 group-title="国际",SKY CINEMA ACTION
-http://panelguys.top:8080/txd7Fd/030774/35254
-#EXTINF:-1 group-title="国际",SKY CINEMA DRAMA
-http://panelguys.top:8080/txd7Fd/030774/35251
-#EXTINF:-1 group-title="国际",Sky Cinema Scifi & Horror
-http://panelguys.top:8080/txd7Fd/030774/35248
-#EXTINF:-1 group-title="国际",SKY CRIME THRILLER
-http://panelguys.top:8080/txd7Fd/030774/35252
-#EXTINF:-1 group-title="国际",SKY GREATS
-http://panelguys.top:8080/txd7Fd/030774/35249
 #EXTINF:-1 group-title="国际",Sky Cinema Animation
 http://panelguys.top:8080/txd7Fd/030774/53698
-#EXTINF:-1 group-title="国际",Sky Cinema Family
-http://panelguys.top:8080/txd7Fd/030774/53699
-#EXTINF:-1 group-title="国际",Sky Cinema Premier
-http://panelguys.top:8080/txd7Fd/030774/35256
 #EXTINF:-1 group-title="国际",Sky Cinema Comedy
 http://panelguys.top:8080/txd7Fd/030774/53661
-#EXTINF:-1 group-title="国际",Sky Sports Action
-http://panelguys.top:8080/txd7Fd/030774/53705
-#EXTINF:-1 group-title="国际",Sky Sports Arena
-http://panelguys.top:8080/txd7Fd/030774/35238
 #EXTINF:-1 group-title="国际",Sky Sports F1
 http://panelguys.top:8080/txd7Fd/030774/53704
 #EXTINF:-1 group-title="国际",Sky Sports Golf
 http://panelguys.top:8080/txd7Fd/030774/35240
+#EXTINF:-1 group-title="国际",SKY SPORTS TENNIS
+http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/391270.m3u8
 #EXTINF:-1 group-title="国际",Sky Sports Main Event
 http://panelguys.top:8080/txd7Fd/030774/35243
 #EXTINF:-1 group-title="国际",Sky Sports Mix
@@ -365,8 +347,6 @@ http://panelguys.top:8080/txd7Fd/030774/20189
 http://panelguys.top:8080/txd7Fd/030774/46212
 #EXTINF:-1 group-title="国际",Magnolia Network
 http://panelguys.top:8080/txd7Fd/030774/10503
-#EXTINF:-1 group-title="国际",DOGTV
-http://panelguys.top:8080/txd7Fd/030774/53539
 #EXTINF:-1 group-title="国际",EPIX (East)
 http://panelguys.top:8080/txd7Fd/030774/13214
 #EXTINF:-1 group-title="国际",Epix Drive IN
@@ -417,7 +397,7 @@ http://panelguys.top:8080/txd7Fd/030774/21752
 http://panelguys.top:8080/txd7Fd/030774/20865
 #EXTINF:-1 group-title="国际",OWN
 http://panelguys.top:8080/txd7Fd/030774/46698
-#EXTINF:-1 group-title="国际",Oxygen 
+#EXTINF:-1 group-title="国际",Oxygen
 http://panelguys.top:8080/txd7Fd/030774/46695
 #EXTINF:-1 group-title="国际",Paramount Network
 http://panelguys.top:8080/txd7Fd/030774/46694
@@ -505,13 +485,13 @@ http://panelguys.top:8080/txd7Fd/030774/13219
 http://panelguys.top:8080/txd7Fd/030774/13481
 #EXTINF:-1 group-title="国际",Showtime Women
 http://panelguys.top:8080/txd7Fd/030774/17778
-#EXTINF:-1 group-title="国际",Showtime Showcase  
+#EXTINF:-1 group-title="国际",Showtime Showcase
 http://tv.zapping.life:8080/ancharriere1/DaJmm5GvuY/17930
-#EXTINF:-1 group-title="国际",Showtime Extreme 
+#EXTINF:-1 group-title="国际",Showtime Extreme
 http://tv.zapping.life:8080/ancharriere1/DaJmm5GvuY/17987
-#EXTINF:-1 group-title="国际",Showtime Next  
+#EXTINF:-1 group-title="国际",Showtime Next
 http://tv.zapping.life:8080/ancharriere1/DaJmm5GvuY/17989
-#EXTINF:-1 group-title="国际",Showtime West  
+#EXTINF:-1 group-title="国际",Showtime West
 http://tv.zapping.life:8080/ancharriere1/DaJmm5GvuY/17990
 #EXTINF:-1 group-title="国际",Starz Encore Westerns
 http://panelguys.top:8080/txd7Fd/030774/16263
