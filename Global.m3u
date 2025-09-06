@@ -1,10 +1,12 @@
 #EXTM3U
 #EXTINF:-1 group-title="国际",BBC NEWS
-https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
+http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/191457.m3u8
 #EXTINF:-1 group-title="国际",CNN
 http://user.scalecdn.co:8080/live/supersonicstreams/cUewZolveU/88946.ts
 #EXTINF:-1 group-title="国际",CNA
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+#EXTINF:-1 group-title="国际",Sky News
+http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/433259.m3u8
 #EXTINF:-1 group-title="国际",Fox News
 http://panelguys.top:8080/txd7Fd/030774/1818
 #EXTINF:-1 group-title="国际",Al Jazeera
@@ -395,6 +397,8 @@ http://panelguys.top:8080/txd7Fd/030774/11664
 http://panelguys.top:8080/txd7Fd/030774/21752
 #EXTINF:-1 group-title="国际",OUTSIDE TV
 http://panelguys.top:8080/txd7Fd/030774/20865
+#EXTINF:-1 group-title="国际",Love Nature
+http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/6616.m3u8
 #EXTINF:-1 group-title="国际",OWN
 http://panelguys.top:8080/txd7Fd/030774/46698
 #EXTINF:-1 group-title="国际",Oxygen
@@ -453,6 +457,8 @@ https://fl3.moveonjoy.com/SYFY/index.m3u8
 http://fl1.moveonjoy.com/TBS/index.m3u8
 #EXTINF:-1 group-title="国际",TCM
 http://fl1.moveonjoy.com/TCM/index.m3u8
+#EXTINF:-1 group-title="国际",Bloomberg
+http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/14069.m3u8
 #EXTINF:-1 group-title="国际",Fashion 4K
 https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
 #EXTINF:-1 group-title="国际",Hallmark Channel
