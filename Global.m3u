@@ -301,12 +301,12 @@ http://panelguys.top:8080/txd7Fd/030774/35243
 http://panelguys.top:8080/txd7Fd/030774/53706
 #EXTINF:-1 group-title="国际",Sky Sports News
 http://panelguys.top:8080/txd7Fd/030774/35241
+#EXTINF:-1 group-title="国际",Sky Sports Cricket
+http://panelguys.top:8080/txd7Fd/030774/45940
 #EXTINF:-1 group-title="国际",Willow Cricket
 http://panelguys.top:8080/txd7Fd/030774/41979
 #EXTINF:-1 group-title="国际",World Poker
-https://d3w4n3hhseniak.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/WPT-DistroTV/150.m3u8
-#EXTINF:-1 group-title="国际",Sky Sports Cricket
-http://panelguys.top:8080/txd7Fd/030774/45940
+https://d3w4n3hhseniak.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/WPT-DistroTV/150.m3u
 #EXTINF:-1 group-title="国际",Eurosport
 http://45.159.74.22/Eurosport/playlist.m3u8
 #EXTINF:-1 group-title="国际",Lifetime Movies
