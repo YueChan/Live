@@ -5,16 +5,10 @@ https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_ch
 http://user.scalecdn.co:8080/live/supersonicstreams/cUewZolveU/88946.ts
 #EXTINF:-1 group-title="国际",CNA
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
-#EXTINF:-1 group-title="国际",Sky News
-http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/433259.m3u8
 #EXTINF:-1 group-title="国际",Fox News
 http://panelguys.top:8080/txd7Fd/030774/1818
 #EXTINF:-1 group-title="国际",Al Jazeera
 http://live-hls-web-aje.getaj.net/AJE/01.m3u8
-#EXTINF:-1 group-title="国际",RT NEWS
-http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/181651.m3u8
-#EXTINF:-1 group-title="国际",GB NEWS
-http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/400200058.m3u8
 #EXTINF:-1 group-title="国际",NHK World
 https://nhkworld-tv.akamaized.net/hls/live/2115640/nhkworld-tv/index_2M.m3u8
 #EXTINF:-1 group-title="国际",News Nation
@@ -41,72 +35,10 @@ https://bozztv.com/hwotta/playlist/HD3400/HD3400.m3u8
 http://panelguys.top:8080/qcFA9B/963626/167741
 #EXTINF:-1 group-title="国际",Arirang
 https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b3256000_sleng.m3u8
-#EXTINF:-1 group-title="国际",DW ENGLISH
-http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/176619.m3u8
-#EXTINF:-1 group-title="国际",TRT WORLD
-http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/400230338.m3u8
-#EXTINF:-1 group-title="国际",USA TODAY
-http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/6625.m3u8
 #EXTINF:-1 group-title="国际",Taiwan Plus
 https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap-northeast-1/6282251407001/playlist.m3u8
 #EXTINF:-1 group-title="国际",RT Documentary
 https://rt-rtd.rttv.com/live/rtdoc/playlist_4500Kb.m3u8
-#EXTINF:-1 group-title="国际",OAN
-http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/181655.m3u8
-#EXTINF:-1 group-title="国际",ITV Quiz
-http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/154054.m3u8
-#EXTINF:-1 group-title="国际",Game Show Network
-http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/33966.m3u8
-#EXTINF:-1 group-title="国际",E4
-http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/153636.m3u8
-#EXTINF:-1 group-title="国际",DOVE
-http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/181554.m3u8
-#EXTINF:-1 group-title="国际",IFC
-http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/181559.m3u8
-#EXTINF:-1 group-title="国际",STV
-http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/153673.m3u8
-#EXTINF:-1 group-title="国际",S4C
-http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/153866.m3u8
-#EXTINF:-1 group-title="国际",UTV
-http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/153868.m3u8
-#EXTINF:-1 group-title="国际",PREMIER SPORTS 1
-http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/153723.m3u8
-#EXTINF:-1 group-title="国际",PREMIER SPORTS 2
-http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/153724.m3u8
-#EXTINF:-1 group-title="国际",NFL RED ZONE
-http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/181403.m3u8
-#EXTINF:-1 group-title="国际",SportsGrid
-http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/400163374.m3u8
-#EXTINF:-1 group-title="国际",Trace Sport Stars
-https://lightning-tracesport-samsungau.amagi.tv/playlist1080p.m3u8
-#EXTINF:-1 group-title="国际",REAL AMERICA'S VOICE
-http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/381772.m3u8
-#EXTINF:-1 group-title="国际",AWE
-http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/176716.m3u8
-#EXTINF:-1 group-title="国际",LAFF
-http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/400309672.m3u8
-#EXTINF:-1 group-title="国际",REVOLT
-http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/176704.m3u8
-#EXTINF:-1 group-title="国际",Wild Earth
-http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/6615.m3u8
-#EXTINF:-1 group-title="国际",DEFIANCE
-http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/33938.m3u8
-#EXTINF:-1 group-title="国际",CINE LIFE
-http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/42198.m3u8
-#EXTINF:-1 group-title="国际",CINEVAULT WESTERNS
-http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/77367.m3u8
-#EXTINF:-1 group-title="国际",Stories by AMC
-http://fl5.moveonjoy.com/AMC_NETWORK/index.m3u8
-#EXTINF:-1 group-title="国际",PARAMOUNT NETWORK
-http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/176601.m3u8
-#EXTINF:-1 group-title="国际",ADULT ANIMATION
-http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/77598.m3u8
-#EXTINF:-1 group-title="国际",SCREENPIX WESTERNS
-http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/28289.m3u8
-#EXTINF:-1 group-title="国际",DISNEY CHANNEL
-http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/153841.m3u8
-#EXTINF:-1 group-title="国际",LOL NETWORK
-http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/77461.m3u8
 #EXTINF:-1 group-title="国际",NBA TV
 http://panelguys.top:8080/txd7Fd/030774/22995
 #EXTINF:-1 group-title="国际",FIFA+
@@ -225,10 +157,6 @@ http://panelguys.top:8080/txd7Fd/030774/9860
 http://panelguys.top:8080/txd7Fd/030774/20975
 #EXTINF:-1 group-title="国际",Sportsnet World 
 http://panelguys.top:8080/txd7Fd/030774/75675
-#EXTINF:-1 group-title="国际",beIN SPORTS XTRA 
-http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/42179.m3u8
-#EXTINF:-1 group-title="国际",beIN SPORTS 
-http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/181397.m3u8
 #EXTINF:-1 group-title="国际",TSN 1
 http://tv.zapping.life:8080/ancharriere1/DaJmm5GvuY/7973
 #EXTINF:-1 group-title="国际",TSN 2
@@ -239,30 +167,6 @@ http://panelguys.top:8080/txd7Fd/030774/47444
 http://panelguys.top:8080/txd7Fd/030774/66783
 #EXTINF:-1 group-title="国际",TSN 5
 http://fl5.moveonjoy.com/TSN_5/index.m3u8
-#EXTINF:-1 group-title="国际",TNT SPORT 1
-http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/6202.m3u8
-#EXTINF:-1 group-title="国际",TNT SPORT 2
-http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/6203.m3u8
-#EXTINF:-1 group-title="国际",TNT SPORT 3
-http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/6204.m3u8
-#EXTINF:-1 group-title="国际",TNT SPORT 4 
-http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/401384751.m3u8
-#EXTINF:-1 group-title="国际",TNT SPORT 5
-http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/62800.m3u8
-#EXTINF:-1 group-title="国际",NOW SPORTS 1
-http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/30404.m3u8
-#EXTINF:-1 group-title="国际",NOW SPORTS 2
-http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/30403.m3u8
-#EXTINF:-1 group-title="国际",NOW SPORTS 3
-http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/30402.m3u8
-#EXTINF:-1 group-title="国际",NOW SPORTS 4
-http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/30401.m3u8
-#EXTINF:-1 group-title="国际",NOW SPORTS 5
-http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/30400.m3u8
-#EXTINF:-1 group-title="国际",NOW SPORTS 6
-http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/30399.m3u8
-#EXTINF:-1 group-title="国际",NOW SPORTS 7
-http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/30398.m3u8
 #EXTINF:-1 group-title="国际",Channel 5
 http://panelguys.top:8080/txd7Fd/030774/53653
 #EXTINF:-1 group-title="国际",Discovery Channel
@@ -297,8 +201,6 @@ http://panelguys.top:8080/txd7Fd/030774/53661
 http://panelguys.top:8080/txd7Fd/030774/53704
 #EXTINF:-1 group-title="国际",Sky Sports Golf
 http://panelguys.top:8080/txd7Fd/030774/35240
-#EXTINF:-1 group-title="国际",SKY Sports Tennis
-http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/391270.m3u8
 #EXTINF:-1 group-title="国际",Sky Sports Main Event
 http://panelguys.top:8080/txd7Fd/030774/35243
 #EXTINF:-1 group-title="国际",Sky Sports Mix
@@ -441,8 +343,6 @@ http://panelguys.top:8080/txd7Fd/030774/11664
 http://panelguys.top:8080/txd7Fd/030774/21752
 #EXTINF:-1 group-title="国际",OUTSIDE TV
 http://panelguys.top:8080/txd7Fd/030774/20865
-#EXTINF:-1 group-title="国际",Love Nature
-http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/6616.m3u8
 #EXTINF:-1 group-title="国际",OWN
 http://panelguys.top:8080/txd7Fd/030774/46698
 #EXTINF:-1 group-title="国际",Oxygen
@@ -501,8 +401,6 @@ https://fl3.moveonjoy.com/SYFY/index.m3u8
 http://fl1.moveonjoy.com/TBS/index.m3u8
 #EXTINF:-1 group-title="国际",TCM
 http://fl1.moveonjoy.com/TCM/index.m3u8
-#EXTINF:-1 group-title="国际",Bloomberg
-http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/14069.m3u8
 #EXTINF:-1 group-title="国际",Fashion 4K
 https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
 #EXTINF:-1 group-title="国际",Hallmark Channel
