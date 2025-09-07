@@ -134,6 +134,8 @@ http://panelguys.top:8080/txd7Fd/030774/66383
 http://panelguys.top:8080/txd7Fd/030774/57435
 #EXTINF:-1 group-title="国际",HGTV
 http://panelguys.top:8080/txd7Fd/030774/57273
+#EXTINF:-1 group-title="News",NBC East
+http://fl3.moveonjoy.com/NBC_EAST/index.m3u8
 #EXTINF:-1 group-title="国际",MSNBC
 http://panelguys.top:8080/txd7Fd/030774/47332
 #EXTINF:-1 group-title="国际",NatGeo Wild
@@ -496,8 +498,6 @@ http://fl3.moveonjoy.com/FX/index.m3u8
 http://fl3.moveonjoy.com/FUSE/index.m3u8
 #EXTINF:-1 group-title="国际",HSN
 http://fl3.moveonjoy.com/HSN/index.m3u8
-#EXTINF:-1 group-title="News",NBC
-http://fl3.moveonjoy.com/NBC_EAST/index.m3u8
 #EXTINF:-1 group-title="国际",MUCH
 http://fl1.moveonjoy.com/MUCH/index.m3u8
 #EXTINF:-1 group-title="国际",MSG
