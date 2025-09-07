@@ -77,6 +77,8 @@ http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/153724.m3u8
 http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/181403.m3u8
 #EXTINF:-1 group-title="国际",SportsGrid
 http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/400163374.m3u8
+#EXTINF:-1 group-title="国际",Trace Sport Stars
+https://lightning-tracesport-samsungau.amagi.tv/playlist1080p.m3u8
 #EXTINF:-1 group-title="国际",REAL AMERICA'S VOICE
 http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/381772.m3u8
 #EXTINF:-1 group-title="国际",AWE
@@ -161,11 +163,11 @@ http://panelguys.top:8080/txd7Fd/030774/57350
 http://panelguys.top:8080/txd7Fd/030774/47237
 #EXTINF:-1 group-title="国际",CTV Regina
 http://panelguys.top:8080/txd7Fd/030774/66381
-#EXTINF:-1 group-title="国际",CTV Toronto HD
+#EXTINF:-1 group-title="国际",CTV Toronto  
 http://panelguys.top:8080/txd7Fd/030774/47296
 #EXTINF:-1 group-title="国际",CTV2 Vancouver
 http://panelguys.top:8080/txd7Fd/030774/57316
-#EXTINF:-1 group-title="国际",CTV2 Windsor HD
+#EXTINF:-1 group-title="国际",CTV2 Windsor 
 http://panelguys.top:8080/txd7Fd/030774/77165
 #EXTINF:-1 group-title="国际",CTV Barrie Ontario
 http://panelguys.top:8080/txd7Fd/030774/57373
@@ -193,7 +195,7 @@ http://panelguys.top:8080/txd7Fd/030774/57435
 http://panelguys.top:8080/txd7Fd/030774/57273
 #EXTINF:-1 group-title="国际",MSNBC
 http://panelguys.top:8080/txd7Fd/030774/47332
-#EXTINF:-1 group-title="国际",National Geographic Wild
+#EXTINF:-1 group-title="国际",NatGeo Wild
 http://panelguys.top:8080/txd7Fd/030774/57280
 #EXTINF:-1 group-title="国际",National Geographic
 http://panelguys.top:8080/txd7Fd/030774/47339
@@ -203,7 +205,7 @@ http://panelguys.top:8080/txd7Fd/030774/47346
 http://panelguys.top:8080/txd7Fd/030774/57366
 #EXTINF:-1 group-title="国际",OWN
 http://panelguys.top:8080/txd7Fd/030774/57277
-#EXTINF:-1 group-title="国际",Showcase HD
+#EXTINF:-1 group-title="国际",Showcase  
 http://panelguys.top:8080/txd7Fd/030774/47366
 #EXTINF:-1 group-title="国际",Slice TV
 http://panelguys.top:8080/txd7Fd/030774/57274
@@ -395,8 +397,6 @@ http://panelguys.top:8080/txd7Fd/030774/46212
 http://panelguys.top:8080/txd7Fd/030774/10503
 #EXTINF:-1 group-title="国际",EPIX (East)
 http://panelguys.top:8080/txd7Fd/030774/13214
-#EXTINF:-1 group-title="国际",Epix Drive IN
-http://panelguys.top:8080/txd7Fd/030774/14193
 #EXTINF:-1 group-title="国际",Epix Hits
 http://panelguys.top:8080/txd7Fd/030774/12744
 #EXTINF:-1 group-title="国际",EPIX2
