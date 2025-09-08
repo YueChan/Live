@@ -7,6 +7,8 @@ http://user.scalecdn.co:8080/live/supersonicstreams/cUewZolveU/88946.ts
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 #EXTINF:-1 group-title="国际",GB News
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-gbnewsnz-samsungnz/playlist.m3u8
+#EXTINF:-1 group-title="国际",RT News
+https://rt-glb.rttv.com/dvr/rtnews/playlist_4500Kb.m3u8
 #EXTINF:-1 group-title="国际",Fox News
 http://panelguys.top:8080/txd7Fd/030774/1818
 #EXTINF:-1 group-title="国际",Al Jazeera
