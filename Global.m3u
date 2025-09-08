@@ -146,6 +146,8 @@ http://panelguys.top:8080/txd7Fd/030774/57280
 http://panelguys.top:8080/txd7Fd/030774/47339
 #EXTINF:-1 group-title="国际",NFL NETWORK  
 http://panelguys.top:8080/txd7Fd/030774/47346
+#EXTINF:-1 group-title="国际",NFL RedZone
+http://fl3.moveonjoy.com/NFL_RedZone/index.m3u8
 #EXTINF:-1 group-title="国际",OLN
 http://panelguys.top:8080/txd7Fd/030774/57366
 #EXTINF:-1 group-title="国际",OWN
@@ -282,8 +284,6 @@ http://panelguys.top:8080/txd7Fd/030774/20944
 http://panelguys.top:8080/txd7Fd/030774/17608
 #EXTINF:-1 group-title="国际",YES Network
 http://panelguys.top:8080/txd7Fd/030774/57972
-#EXTINF:-1 group-title="国际",Court TV
-http://panelguys.top:8080/txd7Fd/030774/21092
 #EXTINF:-1 group-title="国际",UniMas
 http://panelguys.top:8080/txd7Fd/030774/57969
 #EXTINF:-1 group-title="国际",Univision
