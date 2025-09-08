@@ -3,7 +3,6 @@
 https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
 #EXTINF:-1 group-title="国际",CNN
 http://user.scalecdn.co:8080/live/supersonicstreams/cUewZolveU/88946.ts
-#https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 #EXTINF:-1 group-title="国际",CNA
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 #EXTINF:-1 group-title="国际",GB News
@@ -204,6 +203,10 @@ http://panelguys.top:8080/txd7Fd/030774/53665
 http://panelguys.top:8080/txd7Fd/030774/53671
 #EXTINF:-1 group-title="国际",MUTV
 http://panelguys.top:8080/txd7Fd/030774/53717
+#EXTINF:-1 group-title="国际",UP TV
+http://fl3.moveonjoy.com/Up_Tv/index.m3u8
+#EXTINF:-1 group-title="国际",BBC America  
+http://restream-live.realiptv.to:8080/supersonicstreams/cUewZolveU/3704
 #EXTINF:-1 group-title="国际",NICKELODEON
 http://panelguys.top:8080/txd7Fd/030774/53728
 #EXTINF:-1 group-title="国际",Sky Cinema Animation
@@ -246,6 +249,12 @@ http://panelguys.top:8080/txd7Fd/030774/41979
 https://d3w4n3hhseniak.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/WPT-DistroTV/150.m3u
 #EXTINF:-1 group-title="国际",Eurosport
 http://45.159.74.22/Eurosport/playlist.m3u8
+#EXTINF:-1 group-title="国际",Trace Sport Stars
+https://lightning-tracesport-samsungau.amagi.tv/playlist720p.m3u8
+#EXTINF:-1 group-title="国际",WFN
+http://fl3.moveonjoy.com/WORLD_FISHING_NETWORK/index.m3u8
+#EXTINF:-1 group-title="国际",Weather Channel
+http://fl3.moveonjoy.com/THE_WEATHER_CHANNEL/index.m3u8
 #EXTINF:-1 group-title="国际",Lifetime Movies
 http://panelguys.top:8080/txd7Fd/030774/20863
 #EXTINF:-1 group-title="国际",NBC Sports Network
