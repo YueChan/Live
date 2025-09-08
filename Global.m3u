@@ -1,14 +1,11 @@
 #EXTM3U
 #EXTINF:-1 group-title="国际",BBC News
-http://app-plus.live:80/0iq4jp0j2bb/ne5zp7911c/13645
-#https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
+https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
 #EXTINF:-1 group-title="国际",CNN
 http://user.scalecdn.co:8080/live/supersonicstreams/cUewZolveU/88946.ts
 #https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 #EXTINF:-1 group-title="国际",CNA
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
-#EXTINF:-1 group-title="国际",Sky News
-http://app-plus.live:80/0iq4jp0j2bb/ne5zp7911c/10536
 #EXTINF:-1 group-title="国际",GB News
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-gbnewsnz-samsungnz/playlist.m3u8
 #EXTINF:-1 group-title="国际",Fox News
@@ -16,8 +13,7 @@ http://panelguys.top:8080/txd7Fd/030774/1818
 #EXTINF:-1 group-title="国际",Al Jazeera
 http://live-hls-web-aje.getaj.net/AJE/01.m3u8
 #EXTINF:-1 group-title="国际",NHK World
-http://app-plus.live:80/0iq4jp0j2bb/ne5zp7911c/1174156
-#https://nhkworld-tv.akamaized.net/hls/live/2115640/nhkworld-tv/index_2M.m3u8
+https://nhkworld-tv.akamaized.net/hls/live/2115640/nhkworld-tv/index_2M.m3u8
 #EXTINF:-1 group-title="国际",News Nation
 http://212.102.60.231:80/NEWS_NATION/index.m3u8
 #EXTINF:-1 group-title="国际",CBS News
@@ -208,16 +204,6 @@ http://panelguys.top:8080/txd7Fd/030774/53671
 http://panelguys.top:8080/txd7Fd/030774/53717
 #EXTINF:-1 group-title="国际",NICKELODEON
 http://panelguys.top:8080/txd7Fd/030774/53728
-#EXTINF:-1 group-title="国际",TNT SPORTS 1  
-http://app-plus.live:80/0iq4jp0j2bb/ne5zp7911c/309615
-#EXTINF:-1 group-title="国际",TNT SPORTS 2  
-http://app-plus.live:80/0iq4jp0j2bb/ne5zp7911c/309616
-#EXTINF:-1 group-title="国际",TNT SPORTS 3 
-http://app-plus.live:80/0iq4jp0j2bb/ne5zp7911c/309617
-#EXTINF:-1 group-title="国际",TNT SPORTS 4 
-http://app-plus.live:80/0iq4jp0j2bb/ne5zp7911c/309618
-#EXTINF:-1 group-title="国际",TNT SPORTS Ultimate  
-http://app-plus.live:80/0iq4jp0j2bb/ne5zp7911c/522060
 #EXTINF:-1 group-title="国际",Sky Cinema Animation
 http://panelguys.top:8080/txd7Fd/030774/53698
 #EXTINF:-1 group-title="国际",Sky Cinema Comedy
