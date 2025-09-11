@@ -165,6 +165,8 @@ https://listen-gbnews.sharp-stream.com/gbnews.mp3
 https://icecast.thisisdax.com/LBCNewsUKMP3
 #EXTINF:-1 group-title="境外广播",BBC News
 https://ice.audionow.com/485BBCWorld.mp3
+#EXTINF:-1 group-title="境外广播",CNN
+https://tunein.cdnstream1.com/3519_96.aac
 #EXTINF:-1 group-title="境外广播",Times Radio
 http://timesradio.wireless.radio/stream
 #EXTINF:-1 group-title="境外广播",Talk Radio
@@ -183,8 +185,6 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/MONEY_893AAC.a
 https://22393.live.streamtheworld.com/YES933_PREM.aac
 #EXTINF:-1 group-title="境外广播",Kiss FM
 https://playerservices.streamtheworld.com/api/livestream-redirect/KISS_92AAC.aac
-#EXTINF:-1 group-title="境外广播",Love FM
-https://14033.live.streamtheworld.com/LOVE972FM_PREM.aac
 #EXTINF:-1 group-title="境外广播",NPR News
 https://nprdmcoitunes.akamaized.net/hls/live/2034276/itls/playlist.m3u8
 #EXTINF:-1 group-title="境外广播",Power FM
