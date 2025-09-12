@@ -101,15 +101,13 @@ https://radio.0472.org/?id=1061
 https://radio.0472.org/?id=1531
 #EXTINF:-1 tvg-logo="https://radio.0472.org/?id=381&logo" group-title="音乐广播",河北音乐广播
 https://radio.0472.org/?id=381
-#EXTINF:-1 tvg-logo="http://live.cooltv.top/logo/gdyy.png" group-title="音乐广播",广东音乐之声
-http://live.cooltv.top/tv/ytradio.php?id=489
 #EXTINF:-1 tvg-logo="https://radio.0472.org/?id=498&logo" group-title="音乐广播",深圳音乐频率
 https://radio.0472.org/?id=498
 #EXTINF:-1 tvg-logo="http://live.cooltv.top/logo/hitfm.png" group-title="音乐广播",Hit FM劲曲
 http://satellitepull.cnr.cn/live/wxhitfm/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://live.cooltv.top/logo/njyygb.png" group-title="音乐广播",南京音乐广播
 http://hls.njgb.com/live_hls/4/playlist.m3u8
-#EXTINF:-1 radio="true" tvg-name="江苏音乐广播" tvg-logo="https://radio.0472.org/?id=415&logo" group-title="音乐广播",江苏音乐广播
+#EXTINF:-1 tvg-name="江苏音乐广播" tvg-logo="https://radio.0472.org/?id=415&logo" group-title="音乐广播",江苏音乐广播
 https://radio.0472.org/?id=415
 #EXTINF:-1 tvg-logo="http://live.cooltv.top/logo/hbqcyyt.png" group-title="音乐广播",河北汽车音乐
 https://radio.pull.hebtv.com/live/hebqcyy.m3u8
@@ -147,16 +145,10 @@ https://radio.0472.org/?id=435
 https://radio.0472.org/?id=1158
 #EXTINF:-1 tvg-name="海南音乐广播" tvg-logo="https://radio.0472.org/?id=543&logo" group-title="音乐广播",海南音乐广播
 https://radio.0472.org/?id=543
-#EXTINF:-1 tvg-logo="http://live.cooltv.top/logo/jd947.png" group-title="音乐广播",上海音乐广播
-http://live.cooltv.top/tv/news1296.php?id=8
-#EXTINF:-1 tvg-logo="http://live.cooltv.top/logo/1017.png" group-title="音乐广播",上海流行音乐
-http://live.cooltv.top/tv/news1296.php?id=4
 #EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/HBWYGB.png" group-title="音乐广播",河北文艺广播
 http://satellitepull.cnr.cn/live/wxhebwygb/playlist.m3u8
 #EXTINF:-1 tvg-id="AFORadio" tvg-name="AFORadio" tvg-logo="https://media2.fishtank.my/stations/afo-cn/square_lg.jpg" group-title="音乐广播",AFO Radio
 https://stream.rcs.revma.com/7x3gv2y4bshvv
-#EXTINF:-1 tvg-logo="http://live.cooltv.top/logo/loveradio.png" group-title="音乐广播",Love Radio
-http://live.cooltv.top/tv/news1296.php?id=7
 #EXTINF:-1 tvg-logo="http://live.cooltv.top/logo/njcoolradio.png" group-title="音乐广播",Cool Radio
 http://hls.njgb.com/live_hls/8/playlist.m3u8
 #EXTINF:-1 group-title="境外广播",GB News
@@ -174,7 +166,7 @@ https://radio.talkradio.co.uk/stream
 #EXTINF:-1 group-title="境外广播",Capital FM
 https://19183.live.streamtheworld.com/CAPITAL958FM_PREM.aac
 #EXTINF:-1 group-title="境外广播",Hao FM
-https://playerservices.streamtheworld.com/api/livestream-redirect/HAO_963.mp3 
+https://playerservices.streamtheworld.com/api/livestream-redirect/HAO_963.mp3
 #EXTINF:-1 group-title="境外广播",FM 988
 https://playerservices.streamtheworld.com/api/livestream-redirect/988_FMAAC
 #EXTINF:-1 group-title="境外广播",Gold FM
@@ -201,3 +193,7 @@ https://stm.rthk.hk/radio3a
 https://stm.rthk.hk/radio4a
 #EXTINF:-1 group-title="境外广播",RTHK5
 https://stm.rthk.hk/radio5
+#EXTINF:-1 group-title="境外广播",Asia FM
+Asia FM, https://lhttp.qtfm.cn/live/15318569/64k.mp3
+#EXTINF:-1 group-title="境外广播",Apple FM
+http://sc7b.apple-fm.net:8188/;
