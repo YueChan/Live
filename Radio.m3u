@@ -191,3 +191,15 @@ https://nprdmcoitunes.akamaized.net/hls/live/2034276/itls/playlist.m3u8
 https://crystalout.surfernetwork.com:8001/KVSP_MP3
 #EXTINF:-1 group-title="境外广播",CNA亚洲新闻
 https://14033.live.streamtheworld.com/938NOW_PREM.aac
+#EXTINF:-1 group-title="境外广播",RTHK1
+https://stm.rthk.hk/radio1a
+#EXTINF:-1 group-title="境外广播",RTHK2
+https://stm2.rthk.hk/radio2
+#EXTINF:-1 group-title="境外广播",RTHK3
+https://stm.rthk.hk/radio3a
+#EXTINF:-1 group-title="境外广播",RHHK4
+https://stm.rthk.hk/radio4a
+#EXTINF:-1 group-title="境外广播",RTHK5
+https://stm.rthk.hk/radio5
+#EXTINF:-1 group-title="境外广播",RTHK6
+https://rthkradiocnrhk-live.akamaized.net/hls/live/2046111/radiocnrhk/master.m3u8
