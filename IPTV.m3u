@@ -36,7 +36,7 @@ rtp://239.3.1.65:8132
 #EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://live.fanmingming.com/tv/CCTV15.png" group-title="央视",CCTV-15 音乐
 rtp://239.3.1.153:8136
 #EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://live.fanmingming.com/tv/CCTV16.png" group-title="央视",CCTV-16 奥林匹克
-rtp://239.3.1.184:8001
+rtp://239.3.1.183:8001
 #EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://live.fanmingming.com/tv/CCTV17.png" group-title="央视",CCTV-17 农业农村
 rtp://239.3.1.151:8144
 #EXTINF:-1 tvg-name="CGTN" tvg-logo="https://epg.112114.xyz/logo/CGTN.png" group-title="央视",CGTN英语
@@ -85,10 +85,18 @@ rtp://239.3.1.133:8016
 rtp://239.3.1.240:8172
 #EXTINF:-1 tvg-name="甘肃卫视" tvg-logo="https://live.fanmingming.com/tv/甘肃卫视.png" group-title="卫视",甘肃卫视
 rtp://239.3.1.201:8180
+#EXTINF:-1 tvg-name="宁夏卫视" tvg-logo="https://live.fanmingming.com/tv/宁夏卫视.png" group-title="卫视",宁夏卫视
+rtp://239.3.1.169:8212
+#EXTINF:-1 tvg-name="新疆卫视" tvg-logo="https://live.fanmingming.com/tv/新疆卫视.png" group-title="卫视",新疆卫视
+rtp://239.3.1.167:8192
+#EXTINF:-1 tvg-name="兵团卫视" tvg-logo="https://live.fanmingming.com/tv/兵团卫视.png" group-title="卫视",兵团卫视
+rtp://239.3.1.168:8196
+#EXTINF:-1 tvg-name="西藏卫视" tvg-logo="https://live.fanmingming.com/tv/西藏卫视.png" group-title="卫视",西藏卫视
+rtp://239.3.1.166:8188
 #EXTINF:-1 tvg-name="北京文艺" tvg-logo="https://live.fanmingming.cn/tv/北京文艺.png" group-title="地方",北京文艺
 rtp://239.3.1.242:8000
 #EXTINF:-1 tvg-name="北京体育休闲" tvg-logo="https://live.fanmingming.cn/tv/北京体育休闲.png" group-title="地方",体育休闲
-rtp://239.3.1.243:8000
+rtp://239.3.1.120:8000
 #EXTINF:-1 tvg-name="北京影视" tvg-logo="https://live.fanmingming.cn/tv/北京影视.png" group-title="地方",北京影视
 rtp://239.3.1.158:8000
 #EXTINF:-1 tvg-name="北京新闻" tvg-logo="https://live.fanmingming.cn/tv/北京新闻.png" group-title="地方",北京新闻
@@ -109,7 +117,7 @@ rtp://239.3.1.58:8156
 rtp://239.3.1.165:8001
 #EXTINF:-1 tvg-name="快乐垂钓" tvg-logo="https://live.fanmingming.com/tv/快乐垂钓.png" group-title="地方",快乐垂钓
 rtp://239.3.1.164:8001
-#EXTINF:-1 tvg-name="CCTV4K" tvg-logo="https://live.fanmingming.com/tv/CCTV4K.png" group-title="数字",CCV-4K
+#EXTINF:-1 tvg-name="CCTV4K" tvg-logo="https://live.fanmingming.com/tv/CCTV4K.png" group-title="数字",CCTV-4K
 rtp://239.3.1.245:2000
 #EXTINF:-1 tvg-name="中国教育1台" tvg-logo="https://epg.112114.xyz/logo/CETV.png" group-title="数字",中国教育
 rtp://239.3.1.57:8152
@@ -155,7 +163,3 @@ rtp://239.3.1.195:9024
 rtp://239.3.1.196:9012
 #EXTINF:-1 tvg-name="少儿动画" tvg-logo="https://epg.112114.xyz/logo/华数.png" group-title="数字",少儿动画
 rtp://239.3.1.199:9000
-#EXTINF:-1 tvg-name="央广购物" tvg-logo="https://live.fanmingming.com/tv/央广购物.png" group-title="数字",央广购物
-rtp://239.3.1.223:8001
-#EXTINF:-1 tvg-name="家有购物" tvg-logo="https://live.fanmingming.com/tv/家有购物.png" group-title="数字",家有购物
-rtp://239.3.1.185:8001
