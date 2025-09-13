@@ -178,7 +178,7 @@ https://crystalout.surfernetwork.com:8001/KVSP_MP3
 #EXTINF:-1 group-title="境外广播",CNA亚洲新闻
 https://14033.live.streamtheworld.com/938NOW_PREM.aac
 #EXTINF:-1 group-title="境外广播",BBC World Service
-https://lsn.lv/bbcradio.m3u8?station=bbc_world_service&bitrate=320000
+https://ice.audionow.com/485BBCWorld.mp3
 #EXTINF:-1 group-title="境外广播",BBC Radio 1
 https://lsn.lv/bbcradio.m3u8?station=bbc_radio_one&bitrate=320000
 #EXTINF:-1 group-title="境外广播",BBC Radio 1 Xtra
