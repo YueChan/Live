@@ -153,8 +153,6 @@ http://hls.njgb.com/live_hls/8/playlist.m3u8
 https://listen-gbnews.sharp-stream.com/gbnews.mp3
 #EXTINF:-1 group-title="境外广播",LBC News
 https://icecast.thisisdax.com/LBCNewsUKMP3
-#EXTINF:-1 group-title="境外广播",BBC News
-https://ice.audionow.com/485BBCWorld.mp3
 #EXTINF:-1 group-title="境外广播",CNN
 https://tunein.cdnstream1.com/3519_96.aac
 #EXTINF:-1 group-title="境外广播",Times Radio
@@ -179,3 +177,25 @@ https://nprdmcoitunes.akamaized.net/hls/live/2034276/itls/playlist.m3u8
 https://crystalout.surfernetwork.com:8001/KVSP_MP3
 #EXTINF:-1 group-title="境外广播",CNA亚洲新闻
 https://14033.live.streamtheworld.com/938NOW_PREM.aac
+#EXTINF:-1 group-title="境外广播",BBC World Service
+https://lsn.lv/bbcradio.m3u8?station=bbc_world_service&bitrate=320000
+#EXTINF:-1 group-title="境外广播",BBC Radio 1
+https://lsn.lv/bbcradio.m3u8?station=bbc_radio_one&bitrate=320000
+#EXTINF:-1 group-title="境外广播",BBC Radio 1 Xtra
+https://lsn.lv/bbcradio.m3u8?station=bbc_1xtra&bitrate=320000
+#EXTINF:-1 group-title="境外广播",BBC Radio 1 Dance
+https://lsn.lv/bbcradio.m3u8?station=bbc_radio_one_dance&bitrate=320000
+#EXTINF:-1 group-title="境外广播",BBC Radio 2
+https://lsn.lv/bbcradio.m3u8?station=bbc_radio_two&bitrate=320000
+#EXTINF:-1 group-title="境外广播",BBC Radio 3
+https://lsn.lv/bbcradio.m3u8?station=bbc_radio_three&bitrate=320000
+#EXTINF:-1 group-title="境外广播",BBC Radio 4
+https://lsn.lv/bbcradio.m3u8?station=bbc_radio_fourfm&bitrate=320000
+#EXTINF:-1 group-title="境外广播",BBC Radio 4 Extra
+https://lsn.lv/bbcradio.m3u8?station=bbc_radio_four_extra&bitrate=320000
+#EXTINF:-1 group-title="境外广播",BBC Radio 5 Live
+https://lsn.lv/bbcradio.m3u8?station=bbc_radio_five_live&bitrate=320000
+#EXTINF:-1 group-title="境外广播",BBC Radio 6 Music
+https://lsn.lv/bbcradio.m3u8?station=bbc_6music&bitrate=320000
+#EXTINF:-1 group-title="境外广播",BBC Radio Asian Network
+https://lsn.lv/bbcradio.m3u8?station=bbc_asian_network&bitrate=320000
