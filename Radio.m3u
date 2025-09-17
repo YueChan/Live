@@ -143,8 +143,6 @@ https://radio.0472.org/?id=1158
 https://radio.0472.org/?id=543
 #EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/HBWYGB.png" group-title="音乐广播",河北文艺广播
 http://satellitepull.cnr.cn/live/wxhebwygb/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://live.cooltv.top/logo/njcoolradio.png" group-title="音乐广播",Cool Radio
-http://hls.njgb.com/live_hls/8/playlist.m3u8
 #EXTINF:-1 group-title="境外广播",GB News
 https://listen-gbnews.sharp-stream.com/gbnews.mp3
 #EXTINF:-1 group-title="境外广播",LBC News
