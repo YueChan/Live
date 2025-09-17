@@ -143,12 +143,16 @@ https://radio.0472.org/?id=1158
 https://radio.0472.org/?id=543
 #EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/HBWYGB.png" group-title="音乐广播",河北文艺广播
 http://satellitepull.cnr.cn/live/wxhebwygb/playlist.m3u8
+#EXTINF:-1 group-title="境外广播",BBC  
+http://as-hls-ww-live.akamaized.net/pool_87948813/live/ww/bbc_world_service/bbc_world_service.isml/bbc_world_service-audio%3d96000.norewind.m3u8
+#EXTINF:-1 group-title="境外广播",CNN
+https://tunein.cdnstream1.com/3519_96.aac
+#EXTINF:-1 group-title="境外广播",CNA
+https://14033.live.streamtheworld.com/938NOW_PREM.aac
 #EXTINF:-1 group-title="境外广播",GB News
 https://listen-gbnews.sharp-stream.com/gbnews.mp3
 #EXTINF:-1 group-title="境外广播",LBC News
 https://icecast.thisisdax.com/LBCNewsUKMP3
-#EXTINF:-1 group-title="境外广播",CNN
-https://tunein.cdnstream1.com/3519_96.aac
 #EXTINF:-1 group-title="境外广播",Times Radio
 http://timesradio.wireless.radio/stream
 #EXTINF:-1 group-title="境外广播",Talk Radio
@@ -175,8 +179,6 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/NZME_31AAC.aac
 https://crystalout.surfernetwork.com:8001/KVSP_MP3
 #EXTINF:-1 group-title="境外广播",Classic FM
 https://ice-sov.musicradio.com/ClassicFMMP3 
-#EXTINF:-1 group-title="境外广播",CNA亚洲新闻
-https://14033.live.streamtheworld.com/938NOW_PREM.aac
 #EXTINF:-1 group-title="境外广播",BBC Radio 1
 http://as-hls-ww-live.akamaized.net/pool_01505109/live/ww/bbc_radio_one/bbc_radio_one.isml/bbc_radio_one-audio%3d96000.norewind.m3u8
 #EXTINF:-1 group-title="境外广播",BBC Radio 1 Xtra
@@ -195,7 +197,5 @@ http://as-hls-ww-live.akamaized.net/pool_26173715/live/ww/bbc_radio_four_extra/b
 http://as-hls-ww-live.akamaized.net/pool_89021708/live/ww/bbc_radio_five_live/bbc_radio_five_live.isml/bbc_radio_five_live-audio%3d96000.norewind.m3u8
 #EXTINF:-1 group-title="境外广播",BBC Radio 6 Music
 http://as-hls-ww-live.akamaized.net/pool_81827798/live/ww/bbc_6music/bbc_6music.isml/bbc_6music-audio%3d96000.norewind.m3u8
-#EXTINF:-1 group-title="境外广播",BBC BBC World Service
-http://as-hls-ww-live.akamaized.net/pool_87948813/live/ww/bbc_world_service/bbc_world_service.isml/bbc_world_service-audio%3d96000.norewind.m3u8
 #EXTINF:-1 group-title="境外广播",BBC Radio Asian Network
 http://as-hls-ww-live.akamaized.net/pool_22108647/live/ww/bbc_asian_network/bbc_asian_network.isml/bbc_asian_network-audio%3d96000.norewind.m3u8
