@@ -59,10 +59,6 @@ http://sk.cri.cn/905.m3u8
 https://sk.cri.cn/nhzs.m3u8
 #EXTINF:-1 tvg-logo="http://live.cooltv.top/logo/cgtnradio.png" group-title="综合广播",CRI英语资讯
 http://sk.cri.cn/am846.m3u8
-#EXTINF:-1 tvg-logo="http://live.cooltv.top/logo/voc.jpg" group-title="综合广播",CNR中国之声
-http://ngcdn001.cnr.cn/live/zgzs/index.m3u8
-#EXTINF:-1 tvg-logo="http://live.cooltv.top/logo/jjzs.png" group-title="综合广播",CNR经济之声
-http://ngcdn002.cnr.cn/live/jjzs/index.m3u8
 #EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/HNLYGB.png" group-title="综合广播",湖南旅游广播
 https://satellitepull.cnr.cn/live/wx32hunlygb/playlist.m3u8
 #EXTINF:-1 tvg-name="湖南经济广播" tvg-logo="https://radio.0472.org/?id=1056&logo" group-title="综合广播",湖南经济广播
