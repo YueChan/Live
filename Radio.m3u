@@ -169,6 +169,8 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/KISS_92AAC.aac
 https://nprdmcoitunes.akamaized.net/hls/live/2034276/itls/playlist.m3u8
 #EXTINF:-1 group-title="境外广播",ABC News Radio
 https://live-radio02.mediahubaustralia.com/PBW/mp3/; 
+#EXTINF:-1 group-title="境外广播",Newstalk ZB
+https://playerservices.streamtheworld.com/api/livestream-redirect/NZME_31AAC.aac
 #EXTINF:-1 group-title="境外广播",Power FM
 https://crystalout.surfernetwork.com:8001/KVSP_MP3
 #EXTINF:-1 group-title="境外广播",Classic FM
