@@ -87,8 +87,6 @@ http://panelguys.top:8080/txd7Fd/030774/57429
 http://panelguys.top:8080/txd7Fd/030774/57430
 #EXTINF:-1 group-title="国际",HGTV
 http://panelguys.top:8080/txd7Fd/030774/57273
-#EXTINF:-1 group-title="国际",NBC East
-http://fl3.moveonjoy.com/NBC_EAST/index.m3u8
 #EXTINF:-1 group-title="国际",MSNBC
 http://panelguys.top:8080/txd7Fd/030774/47332
 #EXTINF:-1 group-title="国际",NatGeo Wild
@@ -289,8 +287,6 @@ http://fl1.moveonjoy.com/TENNIS_CHANNEL/index.m3u8
 http://fl1.moveonjoy.com/TBS/index.m3u8
 #EXTINF:-1 group-title="国际",TCM
 http://fl1.moveonjoy.com/TCM/index.m3u8
-#EXTINF:-1 group-title="国际",Fashion 4K
-https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
 #EXTINF:-1 group-title="国际",Fashion Channel
 http://fl1001.bozztv.com/ushba19/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="国际",4K Travel
