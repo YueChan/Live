@@ -2,7 +2,8 @@
 #EXTINF:-1 tvg-id="bbcnews.uk" tvg-name="UK: BBC NEWS" group-title="国际",BBC NEWS
 http://cord-cutter.net:8080/Hydren1@ogbtv.com/0411@1981/53757
 #EXTINF:-1 tvg-id="cnn.ca" tvg-name="CNN" group-title="国际",CNN
-http://cord-cutter.net:8080/Hydren1@ogbtv.com/0411@1981/57398
+https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
+#http://cord-cutter.net:8080/Hydren1@ogbtv.com/0411@1981/57398
 #EXTINF:-1 group-title="国际",CNA
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 #EXTINF:-1 group-title="国际",Al Jazeera
