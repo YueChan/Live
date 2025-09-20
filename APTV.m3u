@@ -5,6 +5,12 @@ http://cord-cutter.net:8080/Hydren1@ogbtv.com/0411@1981/53757
 http://cord-cutter.net:8080/Hydren1@ogbtv.com/0411@1981/57398
 #EXTINF:-1 tvg-name="AU ABC News Sydney " group-title="国际",ABC News Sydney
 http://cord-cutter.net:8080/Hydren1@ogbtv.com/0411@1981/121004
+#EXTINF:-1 tvg-id="rte.1.gb" tvg-name="UK: RTE NEWS" group-title="国际",RTE NEWS
+http://cord-cutter.net:8080/Hydren1@ogbtv.com/0411@1981/79108
+#EXTINF:-1 tvg-id="ctvnews.ca" tvg-name="CTV NEWS CHANNEL " group-title="国际",CTV NEWS
+http://cord-cutter.net:8080/Hydren1@ogbtv.com/0411@1981/57350
+#EXTINF:-1 tvg-id="global.kingston.on.ca" tvg-name="CA Global News Kingston " group-title="国际",Global News Kingston
+http://cord-cutter.net:8080/Hydren1@ogbtv.com/0411@1981/57432
 #EXTINF:-1 tvg-id="animalplanet.ca" tvg-name="Animal Planet" group-title="国际",Animal Planet
 http://cord-cutter.net:8080/Hydren1@ogbtv.com/0411@1981/57377
 #EXTINF:-1 tvg-id="bravo.us" tvg-name="Bravo" group-title="国际",Bravo
@@ -25,24 +31,20 @@ http://cord-cutter.net:8080/Hydren1@ogbtv.com/0411@1981/57311
 http://cord-cutter.net:8080/Hydren1@ogbtv.com/0411@1981/57408
 #EXTINF:-1 tvg-id="ctvdramachannel.ca" tvg-name="CA CTV Drama Channel " group-title="国际",CTV Drama
 http://cord-cutter.net:8080/Hydren1@ogbtv.com/0411@1981/57254
-#EXTINF:-1 tvg-id="ctvnews.ca" tvg-name="CTV NEWS CHANNEL " group-title="国际",CTV NEWS
-http://cord-cutter.net:8080/Hydren1@ogbtv.com/0411@1981/57350
 #EXTINF:-1 group-title="国际",USA Network
 http://cord-cutter.net:8080/Hydren1@ogbtv.com/0411@1981/57252
-#EXTINF:-1 tvg-id="disneyjunior.us" tvg-name="CA Disney Junior " group-title="国际",Disney Junior
+#EXTINF:-1 tvg-id="disneyjunior.us" tvg-name="CA Disney Junior" group-title="国际",Disney Junior
 http://cord-cutter.net:8080/Hydren1@ogbtv.com/0411@1981/57349
 #EXTINF:-1 tvg-id="24taas.ca" tvg-name="DIY NETWORK F" group-title="国际",DIY NETWORK
 http://cord-cutter.net:8080/Hydren1@ogbtv.com/0411@1981/47258
-#EXTINF:-1 tvg-id="eentertainment.ca" tvg-name="E! CANADA " group-title="国际",E! CANADA
+#EXTINF:-1 tvg-id="eentertainment.ca" tvg-name="E! CANADA" group-title="国际",E! CANADA
 http://cord-cutter.net:8080/Hydren1@ogbtv.com/0411@1981/57249
 #EXTINF:-1 tvg-id="fxx.ca" tvg-name="CA FXX " group-title="国际",FXX
 http://cord-cutter.net:8080/Hydren1@ogbtv.com/0411@1981/57429
-#EXTINF:-1 tvg-id="gameshownetwork.ca" tvg-name="CA Game Show Network  " group-title="国际",Game Show Network
+#EXTINF:-1 tvg-id="gameshownetwork.ca" tvg-name="CA Game Show Network" group-title="国际",Game Show Network
 http://cord-cutter.net:8080/Hydren1@ogbtv.com/0411@1981/57430
 #EXTINF:-1 tvg-id="ginxesportstvcanada.ca" tvg-name="Ginx esports TV" group-title="国际",Ginx esports TV
 http://cord-cutter.net:8080/Hydren1@ogbtv.com/0411@1981/57431
-#EXTINF:-1 tvg-id="global.kingston.on.ca" tvg-name="CA Global News Kingston " group-title="国际",Global News Kingston
-http://cord-cutter.net:8080/Hydren1@ogbtv.com/0411@1981/57432
 #EXTINF:-1 tvg-id="globaltoronto.ca" tvg-name="CA GLOBAL TORONTO" group-title="国际",GLOBAL TORONTO
 http://cord-cutter.net:8080/Hydren1@ogbtv.com/0411@1981/57435
 #EXTINF:-1 tvg-id="hbo.ca" tvg-name="HBO 1 " group-title="国际",HBO 1
@@ -119,10 +121,6 @@ http://cord-cutter.net:8080/Hydren1@ogbtv.com/0411@1981/35253
 http://cord-cutter.net:8080/Hydren1@ogbtv.com/0411@1981/35252
 #EXTINF:-1 tvg-id="skygreats.uk" tvg-name="UK MOVIES: SKY GREATS" group-title="国际",SKY GREATS
 http://cord-cutter.net:8080/Hydren1@ogbtv.com/0411@1981/35249
-#EXTINF:-1 tvg-id="rte.1.gb" tvg-name="UK: RTE NEWS" group-title="国际",RTE NEWS
-http://cord-cutter.net:8080/Hydren1@ogbtv.com/0411@1981/79108
-#EXTINF:-1 tvg-id="fiveusa.uk" tvg-name="UK-5 " group-title="国际",5
-http://cord-cutter.net:8080/Hydren1@ogbtv.com/0411@1981/53675
 #EXTINF:-1 tvg-id="bloombergtv.uk" tvg-name="UK-Boomerang" group-title="国际",Boomerang
 http://cord-cutter.net:8080/Hydren1@ogbtv.com/0411@1981/53718
 #EXTINF:-1 tvg-id="channel5.uk" tvg-name="UK-Channel 5" group-title="国际",Channel 5
@@ -135,7 +133,7 @@ http://cord-cutter.net:8080/Hydren1@ogbtv.com/0411@1981/53695
 http://cord-cutter.net:8080/Hydren1@ogbtv.com/0411@1981/53702
 #EXTINF:-1 tvg-id="history2.uk" tvg-name="UK-H2" group-title="国际",H2
 http://cord-cutter.net:8080/Hydren1@ogbtv.com/0411@1981/53692
-#EXTINF:-1 tvg-id="discoveryhistory.uk" tvg-name="UK History  Channel" group-title="国际",UK History  Channel
+#EXTINF:-1 tvg-id="discoveryhistory.uk" tvg-name="UK History  Channel" group-title="国际",History  Channel
 http://cord-cutter.net:8080/Hydren1@ogbtv.com/0411@1981/53686
 #EXTINF:-1 tvg-id="investigationdiscovery.uk" tvg-name="UK-Investigation Discovery" group-title="国际",Investigation Discovery
 http://cord-cutter.net:8080/Hydren1@ogbtv.com/0411@1981/53687
@@ -145,7 +143,7 @@ http://cord-cutter.net:8080/Hydren1@ogbtv.com/0411@1981/53665
 http://cord-cutter.net:8080/Hydren1@ogbtv.com/0411@1981/53666
 #EXTINF:-1 tvg-id="itv1anglia.uk" tvg-name="UK-ITV" group-title="国际",ITV
 http://cord-cutter.net:8080/Hydren1@ogbtv.com/0411@1981/53651
-#EXTINF:-1 tvg-id="itv1anglia.uk" tvg-name="UK ITV2  " group-title="国际",UK ITV2
+#EXTINF:-1 tvg-id="itv1anglia.uk" tvg-name="UK ITV2" group-title="国际",ITV2
 http://cord-cutter.net:8080/Hydren1@ogbtv.com/0411@1981/53671
 #EXTINF:-1 tvg-id="skyanimation.uk" tvg-name="UK-Sky Cinema Animation" group-title="国际",Sky Cinema Animation
 http://cord-cutter.net:8080/Hydren1@ogbtv.com/0411@1981/53698
@@ -153,17 +151,17 @@ http://cord-cutter.net:8080/Hydren1@ogbtv.com/0411@1981/53698
 http://cord-cutter.net:8080/Hydren1@ogbtv.com/0411@1981/53699
 #EXTINF:-1 tvg-id="skypremiere.uk" tvg-name="UK-Sky Cinema Premier" group-title="国际",Sky Cinema Premier
 http://cord-cutter.net:8080/Hydren1@ogbtv.com/0411@1981/35256
-#EXTINF:-1 tvg-id="skycomedy.uk" tvg-name="UK Sky Cinema Comedy " group-title="国际",UK Sky Cinema Comedy
+#EXTINF:-1 tvg-id="skycomedy.uk" tvg-name="UK Sky Cinema Comedy " group-title="国际",Sky Cinema Comedy
 http://cord-cutter.net:8080/Hydren1@ogbtv.com/0411@1981/53661
-#EXTINF:-1 tvg-id="skysportsf1.uk" tvg-name="UK Sky Sports F1 F " group-title="国际",UK Sky Sports F1 F
+#EXTINF:-1 tvg-id="skysportsf1.uk" tvg-name="UK Sky Sports F1 F " group-title="国际",Sky Sports F1 F
 http://cord-cutter.net:8080/Hydren1@ogbtv.com/0411@1981/53704
 #EXTINF:-1 tvg-id="sky.sports.arena.gb" tvg-name="UK-Sky Sports Arena" group-title="国际",Sky Sports Arena
 http://cord-cutter.net:8080/Hydren1@ogbtv.com/0411@1981/35238
-#EXTINF:-1 tvg-id="sky.sports.golf.gb" tvg-name="UK Sky Sports Golf F " group-title="国际",UK Sky Sports Golf
+#EXTINF:-1 tvg-id="sky.sports.golf.gb" tvg-name="UK Sky Sports Golf F " group-title="国际",Sky Sports Golf
 http://cord-cutter.net:8080/Hydren1@ogbtv.com/0411@1981/35240
 #EXTINF:-1 tvg-id="sky.sports.main.event.gb" tvg-name="UK-Sky Sports Main Event" group-title="国际",Sky Sports Main Event
 http://cord-cutter.net:8080/Hydren1@ogbtv.com/0411@1981/35243
-#EXTINF:-1 tvg-id="skysportsmix.uk" tvg-name="UK Sky Sports Mix F " group-title="国际",UK Sky Sports Mix F
+#EXTINF:-1 tvg-id="skysportsmix.uk" tvg-name="UK Sky Sports Mix F " group-title="国际",Sky Sports Mix F
 http://cord-cutter.net:8080/Hydren1@ogbtv.com/0411@1981/53706
 #EXTINF:-1 tvg-id="sky.sports.news.gb" tvg-name="UK-Sky Sports News" group-title="国际",Sky Sports News
 http://cord-cutter.net:8080/Hydren1@ogbtv.com/0411@1981/35241
@@ -171,9 +169,9 @@ http://cord-cutter.net:8080/Hydren1@ogbtv.com/0411@1981/35241
 http://cord-cutter.net:8080/Hydren1@ogbtv.com/0411@1981/41979
 #EXTINF:-1 tvg-id="tlc.uk" tvg-name="UK-TLC" group-title="国际",TLC
 http://cord-cutter.net:8080/Hydren1@ogbtv.com/0411@1981/53681
-#EXTINF:-1 tvg-id="sky.sports.cricket.gb" tvg-name="UK Sky Sports Cricket F " group-title="国际",UK Sky Sports Cricket
+#EXTINF:-1 tvg-id="sky.sports.cricket.gb" tvg-name="UK Sky Sports Cricket F " group-title="国际",Sky Sports Cricket
 http://cord-cutter.net:8080/Hydren1@ogbtv.com/0411@1981/45940
-#EXTINF:-1 tvg-id="sky.sports.f1.gb" tvg-name="UK Sky Sports F1 F" group-title="国际",UK Sky Sports F1
+#EXTINF:-1 tvg-id="sky.sports.f1.gb" tvg-name="UK Sky Sports F1 F" group-title="国际",Sky Sports F1
 http://cord-cutter.net:8080/Hydren1@ogbtv.com/0411@1981/35244
 #EXTINF:-1 tvg-id="charge.us" tvg-name="US CHARGE! " group-title="国际",CHARGE!
 http://cord-cutter.net:8080/Hydren1@ogbtv.com/0411@1981/79594
@@ -225,8 +223,6 @@ http://cord-cutter.net:8080/Hydren1@ogbtv.com/0411@1981/46706
 http://cord-cutter.net:8080/Hydren1@ogbtv.com/0411@1981/13380
 #EXTINF:-1 tvg-id="cnbc.us" tvg-name="US CNBC " tvg-logo="https://piketrail.com/wp-content/uploads/2019/09/cnbclogo.png" group-title="国际",CNBC
 http://cord-cutter.net:8080/Hydren1@ogbtv.com/0411@1981/9815
-#EXTINF:-1 tvg-id="cnn.us" tvg-name="US CNN " tvg-logo="https://juicetv.app/channellogo/cnn2.png" group-title="国际",CNN
-http://cord-cutter.net:8080/Hydren1@ogbtv.com/0411@1981/1817
 #EXTINF:-1 tvg-id="comet.us" tvg-name="US Comet (S)" group-title="国际",Comet  
 http://cord-cutter.net:8080/Hydren1@ogbtv.com/0411@1981/66244
 #EXTINF:-1 tvg-id="magnolianetwork.us" tvg-name="US Magnolia Network " tvg-logo="https://dockanddeck.com/wp-content/uploads/2019/02/diy.png" group-title="国际",Magnolia Network
