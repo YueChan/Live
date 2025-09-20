@@ -143,7 +143,7 @@ https://radio.0472.org/?id=1158
 https://radio.0472.org/?id=543
 #EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/HBWYGB.png" group-title="音乐广播",河北文艺广播
 http://satellitepull.cnr.cn/live/wxhebwygb/playlist.m3u8
-#EXTINF:-1 group-title="境外广播",BBC  
+#EXTINF:-1 group-title="境外广播",BBC World Service
 http://as-hls-ww-live.akamaized.net/pool_87948813/live/ww/bbc_world_service/bbc_world_service.isml/bbc_world_service-audio%3d96000.norewind.m3u8
 #EXTINF:-1 group-title="境外广播",CNN
 https://tunein.cdnstream1.com/3519_96.aac
