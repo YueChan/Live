@@ -10,11 +10,11 @@ https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m
 http://live-hls-web-aje.getaj.net/AJE/01.m3u8
 #EXTINF:-1 tvg-name="AU ABC News Sydney" group-title="国际",ABC News Sydney
 http://cord-cutter.net:8080/Hydren1@ogbtv.com/0411@1981/121004
-#EXTINF:-1 tvg-id="rte.1.gb" tvg-name="UK: RTE NEWS" group-title="国际",RTE NEWS
+#EXTINF:-1 tvg-id="rte.1.gb" tvg-name="UK: RTE NEWS" group-title="国际",Euronews
 http://cord-cutter.net:8080/Hydren1@ogbtv.com/0411@1981/79108
 #EXTINF:-1 tvg-id="ctvnews.ca" tvg-name="CTV NEWS CHANNEL " group-title="国际",CTV NEWS
 http://cord-cutter.net:8080/Hydren1@ogbtv.com/0411@1981/57350
-#EXTINF:-1 tvg-id="global.kingston.on.ca" tvg-name="CA Global News Kingston " group-title="国际",Global News Kingston
+#EXTINF:-1 tvg-id="global.kingston.on.ca" tvg-name="CA Global News Kingston " group-title="国际",Global News
 http://cord-cutter.net:8080/Hydren1@ogbtv.com/0411@1981/57432
 #EXTINF:-1 tvg-id="animalplanet.ca" tvg-name="Animal Planet" group-title="国际",Animal Planet
 http://cord-cutter.net:8080/Hydren1@ogbtv.com/0411@1981/57377
