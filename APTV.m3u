@@ -7,6 +7,8 @@ http://cord-cutter.net:8080/Hydren1@ogbtv.com/0411@1981/57398
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 #EXTINF:-1 group-title="国际",Al Jazeera
 http://live-hls-web-aje.getaj.net/AJE/01.m3u8
+#EXTINF:-1 group-title="国际",LiveNow
+https://jmp2.uk/rok-f9c0d48b540a55dcb98b04d2cc8abf25.m3u8
 #EXTINF:-1 tvg-name="AU ABC News Sydney" group-title="国际",ABC News Sydney
 http://cord-cutter.net:8080/Hydren1@ogbtv.com/0411@1981/121004
 #EXTINF:-1 tvg-id="rte.1.gb" tvg-name="UK: RTE NEWS" group-title="国际",Euronews
