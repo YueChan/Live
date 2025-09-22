@@ -11,6 +11,8 @@ https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-gbnewsnz-sa
 https://rt-glb.rttv.com/dvr/rtnews/playlist_4500Kb.m3u8
 #EXTINF:-1 group-title="国际",CBN
 https://bcovlive-a.akamaihd.net/re8d9f611ee4a490a9bb59e52db91414d/us-east-1/734546207001/playlist.m3u8
+#EXTINF:-1 group-title="国际",LiveNow
+https://jmp2.uk/rok-f9c0d48b540a55dcb98b04d2cc8abf25.m3u8
 #EXTINF:-1 group-title="国际",Euronews
 https://jmp2.uk/rok-dafd06b712a35fbe9935d4c04c2e8b53.m3u8
 #EXTINF:-1 group-title="国际",TRT World
@@ -221,6 +223,8 @@ http://panelguys.top:8080/txd7Fd/030774/14197
 http://panelguys.top:8080/txd7Fd/030774/2210
 #EXTINF:-1 group-title="国际",Fox Business Network
 http://panelguys.top:8080/txd7Fd/030774/17639
+#EXTINF:-1 group-title="国际",SportsGrid
+https://jmp2.uk/rok-62f1cd0d4c395a2a8ab72cff688666a0.m3u8
 #EXTINF:-1 group-title="国际",BEIN Sports Xtra
 https://bein-xtra-xumo.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="国际",FX East
