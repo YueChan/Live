@@ -11,7 +11,7 @@ http://live-hls-web-aje.getaj.net/AJE/01.m3u8
 https://jmp2.uk/rok-f9c0d48b540a55dcb98b04d2cc8abf25.m3u8
 #EXTINF:-1 tvg-name="AU ABC News Sydney" group-title="国际",ABC News Sydney
 http://cord-cutter.net:8080/Hydren1@ogbtv.com/0411@1981/121004
-#EXTINF:-1 tvg-id="rte.1.gb" tvg-name="UK: RTE NEWS" group-title="国际",Euronews
+#EXTINF:-1 tvg-id="rte.1.gb" tvg-name="UK: RTE NEWS" group-title="国际",RTE News
 http://cord-cutter.net:8080/Hydren1@ogbtv.com/0411@1981/79108
 #EXTINF:-1 tvg-id="ctvnews.ca" tvg-name="CTV NEWS CHANNEL " group-title="国际",CTV NEWS
 http://cord-cutter.net:8080/Hydren1@ogbtv.com/0411@1981/57350
