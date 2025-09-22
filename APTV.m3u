@@ -103,7 +103,7 @@ http://cord-cutter.net:8080/Hydren1@ogbtv.com/0411@1981/47442
 http://cord-cutter.net:8080/Hydren1@ogbtv.com/0411@1981/47444
 #EXTINF:-1 tvg-id="tsn4.ca" tvg-name="CA TSN 4 " group-title="国际",TSN 4
 http://cord-cutter.net:8080/Hydren1@ogbtv.com/0411@1981/66783
-#EXTINF:-1 tvg-id="tsn5.ca" tvg-name="CA TSN 5  " tvg-logo="https://pbs.twimg.com/profile_images/2763584720/a7abe58518e68500a7a4bf509fbd903c.png" group-title="国际",TSN 5
+#EXTINF:-1 tvg-id="tsn5.ca" tvg-name="CA TSN 5" group-title="国际",TSN 5
 http://cord-cutter.net:8080/Hydren1@ogbtv.com/0411@1981/16131
 #EXTINF:-1 tvg-name="Carib CVM TV " group-title="国际",CVM TV
 http://cord-cutter.net:8080/Hydren1@ogbtv.com/0411@1981/66371
@@ -179,7 +179,7 @@ http://cord-cutter.net:8080/Hydren1@ogbtv.com/0411@1981/45940
 http://cord-cutter.net:8080/Hydren1@ogbtv.com/0411@1981/35244
 #EXTINF:-1 tvg-id="charge.us" tvg-name="US CHARGE! " group-title="国际",CHARGE!
 http://cord-cutter.net:8080/Hydren1@ogbtv.com/0411@1981/79594
-#EXTINF:-1 tvg-id="lifetimemovies.us" tvg-name="US Lifetime Movies " tvg-logo="https://findvectorlogo.com/wp-content/uploads/2020/01/lifetime-movies-vector-logo.png" group-title="国际",Lifetime Movies
+#EXTINF:-1 tvg-id="lifetimemovies.us" tvg-name="US Lifetime Movies " group-title="国际",Lifetime Movies
 http://cord-cutter.net:8080/Hydren1@ogbtv.com/0411@1981/20863
 #EXTINF:-1 tvg-id="nbc.sports.network.us" tvg-name="US NBC Sports Network " group-title="国际",NBC Sports Network
 http://cord-cutter.net:8080/Hydren1@ogbtv.com/0411@1981/46725
@@ -231,8 +231,6 @@ http://cord-cutter.net:8080/Hydren1@ogbtv.com/0411@1981/9815
 http://cord-cutter.net:8080/Hydren1@ogbtv.com/0411@1981/66244
 #EXTINF:-1 tvg-id="magnolianetwork.us" tvg-name="US Magnolia Network " tvg-logo="https://dockanddeck.com/wp-content/uploads/2019/02/diy.png" group-title="国际",Magnolia Network
 http://cord-cutter.net:8080/Hydren1@ogbtv.com/0411@1981/10503
-#EXTINF:-1 tvg-id="dogtv.us" tvg-name="USA: DOGTV" group-title="国际",DOGTV
-http://cord-cutter.net:8080/Hydren1@ogbtv.com/0411@1981/53539
 #EXTINF:-1 tvg-id="epixdrivein.us" tvg-name="US Epix Drive IN (S)" tvg-logo="https://logodix.com/logo/1104724.png" group-title="国际",Epix Drive IN
 http://cord-cutter.net:8080/Hydren1@ogbtv.com/0411@1981/14193
 #EXTINF:-1 tvg-id="epixhits.us" tvg-name="USA: Epix Hits" tvg-logo="https://sc.dish.com/shared/images/station-logos/EPIXH.PNG" group-title="国际",Epix Hits
@@ -293,6 +291,8 @@ http://cord-cutter.net:8080/Hydren1@ogbtv.com/0411@1981/11664
 http://cord-cutter.net:8080/Hydren1@ogbtv.com/0411@1981/46722
 #EXTINF:-1 tvg-id="a3cine.us" tvg-name="USA: NBA TV" tvg-logo="https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png" group-title="国际",NBA TV
 http://cord-cutter.net:8080/Hydren1@ogbtv.com/0411@1981/20073
+#EXTINF:-1 group-title="国际",FIFA+
+https://339a32f2.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctZ2JfRklGQVBsdXNFbmdsaXNoX0hMUw/playlist.m3u8
 #EXTINF:-1 tvg-id="nickjr.us" tvg-name="US Nick JR East  " tvg-logo="https://seeklogo.com/images/N/nick-jr-logo-DC18CDB75D-seeklogo.com.png" group-title="国际",Nick JR East
 http://cord-cutter.net:8080/Hydren1@ogbtv.com/0411@1981/9807
 #EXTINF:-1 tvg-id="oneamericanews.us" tvg-name="US One America News" group-title="国际",One America News
