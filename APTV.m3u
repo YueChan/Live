@@ -49,8 +49,8 @@ http://cord-cutter.net:8080/Hydren1@ogbtv.com/0411@1981/57249
 http://cord-cutter.net:8080/Hydren1@ogbtv.com/0411@1981/57429
 #EXTINF:-1 tvg-id="gameshownetwork.ca" tvg-name="CA Game Show Network" group-title="国际",Game Show Network
 http://cord-cutter.net:8080/Hydren1@ogbtv.com/0411@1981/57430
-#EXTINF:-1 tvg-id="ginxesportstvcanada.ca" tvg-name="Ginx esports TV" group-title="国际",Ginx esports TV
-http://cord-cutter.net:8080/Hydren1@ogbtv.com/0411@1981/57431
+#EXTINF:-1 group-title="国际",BBC Earth
+https://amg00793-bbcstudios-amg00793c3-lg-us-2528.playouts.now.amagi.tv/playlist/amg00793-bbcstudios-bbcearta-lgus/playlist.m3u8
 #EXTINF:-1 tvg-id="globaltoronto.ca" tvg-name="CA GLOBAL TORONTO" group-title="国际",GLOBAL TORONTO
 http://cord-cutter.net:8080/Hydren1@ogbtv.com/0411@1981/57435
 #EXTINF:-1 tvg-id="hbo.ca" tvg-name="HBO 1 " group-title="国际",HBO 1
