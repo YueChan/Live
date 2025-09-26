@@ -17,8 +17,6 @@ https://jmp2.uk/rok-f9c0d48b540a55dcb98b04d2cc8abf25.m3u8
 https://jmp2.uk/rok-dafd06b712a35fbe9935d4c04c2e8b53.m3u8
 #EXTINF:-1 group-title="国际",Sky News
 https://stream1.freetv.fun/sky-news--m-1.ctv
-#EXTINF:-1 group-title="国际",Breaking News 
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg02703-leadstory-leadstory-samsungau/playlist.m3u8
 #EXTINF:-1 group-title="国际",TRT World
 https://tv-trtworld.medya.trt.com.tr/master_1080.m3u8
 #EXTINF:-1 group-title="国际",Al Jazeera
@@ -51,6 +49,8 @@ http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 https://tvpass.org/live/NFLRedZone/hd
 #EXTINF:-1 group-title="国际",PBS HD
 http://panelguys.top:8080/txd7Fd/030774/57276
+#EXTINF:-1 group-title="国际",BBC America
+https://stream1.freetv.fun/bbc-america-4.m3u8
 #EXTINF:-1 group-title="国际",Cheddar News
 https://cheddar-us.samsung.wurl.tv/playlist_4300k.m3u8
 #EXTINF:-1 group-title="国际",HollyWire
