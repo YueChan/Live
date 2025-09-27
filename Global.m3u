@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 group-title="国际",BBC News
-https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
+http://popzed.sbs:80/live/829833711/292758303/7eb2958c-479b-4701-b05a-54652c5aaaec.m3u
 #EXTINF:-1 group-title="国际",CNN
 http://popzed.sbs:80/live/829833711/292758303/da197027-3772-44a8-9329-1613fffa2810.m3u
 #EXTINF:-1 group-title="国际",CNA
