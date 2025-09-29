@@ -181,7 +181,7 @@ rtp://239.3.1.181:8001
 rtp://239.3.1.185:8001
 #EXTINF:-1 tvg-name="聚鲨精选" tvg-logo="https://live.fanmingming.cn/tv/聚鲨环球精选.png" group-title="购物",聚鲨精选
 rtp://239.3.1.179:8001
-EXTINF:-1 group-title="港台",凤凰中文
+#EXTINF:-1 group-title="港台",凤凰中文
 http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
 #EXTINF:-1 group-title="港台",凤凰资讯
 http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
@@ -189,6 +189,8 @@ http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
 http://203.205.191.53/qctv.fengshows.cn/live/0701phk72.m3u8
 #EXTINF:-1 group-title="港台",中天新闻
 http://stream-ali1.csslcloud.net/live/ogVoQHdbfd2ydsH4o82zYFquhPEy4XWeWisjW2fHs4Oew26P63.flv
+#EXTINF:-1 group-title="港台",中天CTI+
+http://stream-ali1.csslcloud.net/live/bfd2yczrTFqK7nEAJybacKGcrnLdslNp5YcphockmQnscq2S1p.flv
 #EXTINF:-1 group-title="港台",中视新闻
 http://stream-ali1.csslcloud.net/live/hNsy4N2Ykbfd2ywCSlOqFQ1aSenAhZLYUenP1IoaAltR3IXYOp.flv
 #EXTINF:-1 group-title="港台",台视新闻
@@ -211,13 +213,11 @@ http://stream-ali1.csslcloud.net/live/ruqTd9DCQm8ZG3MvLBN6uqJ6DB6owtf4srbivitv9f
 http://stream-ali1.csslcloud.net/live/7J22AJV6h8f24jkmoa5ahSzuCYjE5fVpCYYMEt9bfd2yHn4XG7.flv
 #EXTINF:-1 group-title="港台",镜新闻
 http://stream-ali1.csslcloud.net/live/4ef3bV1oG7KBJy3bfd2ybfSDto8eDzUvR0mWv5oKB6nemLkT4c.flv
-#EXTINF:-1 group-title="港台",中天CTI+
-http://stream-ali1.csslcloud.net/live/bfd2yczrTFqK7nEAJybacKGcrnLdslNp5YcphockmQnscq2S1p.flv
 #EXTINF:-1 group-title="港台",民视
 http://stream-ali1.csslcloud.net/live/ERadomiHh4srbiVLuQH0M1KoLqTYrGUZBRAAxPowEwb8JN2Yf0.flv
 #EXTINF:-1 group-title="港台",中视
 http://stream-ali1.csslcloud.net/live/ShLJKgSj71R4wf0v8TfYoSUE68hUT0uREP4srbiGe0pgDFxpIw.flv
-#EXTINF:-1 group-title="港台",东森新闻(美)
+#EXTINF:-1 group-title="港台",东森美洲
 http://stream-ali1.csslcloud.net/live/Q6dIFsHxR2r9pqtq3qj8UT4oiUNO4ShbiuR7tArX4srbittNex.flv
 #EXTINF:-1 group-title="港台",澳门莲花
 http://live-hls.macaulotustv.com/lotustv/macaulotustv.m3u8
@@ -225,8 +225,10 @@ http://live-hls.macaulotustv.com/lotustv/macaulotustv.m3u8
 http://php.jdshipin.com/smt.php?id=Celestial
 #EXTINF:-1 group-title="港台",龙华电影
 https://cdn8.163189.xyz/live/lhdy/stream.m3u8
-#EXTINF:-1 group-title="港台",明珠台
+#EXTINF:-1 group-title="港台",Pearl
 http://php.jdshipin.com/TVOD/iptv.php?id=mzt2
+#EXTINF:-1 tvg-id="4" group-title="港台",翡翠台
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct3
 #EXTINF:-1 group-title="港台",TVB J1
 http://php.jdshipin.com/TVOD/iptv.php?id=j1
 #EXTINF:-1 group-title="港台",TVB J2
@@ -241,11 +243,19 @@ http://php.jdshipin.com/TVOD/iptv.php?id=meiya
 http://php.jdshipin.com/TVOD/iptv.php?id=tvbc
 #EXTINF:-1 group-title="港台",天映经典
 http://php.jdshipin.com/smt.php?id=Celestial2
+#EXTINF:-1 group-title="港台",翡翠华丽
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=huali
+#EXTINF:-1 group-title="港台",美亚电影
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=meiya
+#EXTINF:-1 group-title="港台",千禧经典
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbc
+#EXTINF:-1 group-title="港台",重温经典
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=cwjd
 #EXTINF:-1 group-title="港台",Astro欢喜台
 http://php.jdshipin.com/smt.php?id=Huahee
 #EXTINF:-1 group-title="港台",亚洲武侠
 http://php.jdshipin.com/TVOD/iptv.php?id=yzwx
-#EXTINF:-1 group-title="港台",TVB娱乐新闻台
+#EXTINF:-1 group-title="港台",娱乐新闻
 http://php.jdshipin.com/TVOD/iptv.php?id=tvbylxw
 #EXTINF:-1 group-title="港台",龙华经典
 https://cdn8.163189.xyz/live/lhjd/stream.m3u8
@@ -259,27 +269,15 @@ https://cdn8.163189.xyz/live/lhrh/stream.m3u8
 https://cdn8.163189.xyz/live/lhxj/stream.m3u8
 #EXTINF:-1 group-title="港台",龙华洋片
 https://cdn8.163189.xyz/live/lhyp/stream.m3u8
-#EXTINF:-1 group-title="港台",娱乐新闻
-http://php.jdshipin.com/TVOD/iptv.php?id=tvbylxw
-#EXTINF:-1 tvg-id="4" group-title="港台",TVB翡翠
-http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct3
 #EXTINF:-1 group-title="港台",TVB星河
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=xinghe
 #EXTINF:-1 group-title="港台",TVB武侠
 http://php.jdshipin.com/TVOD/iptv.php?id=yzwx
 #EXTINF:-1 group-title="港台",美亚C+
 http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/03.m3u8
-#EXTINF:-1 group-title="港台",美亚电影
-http://php.jdshipin.com:8880/TVOD/iptv.php?id=meiya
-#EXTINF:-1 group-title="港台",千禧经典
-http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbc
-#EXTINF:-1 group-title="港台",翡翠华丽
-http://php.jdshipin.com:8880/TVOD/iptv.php?id=huali
-#EXTINF:-1 group-title="港台",重温经典
-http://php.jdshipin.com:8880/TVOD/iptv.php?id=cwjd
-#EXTINF:-1 tvg-name="国际电视31" group-title="港台",RTHK31
+#EXTINF:-1 group-title="港台",RTHK31
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk31
-#EXTINF:-1 tvg-name="国际电视32" group-title="港台",RTHK32
+#EXTINF:-1 group-title="港台",RTHK32
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk32
 #EXTINF:-1 tvg-name="HOY TV" group-title="港台",HOY TV
 http://php.jdshipin.com/TVOD/iptv.php?id=hoytv
