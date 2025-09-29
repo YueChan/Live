@@ -197,8 +197,6 @@ https://cdn8.163189.xyz/live/lhdy/stream.m3u8
 http://php.jdshipin.com/TVOD/iptv.php?id=mzt2
 #EXTINF:-1 group-title="港台",TVB J1
 http://php.jdshipin.com/TVOD/iptv.php?id=j1
-#EXTINF:-1 group-title="港台",TVB Plus
-http://php.jdshipin.com/TVOD/iptv.php?id=j2
 #EXTINF:-1 group-title="港台",TVB J2
 http://php.jdshipin.com/TVOD/iptv.php?id=j2
 #EXTINF:-1 group-title="港台",无线新闻
