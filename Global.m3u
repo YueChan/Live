@@ -25,8 +25,8 @@ http://live-hls-web-aje.getaj.net/AJE/01.m3u8
 https://nhkworld-tv.akamaized.net/hls/live/2115640/nhkworld-tv/index_2M.m3u8
 #EXTINF:-1 group-title="国际",Fox  
 http://mains.services/live/bshorty/Zv5le07a0J/af799bef-3435-478e-9d1a-c7dacda2a672.ts
-#EXTINF:-1 group-title="国际",Fox East
-http://fl1.moveonjoy.com/FOX_EAST/index.m3u8
+#EXTINF:-1 group-title="国际",CBS
+http://mains.services/live/bshorty/Zv5le07a0J/f9920e48-e327-4c55-b97a-236ee91add67.ts
 #EXTINF:-1 group-title="国际",CBS News
 http://panelguys.top:8080/txd7Fd/030774/21259
 #EXTINF:-1 group-title="国际",Global News
