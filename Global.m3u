@@ -30,8 +30,8 @@ http://fl1.moveonjoy.com/FOX_EAST/index.m3u8
 http://panelguys.top:8080/txd7Fd/030774/21259
 #EXTINF:-1 group-title="国际",Global News
 https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/live-audio_1=96000-video=2499968.m3u8
-#EXTINF:-1 group-title="国际",Newsmax 2
-https://nmxlive.akamaized.net/hls/live/529965/Live_1/1.m3u8
+#EXTINF:-1 group-title="国际",NBA TV
+http://mains.services/live/bshorty/Zv5le07a0J/4b34c445-df7c-401d-840c-52ce4bc5e1ed.ts
 #EXTINF:-1 group-title="国际",TBS Seoul
 https://cdntv.tbs.seoul.kr/tbs/tbs_tv_web.smil/playlist.m3u8
 #EXTINF:-1 group-title="国际",WION
