@@ -1,7 +1,6 @@
 #EXTM3U
 #EXTINF:-1 group-title="国际",BBC News
 https://jmp2.uk/stvp-US4000033L
-#https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
 #EXTINF:-1 group-title="国际",CNN
 https://jmp2.uk/stvp-GBBD8000016N
 #EXTINF:-1 group-title="国际",CNA
