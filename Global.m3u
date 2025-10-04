@@ -99,3 +99,54 @@ https://lightning-fnf-samsungaus.amagi.tv/playlist.m3u8
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/ldsAAAAAA-timeline-samsungau/playlist.m3u8
 #EXTINF:-1 group-title="国际",Outdoor Channel
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00718-outdoorchannela-outdoortvnz-samsungnz/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/crave-2-ca.png" group-title="国际",CRAVE 1
+http://mains.services/live/bshorty/Zv5le07a0J/2e4655de-b701-4fb0-9bf4-054d2001b0f5.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/crave-2-ca.png" group-title="国际",CRAVE 2
+http://fl41.moveonjoy.com/CRAVE_1/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/crave-2-ca.png" group-title="国际",CRAVE 3
+http://fl41.moveonjoy.com/CRAVE_2/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/crave-4-ca.png" group-title="国际",CRAVE 4
+http://fl41.moveonjoy.com/CRAVE_3/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/crave-4-ca.png" group-title="国际",CRAVE 4
+http://fl41.moveonjoy.com/CRAVE_4/index.m3u8
+#EXTINF:-1 tvg-id="SkyCinemaAction.uk" tvg-name="GB : SKY CINEMA ACTION" tvg-logo="http://145.239.7.84/logos/SCAction.png" group-title="国际",SKY CINEMA ACTION
+http://mains.services/live/bshorty/Zv5le07a0J/e2d27348-6402-4da0-841f-44ac41f5d748.ts
+#EXTINF:-1 tvg-id="SkyCinemaAnimation.uk" tvg-name="GB : SKY CINEMA ANIMATION" tvg-logo="http://145.239.7.84/logos/SCAnimation.png" group-title="国际",SKY CINEMA ANIMATION
+http://mains.services/live/bshorty/Zv5le07a0J/9f764494-a742-45e1-a857-af6515cd098f.ts
+#EXTINF:-1 tvg-id="SkyCinemaComedy.uk" tvg-name="GB : SKY CINEMA COMEDY" tvg-logo="http://145.239.7.84/logos/SCComedy.png" group-title="国际",SKY CINEMA COMEDY
+http://mains.services/live/bshorty/Zv5le07a0J/be8ae3e0-236e-4e31-9e1a-21faa92ad120.ts
+#EXTINF:-1 tvg-id="SkyCinemaDrama.uk" tvg-name="GB : SKY CINEMA DRAMA" tvg-logo="http://145.239.7.84/logos/SCDrama.png" group-title="国际",SKY CINEMA DRAMA
+http://mains.services/live/bshorty/Zv5le07a0J/818d9064-5aed-4847-9630-bb0cdf6677f0.ts
+#EXTINF:-1 tvg-id="SkyCinemaFamily.uk" tvg-name="GB : SKY CINEMA FAMILY" tvg-logo="http://145.239.7.84/logos/SCFamily.png" group-title="国际",SKY CINEMA FAMILY
+http://mains.services/live/bshorty/Zv5le07a0J/aee69300-87dc-4ecb-990e-a0b48bc37f24.ts
+#EXTINF:-1 tvg-id="SkyCinemaGreats.uk" tvg-name="GB : SKY CINEMA GREATS" tvg-logo="http://145.239.7.84/logos/SCGreats.png" group-title="国际",SKY CINEMA GREATS
+http://mains.services/live/bshorty/Zv5le07a0J/55755742-d541-45c1-ae7d-793dc1b71a69.ts
+#EXTINF:-1 tvg-id="SkyCinemaHits.uk" tvg-name="GB : SKY CINEMA HITS" tvg-logo="http://145.239.7.84/logos/SCHits.png" group-title="国际",SKY CINEMA HITS
+http://mains.services/live/bshorty/Zv5le07a0J/23d28a3d-1b05-43d4-b4ef-9414c6d7335e.ts
+#EXTINF:-1 tvg-id="SkyCinemaPremiere.uk" tvg-name="GB : SKY CINEMA PREMIERE" tvg-logo="http://145.239.7.84/logos/SCPremiere.png" group-title="国际",SKY CINEMA PREMIERE
+http://mains.services/live/bshorty/Zv5le07a0J/50325fb3-2b41-44f1-903f-9baf15cad14d.ts
+#EXTINF:-1 tvg-id="SkyCinemaSci-fiAndHorror.uk" tvg-name="GB : SKY CINEMA SCI-FI" tvg-logo="http://145.239.7.84/logos/SCScifi.png" group-title="国际",SKY CINEMA SCI-FI
+http://mains.services/live/bshorty/Zv5le07a0J/7c001dcd-9496-431f-825c-f994e1e45ae6.ts
+#EXTINF:-1 tvg-id="SkyCinemaThriller.uk" tvg-name="GB : SKY CINEMA THRILLER" tvg-logo="http://145.239.7.84/logos/SCThriller.png" group-title="国际",SKY CINEMA THRILLER
+http://mains.services/live/bshorty/Zv5le07a0J/8531cfd2-8b1a-4e24-bb6d-9b1200e52d78.ts
+#EXTINF:-1 tvg-id="CinemaxAction.us" tvg-name="PM : US CINEMAX ACTION" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/78/Cinemax_Action_Logo.png/500px-Cinemax_Action_Logo.png" group-title="国际",CINEMAX ACTION
+http://mains.services/live/bshorty/Zv5le07a0J/efbb9e32-4b62-4a6f-b72e-4d8241a7d4db.ts
+#EXTINF:-1 tvg-id="CinemaxActionPacific.us" tvg-name="PM : US CINEMAX ACTION WEST" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/78/Cinemax_Action_Logo.png/500px-Cinemax_Action_Logo.png" group-title="国际",CINEMAX ACTION WEST
+http://mains.services/live/bshorty/Zv5le07a0J/30c09aca-c243-4a20-8807-08f2a395c75d.ts
+#EXTINF:-1 tvg-id="CinemaxHitsPacific.us" tvg-name="PM : US CINEMAX HITS WEST" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/fb/Cinemax_Hits_Logo.png/500px-Cinemax_Hits_Logo.png" group-title="国际",CINEMAX HITS WEST
+http://mains.services/live/bshorty/Zv5le07a0J/7e9bf33e-2ae3-467c-9ab0-f0958ad0b4b4.ts
+#EXTINF:-1 tvg-id="CineMAX.us" tvg-name="US : CINEMAX" tvg-logo="http://onlytimewilltell.xyz:2086/images/9b483584a8f77ed3094a2b82b11d35e2.png" group-title="国际",CINEMAX
+http://mains.services/live/bshorty/Zv5le07a0J/bde85358-f548-42e3-9b91-24ebbd232149.ts
+#EXTINF:-1 tvg-id="CinemaxHits.us" tvg-name="US : CINEMAX HITS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/fb/Cinemax_Hits_Logo.png/500px-Cinemax_Hits_Logo.png" group-title="国际",CINEMAX HITS
+http://mains.services/live/bshorty/Zv5le07a0J/bbaca83b-132f-431e-bffd-1de99b156156.ts
+#EXTINF:-1 tvg-id="MovieMax.us" tvg-name="US : CINEMAX MOVIEMAX" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s59963_h15_ab.png" group-title="国际",CINEMAX MOVIEMAX
+http://mains.services/live/bshorty/Zv5le07a0J/8d7be64e-5196-4865-878d-67d79325c3b2.ts
+#EXTINF:-1 group-title="国际",TNT SPORTS 1
+http://mains.services/live/bshorty/Zv5le07a0J/6c5b4010-afa9-4e64-921b-263217b936da.ts
+#EXTINF:-1 group-title="国际",TNT SPORTS 2
+http://mains.services/live/bshorty/Zv5le07a0J/b99d4063-9cbf-46cc-a6ac-86601b3a17b1.ts
+#EXTINF:-1 group-title="国际",TNT SPORTS 3
+http://mains.services/live/bshorty/Zv5le07a0J/3487f1f4-771e-4c8c-aa7c-80945800c7d9.ts
+#EXTINF:-1 group-title="国际",TNT SPORTS 4
+http://mains.services/live/bshorty/Zv5le07a0J/26a00017-1496-468f-8693-93df9e1b846f.ts
+
