@@ -81,7 +81,7 @@ rtp://239.3.1.149:8076
 rtp://239.3.1.210:8056
 #EXTINF:-1 tvg-name="重庆卫视" tvg-logo="https://live.fanmingming.com/tv/重庆卫视.png" group-title="卫视",重庆卫视
 rtp://239.3.1.122:8160
-#EXTINF:-1 tvg-name="黑龙江卫视" tvg-logo="https://live.fanmingming.com/tv/黑龙江卫视.png" group-title="卫视",龙江卫视
+#EXTINF:-1 tvg-name="黑龙江卫视" tvg-logo="https://live.fanmingming.com/tv/黑龙江卫视.png" group-title="卫视",黑龙江卫视
 rtp://239.3.1.133:8016
 #EXTINF:-1 tvg-name="吉林卫视" tvg-logo="https://live.fanmingming.com/tv/吉林卫视.png" group-title="卫视",吉林卫视
 rtp://239.3.1.240:8172
@@ -131,7 +131,7 @@ rtp://239.3.1.125:8001
 rtp://239.3.1.126:8001
 #EXTINF:-1 tvg-name="晴彩青少" tvg-logo="https://live.fanmingming.com/tv/睛彩青少.png" group-title="数字",睛彩青少
 rtp://239.3.1.127:8001
-#EXTINF:-1 tvg-name="晴彩广场舞" tvg-logo="https://live.fanmingming.com/tv/晴彩广场舞.png" group-title="数字",睛彩场舞
+#EXTINF:-1 tvg-name="晴彩广场舞" tvg-logo="https://live.fanmingming.com/tv/晴彩广场舞.png" group-title="数字",睛彩广场舞
 rtp://239.3.1.128:8001
 #EXTINF:-1 tvg-name="爱上4K" tvg-logo="https://epg.112114.xyz/logo/华数.png" group-title="数字",爱上4K
 rtp://239.3.1.236:2000
