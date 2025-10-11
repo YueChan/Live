@@ -165,3 +165,5 @@ rtp://239.3.1.195:9024
 rtp://239.3.1.196:9012
 #EXTINF:-1 tvg-name="少儿动画" tvg-logo="https://epg.112114.xyz/logo/华数.png" group-title="数字",少儿动画
 rtp://239.3.1.199:9000
+#EXTINF:-1 tvg-name="华数动画" tvg-logo="https://epg.112114.xyz/logo/华数.png" group-title="数字",动画高清
+rtp://239.3.1.80:4120
