@@ -9,8 +9,6 @@ http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
 http://live-hls.macaulotustv.com/lotustv/macaulotustv.m3u8
 #EXTINF:-1 group-title="港台",天映频道
 http://php.jdshipin.com/smt.php?id=Celestial
-#EXTINF:-1 group-title="港台",龙华电影
-https://cdn8.163189.xyz/live/lhdy/stream.m3u8
 #EXTINF:-1 group-title="港台",Pearl
 http://php.jdshipin.com/TVOD/iptv.php?id=mzt2
 #EXTINF:-1 tvg-id="4" group-title="港台",翡翠台
@@ -23,8 +21,10 @@ http://php.jdshipin.com/TVOD/iptv.php?id=j2
 http://php.jdshipin.com/TVOD/iptv.php?id=wxxwt
 #EXTINF:-1 group-title="港台",娱乐新闻
 http://php.jdshipin.com/TVOD/iptv.php?id=tvbylxw
-#EXTINF:-1 group-title="港台",VIUTV
+#EXTINF:-1 group-title="港台",ViuTV
 http://php.jdshipin.com/TVOD/iptv.php?id=viutv
+#EXTINF:-1 group-title="港台",ViuTV6
+http://php.jdshipin.com:8880/smt.php?id=viusix_twn
 #EXTINF:-1 group-title="港台",美亚电影
 http://php.jdshipin.com/TVOD/iptv.php?id=meiya
 #EXTINF:-1 group-title="港台",翡翠华丽
