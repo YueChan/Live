@@ -1,67 +1,79 @@
 #EXTM3U
-#EXTINF:-1 group-title="国际",凤凰中文
+#EXTINF:-1 group-title="港台",凤凰中文
 http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
-#EXTINF:-1 group-title="国际",凤凰资讯
+#EXTINF:-1 group-title="港台",凤凰资讯
 http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
-#EXTINF:-1 group-title="国际",凤凰香港
+#EXTINF:-1 group-title="港台",凤凰香港
 http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
-#EXTINF:-1 group-title="国际",澳门莲花
+#EXTINF:-1 group-title="港台",澳门莲花
 http://live-hls.macaulotustv.com/lotustv/macaulotustv.m3u8
-#EXTINF:-1 group-title="国际",天映频道
+#EXTINF:-1 group-title="港台",天映频道
 http://php.jdshipin.com/smt.php?id=Celestial
-#EXTINF:-1 group-title="国际",Pearl
+#EXTINF:-1 group-title="港台",Pearl
 http://php.jdshipin.com/TVOD/iptv.php?id=mzt2
-#EXTINF:-1 tvg-id="4" group-title="国际",翡翠台
+#EXTINF:-1 tvg-id="4" group-title="港台",翡翠台
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct3
-#EXTINF:-1 group-title="国际",TVB J1
+#EXTINF:-1 group-title="港台",TVB J1
 http://php.jdshipin.com/TVOD/iptv.php?id=j1
-#EXTINF:-1 group-title="国际",TVB J2
+#EXTINF:-1 group-title="港台",TVB J2
 http://php.jdshipin.com/TVOD/iptv.php?id=j2
-#EXTINF:-1 group-title="国际",无线新闻
+#EXTINF:-1 group-title="港台",无线新闻
 http://php.jdshipin.com/TVOD/iptv.php?id=wxxwt
-#EXTINF:-1 group-title="国际",娱乐新闻
+#EXTINF:-1 group-title="港台",娱乐新闻
 http://php.jdshipin.com/TVOD/iptv.php?id=tvbylxw
-#EXTINF:-1 group-title="国际",ViuTV
+#EXTINF:-1 group-title="港台",ViuTV
 http://php.jdshipin.com/TVOD/iptv.php?id=viutv
-#EXTINF:-1 group-title="国际",ViuTV6
+#EXTINF:-1 group-title="港台",ViuTV6
 http://php.jdshipin.com:8880/smt.php?id=viusix_twn
-#EXTINF:-1 group-title="国际",翡翠华丽
+#EXTINF:-1 group-title="港台",翡翠华丽
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=huali
-#EXTINF:-1 group-title="国际",美亚电影
+#EXTINF:-1 group-title="港台",美亚电影
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=meiya
-#EXTINF:-1 group-title="国际",千禧经典
+#EXTINF:-1 group-title="港台",千禧经典
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbc
-#EXTINF:-1 group-title="国际",重温经典
+#EXTINF:-1 group-title="港台",重温经典
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=cwjd
-#EXTINF:-1 group-title="国际",澳视澳门
+#EXTINF:-1 group-title="港台",澳视澳门
 http://php.jdshipin.com/TVOD/iptv.php?id=asam
-#EXTINF:-1 group-title="国际",澳门Macau
+#EXTINF:-1 group-title="港台",澳门Macau
 http://php.jdshipin.com/PLTV/iptv.php?id=as
-#EXTINF:-1 group-title="国际",astro Aec
+#EXTINF:-1 group-title="港台",astro Aec
 http://php.jdshipin.com/smt.php?id=AEC
-#EXTINF:-1 group-title="国际",astro Aod
+#EXTINF:-1 group-title="港台",astro Aod
 http://php.jdshipin.com/smt.php?id=Aodhd
-#EXTINF:-1 group-title="国际",astro欢喜台
+#EXTINF:-1 group-title="港台",astro欢喜台
 http://php.jdshipin.com/smt.php?id=Huahee
-#EXTINF:-1 group-title="国际",astro全家
+#EXTINF:-1 group-title="港台",astro全家
 http://php.jdshipin.com/smt.php?id=Quanjia
-#EXTINF:-1 group-title="国际",亚洲武侠
+#EXTINF:-1 group-title="港台",亚洲武侠
 http://php.jdshipin.com/TVOD/iptv.php?id=yzwx
-#EXTINF:-1 group-title="国际",TVB星河
+#EXTINF:-1 group-title="港台",TVB星河
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=xinghe
-#EXTINF:-1 group-title="国际",TVB武侠
+#EXTINF:-1 group-title="港台",TVB武侠
 http://php.jdshipin.com/TVOD/iptv.php?id=yzwx
-#EXTINF:-1 group-title="国际",爱奇艺
+#EXTINF:-1 group-title="港台",爱奇艺
 http://php.jdshipin.com/smt.php?id=Qiyi
-#EXTINF:-1 group-title="国际",美亚C+
+#EXTINF:-1 group-title="港台",美亚C+
 http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/03.m3u8
-#EXTINF:-1 group-title="国际",HOY TV
+#EXTINF:-1 group-title="港台",HOY TV
 http://php.jdshipin.com/TVOD/iptv.php?id=hoytv
-#EXTINF:-1 group-title="国际",RTHK31
+#EXTINF:-1 group-title="港台",RTHK31
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk31
-#EXTINF:-1 group-title="国际",RTHK32
+#EXTINF:-1 group-title="港台",RTHK32
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk32
-#EXTINF:-1 group-title="国际",Korea TV
+#EXTINF:-1 group-title="港台",龙华经典
+https://cdn8.163189.xyz/live/lhjd/stream.m3u8
+#EXTINF:-1 group-title="港台",龙华卡通
+https://cdn8.163189.xyz/live/lhkt/stream.m3u8
+#EXTINF:-1 group-title="港台",龙华偶像
+https://cdn8.163189.xyz/live/lhox/stream.m3u8
+#EXTINF:-1 group-title="港台",龙华日韩
+https://cdn8.163189.xyz/live/lhrh/stream.m3u8
+#EXTINF:-1 group-title="港台",龙华戏剧
+https://cdn8.163189.xyz/live/lhxj/stream.m3u8
+#EXTINF:-1 group-title="港台",龙华洋片
+https://cdn8.163189.xyz/live/lhyp/stream.m3u8
+#EXTINF:-1 group-title="港台",Korea TV
 https://hlive.ktv.go.kr/live/klive_h.stream/playlist.m3u8
-#EXTINF:-1 group-title="国际",Gugak TV
+#EXTINF:-1 group-title="港台",Gugak TV
 http://mgugaklive.nowcdn.co.kr/gugakvideo/gugakvideo.stream/playlist.m3u8
