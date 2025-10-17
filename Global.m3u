@@ -57,6 +57,8 @@ https://d3w4n3hhseniak.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d2
 https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="国际",SportsGrid
 https://jmp2.uk/rok-62f1cd0d4c395a2a8ab72cff688666a0.m3u8
+#EXTINF:-1 group-title="国际",Eurosport 4K
+http://nvsoo4tx.megogo.xyz/iptv/UWA8DBPMZFQ9PX9ZLSBM7FFX/31475/index.m3u8
 #EXTINF:-1 group-title="国际",BEIN Sports Xtra
 https://bein-xtra-xumo.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="国际",Wild Earth
@@ -74,8 +76,6 @@ https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-actionhollywood-samsungau/playlist.m3u8
 #EXTINF:-1 group-title="国际",Mytime Movie
 https://appletree-mytimeau-samsung.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="国际",Entertainment Hub
-https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01447-samsungau-enthub-samsungau/playlist.m3u8
 #EXTINF:-1 group-title="国际",Pulse
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-pulse-samsungau/playlist.m3u8
 #EXTINF:-1 group-title="国际",Tastemade 
