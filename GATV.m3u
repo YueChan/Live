@@ -73,6 +73,8 @@ https://cdn8.163189.xyz/live/lhrh/stream.m3u8
 https://cdn8.163189.xyz/live/lhxj/stream.m3u8
 #EXTINF:-1 group-title="港台",龙华洋片
 https://cdn8.163189.xyz/live/lhyp/stream.m3u8
+#EXTINF:-1 group-title="港台",KFN
+http://mediaworks.dema.mil.kr:1935/live_edge/cudo.sdp/playlist.m3u8
 #EXTINF:-1 group-title="港台",Korea TV
 https://hlive.ktv.go.kr/live/klive_h.stream/playlist.m3u8
 #EXTINF:-1 group-title="港台",Gugak TV
