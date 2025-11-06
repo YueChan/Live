@@ -13,8 +13,6 @@ https://jmp2.uk/stvp-USBB52000022Q
 https://rt-glb.rttv.com/dvr/rtnews/playlist_4500Kb.m3u8
 #EXTINF:-1 group-title="国际",LiveNow 
 https://jmp2.uk/rok-f9c0d48b540a55dcb98b04d2cc8abf25.m3u8
-#EXTINF:-1 tvg-id="Fox.News.Channel.HD.us2" tvg-name="FOX News Channel" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16374_dark_360w_270h.png" group-title="国际",FOX News Channel
-https://fl30.moveonjoy.com/FOX_NEWS_CHANNEL/index.m3u8
 #EXTINF:-1 group-title="国际",Euronews
 https://jmp2.uk/rok-dafd06b712a35fbe9935d4c04c2e8b53.m3u8
 #EXTINF:-1 group-title="国际",TRT World
@@ -49,8 +47,6 @@ https://cheddar-us.samsung.wurl.tv/playlist_4300k.m3u8
 https://bozztv.com/hwotta/playlist/HD3400/HD3400.m3u8
 #EXTINF:-1 group-title="国际",MovieSphere
 https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="国际",CNBC 
-https://fl30.moveonjoy.com/CNBC/index.m3u8
 #EXTINF:-1 group-title="国际",Trace Sport Stars
 https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="国际",SportsGrid
