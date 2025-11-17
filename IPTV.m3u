@@ -43,23 +43,23 @@ rtp://239.3.1.151:8144
 rtp://239.3.1.215:4220
 #EXTINF:-1 channel-number="344" tvg-id="344" tvg-name="CGTN 英文纪录高清" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/CCTV/CGTN-Doc.png" group-title="CGTN" zz-definition="HD" zz-raw-name="CGTN英文纪录" catchup="default" catchup-source="rtsp://61.135.88.136/TVOD/88888892/224/3221226153/10000100000000060000000001154845_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",CGTN纪录
 rtp://239.3.1.216:4220
-#EXTINF:-1 channel-number="421" tvg-id="421" tvg-name="北京卫视4K超高清" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/WeiShi/BeiJing.png" group-title="北京超高清" zz-definition="UHD" zz-raw-name="BRTV北京卫视超高清HDR",北京卫视
+#EXTINF:-1 channel-number="421" tvg-id="421" tvg-name="北京卫视4K超高清" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/WeiShi/BeiJing.png" group-title="卫视" zz-definition="UHD" zz-raw-name="BRTV北京卫视超高清HDR",北京卫视
 rtp://239.3.1.22:8001
-#EXTINF:-1 channel-number="405" tvg-id="405" tvg-name="湖南卫视4K超高清" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/WeiShi/HuNan.png" group-title="卫视超高清" zz-definition="UHD",湖南卫视
+#EXTINF:-1 channel-number="405" tvg-id="405" tvg-name="湖南卫视4K超高清" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/WeiShi/HuNan.png" group-title="卫视" zz-definition="UHD",湖南卫视
 rtp://239.3.1.112:3002
-#EXTINF:-1 channel-number="409" tvg-id="409" tvg-name="东方卫视4K超高清" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/WeiShi/DongFang.png" group-title="卫视超高清" zz-definition="UHD",东方卫视
+#EXTINF:-1 channel-number="409" tvg-id="409" tvg-name="东方卫视4K超高清" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/WeiShi/DongFang.png" group-title="卫视" zz-definition="UHD",东方卫视
 rtp://239.3.1.119:3006
-#EXTINF:-1 channel-number="407" tvg-id="407" tvg-name="江苏卫视4K超高清" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/WeiShi/JiangSu.png" group-title="卫视超高清" zz-definition="UHD",江苏卫视
+#EXTINF:-1 channel-number="407" tvg-id="407" tvg-name="江苏卫视4K超高清" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/WeiShi/JiangSu.png" group-title="卫视" zz-definition="UHD",江苏卫视
 rtp://239.3.1.113:3003
-#EXTINF:-1 channel-number="410" tvg-id="410" tvg-name="浙江卫视4K超高清" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/WeiShi/ZheJiang.png" group-title="卫视超高清" zz-definition="UHD",浙江卫视
+#EXTINF:-1 channel-number="410" tvg-id="410" tvg-name="浙江卫视4K超高清" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/WeiShi/ZheJiang.png" group-title="卫视" zz-definition="UHD",浙江卫视
 rtp://239.3.1.114:3004
-#EXTINF:-1 channel-number="411" tvg-id="411" tvg-name="山东卫视4K超高清" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/WeiShi/ShanDong.png" group-title="卫视超高清" zz-definition="UHD",山东卫视
+#EXTINF:-1 channel-number="411" tvg-id="411" tvg-name="山东卫视4K超高清" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/WeiShi/ShanDong.png" group-title="卫视" zz-definition="UHD",山东卫视
 rtp://239.3.1.144:3005
-#EXTINF:-1 channel-number="406" tvg-id="406" tvg-name="广东卫视4K超高清" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/WeiShi/GuangDong.png" group-title="卫视超高清" zz-definition="UHD" catchup="default" catchup-source="rtsp://61.135.88.136/TVOD/88888892/224/3221226195/397709747.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",广东卫视
+#EXTINF:-1 channel-number="406" tvg-id="406" tvg-name="广东卫视4K超高清" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/WeiShi/GuangDong.png" group-title="卫视" zz-definition="UHD" catchup="default" catchup-source="rtsp://61.135.88.136/TVOD/88888892/224/3221226195/397709747.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",广东卫视
 rtp://239.3.1.203:2000
-#EXTINF:-1 channel-number="408" tvg-id="408" tvg-name="深圳卫视4K超高清" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/WeiShi/ShenZhen.png" group-title="卫视超高清" zz-definition="UHD",深圳卫视
+#EXTINF:-1 channel-number="408" tvg-id="408" tvg-name="深圳卫视4K超高清" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/WeiShi/ShenZhen.png" group-title="卫视" zz-definition="UHD",深圳卫视
 rtp://239.3.1.202:2000
-#EXTINF:-1 channel-number="412" tvg-id="412" tvg-name="四川卫视4K超高清" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/WeiShi/SiChuan.png" group-title="卫视超高清" zz-definition="UHD",四川卫视
+#EXTINF:-1 channel-number="412" tvg-id="412" tvg-name="四川卫视4K超高清" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/WeiShi/SiChuan.png" group-title="卫视" zz-definition="UHD",四川卫视
 rtp://239.3.1.131:3001
 #EXTINF:-1 channel-number="58" tvg-id="58" tvg-name="江西卫视高清" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/WeiShi/JiangXi.png" group-title="卫视" zz-definition="HD" catchup="default" catchup-source="rtsp://61.135.88.136/TVOD/88888892/224/3221226136/10000100000000060000000001103865_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",江西卫视
 rtp://239.3.1.123:8164
