@@ -175,11 +175,3 @@ rtp://239.3.1.196:9012
 rtp://239.3.1.199:9000
 #EXTINF:-1 channel-number="364" tvg-id="364" tvg-name="动画" group-title="数字" zz-definition="HD" catchup="default" catchup-source="rtsp://61.135.88.136/TVOD/88888892/224/3221226024/10000100000000060000000000285652_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",动画高清
 rtp://239.3.1.80:4120
-#EXTINF:-1 channel-number="60" tvg-id="60" tvg-name="优购物精选" group-title="购物" zz-definition="HD" catchup="default" catchup-source="http://61.135.88.136/TVOD/88888892/224/3221226171/10000100000000060000000001311653_0.smil/index.m3u8?fmt=ts2hls&playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",优购物
-rtp://239.3.1.190:8001
-#EXTINF:-1 channel-number="61" tvg-id="61" tvg-name="时尚购物精选" group-title="购物" zz-definition="HD" catchup="default" catchup-source="http://61.135.88.136/TVOD/88888892/224/3221226169/10000100000000060000000001311650_0.smil/index.m3u8?fmt=ts2hls&playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",时尚购物
-rtp://239.3.1.191:8001
-#EXTINF:-1 channel-number="42" tvg-id="42" tvg-name="家有购物" group-title="购物" zz-definition="HD" catchup="default" catchup-source="http://61.135.88.136/TVOD/88888892/224/3221226154/10000100000000060000000001234688_0.smil/index.m3u8?fmt=ts2hls&playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",家有购物
-rtp://239.3.1.185:8001
-#EXTINF:-1 channel-number="43" tvg-id="43" tvg-name="央广购物精选" group-title="购物" zz-definition="HD" catchup="default" catchup-source="http://61.135.88.136/TVOD/88888892/224/3221226159/10000100000000060000000001189974_0.smil/index.m3u8?fmt=ts2hls&playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",央广购物
-rtp://239.3.1.223:8001
