@@ -15,7 +15,7 @@ rtp://239.3.1.214:4220
 rtp://239.3.1.173:8001
 #EXTINF:-1 channel-number="18" tvg-id="18" tvg-name="CCTV-5+" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/CCTV/CCTV-5+.png" group-title="央视" zz-definition="HD" catchup="default" catchup-source="rtsp://61.135.88.136/TVOD/88888892/224/3221225819/10000100000000060000000000025043_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",CCTV-5+ 体育赛事
 rtp://239.3.1.130:8004
-#EXTINF:-1 channel-number="6" tvg-id="6" tvg-name="CCTV-6高清" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/CCTV/CCTV-6.png" group-title="央视" zz-definition="HD" catchup="default" catchup-source="rtsp://61.135.88.136/TVOD/88888892/224/3221226113/10000100000000060000000000831270_0.smil/index.m3u8?fmt=ts2hls&playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",CCTV-6 电影
+#EXTINF:-1 channel-number="6" tvg-id="6" tvg-name="CCTV-6高清" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/CCTV/CCTV-6.png" group-title="央视" zz-definition="HD",CCTV-6 电影
 rtp://239.3.1.174:8001
 #EXTINF:-1 channel-number="7" tvg-id="7" tvg-name="CCTV-7高清" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/CCTV/CCTV-7.png" group-title="央视" zz-definition="HD" catchup="default" catchup-source="rtsp://61.135.88.136/TVOD/88888892/224/3221226031/10000100000000060000000000285833_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",CCTV-7 国防军事
 rtp://239.3.1.61:8104
