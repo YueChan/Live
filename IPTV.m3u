@@ -119,7 +119,7 @@ rtp://239.3.1.58:8156
 rtp://239.3.1.165:8001
 #EXTINF:-1 channel-number="320" tvg-id="320" tvg-name="快乐垂钓" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/QiTa/HuNan_KuaiLeChuiDiao.png" group-title="地方" zz-definition="HD",快乐垂钓
 rtp://239.3.1.164:8001
-#EXTINF:-1 channel-number="85" tvg-id="85" tvg-name="CCTV4K超高清" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/CCTV/CCTV-4K.png" group-title="数字" zz-definition="UHD",CCTV-4K
+#EXTINF:-1 channel-number="86" tvg-id="85" tvg-name="CCTV4K超高清" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/CCTV/CCTV-4K.png" group-title="数字" zz-definition="UHD",CCTV-4K
 rtp://239.3.1.245:2000
 #EXTINF:-1 channel-number="76" tvg-id="76" tvg-name="CETV1高清" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/QiTa/CETV-1.png" group-title="数字" zz-definition="HD" catchup="default" catchup-source="rtsp://61.135.88.136/TVOD/88888892/224/3221226065/10000100000000060000000000384776_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",中国教育
 rtp://239.3.1.57:8152
