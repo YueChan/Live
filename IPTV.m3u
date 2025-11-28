@@ -169,5 +169,3 @@ rtp://239.3.1.196:9012
 rtp://239.3.1.199:9000
 #EXTINF:-1 channel-number="364" tvg-id="364" tvg-name="动画" group-title="数字" zz-definition="HD" catchup="default" catchup-source="rtsp://61.135.88.136/TVOD/88888892/224/3221226024/10000100000000060000000000285652_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",动画高清
 rtp://239.3.1.80:4120
-#EXTINF:-1 channel-number="80" tvg-id="80" tvg-name="证券服务" group-title="数字" zz-definition="HD" catchup="default" catchup-source="http://61.135.88.136/TVOD/88888892/224/3221226210/406742223.smil/index.m3u8?fmt=ts2hls&playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",证券服务
-rtp://239.3.1.24:8001
