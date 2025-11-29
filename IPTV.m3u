@@ -157,15 +157,15 @@ rtp://239.3.1.93:4120
 rtp://239.3.1.94:4120
 #EXTINF:-1 channel-number="368" tvg-id="368" tvg-name="光影" group-title="数字" zz-definition="HD" catchup="default" catchup-source="rtsp://61.135.88.136/TVOD/88888892/224/3221226028/10000100000000060000000000285656_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",光影高清
 rtp://239.3.1.84:4120
-#EXTINF:-1 channel-number="202" tvg-id="202" tvg-name="热播剧场" group-title="数字" zz-definition="HD" catchup="default" catchup-source="rtsp://61.135.88.136/TVOD/88888892/224/3221225855/10000100000000060000000000025078_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",热播剧场
-rtp://239.3.1.194:9020
+#EXTINF:-1 channel-number="364" tvg-id="364" tvg-name="动画" group-title="数字" zz-definition="HD" catchup="default" catchup-source="rtsp://61.135.88.136/TVOD/88888892/224/3221226024/10000100000000060000000000285652_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",动画高清
+rtp://239.3.1.80:4120
 #EXTINF:-1 channel-number="203" tvg-id="203" tvg-name="经典电影" group-title="数字" zz-definition="HD" catchup="default" catchup-source="rtsp://61.135.88.136/TVOD/88888892/224/3221225857/10000100000000060000000000025082_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",经典电影
 rtp://239.3.1.195:9024
 #EXTINF:-1 channel-number="349" tvg-id="349" tvg-name="重温经典",group-title="数字" zz-definition="HD",重温经典
 rtp://239.3.1.25:8001
+#EXTINF:-1 channel-number="202" tvg-id="202" tvg-name="热播剧场" group-title="数字" zz-definition="HD" catchup="default" catchup-source="rtsp://61.135.88.136/TVOD/88888892/224/3221225855/10000100000000060000000000025078_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",热播剧场
+rtp://239.3.1.194:9020
 #EXTINF:-1 channel-number="204" tvg-id="204" tvg-name="魅力时尚" group-title="数字" zz-definition="HD" catchup="default" catchup-source="rtsp://61.135.88.136/TVOD/88888892/224/3221225850/10000100000000060000000000025079_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",魅力时尚
 rtp://239.3.1.196:9012
 #EXTINF:-1 channel-number="207" tvg-id="207" tvg-name="少儿动画" group-title="数字" zz-definition="HD" catchup="default" catchup-source="rtsp://61.135.88.136/TVOD/88888892/224/3221225859/10000100000000060000000000025083_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",少儿动画
 rtp://239.3.1.199:9000
-#EXTINF:-1 channel-number="364" tvg-id="364" tvg-name="动画" group-title="数字" zz-definition="HD" catchup="default" catchup-source="rtsp://61.135.88.136/TVOD/88888892/224/3221226024/10000100000000060000000000285652_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",动画高清
-rtp://239.3.1.80:4120
