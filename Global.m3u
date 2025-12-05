@@ -87,6 +87,16 @@ https://pbs2-pull-secure.akamaized.net/pbs2/stream.m3u8
 http://supersonictv.live:8080/live/006779/439866/21795.m3u8
 #EXTINF:-1 group-title="国际",Disney XD
 http://supersonictv.live:8080/live/006779/439866/21801.m3u8
+#EXTINF:-1 group-title="国际",Discovery Life
+http://hardcoremedia.xyz:80/2sUX8DtA5/W30x4yBJXH/129866
+#EXTINF:-1 group-title="国际",Discovery Family
+http://hardcoremedia.xyz:80/2sUX8DtA5/W30x4yBJXH/129865
+#EXTINF:-1 group-title="国际",Discovery Science
+http://hardcoremedia.xyz:80/2sUX8DtA5/W30x4yBJXH/129867
+#EXTINF:-1 group-title="国际",National Geographic Wild
+http://hardcoremedia.xyz:80/2sUX8DtA5/W30x4yBJXH/129927
+#EXTINF:-1 group-title="国际",National Geographic
+http://hardcoremedia.xyz:80/2sUX8DtA5/W30x4yBJXH/129928
 #EXTINF:-1 group-title="国际",Kartoon Channel
 https://lightning-fnf-samsungaus.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="国际",History Hit 
