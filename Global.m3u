@@ -189,3 +189,27 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=15270&avod=1&coppa=0&td=6&
 https://wurl120sports.global.transmit.live/hls/6863f426233e6604b8b45832/v1/stadium_gracenote/lg_us/latest/main/hls/playlist.m3u8?wurl_channel=160&wurl_name=Stadium&coppa=0&uid=[DEVICE_ID]&rdid=[IFA]&ifatype=[IFA_TYPE]&dnt=[LMT]&donotsell=[DNS]&isgdpr=[GDPR]&gdpr=[GDPR_CONSENT]&country=[COUNTRY]&pr=[US_PRIVACY]&appstoreurl=[APP_STOREURL]&bundleid=[APP_BUNDLE]&appname=[APP_NAME]&appversion=[APP_VERSION]&dt=[DEVICE_TYPE]&make=[DEVICE_MAKE]&model=[DEVICE_MODEL]&targetad=[TARGETAD_ALLOWED]&fck=[FCK]&viewsize=[VIEWSIZE]&nonce=[NONCE]
 #EXTINF:-1 tvg-logo="https://img.platform.wurl.dev/channel/1192/lg/73477a/LG-Logo-PNG-100x100_v1.png" group-title="国际",Overtime
 https://wurlrainbowmedia.global.transmit.live/hls/68c49d5a192b2a4e99da1da4/v1/amc_overtime_1/lg_us/latest/main/hls/playlist.m3u8?wurl_channel=1192&wurl_name=Overtime&coppa=0&uid=[DEVICE_ID]&rdid=[IFA]&ifatype=[IFA_TYPE]&dnt=[LMT]&donotsell=[DNS]&isgdpr=[GDPR]&gdpr=[GDPR_CONSENT]&country=[COUNTRY]&pr=[US_PRIVACY]&appstoreurl=[APP_STOREURL]&bundleid=[APP_BUNDLE]&appname=[APP_NAME]&appversion=[APP_VERSION]&dt=[DEVICE_TYPE]&make=[DEVICE_MAKE]&model=[DEVICE_MODEL]&targetad=[TARGETAD_ALLOWED]&fck=[FCK]&viewsize=[VIEWSIZE]
+#EXTINF:-1 tvg-id="SkySportsF1UHD.uk" tvg-name="UK: Sky Sports F1 UHD" tvg-logo="https://cdn.iptvboss.pro/logos/UK/SkySportsF1UHD.uk.png" group-title="国际",Sky Sports F1 
+http://best-streams.tv:80/11223344/44332211/375493
+#EXTINF:-1 tvg-id="SkySportsMainEventUHD.uk" tvg-name="UK: Sky Sports Main Event UHD" tvg-logo="https://cdn.iptvboss.pro/logos/UK/SkySportsMainEventUHD.uk.png" group-title="国际",Sky Sports Main Event 
+http://best-streams.tv:80/11223344/44332211/375494
+#EXTINF:-1 tvg-id="SkySportsPremierLeague.uk" tvg-name="Sky Sports Premier League FHD" tvg-logo="https://cdn.iptvboss.pro/logos/UK/SkySportsPremierLeague.uk.png" group-title="国际",Sky Sports Premier League  
+http://best-streams.tv:80/11223344/44332211/369562
+#EXTINF:-1 tvg-id="SkySportsFootball.uk" tvg-name="Sky Sports Football FHD" tvg-logo="https://cdn.iptvboss.pro/logos/UK/SkySportsFootball.uk.png" group-title="国际",Sky Sports Football 
+http://best-streams.tv:80/11223344/44332211/369559
+#EXTINF:-1 tvg-id="SkySportsCricket.uk" tvg-name="Sky Sports Cricket FHD" tvg-logo="https://cdn.iptvboss.pro/logos/UK/SkySportsCricket.uk.png" group-title="国际",Sky Sports Cricket  
+http://best-streams.tv:80/11223344/44332211/369556
+#EXTINF:-1 tvg-id="SkySportsGolf.uk" tvg-name="Sky Sports Golf FHD" tvg-logo="https://cdn.iptvboss.pro/logos/UK/SkySportsGolf.uk.png" group-title="国际",Sky Sports Golf  
+http://best-streams.tv:80/11223344/44332211/369553
+#EXTINF:-1 tvg-id="SkySportsTennis.uk" tvg-name="Sky Sports Tennis FHD" tvg-logo="https://cdn.iptvboss.pro/logos/UK/SkySportsTennis.uk.png" group-title="国际",Sky Sports Tennis  
+http://best-streams.tv:80/11223344/44332211/369547
+#EXTINF:-1 tvg-id="SkySportsNews.uk" tvg-name="Sky Sports News FHD" tvg-logo="https://cdn.iptvboss.pro/logos/UK/SkySportsNews.uk.png" group-title="国际",Sky Sports News 
+http://best-streams.tv:80/11223344/44332211/369541
+#EXTINF:-1 tvg-id="SkySportsPlus.uk" tvg-name="Sky Sports+ FHD" tvg-logo="https://cdn.iptvboss.pro/logos/UK/SkySports%2B.uk.png" group-title="国际",Sky Sports+  
+http://best-streams.tv:80/11223344/44332211/369538
+#EXTINF:-1 tvg-id="SkySportsRacing.uk" tvg-name="Sky Sports Racing FHD" tvg-logo="https://cdn.iptvboss.pro/logos/UK/SkySportsRacing.uk.png" group-title="国际",Sky Sports Racing 
+http://best-streams.tv:80/11223344/44332211/369535
+#EXTINF:-1 tvg-id="SkySportsMix.uk" tvg-name="Sky Sports Mix FHD" tvg-logo="https://cdn.iptvboss.pro/logos/UK/SkySportsMix.uk.png" group-title="国际",Sky Sports Mix  
+http://best-streams.tv:80/11223344/44332211/369532
+#EXTINF:-1 tvg-id="SkySportsBoxOffice.uk" tvg-name="Sky Sports Box Office FHD" tvg-logo="https://cdn.iptvboss.pro/logos/UK/SkySportsBoxOffice.uk.png" group-title="国际",Sky Sports Box Office 
+http://best-streams.tv:80/11223344/44332211/369529
