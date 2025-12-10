@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 group-title="港台",中天新闻
+http://dungou.szius.com:8080/live/yifatv-ztxw01.flv
 #EXTINF:-1 group-title="港台",凤凰中文
 http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
 #EXTINF:-1 group-title="港台",凤凰资讯
@@ -45,14 +47,16 @@ http://php.jdshipin.com/smt.php?id=Aodhd
 http://php.jdshipin.com/smt.php?id=Huahee
 #EXTINF:-1 group-title="港台",astro全家
 http://php.jdshipin.com/smt.php?id=Quanjia
+#EXTINF:-1 group-title="港台",Now星影
+http://hls-pull-wicketpw.speedws.com/live/hktv-tvzvezdamow142.flv
+#EXTINF:-1 group-title="港台",Now爆谷
+http://hls-pull-wicketpw.speedws.com/live/hktv-tvzvezdamow141.flv
 #EXTINF:-1 group-title="港台",亚洲武侠
 http://php.jdshipin.com/TVOD/iptv.php?id=yzwx
 #EXTINF:-1 group-title="港台",TVB星河
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=xinghe
 #EXTINF:-1 group-title="港台",TVB武侠
 http://php.jdshipin.com/TVOD/iptv.php?id=yzwx
-#EXTINF:-1 group-title="港台",爱奇艺
-http://php.jdshipin.com/smt.php?id=Qiyi
 #EXTINF:-1 group-title="港台",HOY TV
 http://php.jdshipin.com/TVOD/iptv.php?id=hoytv
 #EXTINF:-1 group-title="港台",RTHK31
