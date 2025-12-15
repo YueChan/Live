@@ -14,13 +14,13 @@ http://powerserver.ottc.pro:80/PWYZQZ93BU/FZYPDZNITZ/4863
 #EXTINF:-1 group-title="国际",RT News
 https://rt-glb.rttv.com/dvr/rtnews/playlist_4500Kb.m3u8
 #EXTINF:-1 group-title="国际",Fox News
-http://best-streams.tv:80/11223344/44332211/963330
+
 #EXTINF:-1 group-title="国际",MS NOW
 http://cord-cutter.net:8080/81945791/05013455/21376
-#EXTINF:-1 group-title="国际",NBC News
-http://best-streams.tv:80/11223344/44332211/58018
-#EXTINF:-1 group-title="国际",ABC News
-http://best-streams.tv:80/11223344/44332211/75240
+#EXTINF:-1 group-title="国际",NBC
+https://cors-proxy.cooks.fyi/https://streamer2.nexgen.bz/NBC/index.m3u8
+#EXTINF:-1 group-title="国际",NBC News Now
+https://livehub-voidnet.onrender.com/cluster/streamcore/us/NBC_REDIS.m3u8
 #EXTINF:-1 group-title="国际",LiveNow
 https://jmp2.uk/rok-f9c0d48b540a55dcb98b04d2cc8abf25.m3u8
 #EXTINF:-1 group-title="国际",Euronews
@@ -93,8 +93,6 @@ https://pbs2-pull-secure.akamaized.net/pbs2/stream.m3u8
 http://supersonictv.live:8080/live/006779/439866/21795.m3u8
 #EXTINF:-1 group-title="国际",Disney XD
 http://supersonictv.live:8080/live/006779/439866/21801.m3u8
-#EXTINF:-1 group-title="国际",Discovery Channel
-http://88.212.7.11/live/test_discovery_hd_hevc/playlist.m3u8
 #EXTINF:-1 group-title="国际",Discovery Life
 http://hardcoremedia.xyz:80/2sUX8DtA5/W30x4yBJXH/129866
 #EXTINF:-1 group-title="国际",Discovery Family
