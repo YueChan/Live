@@ -185,25 +185,25 @@ http://fl1.moveonjoy.com/NBA_TV/index.m3u8
 http://fl1.moveonjoy.com/MLB_NETWORK/index.m3u8
 #EXTINF:-1 group-title="国际",HBO
 http://fl1.moveonjoy.com/HBO/index.m3u8
-#EXTINF:-1 group-title="电影",HBO Hits
+#EXTINF:-1 group-title="国际",HBO Hits
 http://fl1.moveonjoy.com/HBO_2/index.m3u8
 #EXTINF:-1 group-title="国际",HBO Drama
 http://cord-cutter.net:8080/81945791/05013455/9266
-#EXTINF:-1 group-title="国际"",HBO Comedy
+#EXTINF:-1 group-title="国际",HBO Comedy
 http://fl1.moveonjoy.com/HBO_COMEDY/index.m3u8
-#EXTINF:-1 group-title="国际"",HBO Movies
+#EXTINF:-1 group-title="国际",HBO Movies
 http://fl1.moveonjoy.com/HBO_ZONE/index.m3u8
-#EXTINF:-1 group-title="国际"",Paramount+ with Showtime
+#EXTINF:-1 group-title="国际",Paramount+ with Showtime
 http://fl1.moveonjoy.com/SHOWTIME/index.m3u8
-#EXTINF:-1 group-title="国际"",Showtime 2
+#EXTINF:-1 group-title="国际",Showtime 2
 http://fl1.moveonjoy.com/SHOWTIME_2/index.m3u8
-#EXTINF:-1 group-title="国际"",Showtime Extreme
+#EXTINF:-1 group-title="国际",Showtime Extreme
 http://fl1.moveonjoy.com/SHOWTIME_EXTREME/index.m3u8
-#EXTINF:-1 group-title="国际"",Showtime Next
+#EXTINF:-1 group-title="国际",Showtime Next
 http://fl1.moveonjoy.com/SHOWTIME_NEXT/index.m3u8
-#EXTINF:-1 group-title="v",Showtime Women
+#EXTINF:-1 group-title="国际",Showtime Women
 http://fl1.moveonjoy.com/SHOWTIME_WOMEN/index.m3u8
-#EXTINF:-1 group-title="国际"",Showtime Showcase
+#EXTINF:-1 group-title="国际",Showtime Showcase
 http://fl1.moveonjoy.com/SHOWTIME_SHOWCASE/index.m3u8
 #EXTINF:-1 group-title="国际",TNT Sports 1 
 https://7pal.short.gy/tntspts1
@@ -223,19 +223,19 @@ http://fl1.moveonjoy.com/TSN_3/index.m3u8
 http://fl1.moveonjoy.com/TSN_4/mpegts
 #EXTINF:-1 group-title="国际",TSN 5 
 http://fl1.moveonjoy.com/TSN_5/index.m3u8
-#EXTINF:-1 group-title="体育",Sky Sports Premier League  
+#EXTINF:-1 group-title="国际",Sky Sports Premier League  
 https://7pal.short.gy/ssportspl
-#EXTINF:-1 group-title="体育",Sky Sports Football  
+#EXTINF:-1 group-title="国际",Sky Sports Football  
 https://7pal.short.gy/ssportsfb
-#EXTINF:-1 group-title="体育",Sky Sports+  
+#EXTINF:-1 group-title="国际",Sky Sports+  
 https://a1xs.vip/2000012
-#EXTINF:-1 group-title="体育",Sky Sports Tennis 
+#EXTINF:-1 group-title="国际",Sky Sports Tennis 
 https://a1xs.vip/2000013
-#EXTINF:-1 roup-title="体育",Sky Sports News  
+#EXTINF:-1 group-title="国际",Sky Sports News  
 https://7pal.short.gy/ssportsnw
-#EXTINF:-1 group-title="体育",Sky Sports NFL  
+#EXTINF:-1 group-title="国际",Sky Sports NFL  
 https://a1xs.vip/2000011
-#EXTINF:-1 group-title="体育",Sky Sports Mix 
+#EXTINF:-1 group-title="国际",Sky Sports Mix 
 https://a1xs.vip/2000008
-#EXTINF:-1 group-title="体育",Sky Sports Box Office  
-https://7pal.short.gy/ssportsbo
+#EXTINF:-1 group-title="国际",Sky Sports Box Office  
+https://7pal.short.gy/ssportsbo=
