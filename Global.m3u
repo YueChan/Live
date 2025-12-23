@@ -203,8 +203,6 @@ http://fl1.moveonjoy.com/SHOWTIME_EXTREME/index.m3u8
 http://fl1.moveonjoy.com/SHOWTIME_NEXT/index.m3u8
 #EXTINF:-1 group-title="国际",Showtime Women
 http://fl1.moveonjoy.com/SHOWTIME_WOMEN/index.m3u8
-#EXTINF:-1 group-title="国际",Showtime Showcase
-http://fl1.moveonjoy.com/SHOWTIME_SHOWCASE/index.m3u8
 #EXTINF:-1 group-title="国际",TNT Sports 1 
 https://7pal.short.gy/tntspts1
 #EXTINF:-1 group-title="国际",TNT Sports 2 
@@ -215,10 +213,6 @@ https://7pal.short.gy/tntspts3
 https://7pal.short.gy/tntspts4
 #EXTINF:-1 group-title="国际",TSN 1 
 http://fl1.moveonjoy.com/TSN_1/mpegts
-#EXTINF:-1 group-title="国际",TSN 2 
-http://fl1.moveonjoy.com/TSN_2/index.m3u8
-#EXTINF:-1 group-title="国际",TSN 3 
-http://fl1.moveonjoy.com/TSN_3/index.m3u8
 #EXTINF:-1 group-title="国际",TSN 4 
 http://fl1.moveonjoy.com/TSN_4/mpegts
 #EXTINF:-1 group-title="国际",TSN 5 
@@ -237,5 +231,11 @@ https://7pal.short.gy/ssportsnw
 https://a1xs.vip/2000011
 #EXTINF:-1 group-title="国际",Sky Sports Mix 
 https://a1xs.vip/2000008
-#EXTINF:-1 group-title="国际",Sky Sports Box Office  
-https://7pal.short.gy/ssportsbo=
+#EXTINF:-1 group-title="国际",Sky Sports F1
+http://cord-cutter.net:8080/bn80NG/909467/53704
+#EXTINF:-1 group-title="国际",Sportsnet One
+http://cord-cutter.net:8080/81945791/05013455/10247
+#EXTINF:-1 group-title="国际",Sportsnet 360
+http://cord-cutter.net:8080/81945791/05013455/57299
+#EXTINF:-1 group-title="国际",Sportsnet World
+http://cord-cutter.net:8080/81945791/05013455/75675
