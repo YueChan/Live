@@ -25,14 +25,8 @@ https://radio.0472.org/?id=646
 https://radio.0472.org/?id=647
 #EXTINF:-1 tvg-name="老年之声" tvg-logo="https://radio.0472.org/?id=649&logo" group-title="综合广播",CNR老年之声
 https://radio.0472.org/?id=649
-#EXTINF:-1 tvg-name="阅读之声" tvg-logo="https://radio.0472.org/?id=652&logo" group-title="综合广播",CNR阅读之声
-https://radio.0472.org/?id=652
 #EXTINF:-1 tvg-name="中国乡村之声" tvg-logo="https://radio.0472.org/?id=654&logo" group-title="综合广播",CNR乡村之声
 https://radio.0472.org/?id=654
-#EXTINF:-1 tvg-name="HITFM劲曲调频" tvg-logo="https://radio.0472.org/?id=662&logo" group-title="综合广播",CNR劲曲调频
-https://radio.0472.org/?id=662
-#EXTINF:-1 tvg-name="轻松调频" tvg-logo="https://radio.0472.org/?id=689&logo" group-title="综合广播",CNR轻松调频
-https://radio.0472.org/?id=689
 #EXTINF:-1 tvg-name="南海之声" tvg-logo="https://radio.0472.org/?id=664&logo" group-title="综合广播",CNR南海之声
 https://radio.0472.org/?id=664
 #EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/BJJTGB.png" group-title="综合广播",北京交通广播
@@ -49,8 +43,6 @@ https://brtv-radiolive.rbc.cn/alive/fm1073.m3u8
 https://brtv-radiolive.rbc.cn/alive/fm1025.m3u8
 #EXTINF:-1 tvg-logo="http://live.cooltv.top/logo/bj969.png" group-title="音乐广播",北京阳光调频
 https://lhttp.qtfm.cn/live/5021739/64k.mp3
-#EXTINF:-1 tvg-logo="http://live.cooltv.top/logo/ez.png" group-title="综合广播",CRI轻松调频
-http://sk.cri.cn/915.m3u8
 #EXTINF:-1 tvg-logo="http://live.cooltv.top/logo/hyhq.png" group-title="综合广播",CRI华语环球
 http://sk.cri.cn/hyhq.m3u8
 #EXTINF:-1 tvg-logo="http://live.cooltv.top/logo/hqzx.png" group-title="综合广播",CRI环球资讯
@@ -99,8 +91,6 @@ https://radio.0472.org/?id=1531
 https://radio.0472.org/?id=381
 #EXTINF:-1 tvg-logo="https://radio.0472.org/?id=498&logo" group-title="音乐广播",深圳音乐频率
 https://radio.0472.org/?id=498
-#EXTINF:-1 tvg-logo="http://live.cooltv.top/logo/hitfm.png" group-title="音乐广播",Hit FM劲曲
-http://satellitepull.cnr.cn/live/wxhitfm/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://live.cooltv.top/logo/njyygb.png" group-title="音乐广播",南京音乐广播
 http://hls.njgb.com/live_hls/4/playlist.m3u8
 #EXTINF:-1 tvg-name="江苏音乐广播" tvg-logo="https://radio.0472.org/?id=415&logo" group-title="音乐广播",江苏音乐广播
@@ -178,7 +168,7 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/NZME_31AAC.aac
 #EXTINF:-1 group-title="境外广播",Power FM
 https://crystalout.surfernetwork.com:8001/KVSP_MP3
 #EXTINF:-1 group-title="境外广播",Classic FM
-https://ice-sov.musicradio.com/ClassicFMMP3 
+https://ice-sov.musicradio.com/ClassicFMMP3
 #EXTINF:-1 group-title="境外广播",BBC Radio 1
 http://as-hls-ww-live.akamaized.net/pool_01505109/live/ww/bbc_radio_one/bbc_radio_one.isml/bbc_radio_one-audio%3d96000.norewind.m3u8
 #EXTINF:-1 group-title="境外广播",BBC Radio 1 Xtra
