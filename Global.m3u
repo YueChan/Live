@@ -203,3 +203,20 @@ http://fl1.moveonjoy.com/SHOWTIME_WOMEN/index.m3u8
 http://cord-cutter.net:8080/81945791/05013455/13481
 #EXTINF:-1 group-title="国际"",Showtime Showcase
 http://fl1.moveonjoy.com/SHOWTIME_SHOWCASE/index.m3u8
+#EXTINF:-1 group-title="国际",TNT Sports 1 
+https://7pal.short.gy/tntspts1
+#EXTINF:-1 group-title="国际",TNT Sports 2 
+https://7pal.short.gy/tntspts2
+#EXTINF:-1 group-title="国际",TNT Sports 3 
+https://7pal.short.gy/tntspts3
+#EXTINF:-1 group-title="国际",TNT Sports 4 
+https://7pal.short.gy/tntspts4
+#EXTINF:-1 group-title="国际",TSN 1 
+http://fl1.moveonjoy.com/TSN_1/mpegts
+#EXTINF:-1 group-title="国际",TSN 2 
+http://fl1.moveonjoy.com/TSN_2/index.m3u8
+#EXTINF:-1 group-title="国际",TSN 3 
+http://fl1.moveonjoy.com/TSN_3/index.m3u8
+#EXTINF:-1 group-title="国际",TSN 4 
+http://fl1.moveonjoy.com/TSN_4/mpegts
+#EXTINF:-1 group-title="国际",TSN 5 
