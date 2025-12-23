@@ -220,3 +220,19 @@ http://fl1.moveonjoy.com/TSN_3/index.m3u8
 #EXTINF:-1 group-title="国际",TSN 4 
 http://fl1.moveonjoy.com/TSN_4/mpegts
 #EXTINF:-1 group-title="国际",TSN 5 
+#EXTINF:-1 group-title="体育",Sky Sports Premier League  
+https://7pal.short.gy/ssportspl
+#EXTINF:-1 group-title="体育",Sky Sports Football  
+https://7pal.short.gy/ssportsfb
+#EXTINF:-1 group-title="体育",Sky Sports+  
+https://a1xs.vip/2000012
+#EXTINF:-1 group-title="体育",Sky Sports Tennis 
+https://a1xs.vip/2000013
+#EXTINF:-1 roup-title="体育",Sky Sports News  
+https://7pal.short.gy/ssportsnw
+#EXTINF:-1 group-title="体育",Sky Sports NFL  
+https://a1xs.vip/2000011
+#EXTINF:-1 group-title="体育",Sky Sports Mix 
+https://a1xs.vip/2000008
+#EXTINF:-1 group-title="体育",Sky Sports Box Office  
+https://7pal.short.gy/ssportsbo
