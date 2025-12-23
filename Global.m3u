@@ -189,8 +189,6 @@ http://fl1.moveonjoy.com/HBO/index.m3u8
 http://fl1.moveonjoy.com/HBO_2/index.m3u8
 #EXTINF:-1 group-title="国际",HBO Drama
 http://cord-cutter.net:8080/81945791/05013455/9266
-#EXTINF:-1 group-title="国际",HBO Comedy
-http://fl1.moveonjoy.com/HBO_COMEDY/index.m3u8
 #EXTINF:-1 group-title="国际",HBO Movies
 http://fl1.moveonjoy.com/HBO_ZONE/index.m3u8
 #EXTINF:-1 group-title="国际",Paramount+ with Showtime
@@ -203,6 +201,8 @@ http://fl1.moveonjoy.com/SHOWTIME_EXTREME/index.m3u8
 http://fl1.moveonjoy.com/SHOWTIME_NEXT/index.m3u8
 #EXTINF:-1 group-title="国际",Showtime Women
 http://fl1.moveonjoy.com/SHOWTIME_WOMEN/index.m3u8
+#EXTINF:-1 group-title="国际",Starz Comedy
+http://fl1.moveonjoy.com/STARZ_COMEDY/index.m3u8
 #EXTINF:-1 group-title="国际",TNT Sports 1 
 https://7pal.short.gy/tntspts1
 #EXTINF:-1 group-title="国际",TNT Sports 2 
