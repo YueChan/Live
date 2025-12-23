@@ -5,6 +5,8 @@ https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_35
 https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
 #EXTINF:-1 group-title="国际",CNA
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+#EXTINF:-1 group-title="国际",FOX News
+http://fl1.moveonjoy.com/FOX_NEWS_CHANNEL/index.m3u8
 #EXTINF:-1 group-title="国际",GB News
 http://powerserver.ottc.pro:80/PWYZQZ93BU/FZYPDZNITZ/445135
 #EXTINF:-1 group-title="国际",Sky News
@@ -179,6 +181,8 @@ https://wurlrainbowmedia.global.transmit.live/hls/68c49d5a192b2a4e99da1da4/v1/am
 https://d2w9q46ikgrcwx.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-of5cbk3sav3w5/v1/sysdata_s_p_a_fifa_7/samsungheadend_us/latest/main/hls/playlist.m3u8
 #EXTINF:-1 group-title="国际",NBA TV
 http://fl1.moveonjoy.com/NBA_TV/index.m3u8
+#EXTINF:-1 group-title="国际",MLB Network
+http://fl1.moveonjoy.com/MLB_NETWORK/index.m3u8
 #EXTINF:-1 group-title="国际",HBO
 http://fl1.moveonjoy.com/HBO/index.m3u8
 #EXTINF:-1 group-title="电影",HBO Hits
@@ -199,8 +203,6 @@ http://fl1.moveonjoy.com/SHOWTIME_EXTREME/index.m3u8
 http://fl1.moveonjoy.com/SHOWTIME_NEXT/index.m3u8
 #EXTINF:-1 group-title="v",Showtime Women
 http://fl1.moveonjoy.com/SHOWTIME_WOMEN/index.m3u8
-#EXTINF:-1 group-title="国际"",Showtime Family Zone
-http://cord-cutter.net:8080/81945791/05013455/13481
 #EXTINF:-1 group-title="国际"",Showtime Showcase
 http://fl1.moveonjoy.com/SHOWTIME_SHOWCASE/index.m3u8
 #EXTINF:-1 group-title="国际",TNT Sports 1 
@@ -220,6 +222,7 @@ http://fl1.moveonjoy.com/TSN_3/index.m3u8
 #EXTINF:-1 group-title="国际",TSN 4 
 http://fl1.moveonjoy.com/TSN_4/mpegts
 #EXTINF:-1 group-title="国际",TSN 5 
+http://fl1.moveonjoy.com/TSN_5/index.m3u8
 #EXTINF:-1 group-title="体育",Sky Sports Premier League  
 https://7pal.short.gy/ssportspl
 #EXTINF:-1 group-title="体育",Sky Sports Football  
