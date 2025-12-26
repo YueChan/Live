@@ -17,6 +17,8 @@ https://rt-glb.rttv.com/dvr/rtnews/playlist_4500Kb.m3u8
 https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
 #EXTINF:-1 group-title="国际",MS NOW
 http://cord-cutter.net:8080/81945791/05013455/21376
+EXTINF:-1 group-title="国际",CBS
+http://cord-cutter.net:8080/k4Svp2/645504/120749
 #EXTINF:-1 group-title="国际",NBC
 https://cors-proxy.cooks.fyi/https://streamer2.nexgen.bz/NBC/index.m3u8
 #EXTINF:-1 group-title="国际",NBC News Now
