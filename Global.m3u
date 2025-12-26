@@ -176,6 +176,8 @@ http://cord-cutter.net:8080/k4Svp2/645504/41979
 http://fl1.moveonjoy.com/NBA_TV/index.m3u8
 #EXTINF:-1 group-title="国际",MLB Network
 http://fl1.moveonjoy.com/MLB_NETWORK/index.m3u8
+#EXTINF:-1 group-title="国际",NFL Redzone
+http://cord-cutter.net:8080/k4Svp2/645504/208830
 #EXTINF:-1 group-title="国际",HBO
 http://fl1.moveonjoy.com/HBO/index.m3u8
 #EXTINF:-1 group-title="国际",HBO Hits
