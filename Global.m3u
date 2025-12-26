@@ -17,7 +17,7 @@ https://rt-glb.rttv.com/dvr/rtnews/playlist_4500Kb.m3u8
 https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
 #EXTINF:-1 group-title="国际",MS NOW
 http://cord-cutter.net:8080/81945791/05013455/21376
-EXTINF:-1 group-title="国际",CBS
+#EXTINF:-1 group-title="国际",CBS
 http://cord-cutter.net:8080/k4Svp2/645504/120749
 #EXTINF:-1 group-title="国际",NBC
 https://cors-proxy.cooks.fyi/https://streamer2.nexgen.bz/NBC/index.m3u8
@@ -239,13 +239,13 @@ http://cord-cutter.net:8080/81945791/05013455/10247
 http://cord-cutter.net:8080/81945791/05013455/57299
 #EXTINF:-1 group-title="国际",Sportsnet World
 http://cord-cutter.net:8080/81945791/05013455/75675
-EXTINF:-1 group-title="国际",ESPN
+#EXTINF:-1 group-title="国际",ESPN
 http://cord-cutter.net:8080/k4Svp2/645504/14197
-EXTINF:-1 group-title="国际",ESPN News 
+#EXTINF:-1 group-title="国际",ESPN News 
 http://cord-cutter.net:8080/k4Svp2/645504/17707
-EXTINF:-1 group-title="国际",NHL Network
+#EXTINF:-1 group-title="国际",NHL Network
 http://23.237.104.106:8080/USA_NHL_NETWORK/index.m3u8
-EXTINF:-1 group-title="国际",MotorTrend 
+#EXTINF:-1 group-title="国际",MotorTrend 
 http://cord-cutter.net:8080/k4Svp2/645504/10399
-EXTINF:-1 group-title="国际",SEC Network 
+#EXTINF:-1 group-title="国际",SEC Network 
 http://cord-cutter.net:8080/k4Svp2/645504/17608
