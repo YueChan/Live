@@ -237,3 +237,13 @@ http://cord-cutter.net:8080/81945791/05013455/10247
 http://cord-cutter.net:8080/81945791/05013455/57299
 #EXTINF:-1 group-title="国际",Sportsnet World
 http://cord-cutter.net:8080/81945791/05013455/75675
+EXTINF:-1 group-title="国际",ESPN
+http://cord-cutter.net:8080/k4Svp2/645504/14197
+EXTINF:-1 group-title="国际",ESPN News 
+http://cord-cutter.net:8080/k4Svp2/645504/17707
+EXTINF:-1 group-title="国际",NHL Network
+http://23.237.104.106:8080/USA_NHL_NETWORK/index.m3u8
+EXTINF:-1 group-title="国际",MotorTrend 
+http://cord-cutter.net:8080/k4Svp2/645504/10399
+EXTINF:-1 group-title="国际",SEC Network 
+http://cord-cutter.net:8080/k4Svp2/645504/17608
