@@ -1,8 +1,10 @@
 #EXTM3U
 #EXTINF:-1 group-title="国际",CNN
-https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
+https://ds2c506obo7m8.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-7zjq3tdqasbg8/e18752ea-666a-42c4-bae6-39aee18b24ad/0.m3u8
+#https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 #EXTINF:-1 group-title="国际",BBC News
-https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
+https://d3pxo1qcgzxtxs.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-linear-amc-hlsv3/5ab832c0-311a-4705-9535-5e54ad64b21e/5.m3u8
+#https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
 #EXTINF:-1 group-title="国际",CNA
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 #EXTINF:-1 group-title="国际",FOX News
@@ -31,8 +33,12 @@ https://jmp2.uk/rok-dafd06b712a35fbe9935d4c04c2e8b53.m3u8
 https://live-hls-aje-ak.getaj.net/AJE/01.m3u8
 #EXTINF:-1 group-title="国际",TRT World
 https://tv-trtworld.medya.trt.com.tr/master_1080.m3u8
+#EXTINF:-1 group-title="国际",Fox Business
+http://fl1.moveonjoy.com/FOX_Business_Network/index.m3u8
 #EXTINF:-1 group-title="国际",CNBC
 https://fl1.moveonjoy.com/CNBC/index.m3u8
+#EXTINF:-1 group-title="国际",NEWSMAX
+https://nmx1ota.akamaized.net/hls/live/2107010/Live_1/3.m3u8
 #EXTINF:-1 group-title="国际",Global News
 https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/live-audio_1=96000-video=2499968.m3u8
 #EXTINF:-1 group-title="国际",Arirang K-Pop
@@ -251,6 +257,8 @@ http://cord-cutter.net:8080/81945791/05013455/57299
 http://cord-cutter.net:8080/81945791/05013455/75675
 #EXTINF:-1 group-title="国际",Spectrum Sportsnet
 http://panelguys.top:8080/txd7Fd/030774/20946
+#EXTINF:-1 group-title="国际",ESPNU
+http://fl1.moveonjoy.com/ESPN_U/index.m3u8
 #EXTINF:-1 group-title="国际",ESPN
 http://cord-cutter.net:8080/k4Svp2/645504/14197
 #EXTINF:-1 group-title="国际",ESPN News 
