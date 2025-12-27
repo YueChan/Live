@@ -35,6 +35,8 @@ https://live-hls-aje-ak.getaj.net/AJE/01.m3u8
 https://tv-trtworld.medya.trt.com.tr/master_1080.m3u8
 #EXTINF:-1 group-title="国际",Fox Business
 http://fl1.moveonjoy.com/FOX_Business_Network/index.m3u8
+#EXTINF:-1 group-title="国际",Bloomberg TV
+https://1cd69008d08c486ca5abc0f1c4e2ef63.mediatailor.ap-northeast-1.amazonaws.com/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/Bloomberg-kr-prod/87e22cf4-e302-42f6-a781-1d726fc87835/0.m3u8
 #EXTINF:-1 group-title="国际",CNBC
 https://fl1.moveonjoy.com/CNBC/index.m3u8
 #EXTINF:-1 group-title="国际",NEWSMAX
