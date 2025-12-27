@@ -227,8 +227,6 @@ http://fl1.moveonjoy.com/TSN_1/mpegts
 http://fl1.moveonjoy.com/TSN_4/mpegts
 #EXTINF:-1 group-title="国际",TSN 5 
 http://fl1.moveonjoy.com/TSN_5/index.m3u8
-#EXTINF:-1 group-title="国际",Sky Sports Main Event
-https://a1xs.vip/2000015
 #EXTINF:-1 group-title="国际",Sky Sports Premier League  
 https://7pal.short.gy/ssportspl
 #EXTINF:-1 group-title="国际",Sky Sports Football  
