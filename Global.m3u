@@ -121,6 +121,26 @@ https://lightning-fnf-samsungaus.amagi.tv/playlist.m3u8
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/ldsAAAAAA-timeline-samsungau/playlist.m3u8
 #EXTINF:-1 group-title="国际",Outdoor Channel
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00718-outdoorchannela-outdoortvnz-samsungnz/playlist.m3u8
+#EXTINF:-1 group-title="国际",HBO
+http://fl1.moveonjoy.com/HBO/index.m3u8
+#EXTINF:-1 group-title="国际",HBO Hits
+http://fl1.moveonjoy.com/HBO_2/index.m3u8
+#EXTINF:-1 group-title="国际",HBO Drama
+http://cord-cutter.net:8080/81945791/05013455/9266
+#EXTINF:-1 group-title="国际",HBO Movies
+http://fl1.moveonjoy.com/HBO_ZONE/index.m3u8
+#EXTINF:-1 group-title="国际",Paramount+ with Showtime
+http://fl1.moveonjoy.com/SHOWTIME/index.m3u8
+#EXTINF:-1 group-title="国际",Showtime 2
+http://fl1.moveonjoy.com/SHOWTIME_2/index.m3u8
+#EXTINF:-1 group-title="国际",Showtime Extreme
+http://fl1.moveonjoy.com/SHOWTIME_EXTREME/index.m3u8
+#EXTINF:-1 group-title="国际",Showtime Next
+http://fl1.moveonjoy.com/SHOWTIME_NEXT/index.m3u8
+#EXTINF:-1 group-title="国际",Showtime Women
+http://fl1.moveonjoy.com/SHOWTIME_WOMEN/index.m3u8
+#EXTINF:-1 group-title="国际",Starz Comedy
+http://fl1.moveonjoy.com/STARZ_COMEDY/index.m3u8
 #EXTINF:-1 group-title="国际",Sony One Action HITS
 https://89514e758f814907be6d14bbc0aa66b7.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-800-UK-SONYONEACTIONHITS-LG_UK/playlist.m3u8
 #EXTINF:-1 group-title="国际",Sony One Comedy HITS
@@ -191,26 +211,6 @@ http://fl1.moveonjoy.com/NBA_TV/index.m3u8
 http://fl1.moveonjoy.com/MLB_NETWORK/index.m3u8
 #EXTINF:-1 group-title="国际",NFL Redzone
 http://cord-cutter.net:8080/k4Svp2/645504/208830
-#EXTINF:-1 group-title="国际",HBO
-http://fl1.moveonjoy.com/HBO/index.m3u8
-#EXTINF:-1 group-title="国际",HBO Hits
-http://fl1.moveonjoy.com/HBO_2/index.m3u8
-#EXTINF:-1 group-title="国际",HBO Drama
-http://cord-cutter.net:8080/81945791/05013455/9266
-#EXTINF:-1 group-title="国际",HBO Movies
-http://fl1.moveonjoy.com/HBO_ZONE/index.m3u8
-#EXTINF:-1 group-title="国际",Paramount+ with Showtime
-http://fl1.moveonjoy.com/SHOWTIME/index.m3u8
-#EXTINF:-1 group-title="国际",Showtime 2
-http://fl1.moveonjoy.com/SHOWTIME_2/index.m3u8
-#EXTINF:-1 group-title="国际",Showtime Extreme
-http://fl1.moveonjoy.com/SHOWTIME_EXTREME/index.m3u8
-#EXTINF:-1 group-title="国际",Showtime Next
-http://fl1.moveonjoy.com/SHOWTIME_NEXT/index.m3u8
-#EXTINF:-1 group-title="国际",Showtime Women
-http://fl1.moveonjoy.com/SHOWTIME_WOMEN/index.m3u8
-#EXTINF:-1 group-title="国际",Starz Comedy
-http://fl1.moveonjoy.com/STARZ_COMEDY/index.m3u8
 #EXTINF:-1 group-title="国际",TNT Sports 1 
 https://7pal.short.gy/tntspts1
 #EXTINF:-1 group-title="国际",TNT Sports 2 
@@ -263,6 +263,10 @@ http://fl1.moveonjoy.com/ESPN_U/index.m3u8
 http://cord-cutter.net:8080/k4Svp2/645504/14197
 #EXTINF:-1 group-title="国际",ESPN News 
 http://cord-cutter.net:8080/k4Svp2/645504/17707
+#EXTINF:-1 group-title="国际",FS1
+http://fl1.moveonjoy.com/FOX_Sports_1/index.m3u8
+#EXTINF:-1 group-title="国际",FS2
+https://a1xs.vip/40000022
 #EXTINF:-1 group-title="国际",NHL Network
 http://23.237.104.106:8080/USA_NHL_NETWORK/index.m3u8
 #EXTINF:-1 group-title="国际",MotorTrend 
@@ -287,8 +291,6 @@ https://fl1.moveonjoy.com/COOKING_CHANNEL/index.m3u8
 http://cord-cutter.net:8080/k4Svp2/645504/125831
 #EXTINF:-1 group-title="国际",CW
 http://cord-cutter.net:8080/k4Svp2/645504/120893
-#EXTINF:-1 group-title="国际",Crime Investigation
-https://fl1.moveonjoy.com/Crime_and_Investigation_Network/index.m3u8
 #EXTINF:-1 group-title="国际",FDSN Florida
 http://cord-cutter.net:8080/k4Svp2/645504/46794
 #EXTINF:-1 group-title="国际",Food Network
