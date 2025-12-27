@@ -12,6 +12,7 @@ http://fl1.moveonjoy.com/FOX_NEWS_CHANNEL/index.m3u8
 #EXTINF:-1 group-title="国际",GB News
 http://powerserver.ottc.pro:80/PWYZQZ93BU/FZYPDZNITZ/445135
 #EXTINF:-1 group-title="国际",Sky News
+https://dbrb49pjoymg4.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/718c39c4-3fb9-4ecd-9c56-a7b880c7df7d/4.m3u8
 http://powerserver.ottc.pro:80/PWYZQZ93BU/FZYPDZNITZ/4863
 #EXTINF:-1 group-title="国际",RT News
 https://rt-glb.rttv.com/dvr/rtnews/playlist_4500Kb.m3u8
