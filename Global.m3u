@@ -265,8 +265,6 @@ http://fl1.moveonjoy.com/C-SPAN/index.m3u8
 https://fl1.moveonjoy.com/COOKING_CHANNEL/index.m3u8
 #EXTINF:-1 group-title="国际",Comet TV
 http://cord-cutter.net:8080/k4Svp2/645504/125831
-#EXTINF:-1 group-title="国际",Court TV
-http://cord-cutter.net:8080/k4Svp2/645504/21092
 #EXTINF:-1 group-title="国际",CW
 http://cord-cutter.net:8080/k4Svp2/645504/120893
 #EXTINF:-1 group-title="国际",Crime Investigation
@@ -297,8 +295,6 @@ https://fl1.moveonjoy.com/HALLMARK_DRAMA/index.m3u8
 https://fl1.moveonjoy.com/HALLMARK_MOVIES_MYSTERIES/index.m3u8
 #EXTINF:-1 group-title="国际",Lifetime
 http://fl1.moveonjoy.com/LIFETIME/index.m3u8
-#EXTINF:-1 group-title="国际",Lifetime Movie Network
-https://fl1.moveonjoy.com/LIFETIME_MOVIE_NETWORK/index.m3u8
 #EXTINF:-1 group-title="国际",Voice TV
 http://cord-cutter.net:8080/k4Svp2/645504/46697
 #EXTINF:-1 group-title="国际",YES Network
