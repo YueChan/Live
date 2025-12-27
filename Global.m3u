@@ -249,3 +249,57 @@ http://23.237.104.106:8080/USA_NHL_NETWORK/index.m3u8
 http://cord-cutter.net:8080/k4Svp2/645504/10399
 #EXTINF:-1 group-title="国际",SEC Network 
 http://cord-cutter.net:8080/k4Svp2/645504/17608
+#EXTINF:-1 group-title="国际",AMC
+http://cord-cutter.net:8080/k4Svp2/645504/18925
+#EXTINF:-1 group-title="国际",Aspire
+http://fl1.moveonjoy.com/Aspire/index.m3u8
+#EXTINF:-1 group-title="国际",Astro Premier League
+http://stalker.klma2023.net/play/live.php?mac=00:1B:79:F8:59:0E&stream=1163984&extension=ts
+#EXTINF:-1 group-title="国际",BET
+http://fl1.moveonjoy.com/BET_EAST/index.m3u8
+#EXTINF:-1 group-title="国际",Bravo TV
+http://fl1.moveonjoy.com/BRAVO/index.m3u8
+#EXTINF:-1 group-title="国际",C-Span
+http://fl1.moveonjoy.com/C-SPAN/index.m3u8
+#EXTINF:-1 group-title="国际",Cooking Channel
+https://fl1.moveonjoy.com/COOKING_CHANNEL/index.m3u8
+#EXTINF:-1 group-title="国际",Comet TV
+http://cord-cutter.net:8080/k4Svp2/645504/125831
+#EXTINF:-1 group-title="国际",Court TV
+http://cord-cutter.net:8080/k4Svp2/645504/21092
+#EXTINF:-1 group-title="国际",CW
+http://cord-cutter.net:8080/k4Svp2/645504/120893
+#EXTINF:-1 group-title="国际",Crime Investigation
+https://fl1.moveonjoy.com/Crime_and_Investigation_Network/index.m3u8
+#EXTINF:-1 group-title="国际",FDSN Florida
+http://cord-cutter.net:8080/k4Svp2/645504/46794
+#EXTINF:-1 group-title="国际",Food Network
+http://cord-cutter.net:8080/k4Svp2/645504/7323
+#EXTINF:-1 group-title="国际",FX Movie Channel
+http://fl1.moveonjoy.com/FX_MOVIE/index.m3u8
+#EXTINF:-1 group-title="国际",FX
+http://cord-cutter.net:8080/k4Svp2/645504/46690
+#EXTINF:-1 group-title="国际",FXX
+http://cord-cutter.net:8080/k4Svp2/645504/46699
+#EXTINF:-1 group-title="国际",FYI TV
+http://fl1.moveonjoy.com/FYI/index.m3u8
+#EXTINF:-1 group-title="国际",get TV
+http://cord-cutter.net:8080/k4Svp2/645504/18366
+#EXTINF:-1 group-title="国际",Grit TV
+http://fl1.moveonjoy.com/GRIT_TV/index.m3u8
+#EXTINF:-1 group-title="国际",Golf Channel
+https://fl1.moveonjoy.com/GOLF/index.m3u8
+#EXTINF:-1 group-title="国际",Hallmark Channel
+http://fl1.moveonjoy.com/HALLMARK_CHANNEL/index.m3u8
+#EXTINF:-1 group-title="国际",Hallmark Family
+https://fl1.moveonjoy.com/HALLMARK_DRAMA/index.m3u8
+#EXTINF:-1 group-title="国际",Hallmark Mystery
+https://fl1.moveonjoy.com/HALLMARK_MOVIES_MYSTERIES/index.m3u8
+#EXTINF:-1 group-title="国际",Lifetime
+http://fl1.moveonjoy.com/LIFETIME/index.m3u8
+#EXTINF:-1 group-title="国际",Lifetime Movie Network
+https://fl1.moveonjoy.com/LIFETIME_MOVIE_NETWORK/index.m3u8
+#EXTINF:-1 group-title="国际",Voice TV
+http://cord-cutter.net:8080/k4Svp2/645504/46697
+#EXTINF:-1 group-title="国际",YES Network
+https://fl1.moveonjoy.com/YES_NETWORK/index.m3u8
