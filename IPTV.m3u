@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://gh-proxy.org/https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/epg.xml.gz"
+#EXTM3U x-tvg-url="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/epg.xml.gz"
 #EXTINF:-1 channel-number="1" tvg-id="1" tvg-name="CCTV-1高清" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/CCTV/CCTV-1.png" group-title="央视" zz-definition="HD" catchup="default" catchup-source="rtsp://61.135.88.136/TVOD/88888892/224/3221225880/10000100000000060000000000025506_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",CCTV-1 综合
 rtp://239.3.1.129:8008
 #EXTINF:-1 channel-number="2" tvg-id="2" tvg-name="CCTV-2高清" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/CCTV/CCTV-2.png" group-title="央视" zz-definition="HD" catchup="default" catchup-source="rtsp://61.135.88.136/TVOD/88888892/224/3221226036/10000100000000060000000000285832_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",CCTV-2 财经
