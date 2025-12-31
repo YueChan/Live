@@ -19,8 +19,12 @@ https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
 http://cord-cutter.net:8080/81945791/05013455/21376
 #EXTINF:-1 group-title="国际",CBS
 http://cord-cutter.net:8080/k4Svp2/645504/120749
+#EXTINF:-1 group-title="国际",CNBC
+https://fl1.moveonjoy.com/CNBC/index.m3u8
 #EXTINF:-1 group-title="国际",NBC
 https://fl1.moveonjoy.com/FL_Tampa_NBC/index.m3u8
+#EXTINF:-1 group-title="国际",MSNBC
+https://fl1.moveonjoy.com/MSNBC/index.m3u8
 #EXTINF:-1 group-title="国际",NBC News Now
 https://livehub-voidnet.onrender.com/cluster/streamcore/us/NBC_REDIS.m3u8
 #EXTINF:-1 group-title="国际",LiveNow
@@ -35,8 +39,6 @@ https://tv-trtworld.medya.trt.com.tr/master_1080.m3u8
 http://fl1.moveonjoy.com/FOX_Business_Network/index.m3u8
 #EXTINF:-1 group-title="国际",Bloomberg TV
 https://1cd69008d08c486ca5abc0f1c4e2ef63.mediatailor.ap-northeast-1.amazonaws.com/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/Bloomberg-kr-prod/87e22cf4-e302-42f6-a781-1d726fc87835/0.m3u8
-#EXTINF:-1 group-title="国际",CNBC
-https://fl1.moveonjoy.com/CNBC/index.m3u8
 #EXTINF:-1 group-title="国际",NEWSMAX
 https://nmx1ota.akamaized.net/hls/live/2107010/Live_1/3.m3u8
 #EXTINF:-1 group-title="国际",Global News
@@ -223,8 +225,6 @@ https://a1xs.vip/2000031
 http://fl1.moveonjoy.com/TSN_1/mpegts
 #EXTINF:-1 group-title="国际",TSN 4 
 http://fl1.moveonjoy.com/TSN_4/mpegts
-#EXTINF:-1 group-title="国际",TSN 5 
-http://fl1.moveonjoy.com/TSN_5/index.m3u8
 #EXTINF:-1 group-title="国际",Sky Sports Premier League  
 https://7pal.short.gy/ssportspl
 #EXTINF:-1 group-title="国际",Sky Sports Football  
