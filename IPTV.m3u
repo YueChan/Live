@@ -56,9 +56,9 @@ rtp://239.3.1.114:3004
 #EXTINF:-1 channel-number="50" tvg-id="50" tvg-name="山东卫视高清" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/WeiShi/ShanDong.png" group-title="卫视" zz-definition="HD" catchup="default" catchup-source="http://61.135.88.136/TVOD/88888892/224/3221226002/10000100000000060000000000205202_0.smil/index.m3u8?fmt=ts2hls&playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",山东卫视
 rtp://239.3.1.144:3005
 #EXTINF:-1 channel-number="72" tvg-id="72" tvg-name="广东卫视高清" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/WeiShi/GuangDong.png" group-title="卫视" zz-definition="HD" catchup="default" catchup-source="http://61.135.88.136/TVOD/88888892/224/3221225983/10000100000000060000000000176932_0.smil/index.m3u8?fmt=ts2hls&playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",广东卫视
-rtp://239.3.1.203:2000
+rtp://239.3.1.27:2000
 #EXTINF:-1 channel-number="74" tvg-id="74" tvg-name="深圳卫视高清" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/WeiShi/ShenZhen.png" group-title="卫视" zz-definition="HD" catchup="default" catchup-source="http://61.135.88.136/TVOD/88888892/224/3221225869/10000100000000060000000000025093_0.smil/index.m3u8?fmt=ts2hls&playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",深圳卫视
-rtp://239.3.1.202:2000
+rtp://239.3.1.28:2000
 #EXTINF:-1 channel-number="142" tvg-id="142" tvg-name="四川卫视" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/WeiShi/SiChuan.png" group-title="卫视" zz-definition="SD" catchup="default" catchup-source="http://61.135.88.136/TVOD/88888892/224/3221225831/10000100000000060000000000025055_0.smil/index.m3u8?fmt=ts2hls&playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",四川卫视
 rtp://239.3.1.131:3001
 #EXTINF:-1 channel-number="58" tvg-id="58" tvg-name="江西卫视高清" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/WeiShi/JiangXi.png" group-title="卫视" zz-definition="HD" catchup="default" catchup-source="rtsp://61.135.88.136/TVOD/88888892/224/3221226136/10000100000000060000000001103865_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",江西卫视
