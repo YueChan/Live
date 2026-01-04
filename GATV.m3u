@@ -5,8 +5,6 @@ http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
 http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
 #EXTINF:-1 group-title="港台",凤凰香港
 http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
-#EXTINF:-1 group-title="港台",澳门莲花
-http://live-hls.macaulotustv.com/lotustv/macaulotustv.m3u8
 #EXTINF:-1 group-title="港台",天映频道
 http://php.jdshipin.com/smt.php?id=Celestial
 #EXTINF:-1 group-title="港台",Pearl
@@ -57,5 +55,3 @@ http://php.jdshipin.com/TVOD/iptv.php?id=hoytv
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk31
 #EXTINF:-1 group-title="港台",RTHK32
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk32
-#EXTINF:-1 group-title="港台",爱奇艺
-http://php.jdshipin.com/smt.php?id=Qiyi
