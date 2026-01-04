@@ -41,9 +41,9 @@ http://ls.qingting.fm/live/332.m3u8
 https://brtv-radiolive.rbc.cn/alive/fm1073.m3u8
 #EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/BJTYGB.png" group-title="综合广播",北京体育广播
 https://brtv-radiolive.rbc.cn/alive/fm1025.m3u8
-#EXTINF:-1 tvg-logo="http://live.cooltv.top/logo/bj969.png" group-title="音乐广播",北京阳光调频
+#EXTINF:-1 tvg-logo="http://live.cooltv.top/logo/bj969.png" group-title="综合广播",北京阳光调频
 https://lhttp.qtfm.cn/live/5021739/64k.mp3
-#EXTINF:-1 tvg-logo="https://radio.0472.org/?id=1254&logo" group-title="音乐广播",北京经典调频
+#EXTINF:-1 tvg-logo="https://radio.0472.org/?id=1254&logo" group-title="综合广播",北京经典调频
 https://radio.0472.org/?id=1254
 #EXTINF:-1 tvg-logo="http://live.cooltv.top/logo/hyhq.png" group-title="综合广播",CRI华语环球
 http://sk.cri.cn/hyhq.m3u8
