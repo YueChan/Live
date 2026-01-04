@@ -53,6 +53,10 @@ http://sk.cri.cn/905.m3u8
 https://sk.cri.cn/nhzs.m3u8
 #EXTINF:-1 tvg-logo="http://live.cooltv.top/logo/cgtnradio.png" group-title="综合广播",CRI英语资讯
 http://sk.cri.cn/am846.m3u8
+#EXTINF:-1 tvg-logo="https://live.fanmingming.cn/radio/rthk.png" group-title="综合广播",RTHK3
+https://rthkradio3-live.akamaized.net/hls/live/2040079/radio3/master.m3u8
+#EXTINF:-1 tvg-logo="https://live.fanmingming.cn/radio/rthk.png" group-title="综合广播",RTHK普通话
+https://rthkradiopth-live.akamaized.net/hls/live/2040082/radiopth/master.m3u8
 #EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/HNLYGB.png" group-title="综合广播",湖南旅游广播
 https://satellitepull.cnr.cn/live/wx32hunlygb/playlist.m3u8
 #EXTINF:-1 tvg-name="湖南经济广播" tvg-logo="https://radio.0472.org/?id=1056&logo" group-title="综合广播",湖南经济广播
@@ -135,6 +139,10 @@ https://radio.0472.org/?id=1158
 https://radio.0472.org/?id=543
 #EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/HBWYGB.png" group-title="音乐广播",河北文艺广播
 http://satellitepull.cnr.cn/live/wxhebwygb/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://live.fanmingming.cn/radio/rfi.png" group-title="境外广播",Radio France Interntional
+https://rfienchinois64k.ice.infomaniak.ch/rfienchinois-64.mp3
+#EXTINF:-1 tvg-logo="https://live.fanmingming.cn/radio/中广新闻网.png" group-title="境外广播",BCC News Network
+http://stream.rcs.revma.com/78fm9wyy2tzuv
 #EXTINF:-1 group-title="境外广播",BBC World Service
 http://as-hls-ww-live.akamaized.net/pool_87948813/live/ww/bbc_world_service/bbc_world_service.isml/bbc_world_service-audio%3d96000.norewind.m3u8
 #EXTINF:-1 group-title="境外广播",CNN
@@ -191,11 +199,3 @@ http://as-hls-ww-live.akamaized.net/pool_89021708/live/ww/bbc_radio_five_live/bb
 http://as-hls-ww-live.akamaized.net/pool_81827798/live/ww/bbc_6music/bbc_6music.isml/bbc_6music-audio%3d96000.norewind.m3u8
 #EXTINF:-1 group-title="境外广播",BBC Radio Asian Network
 http://as-hls-ww-live.akamaized.net/pool_22108647/live/ww/bbc_asian_network/bbc_asian_network.isml/bbc_asian_network-audio%3d96000.norewind.m3u8
-#EXTINF:-1 tvg-logo="https://live.fanmingming.cn/radio/rthk.png" group-title="境外广播",RTHK3
-https://rthkradio3-live.akamaized.net/hls/live/2040079/radio3/master.m3u8
-#EXTINF:-1 tvg-logo="https://live.fanmingming.cn/radio/rthk.png" group-title="境外广播",RTHK普通话
-https://rthkradiopth-live.akamaized.net/hls/live/2040082/radiopth/master.m3u8
-#EXTINF:-1 tvg-logo="https://live.fanmingming.cn/radio/rfi.png" group-title="境外广播",RFI中文广播
-https://rfienchinois64k.ice.infomaniak.ch/rfienchinois-64.mp3
-#EXTINF:-1 tvg-logo="https://live.fanmingming.cn/radio/中广新闻网.png" group-title="境外广播",BCC中广新闻
-http://stream.rcs.revma.com/78fm9wyy2tzuv
