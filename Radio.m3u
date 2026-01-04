@@ -43,6 +43,8 @@ https://brtv-radiolive.rbc.cn/alive/fm1073.m3u8
 https://brtv-radiolive.rbc.cn/alive/fm1025.m3u8
 #EXTINF:-1 tvg-logo="http://live.cooltv.top/logo/bj969.png" group-title="音乐广播",北京阳光调频
 https://lhttp.qtfm.cn/live/5021739/64k.mp3
+#EXTINF:-1 tvg-logo="https://radio.0472.org/?id=1254&logo" group-title="音乐广播",北京经典调频
+https://radio.0472.org/?id=1254
 #EXTINF:-1 tvg-logo="http://live.cooltv.top/logo/hyhq.png" group-title="综合广播",CRI华语环球
 http://sk.cri.cn/hyhq.m3u8
 #EXTINF:-1 tvg-logo="http://live.cooltv.top/logo/hqzx.png" group-title="综合广播",CRI环球资讯
@@ -189,3 +191,11 @@ http://as-hls-ww-live.akamaized.net/pool_89021708/live/ww/bbc_radio_five_live/bb
 http://as-hls-ww-live.akamaized.net/pool_81827798/live/ww/bbc_6music/bbc_6music.isml/bbc_6music-audio%3d96000.norewind.m3u8
 #EXTINF:-1 group-title="境外广播",BBC Radio Asian Network
 http://as-hls-ww-live.akamaized.net/pool_22108647/live/ww/bbc_asian_network/bbc_asian_network.isml/bbc_asian_network-audio%3d96000.norewind.m3u8
+#EXTINF:-1 tvg-logo="https://live.fanmingming.cn/radio/rthk.png" group-title="境外广播",RTHK3
+https://rthkradio3-live.akamaized.net/hls/live/2040079/radio3/master.m3u8
+#EXTINF:-1 tvg-logo="https://live.fanmingming.cn/radio/rthk.png" group-title="境外广播",RTHK普通话
+https://rthkradiopth-live.akamaized.net/hls/live/2040082/radiopth/master.m3u8
+#EXTINF:-1 tvg-logo="https://live.fanmingming.cn/radio/rfi.png" group-title="境外广播",RFI中文广播
+https://rfienchinois64k.ice.infomaniak.ch/rfienchinois-64.mp3
+#EXTINF:-1 tvg-logo="https://live.fanmingming.cn/radio/中广新闻网.png" group-title="境外广播",BCC中广新闻
+http://stream.rcs.revma.com/78fm9wyy2tzuv
