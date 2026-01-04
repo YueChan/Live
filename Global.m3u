@@ -24,7 +24,7 @@ https://fl1.moveonjoy.com/CNBC/index.m3u8
 #EXTINF:-1 group-title="国际",NBC
 https://fl1.moveonjoy.com/FL_Tampa_NBC/index.m3u8
 #EXTINF:-1 group-title="国际",MSNBC
-https://fl1.moveonjoy.com/MSNBC/index.m3u8
+http://41.205.93.154/MSNBC/index.m3u8
 #EXTINF:-1 group-title="国际",NBC News Now
 https://livehub-voidnet.onrender.com/cluster/streamcore/us/NBC_REDIS.m3u8
 #EXTINF:-1 group-title="国际",LiveNow
@@ -69,7 +69,7 @@ https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
 https://jmp2.uk/rok-62f1cd0d4c395a2a8ab72cff688666a0.m3u8
 #EXTINF:-1 group-title="国际",Eurosport 4K
 http://nvsoo4tx.megogo.xyz/iptv/UWA8DBPMZFQ9PX9ZLSBM7FFX/31475/index.m3u8
-#EXTINF:-1 group-title="国际",BEIN Sports  
+#EXTINF:-1 group-title="国际",BEIN Sports
 http://fl1.moveonjoy.com/BEIN_SPORTS/index.m3u8
 #EXTINF:-1 group-title="国际",BEIN Sports Extra
 https://bein-xtra-xumo.amagi.tv/playlist.m3u8
@@ -193,7 +193,7 @@ https://ads.its-newid.net/api/manifest.m3u8?tp=lg_channels&channel_name=sbsk-dra
 https://ads.its-newid.net/api/manifest.m3u8?tp=lg_channels&channel_name=newkmovies&channel_id=newid_219&mpf=adfc204d-39af1962-13a2f01a&apikey=48230e6b-1cea0097-15975f93-39af1962&auth=b62c2c8b-8316a771-295eba28-f4663ddd&ads.live=[CONTENT_LIVE]&ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.us_privacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]
 #EXTINF:-1 group-title="国际",Tennis Channel
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischnlintl-lggb/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.coppa=0&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]
-#EXTINF:-1 group-title="国际",NFL Network 
+#EXTINF:-1 group-title="国际",NFL Network
 http://cord-cutter.net:8080/k4Svp2/645504/159117
 #EXTINF:-1 group-title="国际",Universal Monsters
 https://d4whmvwm0rdvi.cloudfront.net/10007/99993044/hls/master.m3u8?ads.xumo_channelId=99993044&ads.asnw=169843&ads.afid=380753606&ads.sfid=17850336&ads.csid=lgchannels_us_nbcuuniversalmonsters_ssai_cro&ads._fw_is_lat=[LMT]&ads._fw_us_privacy=[US_PRIVACY]&ads._fw_coppa=0&ads._fw_did=[IFA]&ads._fw_vcid2=512116:[IFA]&ads._fw_app_bundle=[APP_BUNDLE]&ads._fw_app_store_url=[APP_STOREURL]&ads._fw_content_category=IAB1-7&ads._fw_content_genre=television&ads._fw_content_language=en&ads._fw_content_rating=tv-14&ads._fw_deviceMake=[DEVICE_MAKE]&ads._fw_device_model=[DEVICE_MODEL]&ads._fw_deviceType=3-Connected_TV&ads.appVersion=[APP_VERSION]&ads.appName=lgchannels&ads.xumo_contentId=3940&ads.xumo_contentName=NBCUUniversalMonsters&ads.xumo_providerId=3940&ads.xumo_providerName=NBCUUniversalMonsters&ads.channelId=99993044&ads._fw_ifa_type=dpid&ads.givn=[NONCE]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]
@@ -203,7 +203,7 @@ http://cord-cutter.net:8080/k4Svp2/645504/9297
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-ionplus-tablo/playlist.m3u8
 #EXTINF:-1 group-title="国际",Billiard TV
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=15270&avod=1&coppa=0&td=6&is_lat=[LMT]&dnt=[DNS]&us_privacy=[US_PRIVACY]&did=[DEVICE_ID]&ip=[IP]&ua=[UA]&ifa_type=[IFA_TYPE]&app_bundle=[APP_BUNDLE]&app_store_url=[APP_STOREURL]&app_name=[APP_NAME]&custom_targeting=html5&custom_4=lg_channels_us&player_height=720&player_width=1280&content_channel=lg_channels&content_dist_name=lg_channels&device_make=[DEVICE_MAKE]&device_model=[DEVICE_MODEL]&device_os=html5&consent=[GDPR_CONSENT]&gdpr=[GDPR]&gender=not_specified&yob=0&livestream=1&custom_param_0=[DEVICE_MODEL]&custom_param_1=tv&custom_param_2=[DEVICE_MAKE]&custom_param_3=[DEVICE_ID]&custom_param_4=lg_channels&custom_param_5=html5&fck=[FCK]&viewsize=[VIEWSIZE]&nonce=[NONCE]
-#EXTINF:-1 group-title="国际",Willow Cricket 
+#EXTINF:-1 group-title="国际",Willow Cricket
 http://cord-cutter.net:8080/k4Svp2/645504/41979
 #EXTINF:-1 group-title="国际",NBA TV
 http://fl1.moveonjoy.com/NBA_TV/index.m3u8
@@ -211,35 +211,35 @@ http://fl1.moveonjoy.com/NBA_TV/index.m3u8
 http://fl1.moveonjoy.com/MLB_NETWORK/index.m3u8
 #EXTINF:-1 group-title="国际",NFL Redzone
 http://cord-cutter.net:8080/k4Svp2/645504/208830
-#EXTINF:-1 group-title="国际",TNT Sports 1 
+#EXTINF:-1 group-title="国际",TNT Sports 1
 https://7pal.short.gy/tntspts1
-#EXTINF:-1 group-title="国际",TNT Sports 2 
+#EXTINF:-1 group-title="国际",TNT Sports 2
 https://7pal.short.gy/tntspts2
-#EXTINF:-1 group-title="国际",TNT Sports 3 
+#EXTINF:-1 group-title="国际",TNT Sports 3
 https://7pal.short.gy/tntspts3
-#EXTINF:-1 group-title="国际",TNT Sports 4 
+#EXTINF:-1 group-title="国际",TNT Sports 4
 https://7pal.short.gy/tntspts4
 #EXTINF:-1 group-title="国际",TNT Sports Ultimate
 https://a1xs.vip/2000031
-#EXTINF:-1 group-title="国际",TSN 1 
+#EXTINF:-1 group-title="国际",TSN 1
 http://fl1.moveonjoy.com/TSN_1/mpegts
-#EXTINF:-1 group-title="国际",TSN 4 
+#EXTINF:-1 group-title="国际",TSN 4
 http://fl1.moveonjoy.com/TSN_4/mpegts
-#EXTINF:-1 group-title="国际",Sky Sports Premier League  
+#EXTINF:-1 group-title="国际",Sky Sports Premier League
 https://7pal.short.gy/ssportspl
-#EXTINF:-1 group-title="国际",Sky Sports Football  
+#EXTINF:-1 group-title="国际",Sky Sports Football
 https://7pal.short.gy/ssportsfb
-#EXTINF:-1 group-title="国际",Sky Sports+  
+#EXTINF:-1 group-title="国际",Sky Sports+
 https://a1xs.vip/2000012
 #EXTINF:-1 group-title="国际",Sky Sports F1
 http://nocable.cc:8080/bn80NG/909467/53704
-#EXTINF:-1 group-title="国际",Sky Sports Tennis 
+#EXTINF:-1 group-title="国际",Sky Sports Tennis
 https://a1xs.vip/2000013
-#EXTINF:-1 group-title="国际",Sky Sports News  
+#EXTINF:-1 group-title="国际",Sky Sports News
 https://7pal.short.gy/ssportsnw
-#EXTINF:-1 group-title="国际",Sky Sports NFL  
+#EXTINF:-1 group-title="国际",Sky Sports NFL
 https://a1xs.vip/2000011
-#EXTINF:-1 group-title="国际",Sky Sports Mix 
+#EXTINF:-1 group-title="国际",Sky Sports Mix
 https://a1xs.vip/2000008
 #EXTINF:-1 group-title="国际",Sky Sports Cricket
 http://nocable.cc:8080/bn80NG/909467/45940
@@ -257,7 +257,7 @@ http://panelguys.top:8080/txd7Fd/030774/20946
 http://fl1.moveonjoy.com/ESPN_U/index.m3u8
 #EXTINF:-1 group-title="国际",ESPN
 http://cord-cutter.net:8080/k4Svp2/645504/14197
-#EXTINF:-1 group-title="国际",ESPN News 
+#EXTINF:-1 group-title="国际",ESPN News
 http://cord-cutter.net:8080/k4Svp2/645504/17707
 #EXTINF:-1 group-title="国际",ESPN2
 http://1tv41.icu:8080/8434692955/judgen64@yahoo.com/2210
@@ -267,9 +267,9 @@ http://fl1.moveonjoy.com/FOX_Sports_1/index.m3u8
 https://a1xs.vip/40000022
 #EXTINF:-1 group-title="国际",NHL Network
 http://23.237.104.106:8080/USA_NHL_NETWORK/index.m3u8
-#EXTINF:-1 group-title="国际",MotorTrend 
+#EXTINF:-1 group-title="国际",MotorTrend
 http://cord-cutter.net:8080/k4Svp2/645504/10399
-#EXTINF:-1 group-title="国际",SEC Network 
+#EXTINF:-1 group-title="国际",SEC Network
 http://cord-cutter.net:8080/k4Svp2/645504/17608
 #EXTINF:-1 group-title="国际",AMC
 http://cord-cutter.net:8080/k4Svp2/645504/18925
@@ -277,12 +277,12 @@ http://cord-cutter.net:8080/k4Svp2/645504/18925
 http://fl1.moveonjoy.com/Aspire/index.m3u8
 #EXTINF:-1 group-title="国际",Astro Premier League
 http://stalker.klma2023.net/play/live.php?mac=00:1B:79:F8:59:0E&stream=1163984&extension=ts
-#EXTINF:-1 group-title="国际",BET
-http://fl1.moveonjoy.com/BET_EAST/index.m3u8
+#EXTINF:-1 group-title="国际",Persuit Channel
+https://d2qa45tniogkj6.cloudfront.net/out/v1/30f129d3a8a8482b9efe5092cf46e601/index.m3u8
 #EXTINF:-1 group-title="国际",Bravo TV
 http://fl1.moveonjoy.com/BRAVO/index.m3u8
-#EXTINF:-1 group-title="国际",C-Span
-http://fl1.moveonjoy.com/C-SPAN/index.m3u8
+#EXTINF:-1 group-title="国际",The First 
+https://thefirst-oando.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="国际",Cooking Channel
 https://fl1.moveonjoy.com/COOKING_CHANNEL/index.m3u8
 #EXTINF:-1 group-title="国际",Comet TV
