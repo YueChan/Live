@@ -89,20 +89,6 @@ http://nvsoo4tx.megogo.xyz/iptv/UWA8DBPMZFQ9PX9ZLSBM7FFX/14026/index.m3u8
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01258-raycomsports-powernationau-samsungau/playlist.m3u8
 #EXTINF:-1 group-title="国际",Trace Urban
 https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="国际",Disney Channel
-http://supersonictv.live:8080/live/006779/439866/21795.m3u8
-#EXTINF:-1 group-title="国际",Disney XD
-http://supersonictv.live:8080/live/006779/439866/21801.m3u8
-#EXTINF:-1 group-title="国际",Discovery Life
-http://hardcoremedia.xyz:80/2sUX8DtA5/W30x4yBJXH/129866
-#EXTINF:-1 group-title="国际",Discovery Family
-http://hardcoremedia.xyz:80/2sUX8DtA5/W30x4yBJXH/129865
-#EXTINF:-1 group-title="国际",Discovery Science
-http://hardcoremedia.xyz:80/2sUX8DtA5/W30x4yBJXH/129867
-#EXTINF:-1 group-title="国际",National Geographic Wild
-http://hardcoremedia.xyz:80/2sUX8DtA5/W30x4yBJXH/129927
-#EXTINF:-1 group-title="国际",National Geographic
-http://hardcoremedia.xyz:80/2sUX8DtA5/W30x4yBJXH/129928
 #EXTINF:-1 group-title="国际",Kartoon Channel
 https://lightning-fnf-samsungaus.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="国际",History Hit
@@ -209,8 +195,6 @@ https://7pal.short.gy/ssportspl
 https://7pal.short.gy/ssportsfb
 #EXTINF:-1 group-title="国际",Sky Sports+
 https://a1xs.vip/2000012
-#EXTINF:-1 group-title="国际",Sky Sports F1
-http://nocable.cc:8080/bn80NG/909467/53704
 #EXTINF:-1 group-title="国际",Sky Sports Tennis
 https://a1xs.vip/2000013
 #EXTINF:-1 group-title="国际",Sky Sports News
@@ -219,8 +203,6 @@ https://7pal.short.gy/ssportsnw
 https://a1xs.vip/2000011
 #EXTINF:-1 group-title="国际",Sky Sports Mix
 https://a1xs.vip/2000008
-#EXTINF:-1 group-title="国际",Spectrum Sportsnet
-http://panelguys.top:8080/txd7Fd/030774/20946
 #EXTINF:-1 group-title="国际",ESPNU
 http://fl1.moveonjoy.com/ESPN_U/index.m3u8
 #EXTINF:-1 group-title="国际",ESPN2
