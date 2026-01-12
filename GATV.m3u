@@ -9,7 +9,7 @@ http://61.221.215.25:8800/hls/9/index.m3u8
 http://38.64.72.148/hls/modn/list/4005/playlist.m3u8
 #EXTINF:-1 group-title="港台",民视新闻
 http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8
-#EXTINF:-1 group-title="港台",东森美洲2
+#EXTINF:-1 group-title="港台",东森美洲
 http://38.64.72.148:80/hls/modn/list/2015/chunklist0.m3u8
 #EXTINF:-1 group-title="港台",台视新闻
 http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
