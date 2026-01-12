@@ -3,18 +3,12 @@
 https://live.wcetv.com/hls/m3u8/ttvnews.m3u8
 #EXTINF:-1 group-title="港台",TVBS新闻
 http://61.221.215.25:8800/hls/9/index.m3u8
-#EXTINF:-1 group-title="港台",TVBS新闻
-http://61.221.215.25:8800/hls/9/index.m3u8
 #EXTINF:-1 group-title="港台",TVBS亚洲
 http://38.64.72.148/hls/modn/list/4005/playlist.m3u8
 #EXTINF:-1 group-title="港台",民视新闻
 http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8
 #EXTINF:-1 group-title="港台",东森美洲
 http://38.64.72.148:80/hls/modn/list/2015/chunklist0.m3u8
-#EXTINF:-1 group-title="港台",台视新闻
-http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
-#EXTINF:-1 group-title="港台",非凡新闻
-rtmp://f13h.mine.nu/sat/tv581
 #EXTINF:-1 group-title="港台",三立戏剧
 http://61.221.215.25:8800/hls/41/index.m3u8
 #EXTINF:-1 group-title="港台",中天娱乐
