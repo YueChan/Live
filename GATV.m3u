@@ -45,3 +45,5 @@ http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk32
 http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/03.m3u8
 #EXTINF:-1 group-title="港台",环球电视
 http://utv1.hqtvzb.com:9999/hls/world.m3u8
+#EXTINF:-1 group-title="港台",亚洲卫视
+https://fenghuang.tv12.xyz/173.m3u8
