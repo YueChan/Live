@@ -5,6 +5,8 @@ http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
 http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
 #EXTINF:-1 group-title="港台",凤凰香港
 http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
+#EXTINF:-1 group-title="港台",台视新闻
+https://live.wcetv.com/hls/m3u8/ttvnews.m3u8
 #EXTINF:-1 group-title="港台",天映频道
 http://php.jdshipin.com/smt.php?id=Celestial
 #EXTINF:-1 group-title="港台",Pearl
