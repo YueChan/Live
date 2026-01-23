@@ -59,10 +59,6 @@ https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
 https://jmp2.uk/rok-62f1cd0d4c395a2a8ab72cff688666a0.m3u8
 #EXTINF:-1 group-title="国际",Eurosport 4K
 http://nvsoo4tx.megogo.xyz/iptv/UWA8DBPMZFQ9PX9ZLSBM7FFX/31475/index.m3u8
-#EXTINF:-1 group-title="国际",BEIN Sports
-http://fl1.moveonjoy.com/BEIN_SPORTS/index.m3u8
-#EXTINF:-1 group-title="国际",BEIN Sports Extra
-https://bein-xtra-xumo.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="国际",Wild Earth
 https://wildearth-plex.amagi.tv/masterR1080p.m3u8
 #EXTINF:-1 group-title="国际",Love Nature
@@ -193,8 +189,12 @@ http://fl1.moveonjoy.com/TSN_4/mpegts
 https://7pal.short.gy/ssportspl
 #EXTINF:-1 group-title="国际",Sky Sports Football
 https://7pal.short.gy/ssportsfb
+#EXTINF:-1 group-title="国际",Sky Sports Main Event
+https://7pal.short.gy/SSMEuhd
 #EXTINF:-1 group-title="国际",Sky Sports+
 https://a1xs.vip/2000012
+#EXTINF:-1 group-title="国际",Sky Sports F1
+https://7pal.short.gy/SSF1uhd
 #EXTINF:-1 group-title="国际",Sky Sports News
 https://7pal.short.gy/ssportsnw
 #EXTINF:-1 group-title="国际",Sky Sports NFL
