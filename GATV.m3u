@@ -9,24 +9,10 @@ http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8
 http://38.64.72.148:80/hls/modn/list/2015/chunklist0.m3u8
 #EXTINF:-1 group-title="港台",三立戏剧
 http://61.221.215.25:8800/hls/41/index.m3u8
-#EXTINF:-1 group-title="港台",凤凰中文
-https://cdn6.101.qzz.io/163189/fhzw
-#EXTINF:-1 group-title="港台",凤凰资讯
-https://cdn6.101.qzz.io/163189/fhzx
-#EXTINF:-1 group-title="港台",凤凰香港
-https://cdn6.101.qzz.io/163189/fhhk
-#EXTINF:-1 group-title="港台",无线翡翠
-http://hls.168.us.kg/u/81/master.m3u8
-#EXTINF:-1 group-title="港台",无线新闻
-https://cdn6.101.qzz.io/163189/wxxw
 #EXTINF:-1 group-title="港台",无线华丽
 http://php.jdshipin.com/PLTV/iptv.php?id=huali
-#EXTINF:-1 group-title="港台",Now财经
-http://hls.168.us.kg/u/333/master.m3u8
 #EXTINF:-1 group-title="港台",VIUTV粤
 https://cdn.163189.xyz/163189/viu
-#EXTINF:-1 group-title="港台",Plus综合
-https://cdn6.101.qzz.io/163189/tvbp
 #EXTINF:-1 group-title="港台",Pearl
 http://php.jdshipin.com/TVOD/iptv.php?id=mzt2
 #EXTINF:-1 group-title="港台",TVB J1
