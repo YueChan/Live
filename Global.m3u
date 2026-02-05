@@ -217,6 +217,8 @@ http://fl1.moveonjoy.com/ESPN_U/index.m3u8
 http://1tv41.icu:8080/8434692955/judgen64@yahoo.com/2210
 #EXTINF:-1 group-title="国际",FS1
 http://fl1.moveonjoy.com/FOX_Sports_1/index.m3u8
+#EXTINF:-1 group-title="国际",Fox Sports
+https://jmp2.uk/rok-0fc01f1136055d89bae495ba92eff445.m3u8
 #EXTINF:-1 group-title="国际",FS2
 https://a1xs.vip/40000022
 #EXTINF:-1 group-title="国际",NHL Network
