@@ -3,6 +3,8 @@
 http://r.jdshipin.com/cCCzW
 #EXTINF:-1 group-title="港台频道",凤凰资讯
 http://r.jdshipin.com/0Rp07
+#EXTINF:-1 group-title="港台频道",凤凰香港
+http://r.jdshipin.com/yDoTN
 #EXTINF:-1 group-title="港台频道",NOW新闻台
 http://cdn.163189.xyz/163189/now
 #EXTINF:-1 group-title="港台频道",Channel 8
@@ -11,8 +13,6 @@ http://cdn6.163189.xyz/163189/ch8
 http://cdn6.163189.xyz/163189/amty
 #EXTINF:-1 group-title="港台频道",澳门综艺
 http://cdn6.163189.xyz/163189/amzy
-#EXTINF:-1 group-title="港台频道",RTBGo
-https://d1211whpimeups.cloudfront.net/smil:rtb2/chunklist_b4096000_slENG.m3u8
 #EXTINF:-1 group-title="港台频道",无线华丽
 http://php.jdshipin.com/PLTV/iptv.php?id=huali
 #EXTINF:-1 group-title="港台频道",无线新闻
