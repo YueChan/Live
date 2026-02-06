@@ -175,14 +175,6 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=15270&avod=1&coppa=0&td=6&
 http://fl1.moveonjoy.com/NBA_TV/index.m3u8
 #EXTINF:-1 group-title="国际",MLB Network
 http://fl1.moveonjoy.com/MLB_NETWORK/index.m3u8
-#EXTINF:-1 group-title="国际",TNT Sports Ultimate
-https://a1xs.vip/2000031
-#EXTINF:-1 group-title="国际",Sky Sports+
-https://a1xs.vip/2000012
-#EXTINF:-1 group-title="国际",Sky Sports NFL
-https://a1xs.vip/2000011
-#EXTINF:-1 group-title="国际",Sky Sports Mix
-https://a1xs.vip/2000008
 #EXTINF:-1 group-title="国际",ESPNU
 http://fl1.moveonjoy.com/ESPN_U/index.m3u8
 #EXTINF:-1 group-title="国际",ESPN2
@@ -191,8 +183,6 @@ http://1tv41.icu:8080/8434692955/judgen64@yahoo.com/2210
 http://fl1.moveonjoy.com/FOX_Sports_1/index.m3u8
 #EXTINF:-1 group-title="国际",Fox Sports
 https://jmp2.uk/rok-0fc01f1136055d89bae495ba92eff445.m3u8
-#EXTINF:-1 group-title="国际",FS2
-https://a1xs.vip/40000022
 #EXTINF:-1 group-title="国际",NHL Network
 http://23.237.104.106:8080/USA_NHL_NETWORK/index.m3u8
 #EXTINF:-1 group-title="国际",Aspire
