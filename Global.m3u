@@ -223,3 +223,7 @@ https://fl1.moveonjoy.com/HALLMARK_MOVIES_MYSTERIES/index.m3u8
 http://fl1.moveonjoy.com/LIFETIME/index.m3u8
 #EXTINF:-1 group-title="国际",YES Network
 https://fl1.moveonjoy.com/YES_NETWORK/index.m3u8
+#EXTINF:-1 group-title="国际",BBC Two
+https://viamotionhsi.netplus.ch/live/eds/bbc2/browser-HLS8/bbc2.m3u8
+#EXTINF:-1 group-title="国际",BBC Three
+https://streamer.nexyl.uk/39290a19-b8dd-43ea-b8dc-081c37790f24.m3u8
