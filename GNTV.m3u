@@ -13,14 +13,6 @@ http://cdn6.163189.xyz/163189/amty
 http://cdn6.163189.xyz/163189/amzy
 #EXTINF:-1 group-title="港台频道",RTBGo
 https://d1211whpimeups.cloudfront.net/smil:rtb2/chunklist_b4096000_slENG.m3u8
-#EXTINF:-1 group-title="港台频道",台视新闻
-https://live.wcetv.com/hls/m3u8/ttvnews.m3u8
-#EXTINF:-1 group-title="港台频道",TVBS亚洲
-http://38.64.72.148/hls/modn/list/4005/playlist.m3u8
-#EXTINF:-1 group-title="港台频道",民视新闻
-http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8
-#EXTINF:-1 group-title="港台频道",东森美洲
-http://38.64.72.148:80/hls/modn/list/2015/chunklist0.m3u8
 #EXTINF:-1 group-title="港台频道",无线华丽
 http://php.jdshipin.com/PLTV/iptv.php?id=huali
 #EXTINF:-1 group-title="港台频道",无线新闻
