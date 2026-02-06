@@ -1,10 +1,8 @@
 #EXTM3U
 #EXTINF:-1 group-title="港台频道",凤凰中文
-http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
+http://r.jdshipin.com/cCCzW
 #EXTINF:-1 group-title="港台频道",凤凰资讯
 http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
-#EXTINF:-1 group-title="港台频道",凤凰香港
-http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
 #EXTINF:-1 group-title="港台频道",台视新闻
 https://live.wcetv.com/hls/m3u8/ttvnews.m3u8
 #EXTINF:-1 group-title="港台频道",TVBS亚洲
