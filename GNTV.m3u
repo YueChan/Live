@@ -45,19 +45,39 @@ http://php.jdshipin.com/TVOD/iptv.php?id=hoytv
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk31
 #EXTINF:-1 group-title="港台频道",RTHK32
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk32
-#EXTINF:-1 group-title="地方频道",钱江都市
+#EXTINF:-1 group-title="浙江频道",钱江都市
 http://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
-#EXTINF:-1 group-title="地方频道",经济生活
+#EXTINF:-1 group-title="浙江频道",经济生活
 http://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
-#EXTINF:-1 group-title="地方频道",教科影院
+#EXTINF:-1 group-title="浙江频道",教科影院
 http://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
-#EXTINF:-1 group-title="地方频道",民生休闲
+#EXTINF:-1 group-title="浙江频道",民生休闲
 http://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
-#EXTINF:-1 group-title="地方频道",浙江新闻
+#EXTINF:-1 group-title="浙江频道",浙江新闻
 http://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
-#EXTINF:-1 group-title="地方频道",少儿频道
+#EXTINF:-1 group-title="浙江频道",少儿频道
 http://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
-#EXTINF:-1 group-title="地方频道",浙江国际
+#EXTINF:-1 group-title="浙江频道",浙江国际
 http://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
-#EXTINF:-1 group-title="地方频道",之江纪录
+#EXTINF:-1 group-title="浙江频道",之江纪录
 http://ali-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8
+#EXTINF:-1 group-title="广东频道",广州综合
+http://tencentplaygzrb01.gztv.com/live/zonghes.m3u8
+#EXTINF:-1 group-title="广东频道",广州新闻
+http://tencentplaygzrb01.gztv.com/live/xinwen.m3u8
+#EXTINF:-1 group-title="广东频道",南国都市
+http://tencentplaygzrb01.gztv.com/live/nanguodushi.m3u8
+#EXTINF:-1 group-title="广西频道",南宁新闻
+https://hls.nntv.cn/nnlive/XWZH_24.m3u8
+#EXTINF:-1 group-title="广西频道",南宁公共
+https://hls.nntv.cn/nnlive/GGPD_24.m3u8
+#EXTINF:-1 group-title="广西频道",南宁文旅
+https://hls.nntv.cn/nnlive/WLSH_24.m3u8
+#EXTINF:-1 group-title="宁夏频道",宁夏公共
+https://hls.ningxiahuangheyun.com/live/nxgg1M.m3u8
+#EXTINF:-1 group-title="宁夏频道",宁夏经济
+https://hls.ningxiahuangheyun.com/live/nxjj1M.m3u8
+#EXTINF:-1 group-title="宁夏频道",宁夏文旅
+https://hls.ningxiahuangheyun.com/live/nxwl1M.m3u8
+#EXTINF:-1 group-title="宁夏频道",宁夏少儿
+https://hls.ningxiahuangheyun.com/live/nxse1M.m3u8
