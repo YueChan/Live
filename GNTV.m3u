@@ -1,5 +1,120 @@
 #EXTM3U
-
+#EXTINF:-1 group-title="港台频道",凤凰中文
+http://cdn6.163189.xyz/163189/fhzw
+#EXTINF:-1 group-title="港台频道",凤凰资讯
+http://cdn6.163189.xyz/163189/fhzx
+#EXTINF:-1 group-title="港台频道",凤凰香港
+http://cdn6.163189.xyz/163189/fhhk
+#EXTINF:-1 group-title="港台频道",无线新闻
+http://cdn6.163189.xyz/163189/wxxw
+#EXTINF:-1 group-title="港台频道",非凡新闻
+http://iptv.4666888.xyz/iptv2A.php?id=44
+#EXTINF:-1 group-title="港台频道",寰宇新聞
+http://67.220.67.246:2347/livehttpplay?channel_id=20109
+#EXTINF:-1 group-title="港台频道",中天新闻
+http://67.220.67.246:2347/livehttpplay?channel_id=20163
+#EXTINF:-1 group-title="港台频道",民视新闻
+http://67.220.67.246:2347/livehttpplay?channel_id=20097
+#EXTINF:-1 group-title="港台频道",台视综合
+http://iptv.4666888.xyz/iptv2A.php?id=51
+#EXTINF:-1 group-title="港台频道",TVBS亚洲
+http://38.64.72.148/hls/modn/list/4005/playlist.m3u8
+#EXTINF:-1 group-title="港台频道",NOW新闻
+http://cdn.163189.xyz/163189/now
+#EXTINF:-1 group-title="港台频道",CH5
+http://cdn6.163189.xyz/163189/ch5
+#EXTINF:-1 group-title="港台频道",CH8
+http://cdn6.163189.xyz/163189/ch8
+#EXTINF:-1 group-title="港台频道",CHU
+http://cdn6.163189.xyz/163189/chu
+#EXTINF:-1 group-title="港台频道",翡翠台
+http://iptv.4666888.xyz/iptv2A.php?id=34
+#EXTINF:-1 group-title="港台频道",明珠台
+http://cdn6.163189.xyz/163189/mzt
+#EXTINF:-1 group-title="港台频道",民视
+http://iptv.4666888.xyz/iptv2A.php?id=55
+#EXTINF:-1 group-title="港台频道",娱乐新闻
+http://iptv.4666888.xyz/iptv2A.php?id=36
+#EXTINF:-1 group-title="港台频道",八度空间
+http://cdn6.163189.xyz/163189/8tv
+#EXTINF:-1 group-title="港台频道",龙华偶像
+http://cdn8.163189.xyz/163189/lhox
+#EXTINF:-1 group-title="港台频道",龙华日韩
+http://cdn8.163189.xyz/163189/lhrh
+#EXTINF:-1 group-title="港台频道",龙华戏剧
+http://cdn8.163189.xyz/163189/lhxj
+#EXTINF:-1 group-title="港台频道",澳视澳门
+http://cdn6.163189.xyz/163189/asam
+#EXTINF:-1 group-title="港台频道",澳门综艺
+http://cdn6.163189.xyz/163189/amzy
+#EXTINF:-1 group-title="港台频道",澳门体育
+http://cdn6.163189.xyz/163189/amty
+#EXTINF:-1 group-title="港台频道",澳门莲花
+http://cdn6.163189.xyz/163189/amlh
+#EXTINF:-1 group-title="港台频道",重温经典
+http://cdn6.163189.xyz/163189/cwjd
+#EXTINF:-1 group-title="港台频道",TVB戏剧
+http://iptv.4666888.xyz/iptv2A.php?id=33
+#EXTINF:-1 group-title="港台频道",TVB武侠
+http://cdn6.163189.xyz/163189/yzwx
+#EXTINF:-1 group-title="港台频道",TVB星河
+https://o11.163189.xyz/stream/live/tvbxh/
+#EXTINF:-1 group-title="港台频道",TVBS精采
+http://iptv.4666888.xyz/iptv2A.php?id=47
+#EXTINF:-1 group-title="港台频道",TVB Plus
+http://67.220.67.246:2347/livehttpplay?channel_id=30023
+#EXTINF:-1 group-title="港台频道",TVBJ1
+http://iptv.4666888.xyz/iptv2A.php?id=26
+#EXTINF:-1 group-title="港台频道",天映经典
+https://o11.163189.xyz/stream/live/ccm/
+#EXTINF:-1 group-title="港台频道",千禧经典
+http://iptv.4666888.xyz/iptv2A.php?id=22
+#EXTINF:-1 group-title="港台频道",RHK31
+http://iptv.4666888.xyz/iptv2A.php?id=23
+#EXTINF:-1 group-title="港台频道",MYTV SUPER
+http://iptv.4666888.xyz/iptv2A.php?id=24
+#EXTINF:-1 group-title="港台频道",HOY77
+http://cdn6.163189.xyz/163189/hoy
+#EXTINF:-1 group-title="港台频道",HOY78
+http://iptv.4666888.xyz/iptv2A.php?id=31
+#EXTINF:-1 group-title="港台频道",靖洋戏剧
+http://iptv.4666888.xyz/iptv2A.php?id=42
+#EXTINF:-1 group-title="港台频道",民视综艺
+http://iptv.4666888.xyz/iptv2A.php?id=46
+#EXTINF:-1 group-title="港台频道",ROCK
+http://iptv.4666888.xyz/iptv2A.php?id=50
+#EXTINF:-1 group-title="港台频道",民视影剧
+http://iptv.4666888.xyz/iptv2A.php?id=53
+#EXTINF:-1 group-title="港台频道",东森电影
+http://iptv.4666888.xyz/iptv2A.php?id=48
+#EXTINF:-1 group-title="港台频道",RTHK 31
+http://67.220.67.246:2347/livehttpplay?channel_id=30066
+#EXTINF:-1 group-title="港台频道",RTHK 32
+http://67.220.67.246:2347/livehttpplay?channel_id=20203
+#EXTINF:-1 group-title="港台频道",美亚电影
+http://67.220.67.246:2347/livehttpplay?channel_id=20197
+#EXTINF:-1 group-title="港台频道",ASTRO AEC
+http://67.220.67.246:2347/livehttpplay?channel_id=20703
+#EXTINF:-1 group-title="港台频道",ASTRO AOD
+http://67.220.67.246:2347/livehttpplay?channel_id=20707
+#EXTINF:-1 group-title="港台频道",ASTRO QJ
+http://67.220.67.246:2347/livehttpplay?channel_id=20704
+#EXTINF:-1 group-title="港台频道",ASTRO欢喜台
+http://67.220.67.246:2347/livehttpplay?channel_id=20705
+#EXTINF:-1 group-title="港台频道",纬来电影
+http://67.220.67.246:2347/livehttpplay?channel_id=20199
+#EXTINF:-1 group-title="港台频道",纬来综合
+http://67.220.67.246:2347/livehttpplay?channel_id=20201
+#EXTINF:-1 group-title="港台频道",动物星球
+http://61.221.215.25:8800/hls/57/index.m3u8
+#EXTINF:-1 group-title="港台频道",NOW财经台
+http://67.220.67.246:2347/livehttpplay?channel_id=13000
+#EXTINF:-1 group-title="港台频道",Now爆谷台
+http://67.220.67.246:2347/livehttpplay?channel_id=13002
+#EXTINF:-1 group-title="港台频道",VIUTV
+https://cdn.163189.xyz/163189/viu
+#EXTINF:-1 group-title="港台频道",VIUTV 6
+http://67.220.67.246:2347/livehttpplay?channel_id=30033
 #EXTINF:-1 group-title="浙江频道",钱江都市
 http://ali-xwl.cztv.com/live/channel021080Plxw.m3u8
 #EXTINF:-1 group-title="浙江频道",经济生活
