@@ -15,8 +15,6 @@ http://67.220.67.246:2347/livehttpplay?channel_id=20109
 http://67.220.67.246:2347/livehttpplay?channel_id=20163
 #EXTINF:-1 group-title="港台频道",民视新闻
 http://67.220.67.246:2347/livehttpplay?channel_id=20097
-#EXTINF:-1 group-title="港台频道",台视综合
-http://iptv.4666888.xyz/iptv2A.php?id=51
 #EXTINF:-1 group-title="港台频道",TVBS亚洲
 http://38.64.72.148/hls/modn/list/4005/playlist.m3u8
 #EXTINF:-1 group-title="港台频道",NOW新闻
@@ -69,8 +67,8 @@ http://iptv.4666888.xyz/iptv2A.php?id=26
 https://o11.163189.xyz/stream/live/ccm/
 #EXTINF:-1 group-title="港台频道",千禧经典
 http://iptv.4666888.xyz/iptv2A.php?id=22
-#EXTINF:-1 group-title="港台频道",RHK31
-http://iptv.4666888.xyz/iptv2A.php?id=23
+#EXTINF:-1 group-title="港台频道",ROCK
+http://iptv.4666888.xyz/iptv2A.php?id=50
 #EXTINF:-1 group-title="港台频道",MYTV SUPER
 http://iptv.4666888.xyz/iptv2A.php?id=24
 #EXTINF:-1 group-title="港台频道",HOY77
@@ -81,14 +79,12 @@ http://iptv.4666888.xyz/iptv2A.php?id=31
 http://iptv.4666888.xyz/iptv2A.php?id=42
 #EXTINF:-1 group-title="港台频道",民视综艺
 http://iptv.4666888.xyz/iptv2A.php?id=46
-#EXTINF:-1 group-title="港台频道",ROCK
-http://iptv.4666888.xyz/iptv2A.php?id=50
 #EXTINF:-1 group-title="港台频道",民视影剧
 http://iptv.4666888.xyz/iptv2A.php?id=53
 #EXTINF:-1 group-title="港台频道",东森电影
 http://iptv.4666888.xyz/iptv2A.php?id=48
-#EXTINF:-1 group-title="港台频道",RTHK 31
-http://67.220.67.246:2347/livehttpplay?channel_id=30066
+#EXTINF:-1 group-title="港台频道",RHK31
+http://iptv.4666888.xyz/iptv2A.php?id=23
 #EXTINF:-1 group-title="港台频道",RTHK 32
 http://67.220.67.246:2347/livehttpplay?channel_id=20203
 #EXTINF:-1 group-title="港台频道",美亚电影
@@ -135,10 +131,6 @@ http://tencentplaygzrb01.gztv.com/live/zonghes.m3u8
 http://tencentplaygzrb01.gztv.com/live/xinwen.m3u8
 #EXTINF:-1 group-title="广东频道",南国都市
 http://tencentplaygzrb01.gztv.com/live/nanguodushi.m3u8
-#EXTINF:-1 group-title="广东频道",东莞生资
-https://stream.sun0769.com/dgrtv1/mp4tv2_800/index.m3u8
-#EXTINF:-1 group-title="广东频道",东莞新综
-https://stream.sun0769.com/dgrtv1/mp4tv1_800/index.m3u8
 #EXTINF:-1 group-title="广西频道",南宁新闻
 https://hls.nntv.cn/nnlive/XWZH_24.m3u8
 #EXTINF:-1 group-title="广西频道",南宁公共
