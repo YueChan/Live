@@ -167,8 +167,8 @@ http://fl1.moveonjoy.com/MLB_NETWORK/index.m3u8
 http://fl1.moveonjoy.com/ESPN_U/index.m3u8
 #EXTINF:-1 group-title="国际",ESPN2
 http://1tv41.icu:8080/8434692955/judgen64@yahoo.com/2210
-#EXTINF:-1 group-title="国际",FS1
-http://fl1.moveonjoy.com/FOX_Sports_1/index.m3u8
+#EXTINF:-1 group-title="国际",BBC Earth
+https://aegis-cloudfront-1.tubi.video/bb1fc6ad-9948-42ea-aaf3-20acfcdeecac/playlist.m3u8
 #EXTINF:-1 group-title="国际",Discovery Channel
 http://fl1.moveonjoy.com/Discovery_Channel/index.m3u8
 #EXTINF:-1 group-title="国际",NHL Network
