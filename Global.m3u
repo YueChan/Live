@@ -3,8 +3,12 @@
 https://jmp2.uk/stvp-GBBD8000016N
 #EXTINF:-1 group-title="国际",BBC News
 https://jmp2.uk/rok-6183f9f73a64394cf3c55690605af2a7.m3u8
+#EXTINF:-1 group-title="国际",ABC 
+http://mytvstream.net:8080/live/30550113/30550113/120952.m3u8
 #EXTINF:-1 group-title="国际",CNA
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+#EXTINF:-1 group-title="国际",CBS
+http://mytvstream.net:8080/live/30550113/30550113/120749.m3u8
 #EXTINF:-1 group-title="国际",RT News
 https://rt-glb.rttv.com/dvr/rtnews/playlist_4500Kb.m3u8
 #EXTINF:-1 group-title="国际",NBC News Now
@@ -25,6 +29,12 @@ https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=5468
 #EXTINF:-1 group-title="国际",WION
 https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
+#EXTINF:-1 group-title="国际",Cartoon Network
+http://23.237.104.106:8080/USA_CARTOON_NETWORK/index.m3u8
+#EXTINF:-1 group-title="国际",C-Span
+http://mytvstream.net:8080/live/30550113/30550113/136589.m3u8
+#EXTINF:-1 group-title="国际",CMT
+http://23.237.104.106:8080/USA_CMT/index.m3u8
 #EXTINF:-1 group-title="国际",TalkTV
 https://live-talktv-ssai.simplestreamcdn.com/v1/master/774d979dd66704abea7c5b62cb34c6815fda0d35/talktv-live/index.m3u8
 #EXTINF:-1 group-title="国际",Arirang
@@ -37,6 +47,8 @@ https://547f72e6652371c3.mediapackage.us-east-1.amazonaws.com/out/v1/e3e6e290958
 http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 #EXTINF:-1 group-title="国际",HollyWire
 https://bozztv.com/hwotta/playlist/HD3400/HD3400.m3u8
+#EXTINF:-1 group-title="国际",Comedy Central
+http://23.237.104.106:8080/USA_COMEDY_CENTRAL/index.m3u8
 #EXTINF:-1 group-title="国际",MovieSphere
 https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="国际",Trace Sport Stars
@@ -63,6 +75,8 @@ https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-pulse-samsu
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/tastemade-tastemade-int-aus-samsungau/playlist.m3u8
 #EXTINF:-1 group-title="国际",ESPN2
 http://1tv41.icu:8080/8434692955/judgen64@yahoo.com/2210
+#EXTINF:-1 group-title="国际",Comedy TV
+https://fl31.moveonjoy.com/Comedy_TV/index.m3u8
 #EXTINF:-1 group-title="国际",BBC Earth
 https://aegis-cloudfront-1.tubi.video/bb1fc6ad-9948-42ea-aaf3-20acfcdeecac/playlist.m3u8
 #EXTINF:-1 group-title="国际",NHL Network
@@ -75,6 +89,8 @@ http://nvsoo4tx.megogo.xyz/iptv/UWA8DBPMZFQ9PX9ZLSBM7FFX/14026/index.m3u8
 https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="国际",Kartoon Channel
 https://lightning-fnf-samsungaus.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="国际",Cooking Channel
+http://23.237.104.106:8080/USA_COOKING/index.m3u8
 #EXTINF:-1 group-title="国际",ION Plus
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-ionplus-tablo/playlist.m3u8
 #EXTINF:-1 group-title="国际",History Hit
