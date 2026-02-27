@@ -63,8 +63,8 @@ https://radio.0472.org/?id=1056
 https://radio.0472.org/?id=525
 #EXTINF:-1 tvg-name="湖南电台潇湘之声" tvg-logo="https://radio.0472.org/?id=526&logo" group-title="综合广播",湖南潇湘之声
 https://radio.0472.org/?id=526
-#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/HNWYGB.png" group-title="综合广播",湖南文艺广播
-https://satellitepull.cnr.cn/live/wx32hunwygb/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/generalradio/重庆文艺广播.png" group-title="综合广播",重庆文艺广播
+http://satellitepull.cnr.cn/live/wxcqwygb/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://live.cooltv.top/logo/shgsgb.png" group-title="综合广播",上海故事广播
 http://live.cooltv.top/tv/news1296.php?id=10
 #EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/SXWYGB.png" group-title="综合广播",山西文艺广播
