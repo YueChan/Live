@@ -89,6 +89,10 @@ https://radio.0472.org/?id=1060
 https://radio.0472.org/?id=1061
 #EXTINF:-1 tvg-name="长沙音乐广播" tvg-logo="https://radio.0472.org/?id=1531&logo" group-title="音乐广播",长沙音乐广播
 https://radio.0472.org/?id=1531
+#EXTINF:-1 tvg-name="广东音乐之声" tvg-logo="https://radio.0472.org/?id=1060&logo" group-title="音乐广播",广东音乐之声
+http://ls.qingting.fm/live/1260.m3u8
+#EXTINF:-1 tvg-logo="https://radio.0472.org/?id=381&logo" group-title="音乐广播",江西音乐广播
+http://satellitepull.cnr.cn/live/wx32jiangxyygb/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://radio.0472.org/?id=381&logo" group-title="音乐广播",河北音乐广播
 https://radio.0472.org/?id=381
 #EXTINF:-1 tvg-logo="https://radio.0472.org/?id=498&logo" group-title="音乐广播",深圳音乐频率
