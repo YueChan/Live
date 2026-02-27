@@ -57,8 +57,6 @@ http://sk.cri.cn/am846.m3u8
 https://rthkradio3-live.akamaized.net/hls/live/2040079/radio3/master.m3u8
 #EXTINF:-1 tvg-logo="https://live.fanmingming.cn/radio/rthk.png" group-title="综合广播",RTHK普通话
 https://rthkradiopth-live.akamaized.net/hls/live/2040082/radiopth/master.m3u8
-#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/HNLYGB.png" group-title="综合广播",湖南旅游广播
-https://satellitepull.cnr.cn/live/wx32hunlygb/playlist.m3u8
 #EXTINF:-1 tvg-name="湖南经济广播" tvg-logo="https://radio.0472.org/?id=1056&logo" group-title="综合广播",湖南经济广播
 https://radio.0472.org/?id=1056
 #EXTINF:-1 tvg-name="湖南新闻频道" tvg-logo="https://radio.0472.org/?id=525&logo" group-title="综合广播",湖南新闻频道
@@ -69,8 +67,6 @@ https://radio.0472.org/?id=526
 https://satellitepull.cnr.cn/live/wx32hunwygb/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://live.cooltv.top/logo/shgsgb.png" group-title="综合广播",上海故事广播
 http://live.cooltv.top/tv/news1296.php?id=10
-#EXTINF:-1 tvg-logo="http://live.cooltv.top/logo/scwygb.png" group-title="综合广播",四川文艺广播
-http://satellitepull.cnr.cn/live/wxscwygb/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/SXWYGB.png" group-title="综合广播",山西文艺广播
 http://radiolive.sxrtv.com/live/wenyi/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/JSWYGB.png" group-title="综合广播",江苏文艺广播
