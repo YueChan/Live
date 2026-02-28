@@ -127,6 +127,10 @@ http://ali-xwl.cztv.com/live/channel101080Plxw.m3u8
 https://tencentplaygsm.gztv.com/live/zonghes.m3u8?txTime=65797c44&amp%3BtxSecret=7e4590b2320037d7ce49ce9eac2dd6c0
 #EXTINF:-1 group-title="广东频道",南国都市
 https://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=550af55c0ea34ce492748481415b6dfa&txTime=1903e7b17de
+#EXTINF:-1 group-title="广东频道",东莞新综
+https://stream.sun0769.com/dgrtv1/mp4tv1_1500/index.m3u8
+#EXTINF:-1 group-title="广东频道",东莞生资
+https://stream.sun0769.com/dgrtv1/mp4tv2_1500/index.m3u8
 #EXTINF:-1 group-title="广西频道",南宁新闻
 https://hls.nntv.cn/nnlive/XWZH_24.m3u8
 #EXTINF:-1 group-title="广西频道",南宁公共
