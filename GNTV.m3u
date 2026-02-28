@@ -31,8 +31,6 @@ http://iptv.4666888.xyz/iptv2A.php?id=36
 https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
 #EXTINF:-1 group-title="港台频道",生命电视
 http://61.216.67.119:1935/lifetv/lifetv.stream/manifest.m3u8
-#EXTINF:-1 group-title="港台频道",人间卫视
-https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/chunklist_w511254805.m3u8
 #EXTINF:-1 group-title="港台频道",八度空间
 http://cdn6.163189.xyz/163189/8tv
 #EXTINF:-1 group-title="港台频道",龙华偶像
