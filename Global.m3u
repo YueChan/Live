@@ -13,6 +13,8 @@ http://mytvstream.net:8080/live/30550113/30550113/120749.m3u8
 https://rakutenaa-lightning-gbnews-rakuten-ccoa9.amagi.tv/playlist/rakutenAA-lightning-gbnews-rakuten/playlist.m3u8
 #EXTINF:-1 group-title="国际",RT News
 https://rt-glb.rttv.com/dvr/rtnews/playlist_4500Kb.m3u8
+#EXTINF:-1 group-title="国际",NHK World
+http://103.175.73.12:8080/live/417/417_0.m3u8
 #EXTINF:-1 group-title="国际",Sky News
 https://d39chvnxm26pgp.cloudfront.net/v1/master/72588bff830dec7b26d7cbbf5f3c24928aec5c03/cc-sthen6ms4vxgv-stage/WNSFO/ABR.m3u8
 #EXTINF:-1 group-title="国际",Al Jazeera
@@ -191,10 +193,6 @@ https://fee09fd665814f51b939b6d106cf5f66.mediatailor.eu-west-1.amazonaws.com/v1/
 https://7pal.short.gy/ssportsf1
 #EXTINF:-1 group-title="国际",Sky Sports Tennis
 https://7pal.short.gy/ssportstn
-#EXTINF:-1 group-title="国际",Sky Sports News
-https://7pal.short.gy/ssportsnw
-#EXTINF:-1 group-title="国际",EuroSport 
-https://7pal.short.gy/eusport4k
 #EXTINF:-1 group-title="国际",MLB Network
 https://7pal.short.gy/mlbnw
 #EXTINF:-1 group-title="国际",NHL Network
