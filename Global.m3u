@@ -81,8 +81,6 @@ https://appletree-mytimeau-samsung.amagi.tv/playlist.m3u8
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-pulse-samsungau/playlist.m3u8
 #EXTINF:-1 group-title="国际",Tastemade
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/tastemade-tastemade-int-aus-samsungau/playlist.m3u8
-#EXTINF:-1 group-title="国际",ESPN2
-http://1tv41.icu:8080/8434692955/judgen64@yahoo.com/2210
 #EXTINF:-1 group-title="国际",BBC Earth
 https://aegis-cloudfront-1.tubi.video/bb1fc6ad-9948-42ea-aaf3-20acfcdeecac/playlist.m3u8
 #EXTINF:-1 group-title="国际",The First
