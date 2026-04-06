@@ -3,12 +3,8 @@
 https://jmp2.uk/stvp-GBBD8000016N
 #EXTINF:-1 group-title="国际",BBC News
 https://jmp2.uk/rok-6183f9f73a64394cf3c55690605af2a7.m3u8
-#EXTINF:-1 group-title="国际",ABC
-http://mytvstream.net:8080/live/30550113/30550113/120952.m3u8
 #EXTINF:-1 group-title="国际",CNA
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
-#EXTINF:-1 group-title="国际",CBS
-http://mytvstream.net:8080/live/30550113/30550113/120749.m3u8
 #EXTINF:-1 group-title="国际",GB News
 https://rakutenaa-lightning-gbnews-rakuten-ccoa9.amagi.tv/playlist/rakutenAA-lightning-gbnews-rakuten/playlist.m3u8
 #EXTINF:-1 group-title="国际",RT News
@@ -39,22 +35,10 @@ http://23.237.104.106:8080/USA_DISNEY_XD/index.m3u8
 http://41.205.93.154/ESPN/index.m3u8
 #EXTINF:-1 tvg-id="ESPNU.HD.us2" tvg-name="ESPN U" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s45654_dark_360w_270h.png" group-title="国际",ESPN U
 http://23.237.104.106:8080/USA_ESPNU/index.m3u8
-#EXTINF:-1 tvg-id="ESPN2.HD.us2" tvg-name="ESPN2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12444_dark_360w_270h.png" group-title="国际",ESPN2
-http://mytvstream.net:8080/live/30550113/30550113/2210.m3u8
-#EXTINF:-1 tvg-id="Fox.News.Channel.HD.us2" tvg-name="Fox News" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16374_dark_360w_270h.png" group-title="国际",Fox News
-http://mytvstream.net:8080/live/30550113/30550113/1818.m3u8
-#EXTINF:-1 tvg-id="WFLX-DT.us_locals1" tvg-name="Fox" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s28719_dark_360w_270h.png" group-title="国际",Fox
-http://mytvstream.net:8080/live/30550113/30550113/121595.m3u8
-#EXTINF:-1 tvg-id="FS1.Fox.Sports.1.HD.us2" tvg-name="Fox Sports 1" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s82541_dark_360w_270h.png" group-title="国际",Fox Sports 1
-http://mytvstream.net:8080/live/30550113/30550113/1846.m3u8
-#EXTINF:-1 tvg-id="FS2.Fox.Sports.2.HD.us2" tvg-name="Fox Sports 2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s33178_dark_360w_270h.png" group-title="国际",Fox Sports 2
-http://mytvstream.net:8080/live/30550113/30550113/1847.m3u8
 #EXTINF:-1 tvg-id="HBO.East.us2" tvg-name="HBO" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10240_dark_360w_270h.png" group-title="国际",HBO
 http://23.237.104.106:8080/USA_HBO/index.m3u8
 #EXTINF:-1 tvg-id="HBO2.HD.us2" tvg-name="HBO 2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s68140_dark_360w_270h.png" group-title="国际",HBO 2
 http://23.237.104.106:8080/USA_HBO2/index.m3u8
-#EXTINF:-1 tvg-id="ION.Television.HD.us2" tvg-name="ION TV" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18633_dark_360w_270h.png" group-title="国际",ION TV
-http://mytvstream.net:8080/live/30550113/30550113/9297.m3u8
 #EXTINF:-1 tvg-id="LMN.HD.us2" tvg-name="Lifetime Movie Network" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18480_dark_360w_270h.png" group-title="国际",Lifetime Movie Network
 http://23.237.104.106:8080/USA_LMN/index.m3u8
 #EXTINF:-1 tvg-id="National.Geographic.HD.us2" tvg-name="National Geographic" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s49438_dark_360w_270h.png" group-title="国际",National Geographic
@@ -63,8 +47,6 @@ http://23.237.104.106:8080/USA_NAT_GEO/index.m3u8
 https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
 #EXTINF:-1 group-title="国际",Cartoon Network
 http://23.237.104.106:8080/USA_CARTOON_NETWORK/index.m3u8
-#EXTINF:-1 group-title="国际",C-Span
-http://mytvstream.net:8080/live/30550113/30550113/136589.m3u8
 #EXTINF:-1 group-title="国际",CMT
 http://23.237.104.106:8080/USA_CMT/index.m3u8
 #EXTINF:-1 group-title="国际",TalkTV
@@ -191,11 +173,3 @@ https://54045f0c40fd442c8b06df076aaf1e85.mediatailor.eu-west-1.amazonaws.com/v1/
 https://9be783d652cd4b099cf63e1dc134c4a3.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6181/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Meew6eX.png" group-title="国际",Rakuten Drama
 https://fee09fd665814f51b939b6d106cf5f66.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6093/master.m3u8
-#EXTINF:-1 group-title="国际",Sky Sports F1
-https://7pal.short.gy/ssportsf1
-#EXTINF:-1 group-title="国际",Sky Sports Tennis
-https://7pal.short.gy/ssportstn
-#EXTINF:-1 group-title="国际",MLB Network
-https://7pal.short.gy/mlbnw
-#EXTINF:-1 group-title="国际",NHL Network
-https://7pal.short.gy/nhlnw
