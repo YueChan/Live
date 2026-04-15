@@ -23,8 +23,6 @@ https://live-hls-aje-ak.getaj.net/AJE/01.m3u8
 https://tv-trtworld.medya.trt.com.tr/master_1080.m3u8
 #EXTINF:-1 group-title="国际",NEWSMAX
 https://nmx1ota.akamaized.net/hls/live/2107010/Live_1/3.m3u8
-#EXTINF:-1 group-title="国际",NEWSMAX2
-https://jmp2.uk/rok-28844a800a4e54909eec9695aa3762b2.m3u8
 #EXTINF:-1 group-title="国际",Global News
 https://live.corusdigitaldev.com/groupb/live/3062d0e3-ed4c-4f47-8482-95648250f4b8/live.isml/.m3u8
 #EXTINF:-1 group-title="国际",NBC News Now
@@ -69,8 +67,6 @@ http://23.237.104.106:8080/USA_COMEDY_CENTRAL/index.m3u8
 https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="国际",Trace Sport Stars
 https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="国际",SportsGrid
-https://jmp2.uk/rok-62f1cd0d4c395a2a8ab72cff688666a0.m3u8
 #EXTINF:-1 group-title="国际",Wild Earth
 https://wildearth-plex.amagi.tv/masterR1080p.m3u8
 #EXTINF:-1 group-title="国际",Fashion Channel
@@ -81,8 +77,6 @@ https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-actionholly
 https://appletree-mytimeau-samsung.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="国际",Pulse
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-pulse-samsungau/playlist.m3u8
-#EXTINF:-1 group-title="国际",Tastemade
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/tastemade-tastemade-int-aus-samsungau/playlist.m3u8
 #EXTINF:-1 group-title="国际",BBC Earth
 https://aegis-cloudfront-1.tubi.video/bb1fc6ad-9948-42ea-aaf3-20acfcdeecac/playlist.m3u8
 #EXTINF:-1 group-title="国际",The First
@@ -149,14 +143,10 @@ https://ads.its-newid.net/api/manifest.m3u8?tp=lg_channels&channel_name=newkmovi
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischnlintl-lggb/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.coppa=0&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]
 #EXTINF:-1 group-title="国际",Universal Monsters
 https://d4whmvwm0rdvi.cloudfront.net/10007/99993044/hls/master.m3u8?ads.xumo_channelId=99993044&ads.asnw=169843&ads.afid=380753606&ads.sfid=17850336&ads.csid=lgchannels_us_nbcuuniversalmonsters_ssai_cro&ads._fw_is_lat=[LMT]&ads._fw_us_privacy=[US_PRIVACY]&ads._fw_coppa=0&ads._fw_did=[IFA]&ads._fw_vcid2=512116:[IFA]&ads._fw_app_bundle=[APP_BUNDLE]&ads._fw_app_store_url=[APP_STOREURL]&ads._fw_content_category=IAB1-7&ads._fw_content_genre=television&ads._fw_content_language=en&ads._fw_content_rating=tv-14&ads._fw_deviceMake=[DEVICE_MAKE]&ads._fw_device_model=[DEVICE_MODEL]&ads._fw_deviceType=3-Connected_TV&ads.appVersion=[APP_VERSION]&ads.appName=lgchannels&ads.xumo_contentId=3940&ads.xumo_contentName=NBCUUniversalMonsters&ads.xumo_providerId=3940&ads.xumo_providerName=NBCUUniversalMonsters&ads.channelId=99993044&ads._fw_ifa_type=dpid&ads.givn=[NONCE]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]
-#EXTINF:-1 group-title="国际",Billiard TV
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=15270&avod=1&coppa=0&td=6&is_lat=[LMT]&dnt=[DNS]&us_privacy=[US_PRIVACY]&did=[DEVICE_ID]&ip=[IP]&ua=[UA]&ifa_type=[IFA_TYPE]&app_bundle=[APP_BUNDLE]&app_store_url=[APP_STOREURL]&app_name=[APP_NAME]&custom_targeting=html5&custom_4=lg_channels_us&player_height=720&player_width=1280&content_channel=lg_channels&content_dist_name=lg_channels&device_make=[DEVICE_MAKE]&device_model=[DEVICE_MODEL]&device_os=html5&consent=[GDPR_CONSENT]&gdpr=[GDPR]&gender=not_specified&yob=0&livestream=1&custom_param_0=[DEVICE_MODEL]&custom_param_1=tv&custom_param_2=[DEVICE_MAKE]&custom_param_3=[DEVICE_ID]&custom_param_4=lg_channels&custom_param_5=html5&fck=[FCK]&viewsize=[VIEWSIZE]&nonce=[NONCE]
 #EXTINF:-1 tvg-logo="https://i.imgur.com/skAiUxg.png" group-title="国际",RTM ASEAN
 https://d25tgymtnqzu8s.cloudfront.net/event/smil:event1/chunklist_b2596000_slENG.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KxHWpQB.png" group-title="国际",TalkTV
 https://live-talktv-ssai.simplestreamcdn.com/v1/master/774d979dd66704abea7c5b62cb34c6815fda0d35/talktv-live/index.m3u8
-#EXTINF:-1 tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1621.png" group-title="国际",Channel 4
-https://viamotionhsi.netplus.ch/live/eds/channel4/browser-HLS8/channel4.m3u8
 #EXTINF:-1 tvg-logo="https://d3b6luslimvglo.cloudfront.net/images/79/rlaxximages/channels-rescaled/icon-white/adventureearth_white.png" group-title="国际",Adventure Earth
 https://a57e9c69976649b582a8d7604c00e69a.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RlaxxTV-eu_AdventureEarth/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://d3b6luslimvglo.cloudfront.net/images/79/rlaxximages/channels-rescaled/icon-white/autentichistory_white.png" group-title="国际",Autentic History
