@@ -93,6 +93,8 @@ http://67.220.67.246:2347/livehttpplay?channel_id=20703
 http://67.220.67.246:2347/livehttpplay?channel_id=20707
 #EXTINF:-1 group-title="港台频道",ASTRO QJ
 http://67.220.67.246:2347/livehttpplay?channel_id=20704
+#EXTINF:-1 group-title="港台频道",ASTRO爱奇艺
+https://o11.163189.xyz/stream/live/iqiyi/
 #EXTINF:-1 group-title="港台频道",ASTRO欢喜台
 http://67.220.67.246:2347/livehttpplay?channel_id=20705
 #EXTINF:-1 group-title="港台频道",纬来电影
