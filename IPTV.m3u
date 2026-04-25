@@ -123,16 +123,16 @@ rtp://239.3.1.115:8000
 rtp://239.3.1.189:8000
 #EXTINF:-1 channel-number="77" tvg-id="77" tvg-name="金鹰纪实高清" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/WeiShi/HuNan_JingYingJiShi.png" group-title="地方" zz-definition="HD" catchup="default" catchup-source="rtsp://61.135.88.136/TVOD/88888892/224/3221226050/10000100000000060000000000384062_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",金鹰纪实
 rtp://239.3.1.58:8156
-#EXTINF:-1 channel-number="321" tvg-id="321" tvg-name="茶" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/QiTa/HuNan_ChaPinDao.png" group-title="地方" zz-definition="HD",茶友频道
-rtp://239.3.1.165:8001
-#EXTINF:-1 channel-number="320" tvg-id="320" tvg-name="快乐垂钓" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/QiTa/HuNan_KuaiLeChuiDiao.png" group-title="地方" zz-definition="HD",快乐垂钓
-rtp://239.3.1.164:8001
 #EXTINF:-1 channel-number="86" tvg-id="85" tvg-name="CCTV4K超高清" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/CCTV/CCTV-4K.png" group-title="数字" zz-definition="UHD",CCTV-4K
 rtp://239.3.1.245:2000
 #EXTINF:-1 channel-number="76" tvg-id="76" tvg-name="CETV1高清" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/QiTa/CETV-1.png" group-title="数字" zz-definition="HD" catchup="default" catchup-source="rtsp://61.135.88.136/TVOD/88888892/224/3221226065/10000100000000060000000000384776_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",中国教育
 rtp://239.3.1.57:8152
 #EXTINF:-1 channel-number="79" tvg-id="79" tvg-name="中国交通" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/QiTa/ZhongGuoJiaoTong.png" group-title="数字" zz-definition="HD" catchup="default" catchup-source="rtsp://61.135.88.136/TVOD/88888892/224/3221226173/10000100000000060000000001341044_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",中国交通
 rtp://239.3.1.188:8001
+#EXTINF:-1 group-title="数字" zz-definition="HD",中国天气
+rtp://239.3.1.165:8001
+#EXTINF:-1 group-title="数字" zz-definition="HD",四海钓鱼
+rtp://239.3.1.164:8001
 #EXTINF:-1 channel-number="80" tvg-id="80" tvg-name="证券服务" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/QiTa/GanSu_ZhengQuanFuWu.png" group-title="数字" zz-definition="HD" catchup="default" catchup-source="rtsp://61.135.88.136/TVOD/88888892/224/3221226210/406742223.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",证券服务
 rtp://239.3.1.24:8001
 #EXTINF:-1 channel-number="66" tvg-id="66" tvg-name="睛彩竞技" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/QiTa/CBC_JingCaiJingJi.png" group-title="数字" zz-definition="HD" catchup="default" catchup-source="rtsp://61.135.88.136/TVOD/88888892/224/3221226160/10000100000000060000000001464323_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",睛彩竞技
