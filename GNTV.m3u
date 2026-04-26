@@ -80,7 +80,7 @@ http://iptv.4666888.xyz/iptv2A.php?id=53
 #EXTINF:-1 group-title="港台频道",RHK31
 http://iptv.4666888.xyz/iptv2A.php?id=23
 #EXTINF:-1 group-title="港台频道",RTHK 32
-http://67.220.67.246:2347/livehttpplay?channel_id=20203
+http://cdn.163189.xyz/163189/rthk32
 #EXTINF:-1 group-title="港台频道",美亚电影
 http://67.220.67.246:2347/livehttpplay?channel_id=20197
 #EXTINF:-1 group-title="港台频道",ASTRO AEC
