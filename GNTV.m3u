@@ -223,32 +223,10 @@ http://iptv.4666888.xyz/iptv2A.php?id=53
 http://iptv.4666888.xyz/iptv2A.php?id=23
 #EXTINF:-1 group-title="港台频道",RTHK 32
 http://cdn.163189.xyz/163189/rthk32
-#EXTINF:-1 group-title="港台频道",美亚电影
-http://67.220.67.246:2347/livehttpplay?channel_id=20197
-#EXTINF:-1 group-title="港台频道",ASTRO AEC
-http://67.220.67.246:2347/livehttpplay?channel_id=20703
-#EXTINF:-1 group-title="港台频道",ASTRO AOD
-http://67.220.67.246:2347/livehttpplay?channel_id=20707
-#EXTINF:-1 group-title="港台频道",ASTRO QJ
-http://67.220.67.246:2347/livehttpplay?channel_id=20704
 #EXTINF:-1 group-title="港台频道",ASTRO爱奇艺
 https://o11.163189.xyz/stream/live/iqiyi/
-#EXTINF:-1 group-title="港台频道",ASTRO欢喜台
-http://67.220.67.246:2347/livehttpplay?channel_id=20705
-#EXTINF:-1 group-title="港台频道",纬来电影
-http://67.220.67.246:2347/livehttpplay?channel_id=20199
-#EXTINF:-1 group-title="港台频道",纬来综合
-http://67.220.67.246:2347/livehttpplay?channel_id=20201
-#EXTINF:-1 group-title="港台频道",动物星球
-http://61.221.215.25:8800/hls/57/index.m3u8
-#EXTINF:-1 group-title="港台频道",NOW财经台
-http://67.220.67.246:2347/livehttpplay?channel_id=13000
-#EXTINF:-1 group-title="港台频道",Now爆谷台
-http://67.220.67.246:2347/livehttpplay?channel_id=13002
 #EXTINF:-1 group-title="港台频道",VIUTV
 https://cdn.163189.xyz/163189/viu
-#EXTINF:-1 group-title="港台频道",VIUTV 6
-http://67.220.67.246:2347/livehttpplay?channel_id=30033
 #EXTINF:-1 group-title="浙江频道",钱江都市
 http://ali-xwl.cztv.com/live/channel021080Plxw.m3u8
 #EXTINF:-1 group-title="浙江频道",经济生活
