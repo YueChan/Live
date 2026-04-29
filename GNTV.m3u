@@ -145,6 +145,26 @@ http://cdn6.163189.xyz/163189/fhzw
 http://cdn6.163189.xyz/163189/fhzx
 #EXTINF:-1 group-title="港台频道",凤凰香港
 http://cdn6.163189.xyz/163189/fhhk
+#EXTINF:-1 tvg-id="中视" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/中视.png" group-title="港台频道",中视
+http://85.237.207.150:50007/of-4gtv-4gtv040/index.m3u8
+#EXTINF:-1 tvg-id="华视" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/华视.png" group-title="港台频道",华视
+http://85.237.207.150:50007/of-4gtv-4gtv041/index.m3u8
+#EXTINF:-1 tvg-id="华视新闻" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/华视新闻资讯.png" group-title="港台频道",华视新闻
+http://85.237.207.150:50007/of-4gtv-4gtv052/index.m3u8
+#EXTINF:-1 tvg-id="中天新闻" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/中天新闻.png" group-title="港台频道",中天新闻
+http://85.237.207.150:50007/of-4gtv-4gtv009/index.m3u8
+#EXTINF:-1 tvg-id="寰宇新闻台" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/寰宇新闻台.png" group-title="港台频道",寰宇新闻
+http://85.237.207.150:50007/of-litv-longturn14/index.m3u8
+#EXTINF:-1 tvg-id="寰宇新闻台湾频道台" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/寰宇新闻台湾频道台.png" group-title="港台频道",寰宇台湾
+http://85.237.207.150:50007/of-4gtv-4gtv156/index.m3u8
+#EXTINF:-1 tvg-id="寰宇财经台" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/寰宇财经台.png" group-title="港台频道",寰宇财经台
+http://85.237.207.150:50007/of-4gtv-4gtv158/index.m3u8
+#EXTINF:-1 tvg-id="亚洲旅游台" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/亚洲旅游台.png" group-title="港台频道",亚洲旅游台
+http://85.237.207.150:50007/of-4gtv-4gtv076/index.m3u8
+#EXTINF:-1 tvg-id="Astro AOD" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/AstroAOD.png" group-title="港台频道",Astro AOD
+https://o11.163189.xyz/stream/live/aod/
+#EXTINF:-1 tvg-id="Astro AEC" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/AstroAEC.png" group-title="港台频道",Astro AEC
+https://o11.163189.xyz/stream/live/aec/
 #EXTINF:-1 group-title="港台频道",无线新闻
 http://cdn6.163189.xyz/163189/wxxw
 #EXTINF:-1 group-title="港台频道",非凡新闻
