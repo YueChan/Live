@@ -35,12 +35,18 @@ http://38.75.136.137:98/gslb/dsqbv/cctv17hd.m3u8?auth=test20251009
 http://38.75.136.137:98/gslb/dsdqpub/cctv4k.m3u8?auth=testpub
 #EXTINF:-1 tvg-name="CCTV-8K超高清" tvg-logo="https://epg.112114.xyz/logo/CCTV-8K超高清.png" group-title="央视频道",CCTV-8K超高清
 http://38.75.136.137:98/gslb/dsdqpub/cctv8k.m3u8?auth=testpub
-#EXTINF:-1 tvg-name="CETN1" tvg-logo="https://epg.112114.xyz/logo/CETN1.png" group-title="央视频道",CETV1
+#EXTINF:-1 tvg-name="CETN1" tvg-logo="https://epg.112114.xyz/logo/CETN1.png" group-title="央视频道",中国教育
 http://38.75.136.137:98/gslb/dsdqpub/cetv1hd.m3u8?auth=testpub
+#EXTINF:-1 tvg-name="CCTV-5 体育赛事" tvg-logo="https://epg.112114.xyz/logo/CCTV-5 体育赛事.png" group-title="央视频道",体育赛事
+http://38.75.136.137:98/gslb/dsdqbv/cctv5p.m3u8?auth=test20251009
 #EXTINF:-1 tvg-name="CCTV-电视指南" tvg-logo="https://epg.112114.xyz/logo/CCTV-电视指南.png" group-title="央视频道",CCTV-电视指南
 http://38.75.136.137:98/gslb/dsdqpub/dszn.m3u8?auth=testpub
+#EXTINF:-1 tvg-name="CCTV-卫生健康" tvg-logo="https://epg.112114.xyz/logo/CCTV-卫生健康.png" group-title="央视频道",CCTV-卫生健康
+http://38.75.136.137:98/gslb/dsdqpub/wsjk.m3u8?auth=testpub
 #EXTINF:-1 tvg-name="CCTV-第一剧场" tvg-logo="https://epg.112114.xyz/logo/CCTV-第一剧场.png" group-title="央视频道",CCTV-第一剧场
 http://38.75.136.137:98/gslb/dsdqpub/dyjc.m3u8?auth=testpub
+#EXTINF:-1 tvg-name="CCTV-央视文化精品" tvg-logo="https://epg.112114.xyz/logo/CCTV-央视文化精品.png" group-title="央视频道",CCTV-文化精品
+http://38.75.136.137:98/gslb/dsdqpub/ysjp.m3u8?auth=testpub
 #EXTINF:-1 tvg-name="CCTV-风云剧场" tvg-logo="https://epg.112114.xyz/logo/CCTV-风云剧场.png" group-title="央视频道",CCTV-风云剧场
 http://38.75.136.137:98/gslb/dsdqpub/fyjc.m3u8?auth=testpub
 #EXTINF:-1 tvg-name="CCTV-风云音乐" tvg-logo="https://epg.112114.xyz/logo/CCTV-风云音乐.png" group-title="央视频道",CCTV-风云音乐
