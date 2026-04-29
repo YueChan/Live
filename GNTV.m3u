@@ -201,8 +201,8 @@ http://iptv.4666888.xyz/iptv2A.php?id=47
 http://67.220.67.246:2347/livehttpplay?channel_id=30023
 #EXTINF:-1 group-title="港台频道",TVBJ1
 http://iptv.4666888.xyz/iptv2A.php?id=26
-#EXTINF:-1 group-title="港台频道",天映经典
-https://o11.163189.xyz/stream/live/ccm/
+#EXTINF:-1 group-title="港台频道",天映频道
+https://o11.163189.xyz/stream/live/typd/
 #EXTINF:-1 group-title="港台频道",千禧经典
 http://iptv.4666888.xyz/iptv2A.php?id=22
 #EXTINF:-1 group-title="港台频道",ROCK
