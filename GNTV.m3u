@@ -255,73 +255,69 @@ https://o11.163189.xyz/stream/live/iqiyi/
 https://cdn.163189.xyz/163189/viu
 #EXTINF:-1 group-title="港台频道",ViuTVsix
 https://cdn10.163189.xyz/stream/163189/viu6/
-#EXTINF:-1 group-title="浙江频道",钱江都市
+#EXTINF:-1 group-title="地方频道",钱江都市
 http://ali-xwl.cztv.com/live/channel021080Plxw.m3u8
-#EXTINF:-1 group-title="浙江频道",经济生活
+#EXTINF:-1 group-title="地方频道",经济生活
 http://ali-xwl.cztv.com/live/channel031080Plxw.m3u8
-#EXTINF:-1 group-title="浙江频道",教科影院
+#EXTINF:-1 group-title="地方频道",教科影院
 http://ali-xwl.cztv.com/live/channel041080Plxw.m3u8
-#EXTINF:-1 group-title="浙江频道",民生休闲
+#EXTINF:-1 group-title="地方频道",民生休闲
 http://ali-xwl.cztv.com/live/channel061080Plxw.m3u8
-#EXTINF:-1 group-title="浙江频道",浙江新闻
+#EXTINF:-1 group-title="地方频道",浙江新闻
 http://ali-xwl.cztv.com/live/channel071080Plxw.m3u8
-#EXTINF:-1 group-title="浙江频道",少儿频道
+#EXTINF:-1 group-title="地方频道",少儿频道
 http://ali-xwl.cztv.com/live/channel081080Plxw.m3u8
-#EXTINF:-1 group-title="浙江频道",浙江国际
+#EXTINF:-1 group-title="地方频道",浙江国际
 http://ali-xwl.cztv.com/live/channel101080Plxw.m3u8
-#EXTINF:-1 group-title="浙江频道",之江纪录
+#EXTINF:-1 group-title="地方频道",之江纪录
 http://ali-xwl.cztv.com/live/channel121080Pnew.m3u8
-#EXTINF:-1 group-title="广东频道",广州综合
+#EXTINF:-1 group-title="地方频道",广州综合
 https://tencentplaygsm.gztv.com/live/zonghes.m3u8?txTime=65797c44&amp%3BtxSecret=7e4590b2320037d7ce49ce9eac2dd6c0
-#EXTINF:-1 group-title="广东频道",南国都市
+#EXTINF:-1 group-title="地方频道",南国都市
 https://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=550af55c0ea34ce492748481415b6dfa&txTime=1903e7b17de
-#EXTINF:-1 group-title="广东频道",东莞新综
-https://stream.sun0769.com/dgrtv1/mp4tv1_1500/index.m3u8
-#EXTINF:-1 group-title="广东频道",东莞生资
-https://stream.sun0769.com/dgrtv1/mp4tv2_1500/index.m3u8
-#EXTINF:-1 group-title="江苏频道",苏州4K
+#EXTINF:-1 group-title="地方频道",苏州4K
 https://tylive.kan0512.com/norecord/csztv4k_4k.m3u8
-#EXTINF:-1 group-title="江苏频道",苏州娱乐
+#EXTINF:-1 group-title="地方频道",苏州娱乐
 https://live-auth.51kandianshi.com/szgd/csztv4.m3u8
-#EXTINF:-1 group-title="江苏频道",南京少儿
+#EXTINF:-1 group-title="地方频道",南京少儿
 http://nklive.nbs.cn/hls/e0981f3f-1a20-4a59-b8d1-17feb83a4610/index.m3u8
-#EXTINF:-1 group-title="广西频道",南宁新闻
+#EXTINF:-1 group-title="地方频道",南宁新闻
 https://hls.nntv.cn/nnlive/XWZH_24.m3u8
-#EXTINF:-1 group-title="广西频道",南宁公共
+#EXTINF:-1 group-title="地方频道",南宁公共
 https://hls.nntv.cn/nnlive/GGPD_24.m3u8
-#EXTINF:-1 group-title="广西频道",南宁文旅
+#EXTINF:-1 group-title="地方频道",南宁文旅
 https://hls.nntv.cn/nnlive/WLSH_24.m3u8
-#EXTINF:-1 group-title="广西频道",南宁娱乐
+#EXTINF:-1 group-title="地方频道",南宁娱乐
 http://hls.nntv.cn/nnlive/YSYL_244.m3u8
-#EXTINF:-1 group-title="宁夏频道",宁夏公共
+#EXTINF:-1 group-title="地方频道",宁夏公共
 https://hls.ningxiahuangheyun.com/live/nxgg1M.m3u8
-#EXTINF:-1 group-title="宁夏频道",宁夏经济
+#EXTINF:-1 group-title="地方频道",宁夏经济
 https://hls.ningxiahuangheyun.com/live/nxjj1M.m3u8
-#EXTINF:-1 group-title="宁夏频道",宁夏文旅
+#EXTINF:-1 group-title="地方频道",宁夏文旅
 https://hls.ningxiahuangheyun.com/live/nxwl1M.m3u8
-#EXTINF:-1 group-title="宁夏频道",宁夏少儿
+#EXTINF:-1 group-title="地方频道",宁夏少儿
 https://hls.ningxiahuangheyun.com/live/nxse1M.m3u8
-#EXTINF:-1 group-title="云南频道",云南都市
+#EXTINF:-1 group-title="地方频道",云南都市
 https://hwapi.yntv.net/62hdvf/rjwt14.m3u8
-#EXTINF:-1 group-title="云南频道",云南娱乐
+#EXTINF:-1 group-title="地方频道",云南娱乐
 https://hwapi.yntv.net/62hdvf/q9vs1b.m3u8
-#EXTINF:-1 tvg-id="内蒙古新闻综合" group-title="内蒙频道",新闻综合
+#EXTINF:-1 tvg-id="内蒙古新闻综合" group-title="地方频道",新闻综合
 http://play1-qk.nmtv.cn/live/2316general.m3u8
-#EXTINF:-1 tvg-id="内蒙古经济生活" group-title="内蒙频道",经济生活
+#EXTINF:-1 tvg-id="内蒙古经济生活" group-title="地方频道",经济生活
 http://play1-qk.nmtv.cn/live/2326general.m3u8
-#EXTINF:-1 tvg-id="内蒙古少儿" group-title="内蒙频道",少儿频道
+#EXTINF:-1 tvg-id="内蒙古少儿" group-title="地方频道",少儿频道
 http://play1-qk.nmtv.cn/live/2327general.m3u8
-#EXTINF:-1 tvg-id="内蒙古文体娱乐" group-title="内蒙频道",文体娱乐
+#EXTINF:-1 tvg-id="内蒙古文体娱乐" group-title="地方频道",文体娱乐
 http://play1-qk.nmtv.cn/live/2319general.m3u8
-#EXTINF:-1 tvg-id="内蒙古农牧" group-title="内蒙频道",农牧频道
+#EXTINF:-1 tvg-id="内蒙古农牧" group-title="地方频道",农牧频道
 http://play1-qk.nmtv.cn/live/2329general.m3u8
-#EXTINF:-1 group-title="河南频道",梨园频道
+#EXTINF:-1 group-title="地方频道",梨园频道
 https://dxtx.hntv.tv/live/lypd.m3u8?txSecret=10c771842a0be59e8b575d765173ec96&txTime=7B923E0A&wsSecret=1966aa8a0405e1541cff782f56c75447&wsTime=1770400669
-#EXTINF:-1 group-title="河南频道",文物宝库
+#EXTINF:-1 group-title="地方频道",文物宝库
 https://dxtx.hntv.tv/live/wwbk.m3u8?txSecret=317b89626134fd6bea6e129455b5ff18&txTime=7C4C635C&wsSecret=87c5daf4f4c3a09fb4e4cce0843d4a1c&wsTime=1770400669
-#EXTINF:-1 group-title="河南频道",武术频道
+#EXTINF:-1 group-title="地方频道",武术频道
 https://dxtx.hntv.tv/live/wssj.m3u8?txSecret=c38b4d31ba4c45c6babb5c47132123e3&txTime=7ABB976A&wsSecret=dfcdc24ac8a49ebd886337dc5cdc1568&wsTime=1770400669
-#EXTINF:-1 group-title="河南频道",河南曲艺
+#EXTINF:-1 group-title="地方频道",河南曲艺
 https://dxtx.hntv.tv/live/jczy.m3u8?txSecret=e785008e49564e5e738439b4dd2ae68e&txTime=7C4C6207&wsSecret=3f9e1d6e5c78cea99a876ce40f13202b&wsTime=1770400669
-#EXTINF:-1 group-title="河南频道",移动戏曲
+#EXTINF:-1 group-title="地方频道",移动戏曲
 https://dxtx.hntv.tv/live/ydxq.m3u8?txSecret=caad41b421fdab7fa0dfbaf96f59f9f0&txTime=7B2E515F&wsSecret=b2484c40280981b4050b148e22943b0e&wsTime=1770400669
