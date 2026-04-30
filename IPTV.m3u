@@ -46,7 +46,7 @@ rtp://239.3.1.22:8001
 #EXTINF:-1 channel-number="22" tvg-id="22" tvg-name="BRTV文艺高清" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/BRTV/BRTV_WenYi.png" group-title="卫视" zz-definition="HD" catchup="default" catchup-source="rtsp://61.135.88.136/TVOD/88888892/224/3221225868/10000100000000060000000000025097_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",北京文艺
 rtp://239.3.1.242:8000
 #EXTINF:-1 channel-number="26" tvg-id="26" tvg-name="BRTV体育休闲高清" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/BRTV/BRTV_TiYuXiuXian.png" group-title="卫视" zz-definition="HD",体育休闲
-rtp://239.3.1.120:8000
+rtp://239.3.1.243:8000
 #EXTINF:-1 channel-number="24" tvg-id="24" tvg-name="BRTV影视高清" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/BRTV/BRTV_YingShi.png" group-title="卫视" zz-definition=HD" catchup="default" catchup-source="rtsp://61.135.88.136/TVOD/88888892/224/3221226094/10000100000000060000000000804258_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",北京影视
 rtp://239.3.1.158:8000
 #EXTINF:-1 channel-number="29" tvg-id="29" tvg-name="BRTV新闻高清" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/BRTV/BRTV_XinWen.png" group-title="卫视" zz-definition="HD" catchup="default" catchup-source="rtsp://61.135.88.136/TVOD/88888892/224/3221226092/10000100000000060000000000804251_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",北京新闻
