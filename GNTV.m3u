@@ -153,8 +153,6 @@ https://o11.163189.xyz/stream/live/aod/
 https://o11.163189.xyz/stream/live/aec/
 #EXTINF:-1 group-title="港台频道",无线新闻
 http://cdn6.163189.xyz/163189/wxxw
-#EXTINF:-1 group-title="港台频道",非凡新闻
-rtmp://f13h.mine.nu/sat/tv581
 #EXTINF:-1 group-title="港台频道",TVBS亚洲
 http://38.64.72.148/hls/modn/list/4005/playlist.m3u8
 #EXTINF:-1 group-title="港台频道",NOW新闻
@@ -169,8 +167,6 @@ http://cdn6.163189.xyz/163189/chu
 https://o11.163189.xyz/stream/tvb/fct/
 #EXTINF:-1 group-title="港台频道",明珠台
 https://o11.163189.xyz/stream/tvb/mzt/
-#EXTINF:-1 group-title="港台频道",民视
-http://iptv.4666888.xyz/iptv2A.php?id=55
 #EXTINF:-1 group-title="港台频道",华视
 rtmp://f13h.mine.nu/sat/tv111
 #EXTINF:-1 group-title="港台频道",台视
@@ -217,32 +213,20 @@ http://iptv.4666888.xyz/iptv2A.php?id=33
 http://cdn6.163189.xyz/163189/yzwx
 #EXTINF:-1 group-title="港台频道",TVB星河
 https://o11.163189.xyz/stream/live/tvbxh/
-#EXTINF:-1 group-title="港台频道",TVBS精采
-http://iptv.4666888.xyz/iptv2A.php?id=47
 #EXTINF:-1 group-title="港台频道",TVB Plus
 https://o11.163189.xyz/stream/tvb/tvbp/
 #EXTINF:-1 group-title="港台频道",TVBJ1
 http://iptv.4666888.xyz/iptv2A.php?id=26
-#EXTINF:-1 group-title="港台频道",天映频道
-https://o11.163189.xyz/stream/live/typd/
 #EXTINF:-1 group-title="港台频道",千禧经典
 https://o11.163189.xyz/stream/live/tvbc/
 #EXTINF:-1 group-title="港台频道",黄金华剧
 http://iptv.4666888.xyz/iptv2A.php?id=34
 #EXTINF:-1 group-title="港台频道",ROCK
 http://iptv.4666888.xyz/iptv2A.php?id=50
-#EXTINF:-1 group-title="港台频道",MYTV SUPER
-http://iptv.4666888.xyz/iptv2A.php?id=24
 #EXTINF:-1 group-title="港台频道",HOY77
 http://cdn6.163189.xyz/163189/hoy
 #EXTINF:-1 group-title="港台频道",HOY78
 http://cdn.163189.xyz/163189/hoy78
-#EXTINF:-1 group-title="港台频道",靖洋戏剧
-http://iptv.4666888.xyz/iptv2A.php?id=42
-#EXTINF:-1 group-title="港台频道",民视综艺
-http://iptv.4666888.xyz/iptv2A.php?id=46
-#EXTINF:-1 group-title="港台频道",民视影剧
-http://iptv.4666888.xyz/iptv2A.php?id=53
 #EXTINF:-1 group-title="港台频道",RHK31
 http://iptv.4666888.xyz/iptv2A.php?id=23
 #EXTINF:-1 group-title="港台频道",RTHK 32
@@ -273,8 +257,6 @@ http://23.237.104.106:8080/USA_HBO/tracks-v1a1/mono.m3u8
 http://23.237.104.106:8080/USA_CARTOON_NETWORK/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="港台频道",LMN
 http://23.237.104.106:8080/USA_LMN/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="港台频道",AESTRO Football
-http://iptv.4666888.xyz/iptv2A.php?id=4
 #EXTINF:-1 group-title="港台频道",HBO精选
 http://23.237.104.106:8080/USA_HBO2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="港台频道",Cinemax精选
@@ -283,8 +265,6 @@ http://23.237.104.106:8080/USA_MOREMAX/mono.m3u8
 http://23.237.104.106:8080/USA_CINEMAX/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="港台频道",HBO王牌
 http://23.237.104.106:8080/USA_HBO_ZONE/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="港台频道",ASTRO欢喜台
-http://o11.163189.xyz/stream/live/hxt/
 #EXTINF:-1 group-title="地方频道",钱江都市
 http://ali-xwl.cztv.com/live/channel021080Plxw.m3u8
 #EXTINF:-1 group-title="地方频道",经济生活
