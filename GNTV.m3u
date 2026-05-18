@@ -181,8 +181,6 @@ rtmp://f13h.mine.nu/sat/tv721
 rtmp://f13h.mine.nu/sat/tv771
 #EXTINF:-1 group-title="港台频道",东森超视
 rtmp://f13h.mine.nu/sat/tv331
-#EXTINF:-1 group-title="港台频道",娱乐新闻
-http://iptv.4666888.xyz/iptv2A.php?id=36
 #EXTINF:-1 group-title="港台频道",香港面包
 https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
 #EXTINF:-1 group-title="港台频道",八度空间
@@ -207,28 +205,20 @@ http://cdn6.163189.xyz/163189/amty
 http://cdn6.163189.xyz/163189/amlh
 #EXTINF:-1 group-title="港台频道",重温经典
 http://cdn6.163189.xyz/163189/cwjd
-#EXTINF:-1 group-title="港台频道",TVB戏剧
-http://iptv.4666888.xyz/iptv2A.php?id=33
 #EXTINF:-1 group-title="港台频道",TVB武侠
 http://cdn6.163189.xyz/163189/yzwx
 #EXTINF:-1 group-title="港台频道",TVB星河
 https://o11.163189.xyz/stream/live/tvbxh/
 #EXTINF:-1 group-title="港台频道",TVB Plus
 https://o11.163189.xyz/stream/tvb/tvbp/
-#EXTINF:-1 group-title="港台频道",TVBJ1
-http://iptv.4666888.xyz/iptv2A.php?id=26
 #EXTINF:-1 group-title="港台频道",千禧经典
 https://o11.163189.xyz/stream/live/tvbc/
-#EXTINF:-1 group-title="港台频道",黄金华剧
-http://iptv.4666888.xyz/iptv2A.php?id=34
-#EXTINF:-1 group-title="港台频道",ROCK
-http://iptv.4666888.xyz/iptv2A.php?id=50
+#EXTINF:-1 group-title="港台频道",天映频道
+https://o11.163189.xyz/stream/live/typd/
 #EXTINF:-1 group-title="港台频道",HOY77
 http://cdn6.163189.xyz/163189/hoy
 #EXTINF:-1 group-title="港台频道",HOY78
 http://cdn.163189.xyz/163189/hoy78
-#EXTINF:-1 group-title="港台频道",RHK31
-http://iptv.4666888.xyz/iptv2A.php?id=23
 #EXTINF:-1 group-title="港台频道",RTHK 32
 http://cdn.163189.xyz/163189/rthk32
 #EXTINF:-1 group-title="港台频道",ASTRO爱奇艺
@@ -245,10 +235,6 @@ http://feilong123.vip/409990236/tv.php?id=ssdy
 http://feilong123.vip/409990236/tv.php?id=sswx
 #EXTINF:-1 group-title="港台频道",邵氏喜剧
 http://feilong123.vip/409990236/tv.php?id=ssxj
-#EXTINF:-1 group-title="港台频道",华艺中文
-http://iptv.4666888.xyz/iptv2A.php?id=37
-#EXTINF:-1 group-title="港台频道",ROCK Action
-http://iptv.4666888.xyz/iptv2A.php?id=50
 #EXTINF:-1 group-title="港台频道",HBO喜剧
 http://23.237.104.106:8080/USA_HBO_COMEDY/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="港台频道",HBO
