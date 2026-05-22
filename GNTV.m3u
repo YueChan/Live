@@ -145,8 +145,6 @@ http://38.75.136.137:98/gslb/dsdqpub/gdgj.m3u8?auth=testpub
 http://cdn6.163189.xyz/163189/fhzw
 #EXTINF:-1 group-title="港台频道",凤凰资讯
 http://cdn6.163189.xyz/163189/fhzx
-#EXTINF:-1 group-title="港台频道",凤凰香港
-http://cdn6.163189.xyz/163189/fhhk
 #EXTINF:-1 tvg-id="Astro AOD" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/AstroAOD.png" group-title="港台频道",Astro AOD
 https://o11.163189.xyz/stream/live/aod/
 #EXTINF:-1 tvg-id="Astro AEC" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/AstroAEC.png" group-title="港台频道",Astro AEC
@@ -235,6 +233,8 @@ http://feilong123.vip/409990236/tv.php?id=ssdy
 http://feilong123.vip/409990236/tv.php?id=sswx
 #EXTINF:-1 group-title="港台频道",邵氏喜剧
 http://feilong123.vip/409990236/tv.php?id=ssxj
+#EXTINF:-1 group-title="港台频道",AMC电影台
+https://cdn12.178.indevs.in/163189/0bcf9bb8c452e56a
 #EXTINF:-1 group-title="港台频道",HBO喜剧
 http://23.237.104.106:8080/USA_HBO_COMEDY/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="港台频道",HBO
