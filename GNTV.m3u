@@ -1,63 +1,63 @@
 #EXTM3U
-#EXTINF:-1 group-title="央视频道",CCTV-1综合
-http://207.56.13.146:81/cdnlive/cctv1.m3u8
-#EXTINF:-1 group-title="央视频道",CCTV-2财经
-http://207.56.13.146:81/cdnlive/cctv2.m3u8
-#EXTINF:-1 group-title="央视频道",CCTV-3综艺
-http://207.56.13.146:81/cdnlive/cctv3.m3u8
-#EXTINF:-1 group-title="央视频道",CCTV-4中文国际
-http://207.56.13.146:81/cdnlive/cctv4.m3u8
-#EXTINF:-1 group-title="央视频道",CCTV-5体育
-http://207.56.13.146:81/cdnlive/cctv5.m3u8
-#EXTINF:-1 group-title="央视频道",CCTV-6电影
-http://207.56.13.146:81/cdnlive/cctv6.m3u8
-#EXTINF:-1 group-title="央视频道",CCTV-7国防军事
-http://207.56.13.146:81/cdnlive/cctv7.m3u8
-#EXTINF:-1 group-title="央视频道",CCTV-8电视剧
-http://207.56.13.146:81/cdnlive/cctv8.m3u8
-#EXTINF:-1 group-title="央视频道",CCTV-9纪录
-http://207.56.13.146:81/cdnlive/cctv9.m3u8
-#EXTINF:-1 group-title="央视频道",CCTV-10科教
-http://207.56.13.146:81/cdnlive/cctv10.m3u8
-#EXTINF:-1 group-title="央视频道",CCTV-11戏曲
-http://207.56.13.146:81/cdnlive/cctv11.m3u8
-#EXTINF:-1 group-title="央视频道",CCTV-12社会与法
-http://207.56.13.146:81/cdnlive/cctv12.m3u8
-#EXTINF:-1 group-title="央视频道",CCTV-13新闻
-http://207.56.13.146:81/cdnlive/cctv13.m3u8
-#EXTINF:-1 group-title="央视频道",CCTV-14少儿
-http://207.56.13.146:81/cdnlive/cctv14.m3u8
-#EXTINF:-1 group-title="央视频道",CCTV-15音乐
-http://207.56.13.146:81/cdnlive/cctv15.m3u8
-#EXTINF:-1 group-title="央视频道",CCTV-16奥林匹克
+#EXTINF:-1 group-title="央视频道",CCTV1
+http://120.76.248.139/live/bfgd/4200000488.m3u8
+#EXTINF:-1 group-title="央视频道",CCTV2
+http://120.76.248.139/live/bfgd/4200000061.m3u8
+#EXTINF:-1 group-title="央视频道",CCTV3
+http://120.76.248.139/live/bfgd/4200000062.m3u8
+#EXTINF:-1 group-title="央视频道",CCTV4
+http://120.76.248.139/live/bfgd/4200000063.m3u8
+#EXTINF:-1 group-title="央视频道",CCTV5
+http://120.76.248.139/live/bfgd/4200000064.m3u8
+#EXTINF:-1 group-title="央视频道",CCTV6
+http://120.76.248.139/live/bfgd/4200000065.m3u8
+#EXTINF:-1 group-title="央视频道",CCTV7
+http://120.76.248.139/live/bfgd/4200000127.m3u8
+#EXTINF:-1 group-title="央视频道",CCTV8
+http://120.76.248.139/live/bfgd/4200000066.m3u8
+#EXTINF:-1 group-title="央视频道",CCTV9
+http://120.76.248.139/live/bfgd/4200000128.m3u8
+#EXTINF:-1 group-title="央视频道",CCTV10
+http://120.76.248.139/live/bfgd/4200000129.m3u8
+#EXTINF:-1 group-title="央视频道",CCTV11
+http://120.76.248.139/live/bfgd/4200000130.m3u8
+#EXTINF:-1 group-title="央视频道",CCTV12
+http://120.76.248.139/live/bfgd/4200000131.m3u8
+#EXTINF:-1 group-title="央视频道",CCTV13
+http://120.76.248.139/live/bfgd/4200000067.m3u8
+#EXTINF:-1 group-title="央视频道",CCTV14
+http://120.76.248.139/live/bfgd/4200000132.m3u8
+#EXTINF:-1 group-title="央视频道",CCTV15
+http://120.76.248.139/live/bfgd/4200000133.m3u8
+#EXTINF:-1 group-title="央视频道",CCTV16 
 http://207.56.13.146:81/cdnlive/cctv16.m3u8
-#EXTINF:-1 group-title="央视频道",CCTV-17农业农村
-http://207.56.13.146:81/cdnlive/cctv17.m3u8
-#EXTINF:-1 group-title="央视频道",CCTV-5+体育赛事
-http://207.56.13.146:81/cdnlive/cctv5p.m3u8
-#EXTINF:-1 group-title="央视频道",CCTV-兵器科技
+#EXTINF:-1 group-title="央视频道",CCTV17
+http://120.76.248.139/live/bfgd/4200000204.m3u8
+#EXTINF:-1 group-title="央视频道",体育赛事
+http://120.76.248.139/live/bfgd/4200000246.m3u8
+#EXTINF:-1 group-title="央视频道",兵器科技
 http://207.56.13.146:81/cdnlive/gfjs.m3u8
-#EXTINF:-1 group-title="央视频道",CCTV-女性时尚
+#EXTINF:-1 group-title="央视频道",女性时尚
 http://207.56.13.146:81/cdnlive/nxss.m3u8
-#EXTINF:-1 group-title="央视频道",CCTV-世界地理
+#EXTINF:-1 group-title="央视频道",世界地理
 http://207.56.13.146:81/cdnlive/sjdl.m3u8
-#EXTINF:-1 group-title="央视频道",CCTV-卫生健康
+#EXTINF:-1 group-title="央视频道",卫生健康
 http://207.56.13.146:81/cdnlive/wsjk.m3u8
-#EXTINF:-1 group-title="央视频道",CCTV-央视文化精品
+#EXTINF:-1 group-title="央视频道",文化精品
 http://207.56.13.146:81/cdnlive/ysjp.m3u8
-#EXTINF:-1 group-title="央视频道",CCTV-第一剧场
+#EXTINF:-1 group-title="央视频道",第一剧场
 http://207.56.13.146:81/cdnlive/dyjc.m3u8
-#EXTINF:-1 group-title="央视频道",CCTV-怀旧剧场
+#EXTINF:-1 group-title="央视频道",怀旧剧场
 http://207.56.13.146:81/cdnlive/hjjc.m3u8
-#EXTINF:-1 group-title="央视频道",CCTV-风云剧场
+#EXTINF:-1 group-title="央视频道",风云剧场
 http://207.56.13.146:81/cdnlive/fyjc.m3u8
-#EXTINF:-1 group-title="央视频道",CCTV-风云足球
+#EXTINF:-1 group-title="央视频道",风云足球
 http://207.56.13.146:81/cdnlive/fyzq.m3u8
-#EXTINF:-1 group-title="央视频道",CCTV-风云音乐
+#EXTINF:-1 group-title="央视频道",风云音乐
 http://207.56.13.146:81/cdnlive/fyyy.m3u8
-#EXTINF:-1 group-title="央视频道",CCTV-央视台球
+#EXTINF:-1 group-title="央视频道",央视台球
 http://207.56.13.146:81/cdnlive/ystq.m3u8
-#EXTINF:-1 group-title="央视频道",CCTV-高尔夫网球
+#EXTINF:-1 group-title="央视频道",高尔夫网球
 http://207.56.13.146:81/cdnlive/gefwq.m3u8
 #EXTINF:-1 group-title="央视频道",CGTN英语
 https://english-livebkali.cgtn.com/live/encgtn_0.m3u8
