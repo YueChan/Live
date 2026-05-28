@@ -1,40 +1,40 @@
 #EXTM3U
-#EXTINF:-1 group-title="央视频道",CCTV1
-http://120.76.248.139/live/bfgd/4200000488.m3u8
-#EXTINF:-1 group-title="央视频道",CCTV2
-http://120.76.248.139/live/bfgd/4200000061.m3u8
-#EXTINF:-1 group-title="央视频道",CCTV3
-http://120.76.248.139/live/bfgd/4200000062.m3u8
-#EXTINF:-1 group-title="央视频道",CCTV4
-http://120.76.248.139/live/bfgd/4200000063.m3u8
-#EXTINF:-1 group-title="央视频道",CCTV5
-http://120.76.248.139/live/bfgd/4200000064.m3u8
-#EXTINF:-1 group-title="央视频道",CCTV6
-http://120.76.248.139/live/bfgd/4200000065.m3u8
-#EXTINF:-1 group-title="央视频道",CCTV7
-http://120.76.248.139/live/bfgd/4200000127.m3u8
-#EXTINF:-1 group-title="央视频道",CCTV8
-http://120.76.248.139/live/bfgd/4200000066.m3u8
-#EXTINF:-1 group-title="央视频道",CCTV9
-http://120.76.248.139/live/bfgd/4200000128.m3u8
-#EXTINF:-1 group-title="央视频道",CCTV10
-http://120.76.248.139/live/bfgd/4200000129.m3u8
-#EXTINF:-1 group-title="央视频道",CCTV11
-http://120.76.248.139/live/bfgd/4200000130.m3u8
-#EXTINF:-1 group-title="央视频道",CCTV12
-http://120.76.248.139/live/bfgd/4200000131.m3u8
-#EXTINF:-1 group-title="央视频道",CCTV13
-http://120.76.248.139/live/bfgd/4200000067.m3u8
-#EXTINF:-1 group-title="央视频道",CCTV14
-http://120.76.248.139/live/bfgd/4200000132.m3u8
-#EXTINF:-1 group-title="央视频道",CCTV15
-http://120.76.248.139/live/bfgd/4200000133.m3u8
+#EXTINF:-1 group-title="央视直播",CCTV1
+http://124.223.82.228:89/608807420
+#EXTINF:-1 group-title="央视直播",CCTV2
+http://124.223.82.228:89/631780532
+#EXTINF:-1 group-title="央视直播",CCTV3
+http://124.223.82.228:89/624878271
+#EXTINF:-1 group-title="央视直播",CCTV4
+http://124.223.82.228:89/631780421
+#EXTINF:-1 group-title="央视直播",CCTV5
+http://124.223.82.228:89/641886683
+#EXTINF:-1 group-title="央视直播",CCTV6
+http://124.223.82.228:89/624878396
+#EXTINF:-1 group-title="央视直播",CCTV7
+http://124.223.82.228:89/673168121
+#EXTINF:-1 group-title="央视直播",CCTV8
+http://124.223.82.228:89/624878356
+#EXTINF:-1 group-title="央视直播",CCTV9
+http://124.223.82.228:89/673168140
+#EXTINF:-1 group-title="央视直播",CCTV10
+http://124.223.82.228:89/624878405
+#EXTINF:-1 group-title="央视直播",CCTV11
+http://124.223.82.228:89/667987558
+#EXTINF:-1 group-title="央视直播",CCTV12
+http://124.223.82.228:89/673168185
+#EXTINF:-1 group-title="央视直播",CCTV13
+http://124.223.82.228:89/608807423
+#EXTINF:-1 group-title="央视直播",CCTV14
+http://124.223.82.228:89/624878440
+#EXTINF:-1 group-title="央视直播",CCTV15
+http://124.223.82.228:89/673168223
 #EXTINF:-1 group-title="央视频道",CCTV16 
 http://207.56.13.146:81/cdnlive/cctv16.m3u8
-#EXTINF:-1 group-title="央视频道",CCTV17
-http://120.76.248.139/live/bfgd/4200000204.m3u8
+#EXTINF:-1 group-title="央视直播",CCTV17
+http://124.223.82.228:89/673168256
 #EXTINF:-1 group-title="央视频道",体育赛事
-http://120.76.248.139/live/bfgd/4200000246.m3u8
+http://124.223.82.228:89/641886773
 #EXTINF:-1 group-title="央视频道",兵器科技
 http://207.56.13.146:81/cdnlive/gfjs.m3u8
 #EXTINF:-1 group-title="央视频道",女性时尚
