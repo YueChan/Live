@@ -1,40 +1,40 @@
 #EXTM3U
-#EXTINF:-1 group-title="央视直播",CCTV1
-http://124.223.82.228:89/608807420
-#EXTINF:-1 group-title="央视直播",CCTV2
-http://124.223.82.228:89/631780532
-#EXTINF:-1 group-title="央视直播",CCTV3
-http://124.223.82.228:89/624878271
-#EXTINF:-1 group-title="央视直播",CCTV4
-http://124.223.82.228:89/631780421
-#EXTINF:-1 group-title="央视直播",CCTV5
-http://124.223.82.228:89/641886683
-#EXTINF:-1 group-title="央视直播",CCTV6
-http://124.223.82.228:89/624878396
-#EXTINF:-1 group-title="央视直播",CCTV7
-http://124.223.82.228:89/673168121
-#EXTINF:-1 group-title="央视直播",CCTV8
-http://124.223.82.228:89/624878356
-#EXTINF:-1 group-title="央视直播",CCTV9
-http://124.223.82.228:89/673168140
-#EXTINF:-1 group-title="央视直播",CCTV10
-http://124.223.82.228:89/624878405
-#EXTINF:-1 group-title="央视直播",CCTV11
-http://124.223.82.228:89/667987558
-#EXTINF:-1 group-title="央视直播",CCTV12
-http://124.223.82.228:89/673168185
-#EXTINF:-1 group-title="央视直播",CCTV13
-http://124.223.82.228:89/608807423
-#EXTINF:-1 group-title="央视直播",CCTV14
-http://124.223.82.228:89/624878440
-#EXTINF:-1 group-title="央视直播",CCTV15
-http://124.223.82.228:89/673168223
-#EXTINF:-1 group-title="央视频道",CCTV16 
+#EXTINF:-1 group-title="央视频道",CCTV-1综合
+http://207.56.13.146:81/cdnlive/cctv1.m3u8
+#EXTINF:-1 group-title="央视频道",CCTV-2财经
+http://207.56.13.146:81/cdnlive/cctv2.m3u8
+#EXTINF:-1 group-title="央视频道",CCTV-3综艺
+http://207.56.13.146:81/cdnlive/cctv3.m3u8
+#EXTINF:-1 group-title="央视频道",CCTV-4中文国际
+http://207.56.13.146:81/cdnlive/cctv4.m3u8
+#EXTINF:-1 group-title="央视频道",CCTV-5体育
+http://207.56.13.146:81/cdnlive/cctv5.m3u8
+#EXTINF:-1 group-title="央视频道",CCTV-6电影
+http://207.56.13.146:81/cdnlive/cctv6.m3u8
+#EXTINF:-1 group-title="央视频道",CCTV-7国防军事
+http://207.56.13.146:81/cdnlive/cctv7.m3u8
+#EXTINF:-1 group-title="央视频道",CCTV-8电视剧
+http://207.56.13.146:81/cdnlive/cctv8.m3u8
+#EXTINF:-1 group-title="央视频道",CCTV-9纪录
+http://207.56.13.146:81/cdnlive/cctv9.m3u8
+#EXTINF:-1 group-title="央视频道",CCTV-10科教
+http://207.56.13.146:81/cdnlive/cctv10.m3u8
+#EXTINF:-1 group-title="央视频道",CCTV-11戏曲
+http://207.56.13.146:81/cdnlive/cctv11.m3u8
+#EXTINF:-1 group-title="央视频道",CCTV-12社会与法
+http://207.56.13.146:81/cdnlive/cctv12.m3u8
+#EXTINF:-1 group-title="央视频道",CCTV-13新闻
+http://207.56.13.146:81/cdnlive/cctv13.m3u8
+#EXTINF:-1 group-title="央视频道",CCTV-14少儿
+http://207.56.13.146:81/cdnlive/cctv14.m3u8
+#EXTINF:-1 group-title="央视频道",CCTV-15音乐
+http://207.56.13.146:81/cdnlive/cctv15.m3u8
+#EXTINF:-1 group-title="央视频道",CCTV-16奥林匹克
 http://207.56.13.146:81/cdnlive/cctv16.m3u8
-#EXTINF:-1 group-title="央视直播",CCTV17
-http://124.223.82.228:89/673168256
+#EXTINF:-1 group-title="央视频道",CCTV-17农业农村
+http://207.56.13.146:81/cdnlive/cctv17.m3u8
 #EXTINF:-1 group-title="央视频道",体育赛事
-http://124.223.82.228:89/641886773
+http://207.56.13.146:81/cdnlive/cctv5p.m3u8
 #EXTINF:-1 group-title="央视频道",兵器科技
 http://207.56.13.146:81/cdnlive/gfjs.m3u8
 #EXTINF:-1 group-title="央视频道",女性时尚
