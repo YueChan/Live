@@ -121,8 +121,8 @@ https://radio.0472.org/?id=637
 https://radio.0472.org/?id=702
 #EXTINF:-1 tvg-name="安徽音乐广播" tvg-logo="https://radio.0472.org/?id=601&logo" group-title="音乐广播",安徽音乐广播
 https://radio.0472.org/?id=601
-#EXTINF:-1 tvg-name="楚天音乐广播" tvg-logo="https://radio.0472.org/?id=533&logo" group-title="音乐广播",楚天音乐广播
-https://radio.0472.org/?id=533
+#EXTINF:-1 tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/musicradio/江苏经典流行音乐广播.png" group-title="音乐广播",江苏经典流行
+http://satellitepull.cnr.cn/live/wx32jsjdlxyy/playlist.m3u8
 #EXTINF:-1 tvg-name="浙江音乐调频" tvg-logo="https://radio.0472.org/?id=928&logo" group-title="音乐广播",浙江音乐调频
 https://radio.0472.org/?id=928
 #EXTINF:-1 tvg-name="厦门音乐广播" tvg-logo="https://radio.0472.org/?id=1897&logo" group-title="音乐广播",厦门音乐广播
