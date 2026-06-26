@@ -1,8 +1,8 @@
 #EXTM3U
 #EXTINF:-1 group-title="国际",CNN
-http://lordstreams.live:80/Alicia42/1915991510/277193
+
 #EXTINF:-1 group-title="国际",BBC News
-http://lordstreams.live:80/Alicia42/1915991510/277195
+
 #EXTINF:-1 group-title="国际",CNA
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 #EXTINF:-1 group-title="国际",GB News
@@ -10,7 +10,7 @@ https://rakutenaa-lightning-gbnews-rakuten-ccoa9.amagi.tv/playlist/rakutenAA-lig
 #EXTINF:-1 group-title="国际",RT News
 https://rt-glb.rttv.com/dvr/rtnews/playlist_4500Kb.m3u8
 #EXTINF:-1 group-title="国际",FOX News
-http://41.205.93.154/FOX-NEWS/index.m3u8
+
 #EXTINF:-1 group-title="国际",France24
 https://live.france24.com/hls/live/2037218-b/F24_EN_HI_HLS/master_5000.m3u8
 #EXTINF:-1 group-title="国际",NHK World
