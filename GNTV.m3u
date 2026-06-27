@@ -161,20 +161,6 @@ http://cdn6.163189.xyz/163189/chu
 https://o11.163189.xyz/stream/tvb/fct/
 #EXTINF:-1 group-title="港台频道",明珠台
 https://o11.163189.xyz/stream/tvb/mzt/
-#EXTINF:-1 group-title="港台频道",华视
-rtmp://f13h.mine.nu/sat/tv111
-#EXTINF:-1 group-title="港台频道",台视
-rtmp://f13h.mine.nu/sat/tv071
-#EXTINF:-1 group-title="港台频道",中视
-rtmp://f13h.mine.nu/sat/tv091
-#EXTINF:-1 group-title="港台频道",纬来育乐
-rtmp://f13h.mine.nu/sat/tv701
-#EXTINF:-1 group-title="港台频道",纬来体育
-rtmp://f13h.mine.nu/sat/tv721
-#EXTINF:-1 group-title="港台频道",纬来日本
-rtmp://f13h.mine.nu/sat/tv771
-#EXTINF:-1 group-title="港台频道",东森超视
-rtmp://f13h.mine.nu/sat/tv331
 #EXTINF:-1 group-title="港台频道",香港面包
 https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
 #EXTINF:-1 group-title="港台频道",八度空间
@@ -219,8 +205,6 @@ http://cdn.163189.xyz/163189/rthk32
 https://o11.163189.xyz/stream/live/iqiyi/
 #EXTINF:-1 group-title="港台频道",ViuTV
 https://cdn.163189.xyz/163189/viu
-#EXTINF:-1 group-title="港台频道",ViuTVsix
-https://cdn10.163189.xyz/stream/163189/viu6/
 #EXTINF:-1 group-title="港台频道",邵氏动作
 http://feilong123.vip/409990236/tv.php?id=ssdz
 #EXTINF:-1 group-title="港台频道",邵氏电影
@@ -229,8 +213,6 @@ http://feilong123.vip/409990236/tv.php?id=ssdy
 http://feilong123.vip/409990236/tv.php?id=sswx
 #EXTINF:-1 group-title="港台频道",邵氏喜剧
 http://feilong123.vip/409990236/tv.php?id=ssxj
-#EXTINF:-1 group-title="港台频道",AMC电影台
-https://cdn12.178.indevs.in/163189/0bcf9bb8c452e56a
 #EXTINF:-1 group-title="港台频道",HBO喜剧
 http://23.237.104.106:8080/USA_HBO_COMEDY/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="港台频道",HBO
