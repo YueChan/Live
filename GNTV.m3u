@@ -58,7 +58,7 @@ http://60.10.139.113:8801/hls/72/index.m3u8
 #EXTINF:-1 tvg-name="CCTV世界地理-" tvg-logo="https://epg.112114.xyz/logo/CCTV世界地理-.png" group-title="央视频道",世界地理
 http://60.10.139.113:8801/hls/73/index.m3u8
 #EXTINF:-1 group-title="央视频道",卫生健康
-http://207.56.13.146:81/cdnlive/wsjk.m3u8
+http://192.151.150.154/live/wsjk.m3u8
 #EXTINF:-1 group-title="央视频道",央视台球
 http://207.56.13.146:81/cdnlive/ystq.m3u8
 #EXTINF:-1 group-title="央视频道",CGTN英语
