@@ -35,30 +35,32 @@ http://207.56.13.146:81/cdnlive/cctv16.m3u8
 http://60.10.139.113:8801/hls/98/index.m3u8
 #EXTINF:-1 group-title="央视频道",体育赛事
 http://60.10.139.113:8801/hls/15/index.m3u8
-#EXTINF:-1 group-title="央视频道",兵器科技
-http://207.56.13.146:81/cdnlive/gfjs.m3u8
-#EXTINF:-1 group-title="央视频道",女性时尚
-http://207.56.13.146:81/cdnlive/nxss.m3u8
-#EXTINF:-1 group-title="央视频道",世界地理
-http://207.56.13.146:81/cdnlive/sjdl.m3u8
+#EXTINF:-1 tvg-name="CCTV电视指南-" tvg-logo="https://epg.112114.xyz/logo/CCTV电视指南-.png" group-title="央视频道",电视指南
+http://60.10.139.113:8801/hls/64/index.m3u8
+#EXTINF:-1 tvg-name="CCTV第一剧场-" tvg-logo="https://epg.112114.xyz/logo/CCTV第一剧场-.png" group-title="央视频道",第一剧场
+http://60.10.139.113:8801/hls/65/index.m3u8
+#EXTINF:-1 tvg-name="CCTV风云剧场-" tvg-logo="https://epg.112114.xyz/logo/CCTV风云剧场-.png" group-title="央视频道",风云剧场
+http://60.10.139.113:8801/hls/66/index.m3u8
+#EXTINF:-1 tvg-name="CCTV怀旧剧场-" tvg-logo="https://epg.112114.xyz/logo/CCTV怀旧剧场-.png" group-title="央视频道",怀旧剧场
+http://60.10.139.113:8801/hls/67/index.m3u8
+#EXTINF:-1 tvg-name="CCTV风云音乐-" tvg-logo="https://epg.112114.xyz/logo/CCTV风云音乐-.png" group-title="央视频道",风云音乐
+http://60.10.139.113:8801/hls/68/index.m3u8
+#EXTINF:-1 tvg-name="CCTV风云足球-" tvg-logo="https://epg.112114.xyz/logo/CCTV风云足球-.png" group-title="央视频道",风云足球
+http://60.10.139.113:8801/hls/69/index.m3u8
+#EXTINF:-1 tvg-name="CCTV高尔夫网球-" tvg-logo="https://epg.112114.xyz/logo/CCTV高尔夫网球-.png" group-title="央视频道",高尔夫网球
+http://60.10.139.113:8801/hls/70/index.m3u8
+#EXTINF:-1 tvg-name="CCTV女性时尚-" tvg-logo="https://epg.112114.xyz/logo/CCTV女性时尚-.png" group-title="央视频道",女性时尚
+http://60.10.139.113:8801/hls/79/index.m3u8
+#EXTINF:-1 tvg-name="CCTV央视文化精品-" tvg-logo="https://epg.112114.xyz/logo/CCTV央视文化精品-.png" group-title="央视频道",视文化精品
+http://60.10.139.113:8801/hls/80/index.m3u8
+#EXTINF:-1 tvg-name="CCTV兵器科技-" tvg-logo="https://epg.112114.xyz/logo/CCTV兵器科技-.png" group-title="央视频道",兵器科技
+http://60.10.139.113:8801/hls/72/index.m3u8
+#EXTINF:-1 tvg-name="CCTV世界地理-" tvg-logo="https://epg.112114.xyz/logo/CCTV世界地理-.png" group-title="央视频道",世界地理
+http://60.10.139.113:8801/hls/73/index.m3u8
 #EXTINF:-1 group-title="央视频道",卫生健康
 http://207.56.13.146:81/cdnlive/wsjk.m3u8
-#EXTINF:-1 group-title="央视频道",文化精品
-http://207.56.13.146:81/cdnlive/ysjp.m3u8
-#EXTINF:-1 group-title="央视频道",第一剧场
-http://207.56.13.146:81/cdnlive/dyjc.m3u8
-#EXTINF:-1 group-title="央视频道",怀旧剧场
-http://207.56.13.146:81/cdnlive/hjjc.m3u8
-#EXTINF:-1 group-title="央视频道",风云剧场
-http://207.56.13.146:81/cdnlive/fyjc.m3u8
-#EXTINF:-1 group-title="央视频道",风云足球
-http://207.56.13.146:81/cdnlive/fyzq.m3u8
-#EXTINF:-1 group-title="央视频道",风云音乐
-http://207.56.13.146:81/cdnlive/fyyy.m3u8
 #EXTINF:-1 group-title="央视频道",央视台球
 http://207.56.13.146:81/cdnlive/ystq.m3u8
-#EXTINF:-1 group-title="央视频道",高尔夫网球
-http://207.56.13.146:81/cdnlive/gefwq.m3u8
 #EXTINF:-1 group-title="央视频道",CGTN英语
 https://english-livebkali.cgtn.com/live/encgtn_0.m3u8
 #EXTINF:-1 group-title="央视频道",CGTN纪录
