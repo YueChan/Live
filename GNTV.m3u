@@ -179,6 +179,8 @@ https://event.pull.hebtv.com:443/live/live101.m3u8
 http://bp-resource-dfl.bestv.cn/148/3/video.m3u8
 #EXTINF:-1 group-title="地方频道",苏州4K
 https://live-auth.51kandianshi.com/szgd/csztv4k_4k.m3u8
+#EXTINF:-1 group-title="地方频道",象视界
+http://1.94.31.214/php/hntv.php?id=xsj
 #EXTINF:-1 group-title="地方频道",钱江都市
 http://ali-xwl.cztv.com/live/channel021080Plxw.m3u8
 #EXTINF:-1 group-title="地方频道",经济生活
@@ -219,8 +221,6 @@ https://hls.ningxiahuangheyun.com/live/nxse1M.m3u8
 https://hwapi.yntv.net/62hdvf/rjwt14.m3u8
 #EXTINF:-1 group-title="地方频道",云南娱乐
 https://hwapi.yntv.net/62hdvf/q9vs1b.m3u8
-#EXTINF:-1 group-title="地方频道",农村频道
-http://zbbf2.ahbztv.com/live/418.m3u8
 #EXTINF:-1 tvg-id="内蒙古新闻综合" group-title="地方频道",新闻综合
 http://play1-qk.nmtv.cn/live/2316general.m3u8
 #EXTINF:-1 tvg-id="内蒙古经济生活" group-title="地方频道",经济生活
