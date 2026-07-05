@@ -136,7 +136,7 @@ http://207.56.13.146:81/cdnlive/ynws.m3u8
 #EXTINF:-1 group-title="卫视频道",海南卫视
 http://207.56.13.146:81/cdnlive/lyws.m3u8
 #EXTINF:-1 group-title="卫视频道",山西卫视
-http://207.56.13.146:81/cdnlive/sxws.m3u8
+http://192.151.150.154/live/sxwshd.m3u8
 #EXTINF:-1 group-title="卫视频道",青海卫视
 http://207.56.13.146:81/cdnlive/qhws.m3u8
 #EXTINF:-1 tvg-name="凤凰中文台" tvg-logo="https://epg.112114.xyz/logo/凤凰中文台.png" group-title="港台频道",凤凰中文
