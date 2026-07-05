@@ -137,8 +137,6 @@ http://207.56.13.146:81/cdnlive/hljws.m3u8
 http://207.56.13.146:81/cdnlive/sxws.m3u8
 #EXTINF:-1 group-title="卫视频道",青海卫视
 http://207.56.13.146:81/cdnlive/qhws.m3u8
-#EXTINF:-1 group-title="卫视频道",宁夏卫视
-http://207.56.13.146:81/cdnlive/nxws.m3u8
 #EXTINF:-1 tvg-name="凤凰中文台" tvg-logo="https://epg.112114.xyz/logo/凤凰中文台.png" group-title="港台频道",凤凰中文
 https://flv-play.clouda.com/live/fhzw-6zSJoUiicyU3ovDlMvflVRLQlVCMRCARnyJ0NPlfcs3eWJNeJSDRMAz4VgeQV3Diy6.flv
 #EXTINF:-1 tvg-name="凤凰资讯台" tvg-logo="https://epg.112114.xyz/logo/凤凰资讯台.png" group-title="港台频道",凤凰资讯
