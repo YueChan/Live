@@ -29,9 +29,9 @@ http://60.10.139.113:8801/hls/12/index.m3u8
 http://60.10.139.113:8801/hls/13/index.m3u8
 #EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://epg.112114.xyz/logo/CCTV15.png" group-title="央视频道",CCTV15
 http://60.10.139.113:8801/hls/97/index.m3u8
-#EXTINF:-1 group-title="央视频道",CCTV-16奥林匹克
+#EXTINF:-1 group-title="央视频道",CCTV16
 http://207.56.13.146:81/cdnlive/cctv16.m3u8
-#EXTINF:-1 group-title="央视频道",CCTV-17农业农村
+#EXTINF:-1 group-title="央视频道",CCTV17
 http://60.10.139.113:8801/hls/98/index.m3u8
 #EXTINF:-1 group-title="央视频道",体育赛事
 http://60.10.139.113:8801/hls/15/index.m3u8
