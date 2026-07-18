@@ -85,3 +85,17 @@ https://dxtx.hntv.tv/live/wwbk.m3u8?txSecret=317b89626134fd6bea6e129455b5ff18&tx
 https://dxtx.hntv.tv/live/wssj.m3u8?txSecret=c38b4d31ba4c45c6babb5c47132123e3&txTime=7ABB976A&wsSecret=dfcdc24ac8a49ebd886337dc5cdc1568&wsTime=1770400669
 #EXTINF:-1 group-title="地方频道",河南曲艺
 https://dxtx.hntv.tv/live/jczy.m3u8?txSecret=e785008e49564e5e738439b4dd2ae68e&txTime=7C4C6207&wsSecret=3f9e1d6e5c78cea99a876ce40f13202b&wsTime=1770400669
+#EXTINF:-1 group-title="地方频道",绍兴公共
+http://live.shaoxing.com.cn/video/s10001-sxtv2/index.m3u8
+#EXTINF:-1 group-title="地方频道",文化影视
+http://live.shaoxing.com.cn/video/s10001-sxtv3/index.m3u8
+#EXTINF:-1 group-title="地方频道",文成综合
+http://l.cztvcloud.com/channels/lantian/SXwencheng1/720p.m3u8
+#EXTINF:-1 group-title="地方频道",萧山综合
+http://l.cztvcloud.com/channels/lantian/SXxiaoshan1/720p.m3u8
+#EXTINF:-1 group-title="地方频道",龙泉综合
+http://l.cztvcloud.com/channels/lantian/SXlongquan1/720p.m3u8
+#EXTINF:-1 group-title="地方频道",上虞综合
+http://l.cztvcloud.com/channels/lantian/SXshangyu1/720p.m3u8
+#EXTINF:-1 group-title="地方频道",云和综合
+http://l.cztvcloud.com/channels/lantian/SXyunhe1/720p.m3u8
