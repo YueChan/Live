@@ -149,8 +149,6 @@ http://4gtv.cnlive.club/channel/n37458587/index.m3u8?q=1784702901150
 http://4gtv.cnlive.club/channel/58f128b2/index.m3u8?q=1784702901150
 #EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E6%B0%91%E8%A6%96%E7%B6%9C%E8%97%9D%E5%8F%B0.png" group-title="港台频道",民視綜藝台
 http://4gtv.cnlive.club/channel/nc46cff5/index.m3u8?q=1784702901150
-#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E8%B1%AC%E5%93%A5%E4%BA%AE%E6%AD%8C%E5%BB%B3%E7%A7%80.png" group-title="港台频道",豬哥亮歌廳秀
-http://4gtv.cnlive.club/channel/n4271efdd/index.m3u8?q=1784702901150
 #EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E9%9D%96%E5%A4%A9%E8%82%B2%E6%A8%82%E5%8F%B0.png" group-title="港台频道",靖天育樂台
 http://4gtv.cnlive.club/channel/3f7d0a6e/index.m3u8?q=1784702901150
 #EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/KLT-%E9%9D%96%E5%A4%A9%E5%9C%8B%E9%9A%9B%E5%8F%B0.png" group-title="港台频道",靖天國際台
@@ -169,8 +167,6 @@ http://4gtv.cnlive.club/channel/6626a9ca/index.m3u8?q=1784702901150
 http://4gtv.cnlive.club/channel/3f07b409/index.m3u8?q=1784702901150
 #EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E9%9D%96%E6%B4%8B%E6%88%B2%E5%8A%87%E5%8F%B0.png" group-title="港台频道",靖洋戲劇台
 http://4gtv.cnlive.club/channel/48117ce7/index.m3u8?q=1784702901150
-#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E9%87%91%E5%85%89%E5%B8%83%E8%A2%8B%E6%88%B2.png" group-title="港台频道",金光布袋戲
-http://4gtv.cnlive.club/channel/n125d8ecd/index.m3u8?q=1784702901150
 #EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/ROCK%20Action.png" group-title="港台频道",ROCK Action
 http://4gtv.cnlive.club/channel/n21b197ce/index.m3u8?q=1784702901150
 #EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E9%87%87%E6%98%8C%E5%BD%B1%E5%8A%87%E5%8F%B0.png" group-title="港台频道",采昌影劇台
@@ -191,8 +187,6 @@ http://4gtv.cnlive.club/channel/n2eb7240a/index.m3u8?q=1784702901150
 http://rihou.cc:555/tv/%E6%B0%91%E8%A7%86%E6%96%B0%E9%97%BB
 #EXTINF:-1 tvg-name="公视" tvg-logo="https://epg.112114.xyz/logo/公视.png" group-title="港台频道",公视高清
 http://211.72.174.95:8116/0.ts
-#EXTINF:-1 tvg-name="中视" tvg-logo="https://epg.112114.xyz/logo/中视.png" group-title="港台频道",中视高清
-http://220.135.241.47:8301/0.ts
 #EXTINF:-1 tvg-name="民视" tvg-logo="https://epg.112114.xyz/logo/民视.png" group-title="港台频道",民视高清
 http://211.72.174.95:8115/0.ts
 #EXTINF:-1 tvg-name="华视" tvg-logo="https://epg.112114.xyz/logo/华视.png" group-title="港台频道",华视高清
