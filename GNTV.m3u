@@ -7,6 +7,106 @@ http://english-livebkali.cgtn.com/live/doccgtn_0.m3u8
 http://zmgd.zyrnet.com:8888/hls/110/index.m3u8
 #EXTINF:-1 group-title="港台频道",凤凰资讯
 http://zmgd.zyrnet.com:8888/hls/109/index.m3u8
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E6%B0%91%E8%A6%96%E7%AC%AC%E4%B8%80%E5%8F%B0.png" group-title="港台频道",民視第一台
+http://4gtv.cnlive.club/channel/nc56ba28/index.m3u8?q=1784702901150
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E6%B0%91%E8%A6%96%E5%8F%B0%E7%81%A3%E5%8F%B0.png" group-title="港台频道",民視台灣台
+http://4gtv.cnlive.club/channel/nce5d867/index.m3u8?q=1784702901150
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E6%B0%91%E8%A6%96.png" group-title="港台频道",民視
+http://4gtv.cnlive.club/channel/n7222a63c/index.m3u8?q=1784702901150
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E4%B8%AD%E8%A6%96.png" group-title="港台频道",中視
+http://4gtv.cnlive.club/channel/n722644d8/index.m3u8?q=1784702901150
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E8%8F%AF%E8%A6%96.png" group-title="港台频道",華視
+http://4gtv.cnlive.club/channel/n721fc25a/index.m3u8?q=1784702901150
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E4%B8%89%E7%AB%8B%E7%B6%9C%E5%90%88%E5%8F%B0.png" group-title="港台频道",三立綜合台
+http://4gtv.cnlive.club/channel/45c7d3e3/index.m3u8?q=1784702901150
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E5%85%AB%E5%A4%A7%E7%B6%9C%E8%97%9D%E5%8F%B0.png" group-title="港台频道",八大綜藝台
+http://4gtv.cnlive.club/channel/662e9334/index.m3u8?q=1784702901150
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/TVBS%E7%B2%BE%E9%87%87%E5%8F%B0.png" group-title="港台频道",TVBS精采台
+http://4gtv.cnlive.club/channel/49d50255/index.m3u8?q=1784702901150
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E9%9D%96%E5%A4%A9%E7%B6%9C%E5%90%88%E5%8F%B0.png" group-title="港台频道",靖天綜合台
+http://4gtv.cnlive.club/channel/3f6ecb92/index.m3u8?q=1784702901150
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E9%9D%96%E5%A4%A9%E6%97%A5%E6%9C%AC%E5%8F%B0.png" group-title="港台频道",靖天日本台
+http://4gtv.cnlive.club/channel/3f1816f7/index.m3u8?q=1784702901150
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/LiveABC%E4%BA%92%E5%8B%95%E8%8B%B1%E8%AA%9E%E9%A0%BB%E9%81%93.png" group-title="港台频道",ABC互動英語
+http://4gtv.cnlive.club/channel/2a571abf/index.m3u8?q=1784702901150
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E9%81%94%E6%96%87%E8%A5%BF%E9%A0%BB%E9%81%93.png" group-title="港台频道",Da Vinci
+http://4gtv.cnlive.club/channel/n1d7d9ddb/index.m3u8?q=1784702901150
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/Nick%20Jr.%20%E5%85%92%E7%AB%A5%E9%A0%BB%E9%81%93.png" group-title="港台频道",Nick Jr.
+http://4gtv.cnlive.club/channel/23ac0723/index.m3u8?q=1784702901150
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E5%B0%BC%E5%85%8B%E5%85%92%E7%AB%A5%E9%A0%BB%E9%81%93.png" group-title="港台频道",Nickelodeon
+http://4gtv.cnlive.club/channel/51bbda39/index.m3u8?q=1784702901150
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/DreamWorks%20%E5%A4%A2%E5%B7%A5%E5%BB%A0%E5%8B%95%E7%95%AB.png" group-title="港台频道",DreamWorks
+http://4gtv.cnlive.club/channel/n451655ef/index.m3u8?q=1784702901150
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E9%9D%96%E5%A4%A9%E5%8D%A1%E9%80%9A%E5%8F%B0.png" group-title="港台频道",靖天卡通台
+http://4gtv.cnlive.club/channel/3ed78a45/index.m3u8?q=1784702901150
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E9%9D%96%E6%B4%8B%E5%8D%A1%E9%80%9ANice%20Bingo.png" group-title="港台频道",Nice Bingo
+http://4gtv.cnlive.club/channel/n15c65427/index.m3u8?q=1784702901150
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/MOMO%E8%A6%AA%E5%AD%90%E5%8F%B0.png" group-title="港台频道",MOMO親子台
+http://4gtv.cnlive.club/channel/n33a56e39/index.m3u8?q=1784702901150
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E9%8F%A1%E9%9B%BB%E8%A6%96%E6%96%B0%E8%81%9E%E5%8F%B0.png" group-title="港台频道",Mnews鏡新闻
+http://4gtv.cnlive.club/channel/351c8485/index.m3u8?q=1784702901150
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E6%9D%B1%E6%A3%AE%E6%96%B0%E8%81%9E%E5%8F%B0.png" group-title="港台频道",東森新聞台
+http://4gtv.cnlive.club/channel/n5ca63a3a/index.m3u8?q=1784702901150
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E8%8F%AF%E8%A6%96%E6%96%B0%E8%81%9E.png" group-title="港台频道",華視新聞
+http://4gtv.cnlive.club/channel/n692bc32c/index.m3u8?q=1784702901150
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E6%B0%91%E8%A6%96%E6%96%B0%E8%81%9E%E5%8F%B0.png" group-title="港台频道",民視新聞台
+http://4gtv.cnlive.club/channel/nca14742/index.m3u8?q=1784702901150
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E4%B8%89%E7%AB%8B%E6%96%B0%E8%81%9EiNEWS.png" group-title="港台频道",三立新聞iNEWS
+http://4gtv.cnlive.club/channel/4fa717ad/index.m3u8?q=1784702901150
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/TVBS%E6%96%B0%E8%81%9E.png" group-title="港台频道",TVBS新聞
+http://4gtv.cnlive.club/channel/n1ea96b20/index.m3u8?q=1784702901150
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E6%9D%B1%E6%A3%AE%E8%B2%A1%E7%B6%93%E6%96%B0%E8%81%9E%E5%8F%B0.png" group-title="港台频道",東森財經新聞台
+http://4gtv.cnlive.club/channel/57ce2e74/index.m3u8?q=1784702901150
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E4%B8%AD%E8%A6%96%E6%96%B0%E8%81%9E.png" group-title="港台频道",中視新聞
+http://4gtv.cnlive.club/channel/7e6461d6/index.m3u8?q=1784702901150
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E4%B8%AD%E5%A4%A9%E6%96%B0%E8%81%9E%E5%8F%B0.png" group-title="港台频道",中天新聞台
+http://4gtv.cnlive.club/channel/3824d067/index.m3u8?q=1784702901150
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E5%AF%B0%E5%AE%87%E6%96%B0%E8%81%9E%E5%8F%B0.png" group-title="港台频道",寰宇新聞台
+http://4gtv.cnlive.club/channel/n4da4274/index.m3u8?q=1784702901150
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E5%AF%B0%E5%AE%87%E6%96%B0%E8%81%9E%E5%8F%B0%E7%81%A3%E5%8F%B0.png" group-title="港台频道",寰宇新聞台灣台
+http://4gtv.cnlive.club/channel/n37458587/index.m3u8?q=1784702901150
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/TVBS.png" group-title="港台频道",TVBS
+http://4gtv.cnlive.club/channel/58f128b2/index.m3u8?q=1784702901150
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E6%B0%91%E8%A6%96%E7%B6%9C%E8%97%9D%E5%8F%B0.png" group-title="港台频道",民視綜藝台
+http://4gtv.cnlive.club/channel/nc46cff5/index.m3u8?q=1784702901150
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E8%B1%AC%E5%93%A5%E4%BA%AE%E6%AD%8C%E5%BB%B3%E7%A7%80.png" group-title="港台频道",豬哥亮歌廳秀
+http://4gtv.cnlive.club/channel/n4271efdd/index.m3u8?q=1784702901150
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E9%9D%96%E5%A4%A9%E8%82%B2%E6%A8%82%E5%8F%B0.png" group-title="港台频道",靖天育樂台
+http://4gtv.cnlive.club/channel/3f7d0a6e/index.m3u8?q=1784702901150
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/KLT-%E9%9D%96%E5%A4%A9%E5%9C%8B%E9%9A%9B%E5%8F%B0.png" group-title="港台频道",靖天國際台
+http://4gtv.cnlive.club/channel/n481b36ac/index.m3u8?q=1784702901150
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/Nice%20TV%20%E9%9D%96%E5%A4%A9%E6%AD%A1%E6%A8%82%E5%8F%B0.png" group-title="港台频道",靖天歡樂台
+http://4gtv.cnlive.club/channel/n122ce57e/index.m3u8?q=1784702901150
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E9%9D%96%E5%A4%A9%E8%B3%87%E8%A8%8A%E5%8F%B0.png" group-title="港台频道",靖天資訊台
+http://4gtv.cnlive.club/channel/3fae463b/index.m3u8?q=1784702901150
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/TVBS%E6%AD%A1%E6%A8%82%E5%8F%B0.png" group-title="港台频道",TVBS歡樂台
+http://4gtv.cnlive.club/channel/498f035d/index.m3u8?q=1784702901150
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E5%85%AC%E8%A6%96%E6%88%B2%E5%8A%87.png" group-title="港台频道",公視戲劇
+http://4gtv.cnlive.club/channel/7fdd881e/index.m3u8?q=1784702901150
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E5%85%AB%E5%A4%A7%E7%B2%BE%E5%BD%A9%E5%8F%B0.png" group-title="港台频道",八大精彩台
+http://4gtv.cnlive.club/channel/6626a9ca/index.m3u8?q=1784702901150
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E9%9D%96%E5%A4%A9%E6%88%B2%E5%8A%87%E5%8F%B0.png" group-title="港台频道",靖天戲劇台
+http://4gtv.cnlive.club/channel/3f07b409/index.m3u8?q=1784702901150
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E9%9D%96%E6%B4%8B%E6%88%B2%E5%8A%87%E5%8F%B0.png" group-title="港台频道",靖洋戲劇台
+http://4gtv.cnlive.club/channel/48117ce7/index.m3u8?q=1784702901150
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E9%87%91%E5%85%89%E5%B8%83%E8%A2%8B%E6%88%B2.png" group-title="港台频道",金光布袋戲
+http://4gtv.cnlive.club/channel/n125d8ecd/index.m3u8?q=1784702901150
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/ROCK%20Action.png" group-title="港台频道",ROCK Action
+http://4gtv.cnlive.club/channel/n21b197ce/index.m3u8?q=1784702901150
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E9%87%87%E6%98%8C%E5%BD%B1%E5%8A%87%E5%8F%B0.png" group-title="港台频道",采昌影劇台
+http://4gtv.cnlive.club/channel/n97ba44a/index.m3u8?q=1784702901150
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E9%9D%96%E5%A4%A9%E6%98%A0%E7%95%AB.png" group-title="港台频道",靖天映畫
+http://4gtv.cnlive.club/channel/n610faa83/index.m3u8?q=1784702901150
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E9%9D%96%E5%A4%A9%E9%9B%BB%E5%BD%B1%E5%8F%B0.png" group-title="港台频道",靖天電影台
+http://4gtv.cnlive.club/channel/3fcf6ae8/index.m3u8?q=1784702901150
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E5%BD%B1%E8%BF%B7%E6%95%B8%E4%BD%8D%E9%9B%BB%E5%BD%B1%E5%8F%B0.png" group-title="港台频道",影迷數位電影台
+http://4gtv.cnlive.club/channel/n79da43c0/index.m3u8?q=1784702901150
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/amc%E9%9B%BB%E5%BD%B1%E5%8F%B0.png" group-title="港台频道",amc電影台
+http://4gtv.cnlive.club/channel/n4f2af9e/index.m3u8?q=1784702901150
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/CinemaWorld.png" group-title="港台频道",CinemaWorld
+http://4gtv.cnlive.club/channel/n7815b83e/index.m3u8?q=1784702901150
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E7%B6%93%E5%85%B8%E9%9B%BB%E5%BD%B1%E5%8F%B0.png" group-title="港台频道",經典電影台
+http://4gtv.cnlive.club/channel/n2eb7240a/index.m3u8?q=1784702901150
 #EXTINF:-1 tvg-name="民视新闻" tvg-logo="https://epg.112114.xyz/logo/民视新闻.png" group-title="港台频道",民视新闻
 http://rihou.cc:555/tv/%E6%B0%91%E8%A7%86%E6%96%B0%E9%97%BB
 #EXTINF:-1 tvg-name="公视" tvg-logo="https://epg.112114.xyz/logo/公视.png" group-title="港台频道",公视高清
