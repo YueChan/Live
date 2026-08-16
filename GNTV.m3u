@@ -77,6 +77,10 @@ http://zmgd.zyrnet.com:8888/hls/110/index.m3u8
 http://zmgd.zyrnet.com:8888/hls/109/index.m3u8
 #EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E5%87%A4%E5%87%B0%E9%A6%99%E6%B8%AF.png" group-title="港台频道",凤凰香港
 https://cdn.qd.je/163189/fhhk
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E4%B8%AD%E8%A6%96%E6%96%B0%E8%81%9E.png" group-title="港台频道",中視新聞
+http://4gtv.cnlive.club/channel/7e6461d6/index.m3u8?q=1784702901150
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E4%B8%AD%E5%A4%A9%E6%96%B0%E8%81%9E%E5%8F%B0.png" group-title="港台频道",中天新聞
+http://4gtv.cnlive.club/channel/3824d067/index.m3u8?q=1784702901150
 #EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/TVB%E6%96%B0%E9%97%BB.png" group-title="港台频道",TVB新闻
 https://cdn6.cc.cd/163189/wxxw
 #EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/TVB%E6%98%9F%E6%B2%B3.png" group-title="港台频道",TVB星河
@@ -191,7 +195,7 @@ http://4gtv.cnlive.club/channel/n15c65427/index.m3u8?q=1784702901150
 http://4gtv.cnlive.club/channel/n33a56e39/index.m3u8?q=1784702901150
 #EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E9%8F%A1%E9%9B%BB%E8%A6%96%E6%96%B0%E8%81%9E%E5%8F%B0.png" group-title="港台频道",Mnews鏡新闻
 http://4gtv.cnlive.club/channel/351c8485/index.m3u8?q=1784702901150
-#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E6%9D%B1%E6%A3%AE%E6%96%B0%E8%81%9E%E5%8F%B0.png" group-title="港台频道",東森新聞台
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E6%9D%B1%E6%A3%AE%E6%96%B0%E8%81%9E%E5%8F%B0.png" group-title="港台频道",東森新聞
 http://4gtv.cnlive.club/channel/n5ca63a3a/index.m3u8?q=1784702901150
 #EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E8%8F%AF%E8%A6%96%E6%96%B0%E8%81%9E.png" group-title="港台频道",華視新聞
 http://4gtv.cnlive.club/channel/n692bc32c/index.m3u8?q=1784702901150
@@ -203,10 +207,6 @@ http://4gtv.cnlive.club/channel/4fa717ad/index.m3u8?q=1784702901150
 http://4gtv.cnlive.club/channel/n1ea96b20/index.m3u8?q=1784702901150
 #EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E6%9D%B1%E6%A3%AE%E8%B2%A1%E7%B6%93%E6%96%B0%E8%81%9E%E5%8F%B0.png" group-title="港台频道",東森財經新聞台
 http://4gtv.cnlive.club/channel/57ce2e74/index.m3u8?q=1784702901150
-#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E4%B8%AD%E8%A6%96%E6%96%B0%E8%81%9E.png" group-title="港台频道",中視新聞
-http://4gtv.cnlive.club/channel/7e6461d6/index.m3u8?q=1784702901150
-#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E4%B8%AD%E5%A4%A9%E6%96%B0%E8%81%9E%E5%8F%B0.png" group-title="港台频道",中天新聞台
-http://4gtv.cnlive.club/channel/3824d067/index.m3u8?q=1784702901150
 #EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E5%AF%B0%E5%AE%87%E6%96%B0%E8%81%9E%E5%8F%B0.png" group-title="港台频道",寰宇新聞台
 http://4gtv.cnlive.club/channel/n4da4274/index.m3u8?q=1784702901150
 #EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/%E5%AF%B0%E5%AE%87%E6%96%B0%E8%81%9E%E5%8F%B0%E7%81%A3%E5%8F%B0.png" group-title="港台频道",寰宇新聞台灣台
