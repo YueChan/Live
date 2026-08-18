@@ -61,12 +61,6 @@
       "ext": "https://ghp.xptvhelper.link/https://raw.githubusercontent.com/Yswag/xptv-extensions/main/js/xingya.js"
     },
     {
-      "name": "影视天堂",
-      "type": 3,
-      "api": "csp_ystt",
-      "ext": "https://ghp.xptvhelper.link/https://raw.githubusercontent.com/fangkuia/XPTV/refs/heads/main/js/ystt.js"
-    },
-    {
       "name": "嗷嗚動漫",
       "type": 3,
       "api": "csp_aowu",
