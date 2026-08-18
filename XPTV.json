@@ -37,12 +37,6 @@
       "ext": "https://gist.githubusercontent.com/occupy-pluto/e3a7bb98d5027d0f6dfa85fc2ac11a78/raw/6deb0475d295ac867ccb9c7cf3b1fb212a77abd7/agedm.js"
     },
     {
-      "name": "韓劇看看",
-      "type": 3,
-      "api": "csp_hjkk",
-      "ext": "https://ghp.xptvhelper.link/https://raw.githubusercontent.com/Yswag/xptv-extensions/main/js/hjkk.js"
-    },
-    {
       "name": "金牌影院",
       "type": 3,
       "api": "csp_jpyy",
