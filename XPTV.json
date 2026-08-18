@@ -55,12 +55,6 @@
       "ext": "https://ghp.xptvhelper.link/https://raw.githubusercontent.com/Yswag/xptv-extensions/main/js/xingya.js"
     },
     {
-      "name": "嗷嗚動漫",
-      "type": 3,
-      "api": "csp_aowu",
-      "ext": "https://ghp.xptvhelper.link/https://raw.githubusercontent.com/Yswag/xptv-extensions/main/js/aowu.js"
-    },
-    {
       "name": "荐片资源",
       "type": 3,
       "api": "csp_jianpian",
