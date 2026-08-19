@@ -103,40 +103,16 @@
       "ext": "https://ghp.xptvhelper.link/https://raw.githubusercontent.com/Yswag/xptv-extensions/refs/heads/main/js/kuaikaw.js"
     },
     {
-      "name": "玩偶哥哥",
-      "type": 3,
-      "api": "csp_wogg",
-      "ext": "https://ghp.xptvhelper.link/https://raw.githubusercontent.com/Yswag/xptv-extensions/refs/heads/main/js/wogg.js"
-    },
-    {
       "name": "多多影视",
       "type": 3,
       "api": "csp_yydsys",
       "ext": "https://ghp.xptvhelper.link/https://raw.githubusercontent.com/Yswag/xptv-extensions/refs/heads/main/js/yydsys.js"
     },
     {
-      "name": "木偶影视",
-      "type": 3,
-      "api": "csp_muou",
-      "ext": "https://ghp.xptvhelper.link/https://raw.githubusercontent.com/Yswag/xptv-extensions/refs/heads/main/js/muou.js"
-    },
-    {
       "name": "小米影视",
       "type": 3,
       "api": "csp_mihdr",
       "ext": "https://ghp.xptvhelper.link/https://raw.githubusercontent.com/Yswag/xptv-extensions/refs/heads/main/js/mihdr.js"
-    },
-    {
-      "name": "欧哥影视",
-      "type": 3,
-      "api": "csp_ouge",
-      "ext": "https://ghp.xptvhelper.link/https://raw.githubusercontent.com/Yswag/xptv-extensions/refs/heads/main/js/ouge.js"
-    },
-    {
-      "name": "星汉影视",
-      "type": 3,
-      "api": "csp_star2",
-      "ext": "https://ghp.xptvhelper.link/https://raw.githubusercontent.com/Yswag/xptv-extensions/refs/heads/main/js/star2.js"
     },
     {
       "name": "壹品影視",
