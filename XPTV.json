@@ -103,6 +103,12 @@
       "ext": "https://ghp.xptvhelper.link/https://raw.githubusercontent.com/Yswag/xptv-extensions/refs/heads/main/js/kuaikaw.js"
     },
     {
+            "name": "黃果短劇",
+            "type": 3,
+            "api": "csp_huangguo",
+            "ext": "https://raw.githubusercontent.com/Yswag/xptv-extensions/refs/heads/main/js/huangguo.js"
+    },
+    {
       "name": "多多影视",
       "type": 3,
       "api": "csp_yydsys",
