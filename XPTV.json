@@ -49,6 +49,12 @@
       "ext": "https://ghp.xptvhelper.link/https://raw.githubusercontent.com/Yswag/xptv-extensions/main/js/saohuo.js"
     },
     {
+      "name": "永樂視頻",
+      "type": 3,
+      "api": "csp_ylys",
+      "ext": "https://ghp.xptvhelper.link/https://raw.githubusercontent.com/Yswag/xptv-extensions/refs/heads/main/js/ylys.js"
+    },
+    {
       "name": "星芽短劇",
       "type": 3,
       "api": "csp_xingya",
