@@ -1,4 +1,20 @@
 #EXTM3U
+#EXTINF:-1 group-title="港台频道",TVB星河
+https://cdn3.indevs.in/stream/live/tvbxh/
+#EXTINF:-1 group-title="港台频道",TVBPlus
+https://cdn3.indevs.in/stream/tvb/tvbp/
+#EXTINF:-1 group-title="港台频道",明珠台
+https://cdn3.indevs.in/stream/tvb/mzt/
+#EXTINF:-1 group-title="港台频道",翡翠台
+https://cdn3.indevs.in/stream/tvb/fct/
+#EXTINF:-1 group-title="港台频道",天映频道
+https://cdn3.indevs.in/stream/live/typd/
+#EXTINF:-1 group-title="港台频道",公視
+http://211.72.174.95:8116/0.ts
+#EXTINF:-1 group-title="港台频道",民視
+http://211.72.174.95:8115/0.ts
+#EXTINF:-1 group-title="港台频道",台視
+http://211.72.174.95:8112/0.ts
 #EXTINF:-1 group-title="央视频道",CGTN英语
 https://english-livebkali.cgtn.com/live/encgtn_0.m3u8
 #EXTINF:-1 group-title="央视频道",CGTN纪录
