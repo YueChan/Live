@@ -1,4 +1,8 @@
 #EXTM3U
+#EXTINF:-1 group-title="港台直播",中天新闻
+http://xiangxiws.vip:6777/qlw.php?key=qq%E7%BE%A4746405779&id=ztxw
+#EXTINF:-1 group-title="港台直播",香港卫视
+http://webcast.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 #EXTINF:-1 group-title="港台频道",凤凰中文
 http://43.152.224.209/qctv.fengshows.cn/live/0701pcc72.flv
 #EXTINF:-1 group-title="港台频道",凤凰资讯
@@ -21,6 +25,16 @@ http://211.72.174.95:8116/0.ts
 http://211.72.174.95:8115/0.ts
 #EXTINF:-1 group-title="港台频道",台視
 http://211.72.174.95:8112/0.ts
+#EXTINF:-1 group-title="港台直播",星影台
+http://173.208.234.146/live/nowxy.m3u8
+#EXTINF:-1 group-title="港台直播",Astro AOD
+https://cdn3.indevs.in/stream/live/aod/
+#EXTINF:-1 group-title="港台直播",Astro AEC
+https://cdn3.indevs.in/stream/live/aec/
+#EXTINF:-1 group-title="港台直播",Astro 爱奇艺
+https://cdn3.indevs.in/stream/live/iqiyi/
+#EXTINF:-1 group-title="港台直播",Astro 欢喜台
+https://cdn3.indevs.in/stream/live/hxt/
 #EXTINF:-1 group-title="央视频道",CGTN英语
 https://english-livebkali.cgtn.com/live/encgtn_0.m3u8
 #EXTINF:-1 group-title="央视频道",CGTN纪录
@@ -95,5 +109,3 @@ http://l.cztvcloud.com/channels/lantian/SXxiaoshan1/720p.m3u8
 http://l.cztvcloud.com/channels/lantian/SXlongquan1/720p.m3u8
 #EXTINF:-1 group-title="地方频道",上虞综合
 http://l.cztvcloud.com/channels/lantian/SXshangyu1/720p.m3u8
-#EXTINF:-1 group-title="地方频道",云和综合
-http://l.cztvcloud.com/channels/lantian/SXyunhe1/720p.m3u8
