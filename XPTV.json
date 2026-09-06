@@ -13,12 +13,6 @@
       "ext": "https://ghp.xptvhelper.link/https://raw.githubusercontent.com/fangkuia/XPTV/refs/heads/main/js/zxzj.js"
     },
     {
-      "name": "丽播影视",
-      "type": 3,
-      "api": "csp_libvio",
-      "ext": "https://ghp.xptvhelper.link/https://raw.githubusercontent.com/fangkuia/XPTV/refs/heads/main/js/libvio.js"
-    },
-    {
       "name": "日美动漫",
       "type": 3,
       "api": "csp_ai",
@@ -73,22 +67,10 @@
       "ext": "https://ghp.xptvhelper.link/https://raw.githubusercontent.com/Yswag/xptv-extensions/refs/heads/main/js/rrmj.js"
     },
     {
-      "name": "动漫连载",
-      "type": 3,
-      "api": "csp_anime1",
-      "ext": "https://ghp.xptvhelper.link/https://raw.githubusercontent.com/Yswag/xptv-extensions/refs/heads/main/js/anime1.js"
-    },
-    {
       "name": "农民影视",
       "type": 3,
       "api": "csp_wwgz",
       "ext": "https://ghp.xptvhelper.link/https://raw.githubusercontent.com/Yswag/xptv-extensions/refs/heads/main/js/wwgz.js"
-    },
-    {
-      "name": "七番動漫",
-      "type": 3,
-      "api": "csp_7sefun",
-      "ext": "https://ghp.xptvhelper.link/https://raw.githubusercontent.com/Yswag/xptv-extensions/refs/heads/main/js/7sefun.js"
     },
     {
       "name": "路漫番剧",
@@ -120,11 +102,5 @@
       "api": "csp_mihdr",
       "ext": "https://ghp.xptvhelper.link/https://raw.githubusercontent.com/Yswag/xptv-extensions/refs/heads/main/js/mihdr.js"
     },
-    {
-      "name": "壹品影視",
-      "type": 3,
-      "api": "csp_yiys",
-      "ext": "https://ghp.xptvhelper.link/https://raw.githubusercontent.com/Yswag/xptv-extensions/refs/heads/main/js/yiys.js"
-    }
   ]
 }
