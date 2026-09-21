@@ -137,6 +137,8 @@ rtp://239.3.1.188:8001
 rtp://239.3.1.108:8001
 #EXTINF:-1 group-title="数字" zz-definition="HD",四海钓鱼
 rtp://239.3.1.164:8001
+#EXTINF:-1 channel-number="36" tvg-id="36" tvg-name="求索4K", group-title="数字" zz-definition="HD",求索4K
+rtp://239.3.1.107:8001
 #EXTINF:-1 channel-number="77" tvg-id="77" tvg-name="金鹰纪实高清" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/WeiShi/HuNan_JingYingJiShi.png" group-title="数字" zz-definition="HD" catchup="default" catchup-source="rtsp://61.135.88.136/TVOD/88888892/224/3221226050/10000100000000060000000000384062_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",金鹰纪实
 rtp://239.3.1.58:8156
 #EXTINF:-1 channel-number="80" tvg-id="80" tvg-name="证券服务" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/QiTa/GanSu_ZhengQuanFuWu.png" group-title="数字" zz-definition="HD" catchup="default" catchup-source="rtsp://61.135.88.136/TVOD/88888892/224/3221226210/406742223.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",证券服务
