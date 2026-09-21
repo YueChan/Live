@@ -103,7 +103,7 @@ rtp://239.3.1.133:8016
 rtp://239.3.1.240:8172
 #EXTINF:-1 channel-number="62" tvg-id="62" tvg-name="甘肃卫视高清" tvg-logo="https://raw.githubusercontent.com/zzzz0317/beijing-unicom-iptv-playlist/refs/heads/main/img/WeiShi/GanSu.png" group-title="卫视" zz-definition="HD" catchup="default" catchup-source="rtsp://61.135.88.136/TVOD/88888892/224/3221226197/397709753.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",甘肃卫视
 rtp://239.3.1.201:8180
-#EXTINF:-1 channel-number="60" tvg-id="60" tvg-name="海南卫视高清", group-title="卫视" zz-definition="HD",海南卫视高清
+#EXTINF:-1 channel-number="60" tvg-id="60" tvg-name="海南卫视高清", group-title="卫视" zz-definition="HD",海南卫视
 rtp://239.3.1.205:8228
 #EXTINF:-1 channel-number="61" tvg-id="61" tvg-name="陕西卫视高清" catchup="default" catchup-source="rtsp://61.135.88.136/TVOD/88888892/224/3221226223/422332704.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" group-title="卫视" zz-definition="HD",,陕西卫视
 rtp://239.3.1.203:8220
