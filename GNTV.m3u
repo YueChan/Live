@@ -1,7 +1,7 @@
 #EXTM3U
-#EXTINF:-1 group-title="港台直播",中天新闻
+#EXTINF:-1 group-title="港台频道",中天新闻
 http://xiangxiws.vip:6777/qlw.php?key=qq%E7%BE%A4746405779&id=ztxw
-#EXTINF:-1 group-title="港台直播",香港卫视
+#EXTINF:-1 group-title="港台频道",香港卫视
 http://webcast.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 #EXTINF:-1 group-title="港台频道",凤凰中文
 http://43.152.224.209/qctv.fengshows.cn/live/0701pcc72.flv
@@ -27,13 +27,13 @@ http://211.72.174.95:8115/0.ts
 http://211.72.174.95:8112/0.ts
 #EXTINF:-1 group-title="港台直播",星影台
 http://173.208.234.146/live/nowxy.m3u8
-#EXTINF:-1 group-title="港台直播",Astro AOD
+#EXTINF:-1 group-title="港台频道",Astro AOD
 https://cdn3.indevs.in/stream/live/aod/
-#EXTINF:-1 group-title="港台直播",Astro AEC
+#EXTINF:-1 group-title="港台频道",Astro AEC
 https://cdn3.indevs.in/stream/live/aec/
-#EXTINF:-1 group-title="港台直播",Astro 爱奇艺
+#EXTINF:-1 group-title="港台频道",Astro 爱奇艺
 https://cdn3.indevs.in/stream/live/iqiyi/
-#EXTINF:-1 group-title="港台直播",Astro 欢喜台
+#EXTINF:-1 group-title="港台频道",Astro 欢喜台
 https://cdn3.indevs.in/stream/live/hxt/
 #EXTINF:-1 group-title="央视频道",CGTN英语
 https://english-livebkali.cgtn.com/live/encgtn_0.m3u8
