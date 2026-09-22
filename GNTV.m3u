@@ -25,7 +25,7 @@ http://211.72.174.95:8116/0.ts
 http://211.72.174.95:8115/0.ts
 #EXTINF:-1 group-title="港台频道",台視
 http://211.72.174.95:8112/0.ts
-#EXTINF:-1 group-title="港台直播",星影台
+#EXTINF:-1 group-title="港台频道",星影台
 http://173.208.234.146/live/nowxy.m3u8
 #EXTINF:-1 group-title="港台频道",Astro AOD
 https://cdn3.indevs.in/stream/live/aod/
