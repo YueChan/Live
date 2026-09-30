@@ -21,6 +21,18 @@ https://d2jc41c1shgcol.cloudfront.net/live/ctsnewsqt/playlist.m3u8
 https://d2jc41c1shgcol.cloudfront.net/live/EBCNews/playlist.m3u8
 #EXTINF:-1 group-title="港台频道",三立新闻
 https://d2jc41c1shgcol.cloudfront.net/live/iNEWS/playlist.m3u8
+#EXTINF:-1 group-title="港澳频道",NOW新闻台
+http://cdn.123.rr.kg/163189/now
+#EXTINF:-1 group-title="港澳频道",澳门莲花
+http://cdn6.123.rr.kg/163189/amlh
+#EXTINF:-1 group-title="港澳频道",澳门综艺
+http://cdn6.123.rr.kg/163189/amzy
+#EXTINF:-1 group-title="港澳频道",澳视卫星
+http://cdn6.123.rr.kg/163189/as
+#EXTINF:-1 group-title="港澳频道",澳视澳门
+http://cdn6.123.rr.kg/163189/asam
+#EXTINF:-1 group-title="港台频道",澳门体育
+http://cdn6.123.rr.kg/163189/amty
 #EXTINF:-1 group-title="港台频道",TVB星河
 https://cdn3.indevs.in/stream/live/tvbxh/
 #EXTINF:-1 group-title="港台频道",TVBPlus
@@ -37,8 +49,6 @@ http://cdn6.123.rr.kg/163189/ch8
 http://cdn6.123.rr.kg/163189/chu
 #EXTINF:-1 group-title="港台频道",天映频道
 https://cdn3.indevs.in/stream/live/typd/
-#EXTINF:-1 group-title="港台频道",澳门体育
-http://cdn6.123.rr.kg/163189/amty
 #EXTINF:-1 group-title="港台频道",公視
 http://211.72.174.95:8116/0.ts
 #EXTINF:-1 group-title="港台频道",民視
