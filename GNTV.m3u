@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 group-title="港台频道",中视新闻
+https://d2jc41c1shgcol.cloudfront.net/live/ctvnewsqt/playlist.m3u8
 #EXTINF:-1 group-title="港台频道",中天新闻
 http://xiangxiws.vip:6777/qlw.php?key=qq%E7%BE%A4746405779&id=ztxw
 #EXTINF:-1 group-title="港台频道",香港卫视
@@ -9,6 +11,12 @@ http://43.152.224.209/qctv.fengshows.cn/live/0701pcc72.flv
 http://173.208.234.146/live/fhzx.m3u8
 #EXTINF:-1 group-title="港台频道",凤凰香港
 http://43.152.224.209/qctv.fengshows.cn/live/0701phk72.flv
+#EXTINF:-1 group-title="港台频道",TVBS新闻
+https://d2jc41c1shgcol.cloudfront.net/live/tvbsnewsqt/playlist.m3u8
+#EXTINF:-1 group-title="港台频道",东森新闻
+https://d2jc41c1shgcol.cloudfront.net/live/EBCNews/playlist.m3u8
+#EXTINF:-1 group-title="港台频道",三立新闻
+https://d2jc41c1shgcol.cloudfront.net/live/iNEWS/playlist.m3u8
 #EXTINF:-1 group-title="港台频道",TVB星河
 https://cdn3.indevs.in/stream/live/tvbxh/
 #EXTINF:-1 group-title="港台频道",TVBPlus
@@ -19,6 +27,8 @@ https://cdn3.indevs.in/stream/tvb/mzt/
 https://cdn3.indevs.in/stream/tvb/fct/
 #EXTINF:-1 group-title="港台频道",天映频道
 https://cdn3.indevs.in/stream/live/typd/
+#EXTINF:-1 group-title="港台频道",澳门体育
+http://cdn6.123.rr.kg/163189/amty
 #EXTINF:-1 group-title="港台频道",公視
 http://211.72.174.95:8116/0.ts
 #EXTINF:-1 group-title="港台频道",民視
