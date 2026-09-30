@@ -13,6 +13,10 @@ http://173.208.234.146/live/fhzx.m3u8
 http://43.152.224.209/qctv.fengshows.cn/live/0701phk72.flv
 #EXTINF:-1 group-title="港台频道",TVBS新闻
 https://d2jc41c1shgcol.cloudfront.net/live/tvbsnewsqt/playlist.m3u8
+#EXTINF:-1 group-title="港台频道",民视新闻
+https://d2jc41c1shgcol.cloudfront.net/live/ftvnewsqt/playlist.m3u8
+#EXTINF:-1 group-title="港台频道",华视新闻
+https://d2jc41c1shgcol.cloudfront.net/live/ctsnewsqt/playlist.m3u8
 #EXTINF:-1 group-title="港台频道",东森新闻
 https://d2jc41c1shgcol.cloudfront.net/live/EBCNews/playlist.m3u8
 #EXTINF:-1 group-title="港台频道",三立新闻
@@ -25,6 +29,12 @@ https://cdn3.indevs.in/stream/tvb/tvbp/
 https://cdn3.indevs.in/stream/tvb/mzt/
 #EXTINF:-1 group-title="港台频道",翡翠台
 https://cdn3.indevs.in/stream/tvb/fct/
+#EXTINF:-1 group-title="港台频道",CH5
+http://cdn6.123.rr.kg/163189/ch5
+#EXTINF:-1 group-title="港台频道",CH8
+http://cdn6.123.rr.kg/163189/ch8
+#EXTINF:-1 group-title="港台频道",CHU
+http://cdn6.123.rr.kg/163189/chu
 #EXTINF:-1 group-title="港台频道",天映频道
 https://cdn3.indevs.in/stream/live/typd/
 #EXTINF:-1 group-title="港台频道",澳门体育
