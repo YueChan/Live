@@ -21,15 +21,15 @@ https://d2jc41c1shgcol.cloudfront.net/live/ctsnewsqt/playlist.m3u8
 https://d2jc41c1shgcol.cloudfront.net/live/EBCNews/playlist.m3u8
 #EXTINF:-1 group-title="港台频道",三立新闻
 https://d2jc41c1shgcol.cloudfront.net/live/iNEWS/playlist.m3u8
-#EXTINF:-1 group-title="港澳频道",NOW新闻台
+#EXTINF:-1 group-title="港台频道",NOW新闻台
 http://cdn.123.rr.kg/163189/now
-#EXTINF:-1 group-title="港澳频道",澳门莲花
+#EXTINF:-1 group-title="港台频道",澳门莲花
 http://cdn6.123.rr.kg/163189/amlh
-#EXTINF:-1 group-title="港澳频道",澳门综艺
+#EXTINF:-1 group-title="港台频道",澳门综艺
 http://cdn6.123.rr.kg/163189/amzy
-#EXTINF:-1 group-title="港澳频道",澳视卫星
+#EXTINF:-1 group-title="港台频道",澳视卫星
 http://cdn6.123.rr.kg/163189/as
-#EXTINF:-1 group-title="港澳频道",澳视澳门
+#EXTINF:-1 group-title="港台频道",澳视澳门
 http://cdn6.123.rr.kg/163189/asam
 #EXTINF:-1 group-title="港台频道",澳门体育
 http://cdn6.123.rr.kg/163189/amty
@@ -257,14 +257,6 @@ https://hls.nntv.cn/nnlive/XWZH_24.m3u8
 https://hls.nntv.cn/nnlive/WLSH_24.m3u8
 #EXTINF:-1 group-title="地方频道",南宁娱乐
 http://hls.nntv.cn/nnlive/YSYL_244.m3u8
-#EXTINF:-1 group-title="地方频道",宁夏公共
-https://hls.ningxiahuangheyun.com/live/nxgg1M.m3u8
-#EXTINF:-1 group-title="地方频道",宁夏经济
-https://hls.ningxiahuangheyun.com/live/nxjj1M.m3u8
-#EXTINF:-1 group-title="地方频道",宁夏文旅
-https://hls.ningxiahuangheyun.com/live/nxwl1M.m3u8
-#EXTINF:-1 group-title="地方频道",宁夏少儿
-https://hls.ningxiahuangheyun.com/live/nxse1M.m3u8
 #EXTINF:-1 tvg-id="内蒙古新闻综合" group-title="地方频道",新闻综合
 http://play1-qk.nmtv.cn/live/2316general.m3u8
 #EXTINF:-1 tvg-id="内蒙古经济生活" group-title="地方频道",经济生活
@@ -275,14 +267,6 @@ http://play1-qk.nmtv.cn/live/2327general.m3u8
 http://play1-qk.nmtv.cn/live/2319general.m3u8
 #EXTINF:-1 tvg-id="内蒙古农牧" group-title="地方频道",农牧频道
 http://play1-qk.nmtv.cn/live/2329general.m3u8
-#EXTINF:-1 group-title="地方频道",梨园频道
-https://dxtx.hntv.tv/live/lypd.m3u8?txSecret=10c771842a0be59e8b575d765173ec96&txTime=7B923E0A&wsSecret=1966aa8a0405e1541cff782f56c75447&wsTime=1770400669
-#EXTINF:-1 group-title="地方频道",文物宝库
-https://dxtx.hntv.tv/live/wwbk.m3u8?txSecret=317b89626134fd6bea6e129455b5ff18&txTime=7C4C635C&wsSecret=87c5daf4f4c3a09fb4e4cce0843d4a1c&wsTime=1770400669
-#EXTINF:-1 group-title="地方频道",武术频道
-https://dxtx.hntv.tv/live/wssj.m3u8?txSecret=c38b4d31ba4c45c6babb5c47132123e3&txTime=7ABB976A&wsSecret=dfcdc24ac8a49ebd886337dc5cdc1568&wsTime=1770400669
-#EXTINF:-1 group-title="地方频道",河南曲艺
-https://dxtx.hntv.tv/live/jczy.m3u8?txSecret=e785008e49564e5e738439b4dd2ae68e&txTime=7C4C6207&wsSecret=3f9e1d6e5c78cea99a876ce40f13202b&wsTime=1770400669
 #EXTINF:-1 group-title="地方频道",绍兴公共
 http://live.shaoxing.com.cn/video/s10001-sxtv2/index.m3u8
 #EXTINF:-1 group-title="地方频道",文化影视
