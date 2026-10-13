@@ -41,12 +41,6 @@ https://cdn3.indevs.in/stream/tvb/tvbp/
 https://cdn3.indevs.in/stream/tvb/mzt/
 #EXTINF:-1 group-title="港台频道",翡翠台
 https://cdn3.indevs.in/stream/tvb/fct/
-#EXTINF:-1 group-title="港台频道",CH5
-http://cdn6.123.rr.kg/163189/ch5
-#EXTINF:-1 group-title="港台频道",CH8
-http://cdn6.123.rr.kg/163189/ch8
-#EXTINF:-1 group-title="港台频道",CHU
-http://cdn6.123.rr.kg/163189/chu
 #EXTINF:-1 group-title="港台频道",天映频道
 https://cdn3.indevs.in/stream/live/typd/
 #EXTINF:-1 group-title="港台频道",公視
