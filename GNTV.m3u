@@ -245,6 +245,14 @@ https://tencentplaygsm.gztv.com/live/zonghes.m3u8?txTime=65797c44&amp%3BtxSecret
 https://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=550af55c0ea34ce492748481415b6dfa&txTime=1903e7b17de
 #EXTINF:-1 group-title="地方频道",苏州娱乐
 https://live-auth.51kandianshi.com/szgd/csztv4.m3u8
+#EXTINF:-1 group-title="地方频道",上海教育
+http://tencent-live.setv.sh.cn/live/programme_setvweb.m3u8?txSecret=fd19aacaed289e44e3f6d8baa5485a41&txTime=82DF98A7
+#EXTINF:-1 group-title="地方频道",南京科教
+https://nklive.nbs.cn/hls/75b3c462-b831-4de7-a34b-5d3221db2069/index.m3u8
+#EXTINF:-1 group-title="地方频道",文旅纪录
+https://nklive.nbs.cn/hls/9b2005c4-046c-422f-ba45-e6adc4f4de07/index.m3u8
+#EXTINF:-1 group-title="地方频道",文化旅游
+https://live.0593tv.cn/live/d1znvar7tabf.m3u8
 #EXTINF:-1 group-title="地方频道",南宁新闻
 https://hls.nntv.cn/nnlive/XWZH_24.m3u8
 #EXTINF:-1 group-title="地方频道",南宁文旅
@@ -261,8 +269,6 @@ http://play1-qk.nmtv.cn/live/2327general.m3u8
 http://play1-qk.nmtv.cn/live/2319general.m3u8
 #EXTINF:-1 tvg-id="内蒙古农牧" group-title="地方频道",农牧频道
 http://play1-qk.nmtv.cn/live/2329general.m3u8
-#EXTINF:-1 group-title="地方频道",绍兴公共
-http://live.shaoxing.com.cn/video/s10001-sxtv2/index.m3u8
 #EXTINF:-1 group-title="地方频道",文化影视
 http://live.shaoxing.com.cn/video/s10001-sxtv3/index.m3u8
 #EXTINF:-1 group-title="地方频道",文成综合
