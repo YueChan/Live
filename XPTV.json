@@ -106,7 +106,7 @@
       "name": "超清影视",
       "type": 3,
       "api": "csp_4kav",
-      "ext": "https://ghp.xptvhelper.link/https://raw.githubusercontent.com/Yswag/xptv-extensions/main/js/4kav.js"
+      "ext": "https://raw.githubusercontent.com/Yswag/xptv-extensions/main/js/4kav.js"
     },
     {
       "name": "瓜子影视",
