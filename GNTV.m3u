@@ -3,14 +3,6 @@
 https://d2jc41c1shgcol.cloudfront.net/live/ctvnewsqt/playlist.m3u8
 #EXTINF:-1 group-title="港台频道",中天新闻
 https://d2jc41c1shgcol.cloudfront.net/live/CtiNEWS1/playlist.m3u8
-#EXTINF:-1 group-title="港台频道",香港卫视
-http://webcast.hkstv.tv/livestream/mutfysrq/playlist.m3u8
-#EXTINF:-1 group-title="港台频道",凤凰中文
-http://43.152.224.209/qctv.fengshows.cn/live/0701pcc72.flv
-#EXTINF:-1 group-title="港台频道",凤凰资讯
-http://173.208.234.146/live/fhzx.m3u8
-#EXTINF:-1 group-title="港台频道",凤凰香港
-http://43.152.224.209/qctv.fengshows.cn/live/0701phk72.flv
 #EXTINF:-1 group-title="港台频道",TVBS新闻
 https://d2jc41c1shgcol.cloudfront.net/live/tvbsnewsqt/playlist.m3u8
 #EXTINF:-1 group-title="港台频道",民视新闻
@@ -21,6 +13,8 @@ https://d2jc41c1shgcol.cloudfront.net/live/ctsnewsqt/playlist.m3u8
 https://d2jc41c1shgcol.cloudfront.net/live/EBCNews/playlist.m3u8
 #EXTINF:-1 group-title="港台频道",三立新闻
 https://d2jc41c1shgcol.cloudfront.net/live/iNEWS/playlist.m3u8
+#EXTINF:-1 group-title="港台频道",LIVE三立 
+https://d2jc41c1shgcol.cloudfront.net/live/setnewsrtmp/playlist.m3u8
 #EXTINF:-1 group-title="港台频道",NOW新闻台
 http://cdn.123.rr.kg/163189/now
 #EXTINF:-1 group-title="港台频道",澳门莲花
@@ -43,12 +37,8 @@ https://cdn3.indevs.in/stream/tvb/mzt/
 https://cdn3.indevs.in/stream/tvb/fct/
 #EXTINF:-1 group-title="港台频道",天映频道
 https://cdn3.indevs.in/stream/live/typd/
-#EXTINF:-1 group-title="港台频道",公視
-http://211.72.174.95:8116/0.ts
 #EXTINF:-1 group-title="港台频道",民視
-http://211.72.174.95:8115/0.ts
-#EXTINF:-1 group-title="港台频道",台視
-http://211.72.174.95:8112/0.ts
+https://d2jc41c1shgcol.cloudfront.net/live/ftvnewsqt/playlist.m3u8
 #EXTINF:-1 group-title="港台频道",星影台
 http://173.208.234.146/live/nowxy.m3u8
 #EXTINF:-1 group-title="港台频道",Astro AOD
@@ -73,14 +63,10 @@ https://d4ybyqrhce41r.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae04
 https://rt-glb.rttv.com/dvr/rtnews/playlist_4500Kb.m3u8
 #EXTINF:-1 group-title="国际频道",TV Brics
 https://chibrics.mediacdn.ru/cdn/brics/chinese/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="国际频道",France24
-https://live.france24.com/hls/live/2037218-b/F24_EN_HI_HLS/master_5000.m3u8
 #EXTINF:-1 group-title="国际频道",NHK World
 https://masterpl.hls.nhkworld.jp/hls/w/live/smarttv.m3u8
 #EXTINF:-1 group-title="国际频道",Sky News
 https://d39chvnxm26pgp.cloudfront.net/v1/master/72588bff830dec7b26d7cbbf5f3c24928aec5c03/cc-sthen6ms4vxgv-stage/WNSFO/ABR.m3u8
-#EXTINF:-1 group-title="国际频道",Al Jazeera
-https://live-hls-aje-ak.getaj.net/AJE/01.m3u8
 #EXTINF:-1 group-title="国际频道",TRT World
 https://tv-trtworld.medya.trt.com.tr/master_1080.m3u8
 #EXTINF:-1 group-title="国际频道",NEWSMAX
@@ -91,10 +77,8 @@ https://dbrb49pjoymg4.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043
 https://live.corusdigitaldev.com/groupb/live/3062d0e3-ed4c-4f47-8482-95648250f4b8/live.isml/.m3u8
 #EXTINF:-1 group-title="国际频道",NBC News Now
 https://livehub-voidnet.onrender.com/cluster/streamcore/us/NBC_REDIS.m3u8
-#EXTINF:-1 group-title="国际频道",One American News 
+#EXTINF:-1 group-title="国际频道",One American News
 https://oneamericanews-roku-us.amagi.tv/playlistR1080p.m3u8
-#EXTINF:-1 group-title="国际频道",CGTN Global Biz
-https://amg01314-amg01314c6-distrotv-us-10220.playouts.now.amagi.tv/index_6.m3u8
 #EXTINF:-1 group-title="国际频道",CGTN
 https://english-livebkali.cgtn.com/live/encgtn_0.m3u8
 #EXTINF:-1 group-title="国际频道",CGTN Documentary
@@ -102,7 +86,7 @@ https://english-livebkali.cgtn.com/live/doccgtn_0.m3u8
 #EXTINF:-1 group-title="国际频道",CGTN Russian
 https://russian-liveali.cgtn.com/hls/LSvexABhNipibK5KRuUkvHZ7220802LSTeze9o8tdFXMHsb1VosgoT220802cd/playlist.m3u8
 #EXTINF:-1 group-title="国际频道",CGTN Francais
-https://francais-liveali.cgtn.com/hls/LSvev95OuFZtKLc6CeKEFYXj220802LSTeV6PO0Ut9r71Uq3k5goCA220802cd/playlist.m3u8 
+https://francais-liveali.cgtn.com/hls/LSvev95OuFZtKLc6CeKEFYXj220802LSTeV6PO0Ut9r71Uq3k5goCA220802cd/playlist.m3u8
 #EXTINF:-1 group-title="国际频道",CGTN Espanol
 https://espanol-liveali.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd/playlist.m3u8
 #EXTINF:-1 group-title="国际频道",CGTN Arabic
@@ -197,23 +181,23 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischnlint
 https://d4whmvwm0rdvi.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-nbcu-linear/b0f73b6d-7181-4046-ad5f-62f4efa641c3/4.m3u8
 #EXTINF:-1 tvg-id="Showtime.Extreme.HD.us2" tvg-name="Showtime Extreme" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18086_dark_360w_270h.png" group-title="国际频道",Showtime Extreme
 http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/648984.ts
-#EXTINF:-1 tvg-id="GB2600015OS" tvg-name="Action Movies - Rakuten TV UK" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB2600015OS_20240924T050854SQUARE.png" group-title="国际频道",Action Movies 
+#EXTINF:-1 tvg-id="GB2600015OS" tvg-name="Action Movies - Rakuten TV UK" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB2600015OS_20240924T050854SQUARE.png" group-title="国际频道",Action Movies
 https://action-rakuten-tv-uk.fast.rakuten.tv/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6065/8e7f1d8c-5ba7-4dde-9834-b058e17f6bfe/4.m3u8
-#EXTINF:-1 tvg-id="GB2600020OP" tvg-name="Comedy Movies - Rakuten TV UK" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB2600020OP_20250415T020934SQUARE.png" group-title="国际频道",Comedy Movies  
+#EXTINF:-1 tvg-id="GB2600020OP" tvg-name="Comedy Movies - Rakuten TV UK" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB2600020OP_20250415T020934SQUARE.png" group-title="国际频道",Comedy Movies
 https://comedy-rakuten-tv-uk.fast.rakuten.tv/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6181/34b2bcf8-3a15-4ef7-bedb-04cae730c688/4.m3u8
-#EXTINF:-1 tvg-id="GB2600012R3" tvg-name="Drama Movies - Rakuten TV UK" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB2600012R3_20241022T043418SQUARE.png" group-title="国际频道",Drama Movies 
+#EXTINF:-1 tvg-id="GB2600012R3" tvg-name="Drama Movies - Rakuten TV UK" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB2600012R3_20241022T043418SQUARE.png" group-title="国际频道",Drama Movies
 https://drama-rakuten-tv-uk.fast.rakuten.tv/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6093/c4bcddc4-dfdf-4499-ae5d-7a68c79fcde9/4.m3u8
-#EXTINF:-1 tvg-id="GB2600014LQ" tvg-name="Romance Movies - Rakuten TV UK" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB2600014LQ_20250107T031210SQUARE.png" group-title="国际频道",Romance Movies 
+#EXTINF:-1 tvg-id="GB2600014LQ" tvg-name="Romance Movies - Rakuten TV UK" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB2600014LQ_20250107T031210SQUARE.png" group-title="国际频道",Romance Movies
 https://romance-rakuten-tv-uk.fast.rakuten.tv/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6194/812b4d9e-f255-46f1-9071-decd622f8e1b/4.m3u8
-#EXTINF:-1 tvg-id="GB2600013BO" tvg-name="Sci-Fi - Rakuten TV UK" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB2600013BO_20250121T013046SQUARE.png" group-title="国际频道",Sci-Fi  
+#EXTINF:-1 tvg-id="GB2600013BO" tvg-name="Sci-Fi - Rakuten TV UK" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB2600013BO_20250121T013046SQUARE.png" group-title="国际频道",Sci-Fi
 https://sci-fi-rakuten-tv-uk.fast.rakuten.tv/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6241/2633b8e1-37ed-4477-9e50-d6b4f489d363/4.m3u8
-#EXTINF:-1 tvg-id="GB4100003VP" tvg-name="Thrillers - Rakuten TV UK" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB4100003VP_20251202T002711SQUARE.png" group-title="国际频道",Thrillers  
+#EXTINF:-1 tvg-id="GB4100003VP" tvg-name="Thrillers - Rakuten TV UK" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB4100003VP_20251202T002711SQUARE.png" group-title="国际频道",Thrillers
 https://thriller-rakuten-tv-uk.fast.rakuten.tv/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6482/12886224-4a4c-4671-9894-f33d4197ac53/4.m3u8
-#EXTINF:-1 tvg-id="GB2600018PD" tvg-name="Top Movies - Rakuten TV UK" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB2600018PD_20250107T031259SQUARE.png" group-title="国际频道",Top Movies  
+#EXTINF:-1 tvg-id="GB2600018PD" tvg-name="Top Movies - Rakuten TV UK" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB2600018PD_20250107T031259SQUARE.png" group-title="国际频道",Top Movies
 https://top-movies-rakuten-tv-uk.fast.rakuten.tv/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5987/8b530802-f923-43a1-8496-e871276a745f/4.m3u8
-#EXTINF:-1 tvg-id="GB2600021LP" tvg-name="Reality - Rakuten TV UK" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB2600021LP_20251013T054413SQUARE.png" group-title="国际频道",Reality  
+#EXTINF:-1 tvg-id="GB2600021LP" tvg-name="Reality - Rakuten TV UK" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB2600021LP_20251013T054413SQUARE.png" group-title="国际频道",Reality
 https://reality-rakuten-tv-uk.fast.rakuten.tv/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6233/228208ef-d17f-4825-a278-eccf505de378/4.m3u8
-#EXTINF:-1 tvg-id="GB2600017PX" tvg-name="Family - Rakuten TV" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB2600017PX_20251230T031130SQUARE.png" group-title="国际频道",Family  
+#EXTINF:-1 tvg-id="GB2600017PX" tvg-name="Family - Rakuten TV" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB2600017PX_20251230T031130SQUARE.png" group-title="国际频道",Family
 https://family-rakuten-tv-uk.fast.rakuten.tv/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6203/0426b7a3-6dd5-4a24-ac4c-22227a2b2f9d/4.m3u8
 #EXTINF:-1 tvg-id="USAJ4300001Q7" tvg-name="beIN SPORTS XTRA" tvg-logo="https://image.xumo.com/v1/channels/channel/99991387/168x168.png?type=color_onBlack" group-title="国际频道",beIN SPORTS XTRA
 https://d9ssxzmclhfo4.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-t7en7ol3kq3sp/f881b29a-280a-4416-be20-40db0fcc0f07/3.m3u8
