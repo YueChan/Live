@@ -33,10 +33,6 @@ https://hlsz.yjjcfw.com/live/vl.m3u8?expire=1786948372&sign=2e4a56b89fe644db1475
 https://cdn3.indevs.in/stream/live/tvbxh/
 #EXTINF:-1 group-title="港台频道",TVBPlus
 https://cdn3.indevs.in/stream/tvb/tvbp/
-#EXTINF:-1 group-title="港台频道",明珠台
-https://cdn3.indevs.in/stream/tvb/mzt/
-#EXTINF:-1 group-title="港台频道",翡翠台
-https://cdn3.indevs.in/stream/tvb/fct/
 #EXTINF:-1 group-title="港台频道",天映频道
 https://cdn3.indevs.in/stream/live/typd/
 #EXTINF:-1 group-title="港台频道",民視
